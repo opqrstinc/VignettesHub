@@ -30,7 +30,7 @@ VignetteHub
    
 　　　|-　Dialogue：Vignetteから生成したDialogue（医師と患者の対話）です
 
-    |-　gpt-4o-mini-2024-07-18
+　　|-　gpt-4o-mini-2024-07-18
     
 　|-　MD-modified：医師が修正したテキスト
 
