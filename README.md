@@ -38,7 +38,7 @@ VignetteHub
 
 ⋮
 
-##　使用モデル
+## 使用モデル
 現在はOpenAI社のモデルを使用しています。
 モデルの詳細については以下を参照してください。
 https://platform.openai.com/docs/models
