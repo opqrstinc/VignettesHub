@@ -20,6 +20,7 @@ VignettesHubは、**株式会社OPQRST**が開発した、AIを用いて模擬�
 ## ディレクトリ構成
 
 VignetteHub
+
 |-　日本語：言語ごとに分けています
 
 　|-　AI-generated：AIが修正したままのテキスト
