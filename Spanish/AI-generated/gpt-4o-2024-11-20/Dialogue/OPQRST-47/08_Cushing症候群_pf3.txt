@@ -1,0 +1,53 @@
+"1. Médico: Buenos días, ¿qué le trae hoy a la consulta?  
+2. Paciente: Buenos días, he tenido problemas con mi presión arterial y mi glucosa está elevada últimamente.  
+3. Médico: Entendido, ¿desde cuándo ha notado estos problemas?  
+4. Paciente: Creo que empezó hace como un año. Mi presión está alta casi todo el tiempo.  
+5. Médico: ¿Ha notado algo más, como dolores de cabeza, mareos o cambios en la visión?  
+6. Paciente: A veces tengo dolor de cabeza, pero no mareos ni problemas de visión.  
+7. Médico: Además de eso, ¿ha sentido algún cambio en su peso recientemente?  
+8. Paciente: Sí, he subido de peso, pero es raro porque parece que todo está acumulado en el abdomen.  
+9. Médico: ¿Y ha notado debilidad muscular o dificultad para realizar actividades que antes hacía con facilidad?  
+10. Paciente: Sí, me cuesta levantarme de las sillas o subir escaleras, me siento débil en las piernas.  
+11. Médico: Comprendo. ¿Ha notado que aparecen moretones en su piel sin razón aparente?  
+12. Paciente: Sí, desde hace meses tengo muchos moretones y no entiendo cómo sucedieron.  
+13. Médico: ¿Qué hay de su apetito? ¿Ha cambiado de alguna manera?  
+14. Paciente: Creo que no, sigo comiendo igual.  
+15. Médico: Mencionó problemas con la presión arterial, ¿alguna vez le han dado medicamentos para eso?  
+16. Paciente: Sí, pero no están funcionando bien, sigue alta.  
+17. Médico: ¿Y sobre su azúcar alta, alguien en su familia tiene diabetes o ha tenido problemas similares?  
+18. Paciente: Mi papá tiene diabetes, pero a mí nunca me habían dicho que tenía problemas hasta ahora.  
+19. Médico: ¿Ha notado algún cambio en su piel, como estrías o zonas oscuras?  
+20. Paciente: Sí, tengo líneas rojizas en mi abdomen y muslos, parecen estrías pero más grandes.  
+21. Médico: ¿Alguna vez ha tenido fiebre, dolor abdominal o pérdida de peso sin explicación?  
+22. Paciente: No, nada de eso. Solo el aumento de peso.  
+23. Médico: Entendido. ¿Trabaja en algo que implique estrés físico o emocional muy alto?  
+24. Paciente: No especialmente, mi trabajo es de oficina y no es muy estresante.  
+25. Médico: Perfecto. ¿Está tomando algún medicamento, además de los que mencionó?  
+26. Paciente: Solo estatinas para el colesterol y uso un CPAP por apnea del sueño.  
+27. Médico: Gracias por mencionarlo. ¿Siente que su apnea está bajo control?  
+28. Paciente: Sí, con el CPAP duermo bastante bien.  
+29. Médico: Muy bien. ¿Ha sentido algún dolor o molestia en la parte alta de la espalda o cuello?  
+30. Paciente: Bueno, he notado que se me acumula grasa en la parte de arriba de la espalda, pero no duele.  
+31. Médico: ¿Se ha sentido especialmente fatigado después de actividades moderadas?  
+32. Paciente: Sí, me canso rápido, más de lo normal.  
+33. Médico: En sus hábitos diarios, ¿ha cambiado algo en la cantidad de ejercicio que realiza?  
+34. Paciente: No estoy haciendo ejercicio como antes porque me siento muy débil últimamente.  
+35. Médico: Entendido. ¿En su familia alguien ha tenido problemas hormonales, como con las glándulas suprarrenales o la tiroides?  
+36. Paciente: No que yo sepa.  
+37. Médico: ¿Ha notado alguna diferencia en su rostro, como hinchazón o cambio de forma?  
+38. Paciente: Mi cara está más redonda, como inflamada.  
+39. Médico: ¿Fuma o bebe alcohol de manera regular?  
+40. Paciente: No, ni una cosa ni la otra.  
+41. Médico: Una última pregunta, ¿alguna vez ha tenido problemas con heridas que tardan mucho en sanar?  
+42. Paciente: Sí, últimamente parezco tener problemas para que las heridas cicatricen bien.  
+43. Médico: Gracias por toda esta información. Ahora, voy a examinarle físicamente para buscar algunas características adicionales.  
+44. Paciente: Claro, doctor.  
+45. Médico: Durante el examen he notado ciertas cosas como obesidad en el tronco, fragilidad en la piel y debilidad muscular. Esto puede ser indicativo de un problema hormonal.  
+46. Paciente: ¿Problema hormonal? ¿Eso qué significa?  
+47. Médico: Podría estar relacionado con sus glándulas suprarrenales o la hipófisis. Necesitaremos hacer algunas pruebas específicas para confirmarlo.  
+48. Paciente: Entiendo, ¿qué tipo de pruebas serán?  
+49. Médico: Primero haremos análisis de sangre para medir sus niveles de cortisol y una prueba de supresión con dexametasona. También haremos una resonancia magnética.  
+50. Paciente: Está bien, doctor, quiero saber qué es lo que está pasando.  
+51. Médico: Los resultados muestran niveles altos de cortisol y un adenoma en la hipófisis. Esto confirma que tiene enfermedad de Cushing, que es una condición relacionada con el exceso de cortisol.  
+52. Paciente: ¡Vaya! ¿Y eso cómo se trata?  
+53. Médico: Esto requiere cirugía para remover el adenoma. Después seguiremos con el tratamiento necesario."

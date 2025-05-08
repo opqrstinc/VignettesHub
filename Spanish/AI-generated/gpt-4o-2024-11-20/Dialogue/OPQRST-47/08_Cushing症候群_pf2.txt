@@ -1,0 +1,51 @@
+"1. Médico: ¿Hola, cómo se encuentra hoy? ¿Qué la trae por aquí?  
+2. Paciente: Hola, doctor. He notado que me salen moretones en las piernas y el cuerpo sin razón aparente.  
+3. Médico: Entiendo. ¿Cuándo comenzó a notar estos moretones?  
+4. Paciente: Hace unos seis meses empecé a notarlos, pero al principio eran pocos. Ahora cada vez aparecen más y más grandes.  
+5. Médico: ¿Ha tenido algún golpe que pudiera explicarlos o alguna actividad física intensa recientemente?  
+6. Paciente: No, nada de eso. Simplemente aparecen de repente.  
+7. Médico: Además de los moretones, ¿ha presentado otros síntomas, como fiebre, pérdida de peso, o cambios en su energía?  
+8. Paciente: No, fiebre no. No he perdido peso, pero me siento muy débil últimamente, cuesta trabajo levantarme de una silla.  
+9. Médico: ¿En qué parte del cuerpo siente más esta debilidad? ¿Brazo, piernas o ambas?  
+10. Paciente: En las piernas, sobre todo al intentar pararme o subir escaleras.  
+11. Médico: ¿Ha notado cambios en su piel, como más fina o estrías?  
+12. Paciente: Sí, he notado estrías en el abdomen y los muslos; son grandes y moradas.  
+13. Médico: ¿Y algún cambio en su rostro, cuello o distribución de peso en el cuerpo?  
+14. Paciente: Sí, siento que mi cara está más redonda, como hinchada, y también he notado grasa en la parte de atrás del cuello.  
+15. Médico: ¿Tiene antecedentes médicos importantes o está en tratamiento por alguna condición?  
+16. Paciente: Sí, tengo hipotiroidismo desde hace cuatro años. Tomo levotiroxina todos los días.  
+17. Médico: ¿La dosis de levotiroxina ha cambiado recientemente?  
+18. Paciente: No, siempre tomo la misma dosis, 88 microgramos al día.  
+19. Médico: ¿Algún antecedente familiar de enfermedades similares, cambios hormonales o hematomas inexplicables?  
+20. Paciente: No, que yo sepa ninguno en mi familia.  
+21. Médico: ¿Ha notado cambios en su presión arterial o niveles de azúcar en sangre?  
+22. Paciente: No lo sé, no suelo medir mi presión ni mi azúcar.  
+23. Médico: ¿Alguna condición crónica en la familia, como diabetes o hipertensión?  
+24. Paciente: Mi madre tiene presión alta, pero yo no sé si eso tenga algo que ver.  
+25. Médico: Entendido. ¿Cuánto mide y cuánto pesa actualmente?  
+26. Paciente: Mido 1.65 metros y peso alrededor de 85 kilos.  
+27. Médico: Gracias. Veo que su peso está algo elevado. ¿Ha tenido cambios importantes en su peso recientemente?  
+28. Paciente: No, pero siento que la grasa se concentra más en el abdomen y el torso.  
+29. Médico: ¿Está tomando algún suplemento, medicamento o algún producto alternativo además de la levotiroxina?  
+30. Paciente: No, solo la levotiroxina.  
+31. Médico: Durante el examen físico, observé que su piel se ve algo fina y con estrías prominentes. También noté algo de grasa acumulada en el cuello y la cara. ¿Esto ha sido progresivo?  
+32. Paciente: Sí, ha sido algo que noté poco a poco en los últimos meses.  
+33. Médico: Mencionó debilidad en las piernas. ¿Le cuesta más levantarse de sentarse o cargar objetos pesados?  
+34. Paciente: Levantarme de una silla me da mucho trabajo, cargar cosas no tanto.  
+35. Médico: ¿Presenta dolores de cabeza frecuentes?  
+36. Paciente: No, casi nunca me duelen la cabeza.  
+37. Médico: ¿Ha notado que orina con más frecuencia o siente mucha más sed?  
+38. Paciente: Sí, he sentido sed más seguido, pero lo atribuí al calor.  
+39. Médico: Podría no estar solo relacionado al clima. Vamos a investigar más al respecto. ¿Algún otro síntoma que no hayamos mencionado?  
+40. Paciente: No que recuerde, creo que eso es todo.  
+41. Médico: Muy bien. Al tomarle la presión arterial, encontré que está un poco alta. ¿Le han dicho algo sobre presión alta antes?  
+42. Paciente: No, nunca me habían mencionado eso.  
+43. Médico: También noté que su abdomen está algo prominente. Vamos a realizar algunos estudios para confirmar lo que sospecho.  
+44. Paciente: Claro, ¿qué tipo de estudios, doctor?  
+45. Médico: Pediremos análisis como niveles de cortisol y glucosa, además de algunas imágenes de su hipófisis para descartar alteraciones hormonales.  
+46. Paciente: Está bien, lo que sea necesario.  
+47. Médico: De los resultados preliminares que tenemos, parece que su cortisol está elevado. Esto puede explicar gran parte de sus síntomas.  
+48. Paciente: ¿El cortisol? ¿Qué significa eso?  
+49. Médico: Sospechamos de un síndrome llamado síndrome de Cushing, relacionado con niveles hormonales altos de cortisol.  
+50. Paciente: ¿Eso es grave? ¿Se puede tratar?  
+"

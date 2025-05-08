@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señor. ¿Qué lo trae hoy por aquí?  
+2. Paciente: Hola, doctor. He estado lidiando con muchos dolores de cabeza últimamente, y siento como si todo mi cuerpo estuviera apagado.  
+3. Médico: ¿Cuánto tiempo lleva con esos síntomas?  
+4. Paciente: Diría que alrededor de seis semanas, tal vez un poco más.  
+5. Médico: ¿Los dolores de cabeza son constantes o vienen y van?  
+6. Paciente: Son persistentes, nunca desaparecen del todo, aunque algunas veces son más fuertes.  
+7. Médico: ¿Podría describir el dolor con más detalle? ¿Es punzante, opresivo o algo diferente?  
+8. Paciente: Es más como una presión constante en la parte frontal de la cabeza.  
+9. Médico: ¿Ha notado si algo empeora o mejora el dolor?  
+10. Paciente: Parece empeorar cuando intento concentrarme en algo o después de un día largo en el trabajo.  
+11. Médico: Además del dolor de cabeza, ¿ha sentido náuseas o algún otro síntoma?  
+12. Paciente: Sí, náuseas a veces, especialmente en las mañanas. También me siento sin energía.  
+13. Médico: Entendido. ¿Qué hay de su apetito? ¿Ha notado algún cambio?  
+14. Paciente: Sí, no tengo ganas de comer mucho últimamente. He perdido peso, creo.  
+15. Médico: ¿Cómo se siente emocionalmente? ¿Algo en particular lo ha estado afectando?  
+16. Paciente: Bueno, me siento más triste de lo normal la mayor parte del tiempo. Nada parece darme ganas como antes.  
+17. Médico: ¿Algo en su vida personal o laboral ha cambiado recientemente?  
+18. Paciente: No realmente. El trabajo sigue igual, pero siento que no puedo rendir como antes.  
+19. Médico: ¿Qué tal su sueño? ¿Duerme bien por las noches?  
+20. Paciente: Me cuesta quedarme dormido. Mi mente no para, y a veces me quedo despierto mucho tiempo.  
+21. Médico: ¿Alguna vez ha experimentado algo similar en el pasado?  
+22. Paciente: Sí, pero nunca había sido tan fuerte ni duraba tanto tiempo como ahora.  
+23. Médico: ¿Siente que tiene menos interés por cosas que antes disfrutaba?  
+24. Paciente: Sí, ya no me emocionan las cosas como antes.  
+25. Médico: ¿Ha hablado de esto con algún amigo o familiar cercano?  
+26. Paciente: No, prefiero no preocupar a nadie con esto.  
+27. Médico: Entiendo. ¿Puede concentrarse en sus tareas del día a día?  
+28. Paciente: Es difícil, me cuesta mucho enfocarme en el trabajo y las cosas diarias.  
+29. Médico: ¿Ha tenido pensamientos negativos sobre usted mismo o su vida recientemente?  
+30. Paciente: Sí, he sentido que no soy bueno en nada y que no merezco lo que tengo.  
+31. Médico: ¿Tiene antecedentes médicos de otras enfermedades?  
+32. Paciente: Bueno, tengo colesterol alto y tomo algo para tratarlo.  
+33. Médico: ¿Está tomando algún medicamento en este momento?  
+34. Paciente: Sí, atorvastatina, 20 miligramos al día.  
+35. Médico: Bien, ¿cree que los dolores de cabeza están relacionados con algo específico, como tensión o estrés?  
+36. Paciente: Es posible, pero me siento así incluso los días tranquilos.  
+37. Médico: Vamos a hacer unas preguntas más para entender mejor. ¿Ha tenido mareos o desmayos?  
+38. Paciente: No, ninguno.  
+39. Médico: ¿Y fiebre o visión borrosa?  
+40. Paciente: No, absolutamente nada de eso.  
+41. Médico: ¿Consume alcohol o fuma?  
+42. Paciente: Bebo socialmente, pero no fumo.  
+43. Médico: En cuanto a su vida diaria, ¿hay actividades en las que siente que le cuesta más participar?  
+44. Paciente: Sí, solía disfrutar ver fútbol con amigos, pero últimamente no tengo ganas de salir.  
+45. Médico: ¿Diría que se siente más irritable o impaciente últimamente?  
+46. Paciente: Definitivamente. Todo parece molestarme sin razón.  
+47. Médico: Esto puede ser importante. Permítame preguntarle, ¿qué espera obtener de esta consulta?  
+48. Paciente: Solo quiero volver a sentirme como yo mismo otra vez, eso es todo.  
+49. Médico: Con base en todo lo que me ha contado, voy a necesitar hacer algunos análisis y evaluar su estado más profundamente.  
+50. Paciente: Claro, lo que sea necesario. Solo quiero mejorar.  "

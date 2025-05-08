@@ -1,0 +1,52 @@
+"1. 医師：What brings you to the clinic today?  
+2. 患者：I've been having palpitations and hand tremors, and they’ve been getting worse over the past three months.  
+3. 医師：I see. Could you describe these tremors a bit more? Are they constant or do they come and go?  
+4. 患者：They’re mostly constant, and they get worse when my hands are outstretched.  
+5. 医師：What about the palpitations? How often do you feel them?  
+6. 患者：I feel them almost every day, especially when I’m at rest or lying down.  
+7. 医師：Have you noticed anything else, like sweating or feeling unusually warm?  
+8. 患者：Yes, I’ve been sweating a lot and can’t tolerate heat like I used to.  
+9. 医師：Have you experienced any changes in your weight recently?  
+10. 患者：Yes, I’ve lost about 8 kilograms in the past three months, but I haven’t been dieting, and my appetite is fine.  
+11. 医師：How about sleep? Are you sleeping well?  
+12. 患者：Not really. I often feel restless and have a hard time falling asleep.  
+13. 医師：How’s your mood been lately? Any irritability or fatigue?  
+14. 患者：I’ve been feeling very irritable, and I get tired easily.  
+15. 医師：Do you or any of your family members have a history of thyroid problems or similar conditions?  
+16. 患者：No, not that I’m aware of.  
+17. 医師：Have you been sick recently or started any new medications?  
+18. 患者：No, I haven’t been sick, and I’m not taking any medications.  
+19. 医師：Have you consumed any substances like caffeine or drugs that might be causing these symptoms?  
+20. 患者：No, I don’t drink much caffeine, and I don’t use any drugs.  
+21. 医師：When did you first notice these symptoms?  
+22. 患者：It started about three months ago, and it’s been gradually getting worse.  
+23. 医師：How’s your appetite and digestion? Any nausea, diarrhea, or other issues?  
+24. 患者：My appetite’s fine, no nausea or digestion problems.  
+25. 医師：Have you noticed any changes in your eyes, like bulging or discomfort?  
+26. 患者：Now that you mention it, my eyes have felt a little puffy, and people say they look different.  
+27. 医師：Do you have any neck discomfort or trouble swallowing?  
+28. 患者：No, my neck feels fine, and I have no trouble swallowing.  
+29. 医師：What about skin changes, like unusual dryness, swelling, or a rash?  
+30. 患者：No, my skin seems normal.  
+31. 医師：I’ll examine your neck and hands now. Please let me know if you feel any pain.  
+32. 患者：Sure.  
+33. 医師：Your thyroid feels a bit enlarged but not tender. I also notice some tremors when your hands are outstretched.  
+34. 患者：Is that concerning?  
+35. 医師：It could point to an overactive thyroid gland. Have you felt any muscle weakness or had trouble with fine motor skills?  
+36. 患者：I haven’t noticed much, but I do feel a bit weaker than usual.  
+37. 医師：How about chest pain or difficulty breathing?  
+38. 患者：Sometimes my heart feels like it’s racing, but no chest pain or breathing issues.  
+39. 医師：Have there been any changes in your menstrual cycle?  
+40. 患者：It’s been a little irregular lately.  
+41. 医師：Now I’ll check your vital signs. Your heart rate is 120, and your blood pressure is slightly high at 142 over 88. Have you noticed your heart racing?  
+42. 患者：Yes, that’s one of the main reasons I came in.  
+43. 医師：I also noticed mild proptosis and lid lag when examining your eyes. Have you noticed difficulty moving them?  
+44. 患者：No, I don’t think so.  
+45. 医師：Your reflexes are quite brisk, which fits with what you’ve described. We’ll need some blood tests and a thyroid scan to confirm what’s going on.  
+46. 患者：Okay, is this serious?  
+47. 医師：It’s likely a thyroid issue, like hyperthyroidism, which we’ll confirm. We’ll also check your thyroid hormone levels and antibodies.  
+48. 患者：I see. What could be causing it?  
+49. 医師：Your symptoms suggest Graves’ disease, but we need the tests to confirm. It’s a condition where the thyroid produces too much hormone.  
+50. 患者：I’m glad we’re looking into it. Thank you, doctor.  
+51. 医師：Once we confirm the diagnosis, we’ll start treatment. I’ll see you after the test results come in.  
+"

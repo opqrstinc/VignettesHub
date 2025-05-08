@@ -1,0 +1,51 @@
+"1. Physician: Good afternoon. What brings you into the clinic today?  
+2. Patient: I've been having chest pain for the past four days, and it's getting worse.  
+3. Physician: I'm sorry to hear that. Can you describe the pain?  
+4. Patient: It's a sharp pain, and it feels like it's in the middle of my chest, kind of behind the sternum.  
+5. Physician: Does the pain radiate anywhere else?  
+6. Patient: Yes, it goes to my left shoulder sometimes.  
+7. Physician: Does anything make the pain better or worse?  
+8. Patient: It gets worse when I lie down or take a deep breath, but it feels a little better when I sit up or lean forward.  
+9. Physician: That’s important to note. Have you had any other symptoms?  
+10. Patient: I've had a dry cough and a fever too.  
+11. Physician: Do you recall how high your fever was?  
+12. Patient: I didn’t measure it exactly, but I’ve felt pretty warm and sweaty.  
+13. Physician: Have you had any recent illnesses, like a cold or flu, before this started?  
+14. Patient: No, not that I can remember.  
+15. Physician: Have you noticed any swelling in your legs or difficulty breathing while lying down?  
+16. Patient: No, I haven’t noticed anything like that.  
+17. Physician: Do you have a history of heart problems or high blood pressure?  
+18. Patient: No, I’ve never had any heart problems or anything like that.  
+19. Physician: Any family history of heart conditions or cardiovascular disease?  
+20. Patient: No, nothing like that in my family.  
+21. Physician: Have you traveled recently or been in contact with anyone who’s been sick?  
+22. Patient: No, I haven’t traveled anywhere or been around sick people.  
+23. Physician: Have you had any recent injuries or chest trauma?  
+24. Patient: No, nothing like that.  
+25. Physician: Are you currently on any medications or have any chronic illnesses?  
+26. Patient: No, I’m not taking any medications, and I don’t have any chronic conditions.  
+27. Physician: Do you smoke or use alcohol regularly?  
+28. Patient: No, I don’t smoke, and I drink only occasionally.  
+29. Physician: How has the pain affected your daily activities?  
+30. Patient: It’s been hard to sleep, and I feel really uncomfortable most of the time.  
+31. Physician: Have you experienced any symptoms like joint pain, rash, or swelling?  
+32. Patient: No, nothing like that.  
+33. Physician: Let me ask, have you ever been diagnosed with an autoimmune condition like lupus?  
+34. Patient: No, I’ve never been told I have anything like that.  
+35. Physician: Have you had any unexplained weight loss or night sweats?  
+36. Patient: No, my weight’s been stable, and I haven’t had night sweats.  
+37. Physician: I’d like to ask about your breathing—have you been short of breath or wheezing?  
+38. Patient: No, my breathing has been fine, but the pain makes me hesitant to take deep breaths.  
+39. Physician: That makes sense, given what you've described. Have you ever had similar chest pain before?  
+40. Patient: No, this is the first time.  
+41. Physician: Are you able to perform light activities like walking without the pain worsening?  
+42. Patient: Yes, walking is okay, but anything too strenuous makes it worse.  
+43. Physician: Do you take your temperature at home, or only feel feverish?  
+44. Patient: Just feeling feverish—I haven’t taken my temperature.  
+45. Physician: I want to listen to your heart and lungs next. How are you feeling right now?  
+46. Patient: Right now, the pain is okay since I’m sitting up, but it’s still uncomfortable.  
+47. Physician: Alright, on examination, I hear a sound near your heart called a friction rub, which is helpful for our diagnosis.  
+48. Patient: What does that mean?  
+49. Physician: It suggests that the lining around your heart is inflamed. Based on your history, symptoms, and evaluation, I strongly suspect acute pericarditis.  
+50. Patient: What’s pericarditis?  
+[ENDS DIAGNOSIS DISCUSSION HERE.]"

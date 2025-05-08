@@ -1,0 +1,52 @@
+"1. Médico: Buenas tardes, señora. ¿Qué la trae hoy por aquí?  
+2. Paciente: Buenas tardes, doctor. Desde hace unos días tengo un dolor fuerte en el pecho.  
+3. Médico: Entiendo... ¿Puede describirme exactamente cómo es el dolor?  
+4. Paciente: Es como si me pincharan, un dolor agudo en esta parte del pecho, al lado izquierdo.  
+5. Médico: ¿Cuándo comenzó este dolor?  
+6. Paciente: Hace tres días, de repente, mientras estaba en casa.  
+7. Médico: ¿Ha notado si algo lo empeora o lo mejora?  
+8. Paciente: Sí, respirar hondo o acostarme sobre la espalda lo empeoran mucho. Al inclinarme hacia adelante, parece que mejora un poco.  
+9. Médico: ¿Han aparecido otros síntomas, como fiebre?  
+10. Paciente: Sí, he tenido fiebre alta, como de 38 y algo. También me siento muy cansada últimamente.  
+11. Médico: ¿Ese cansancio es algo nuevo o ya lo había notado antes?  
+12. Paciente: Comenzó con lo de la fiebre, me siento débil desde que apareció este dolor.  
+13. Médico: ¿Ha tenido algún problema cardíaco o pulmonar anteriormente?  
+14. Paciente: No, nunca he tenido problemas graves de salud.  
+15. Médico: ¿Consume algún medicamento de manera regular?  
+16. Paciente: No, no tomo nada.  
+17. Médico: ¿Qué me puede decir sobre su historial médico general? ¿Alguna cirugía, alergias?  
+18. Paciente: Nada significativo que yo recuerde, doctor.  
+19. Médico: Muy bien. ¿Ha viajado recientemente o ha estado expuesta a alguien con infecciones?  
+20. Paciente: No he viajado ni he estado en contacto con nadie enfermo.  
+21. Médico: ¿Fuma o consume alcohol frecuentemente?  
+22. Paciente: No, nunca he fumado, y bebo alcohol rara vez.  
+23. Médico: Bien. ¿Ha tenido dolores similares en el pasado?  
+24. Paciente: Nunca me había pasado algo como esto antes.  
+25. Médico: ¿La fiebre le ha causado escalofríos o sudores nocturnos?  
+26. Paciente: Sí, me han dado escalofríos, especialmente en las noches.  
+27. Médico: ¿Le cuesta respirar o siente falta de aire?  
+28. Paciente: No, mi respiración parece estar bien.  
+29. Médico: En sus actividades cotidianas, ¿le afecta mucho este dolor?  
+30. Paciente: Sí, es muy incómodo y no puedo estar tranquila ni acostarme a descansar.  
+31. Médico: Vamos a escuchar su corazón. Relájese por un momento, por favor.  
+32. Paciente: Está bien, doctor.  
+33. Médico: Escucho un sonido particular en su corazón, llamado roce pericárdico. No se preocupe, vamos a investigar más.  
+34. Paciente: Está bien. ¿Es algo peligroso?  
+35. Médico: Lo evaluaremos con pruebas. Primero, ¿ha tenido algún trauma en el pecho recientemente?  
+36. Paciente: No, no me he golpeado ni nada similar.  
+37. Médico: ¿Sufre de algún dolor articular o muscular?  
+38. Paciente: A veces siento ligera molestia en las piernas, pero es raro.  
+39. Médico: Haré un electrocardiograma para analizar su actividad cardíaca.  
+40. Paciente: De acuerdo, lo que sea necesario.  
+41. Médico: Según el electro, veo elevaciones en el ST, lo que puede ser sugestivo de inflamación en el corazón. Esto concuerda con el roce que escuchamos.  
+42. Paciente: ¿Qué significa eso, doctor?  
+43. Médico: Aún no estamos seguros, pero parece que podría haber inflamación alrededor del corazón.  
+44. Paciente: ¿Inflamación? ¿Y eso se puede tratar?  
+45. Médico: Sí, podríamos estar tratando con una pericarditis, una inflamación del pericardio. Es algo manejable en la mayoría de los casos. Haré más pruebas para confirmar.  
+46. Paciente: Está bien, confío en usted.  
+47. Médico: Revisamos su troponina para descartar daño cardíaco, y todo está dentro de lo normal.  
+48. Paciente: Eso suena tranquilizador.  
+49. Médico: También evalué el derrame pericárdico en un ecocardiograma, pero no hay señales de algo grave por ahora.  
+50. Paciente: Gracias, doctor. ¿Qué sigue entonces?
+51. Médico: Confirmo que se trata de una pericarditis aguda. Voy a prescribirle ibuprofeno y colchicina para la inflamación. Anote las indicaciones y solicite seguimiento en 2 semanas.  
+52. Paciente: Muchas gracias, haré todo lo indicado."

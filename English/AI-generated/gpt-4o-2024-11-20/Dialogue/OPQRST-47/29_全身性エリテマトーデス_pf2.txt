@@ -1,0 +1,52 @@
+"1. 医師：Hello, it’s nice to meet you. What brings you here today?  
+2. 患者：Hi, doctor. I’ve been feeling unwell for about a month now. I’ve had a fever, been very tired, and my joints hurt sometimes, especially in my hands and wrists.  
+3. 医師：Thank you for sharing that. How high has the fever been?  
+4. 患者：It goes up to around 100-101°F, but I haven’t measured it all the time.  
+5. 医師：I see. Is the fever there all the time, or does it come and go?  
+6. 患者：It comes and goes. Some days, I feel okay, but other days, I feel really hot and weak.  
+7. 医師：What about your joint pain? Could you describe it more?  
+8. 患者：Sure. My fingers and wrists feel achy and stiff. Sometimes they swell a little and feel tender, but it’s not unbearable.  
+9. 医師：How long does the stiffness last, especially in the morning?  
+10. 患者：It’s the worst in the morning. It takes around an hour or so before they feel better after I move around.  
+11. 医師：Understood. Have you noticed anything else unusual with your joints, like deformities or redness?  
+12. 患者：No, just pain and mild swelling sometimes, but nothing looks abnormal otherwise.  
+13. 医師：You mentioned feeling very tired. How has that been affecting your daily life?  
+14. 患者：It’s been tough. I feel like I don’t have any energy to do things I normally enjoy, like school or hanging out with friends.  
+15. 医師：I’m sorry to hear that. Did the fatigue start suddenly, or was it more gradual?  
+16. 患者：It started gradually over a few weeks and just kept getting worse.  
+17. 医師：Got it. I also see you mentioned a rash. Could you tell me more about that?  
+18. 患者：Yes, I have this red rash on my cheeks and nose. It’s been there for a while now.  
+19. 医師：Does it itch or hurt?  
+20. 患者：No, it doesn’t itch or hurt, but it seems to get worse if I’m in the sun.  
+21. 医師：Does the rash extend beyond your cheeks and nose?  
+22. 患者：No, it’s just there.  
+23. 医師：Before this episode, had you ever had a rash like this or any sensitivity to sunlight?  
+24. 患者：No, this is the first time anything like this has happened.  
+25. 医師：Have you noticed any other changes, like hair loss, mouth sores, or skin problems elsewhere?  
+26. 患者：No, nothing like that.  
+27. 医師：What about any weight changes or unusual symptoms like tingling or numbness?  
+28. 患者：No weight changes or tingling. I feel normal in that way.  
+29. 医師：Okay, how about your appetite? Has that been affected?  
+30. 患者：I eat less because of the fatigue, but my appetite hasn’t completely disappeared.  
+31. 医師：Have you ever experienced cold hands turning white or blue, like from being in the cold?  
+32. 患者：No, my hands are normal even in the cold.  
+33. 医師：I understand. Do you have any history of medical conditions or prior hospitalizations?  
+34. 患者：No, I’ve been pretty healthy until now.  
+35. 医師：What about your family? Any history of health conditions like arthritis, autoimmune diseases, or anything unusual?  
+36. 患者：Not that I know of. Everyone’s generally healthy.  
+37. 医師：Thanks for letting me know. Are you currently taking any medications or supplements?  
+38. 患者：No, none at all.  
+39. 医師：Before this started, were you exposed to any infections, or did you travel recently?  
+40. 患者：No, I haven’t traveled or been sick before this started.  
+41. 医師：And your periods—any changes or irregularities lately?  
+42. 患者：No, they’ve been normal.  
+43. 医師：Have you ever noticed any blood in your urine or changes in urination?  
+44. 患者：Actually, now that you mention it, my urine has looked a little darker recently.  
+45. 医師：I see. Have you had any swelling in your legs, face, or anywhere else?  
+46. 患者：Sometimes I feel my ankles are slightly swollen at the end of the day.  
+47. 医師：Got it. Let’s discuss your reflexes, nerves, and general sensations. Any headaches, dizziness, or vision changes?  
+48. 患者：No, none of that.  
+49. 医師：Thanks for all this information. Based on what you've shared, I’d like to run some blood and urine tests. This will help us investigate your symptoms further.  
+50. 患者：Okay, I’m ready to do whatever tests are needed.  
+51. 医師：We’ve completed your tests. Based on your symptoms, examination, and results, you have a condition called lupus, which seems to involve your kidneys as well.  
+52. 患者：Lupus? What is that?"

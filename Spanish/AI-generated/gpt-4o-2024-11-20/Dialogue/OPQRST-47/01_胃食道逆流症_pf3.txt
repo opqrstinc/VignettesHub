@@ -1,0 +1,51 @@
+"1. Médico: Buenos días, señor. ¿Qué lo trae hoy a consulta?  
+2. Paciente: Buenos días, doctor. He estado teniendo una sensación de ardor en el pecho, sobre todo después de comer o cuando me acuesto.  
+3. Médico: ¿Desde cuándo ha notado estos síntomas?  
+4. Paciente: Hace como seis meses, pero antes era de vez en cuando. Ahora es mucho más frecuente.  
+5. Médico: ¿El ardor se siente en el centro del pecho o en algún otro lugar?  
+6. Paciente: Sí, justo en el centro, detrás del esternón.  
+7. Médico: Además del ardor, ¿ha tenido alguna dificultad para tragar o molestias al comer?  
+8. Paciente: No, eso no. Puedo comer sin problema.  
+9. Médico: ¿Ha vomitado o sentido náuseas?  
+10. Paciente: No, nunca he vomitado ni he sentido náuseas con esto.  
+11. Médico: ¿Ha notado algún cambio en su peso recientemente sin intentarlo?  
+12. Paciente: No, mi peso está igual que siempre.  
+13. Médico: ¿Hay algún tipo de comida o bebida que empeore los síntomas?  
+14. Paciente: Sí, doctor. Me pasa especialmente cuando como alimentos grasos o tomo café o refrescos.  
+15. Médico: ¿Qué me puede decir de las noches? ¿Sus síntomas empeoran?  
+16. Paciente: Sí, a veces me despierto por la noche con una tos molesta o con esa sensación ácida en la garganta.  
+17. Médico: Entiendo. ¿Además de esto, hay algo más que le preocupe?  
+18. Paciente: No, estos son los síntomas principales. Pero últimamente son muy incómodos.  
+19. Médico: ¿Tiene algún antecedente médico del que deba saber?  
+20. Paciente: Sí, tengo colesterol alto y tomo atorvastatina. También hace unos años tuve una úlcera en el estómago, pero ya se resolvió.  
+21. Médico: ¿Recuerda qué tratamiento le dieron para la úlcera?  
+22. Paciente: Me dieron unas pastillas, creo que para reducir el ácido en el estómago.  
+23. Médico: ¿Consume alcohol o fuma?  
+24. Paciente: Algo de alcohol, pero no mucho. Nunca he fumado.  
+25. Médico: ¿Cómo ha estado su apetito últimamente?  
+26. Paciente: Normal, no he notado ningún cambio.  
+27. Médico: ¿Ha notado algún dolor abdominal o distensión?  
+28. Paciente: No, mi abdomen está bien.  
+29. Médico: ¿Qué tal han estado sus evacuaciones? ¿Algún cambio en el color o la frecuencia?  
+30. Paciente: Normal, sin cambios.  
+31. Médico: Durante estos episodios de ardor, ¿nota que se le devuelve algo de comida o líquido?  
+32. Paciente: Sí, a veces siento que sube un líquido ácido a la garganta.  
+33. Médico: ¿Siente que le alivia cuando se sienta o toma algo?  
+34. Paciente: Sí, si me siento o tomo algo para quitar la acidez, me mejora un poco.  
+35. Médico: ¿El estrés o algún otro factor emocional le afecta?  
+36. Paciente: Es posible. He tenido algo de estrés en el trabajo, pero no estoy seguro de si eso lo empeora.  
+37. Médico: Entiendo. ¿Diría que tiene una dieta balanceada, o consume muchos alimentos procesados y grasos?  
+38. Paciente: Creo que podría mejorar. Como algunas cosas grasosas y me gusta mucho el café.  
+39. Médico: ¿Cuántas tazas de café toma al día?  
+40. Paciente: Como tres tazas, a veces más si estoy trabajando mucho.  
+41. Médico: ¿Ha probado cambiar sus hábitos o eliminar estos alimentos para ver si mejora?  
+42. Paciente: No realmente. Es difícil cambiar, pero podría intentarlo.  
+43. Médico: Déjeme examinarlo. ¿Tiene alguna molestia en este momento?  
+44. Paciente: Un poco, pero no tan fuerte como a veces.  
+45. Médico: Su examen físico está normal. Necesitaremos hacer algunos estudios para confirmar el diagnóstico.  
+46. Paciente: De acuerdo, doctor. ¿Qué estudios serían?  
+47. Médico: Una endoscopia digestiva para observar su esófago y quizás medir la acidez en el estómago por 24 horas.  
+48. Paciente: Entendido. ¿Cree que sea algo grave?  
+49. Médico: Parece un problema de reflujo ácido, pero confirmaremos con los estudios.  
+50. Médico: Según los resultados, tiene esofagitis ocasionada por reflujo ácido, lo que llamamos enfermedad por reflujo gastroesofágico, o ERGE.  
+"

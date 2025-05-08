@@ -1,0 +1,50 @@
+"1. Médico: ¿Hola, cómo está? ¿Qué lo trae por aquí hoy?  
+2. Paciente: Hola, doctor. Tengo un dolor de cabeza constante que ha ido empeorando en los últimos meses.  
+3. Médico: ¿Cuánto tiempo lleva con este dolor de cabeza?  
+4. Paciente: Más o menos seis meses, pero últimamente se ha vuelto bastante intenso.  
+5. Médico: ¿El dolor aparece en toda la cabeza o en alguna zona específica?  
+6. Paciente: Es como una presión en toda la cabeza, no puedo identificar un punto específico.  
+7. Médico: ¿Hay algo que le parezca que alivie o empeore su dolor?  
+8. Paciente: Nada lo alivia. Quizás cuando me estreso se siente peor, pero no mucho.  
+9. Médico: ¿Ha sentido náuseas, vómitos o mareos junto con el dolor?  
+10. Paciente: No, nada de eso por ahora.  
+11. Médico: ¿Algún cambio en su visión, como visión borrosa o doble?  
+12. Paciente: No, mi vista está bien.  
+13. Médico: ¿Tiene antecedentes personales de migrañas o hipertensión arterial?  
+14. Paciente: No, nunca he tenido problemas de salud importantes.  
+15. Médico: ¿En su familia hay antecedentes de hipertensión u otras enfermedades crónicas?  
+16. Paciente: Mi madre tuvo hipertensión, pero no sé más detalles.  
+17. Médico: ¿Actualmente toma algún medicamento de manera regular?  
+18. Paciente: No, no estoy tomando nada.  
+19. Médico: ¿Ha notado otros síntomas como sudoración excesiva, temblores o palpitaciones?  
+20. Paciente: No, nada de eso he sentido.  
+21. Médico: Durante la consulta, he notado que su presión arterial está bastante alta. ¿Alguna vez le han dicho que tiene la presión alta?  
+22. Paciente: No, esta es la primera vez que escucho algo así.  
+23. Médico: ¿Ha sentido algún malestar relacionado con la presión arterial elevada?  
+24. Paciente: No, en realidad no. Por eso me sorprende que esté alta.  
+25. Médico: Vamos a hacer una revisión más profunda. ¿Ha tenido problemas para respirar o hinchazón en las piernas?  
+26. Paciente: No, mi respiración está bien y no he notado hinchazón.  
+27. Médico: En los análisis que le hemos hecho, hemos encontrado niveles bajos de potasio. ¿Alguna vez ha tenido algo similar?  
+28. Paciente: No que yo sepa, siempre pensé que mi salud estaba bien.  
+29. Médico: ¿Ha estado tomando algún suplemento o ha tenido diarreas recientes que puedan explicar la pérdida de potasio?  
+30. Paciente: No, no he tomado suplementos ni he tenido problemas gastrointestinales recientemente.  
+31. Médico: También notamos que los niveles de una hormona llamada aldosterona están elevados, lo que podría estar relacionado con su presión alta.  
+32. Paciente: Honestamente, no sé qué significa eso. ¿Es algo peligroso?  
+33. Médico: Es una hormona producida por las glándulas suprarrenales. Estamos investigando si está relacionada con su caso.  
+34. Paciente: Entendido, pero no pensé que pudiera tener algo así.  
+35. Médico: Una prueba adicional ha mostrado que sus niveles de aldosterona no disminuyen como sería esperado tras un test de carga salina.  
+36. Paciente: Eso suena complicado. ¿Qué significa exactamente?  
+37. Médico: Es una pista de que sus glándulas suprarrenales podrían estar produciendo aldosterona en exceso. ¿Ha tenido dolor o molestias en el abdomen?  
+38. Paciente: No, mi abdomen está bien, no he notado nada raro.  
+39. Médico: En una tomografía que realizamos, encontramos un pequeño adenoma en su glándula suprarrenal derecha.  
+40. Paciente: ¿Un adenoma? ¿Es algo serio?  
+41. Médico: Es un pequeño tumor benigno que en su caso está generando esta producción anormal de aldosterona.  
+42. Paciente: ¿Y eso tiene alguna solución, doctor?  
+43. Médico: Sí, primero estabilizaremos su presión arterial y potasio con un medicamento llamado espironolactona.  
+44. Paciente: Está bien. ¿Este medicamento es seguro?  
+45. Médico: Sí, es un medicamento comúnmente utilizado en estos casos. Si responde bien, podríamos considerar una cirugía más adelante.  
+46. Paciente: ¿Cirugía? ¿Es necesaria?  
+47. Médico: La cirugía puede eliminar la causa del problema y posiblemente normalizar su presión arterial.  
+48. Paciente: Entendido, doctor. Haré lo necesario para estar mejor.  
+49. Médico: El diagnóstico que hemos establecido es hiperaldosteronismo primario, que se está generando por este adenoma en la glándula suprarrenal.  
+50. Paciente: Gracias por explicármelo. Ahora entiendo mejor lo que me está pasando.  "

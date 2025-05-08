@@ -1,0 +1,50 @@
+"1. Médico: Buen día, señor. ¿Qué lo trae a la consulta hoy?  
+2. Paciente: Hola, doctor. He estado teniendo molestias en el estómago desde hace varios meses.  
+3. Médico: Entendido. ¿Puede describir esas molestias con más detalle?  
+4. Paciente: Es como si después de comer, sobre todo comidas grandes o con mucha grasa, siento el estómago muy lleno y una especie de pesadez.  
+5. Médico: ¿Cuánto tiempo lleva sintiéndose así?  
+6. Paciente: Aproximadamente unos cuatro meses.  
+7. Médico: ¿Tiene o ha tenido náuseas, vómitos o diarrea?  
+8. Paciente: No, nada de eso. Solo la sensación de llenura y pesadez.  
+9. Médico: ¿Ha perdido peso recientemente sin intención de hacerlo?  
+10. Paciente: No, mi peso se ha mantenido estable.  
+11. Médico: ¿Experimenta dolor en el abdomen o alguna sensación de ardor?  
+12. Paciente: No, no hay dolor ni ardor, solo esa incomodidad después de comer.  
+13. Médico: ¿Le cuesta trabajo tragar alimentos o líquidos?  
+14. Paciente: No, puedo comer y beber sin problemas.  
+15. Médico: ¿Sangrado, como vómito con sangre o sangre al evacuar?  
+16. Paciente: No, nada de eso.  
+17. Médico: ¿Ha intentado cambiar algo en su alimentación para mejorar los síntomas?  
+18. Paciente: Sí, he estado intentando comer menos y más saludable, pero no ha mejorado.  
+19. Médico: ¿Qué tipo de alimentos le empeoran los síntomas?  
+20. Paciente: Principalmente comidas muy pesadas o con mucha grasa.  
+21. Médico: ¿Siente mejora o alivio en algún momento del día?  
+22. Paciente: A veces, si no como mucho, los síntomas son más leves.  
+23. Médico: ¿Esto está afectando su calidad de vida o sus actividades diarias?  
+24. Paciente: Sí, bastante. Me siento incómodo y eso me limita a hacer cosas como deporte o actividades con mi familia.  
+25. Médico: ¿Tiene otros problemas de salud o toma algún medicamento regularmente?  
+26. Paciente: Tengo hipertensión y tomo enalapril de 10 mg una vez al día.  
+27. Médico: ¿Ha notado algún efecto secundario con ese medicamento?  
+28. Paciente: No, lo he estado tomando por un tiempo y ha funcionado bien.  
+29. Médico: ¿En su familia hay antecedentes de problemas estomacales o digestivos?  
+30. Paciente: Que yo sepa, no, ninguno.  
+31. Médico: En la exploración física no veo signos de inflamación o dolor abdominal. ¿Le han hecho algún estudio reciente?  
+32. Paciente: Sí, me hicieron una endoscopia hace poco y al parecer todo estaba normal.  
+33. Médico: ¿Recuerda si le tomaron biopsias para analizar?  
+34. Paciente: Sí, tomaron muestras, pero también me dijeron que todo salió bien.  
+35. Médico: ¿Algún análisis de sangre reciente?  
+36. Paciente: También me hicieron análisis y salieron normales, según el doctor.  
+37. Médico: Esto incluye pruebas del hígado, riñón y tiroides, ¿correcto?  
+38. Paciente: Sí, creo que revisaron todo eso.  
+39. Médico: Señor, también voy a preguntarle sobre posibles infecciones. ¿Ha tenido fiebre, sudores nocturnos u otros síntomas generales?  
+40. Paciente: No, nada de eso.  
+41. Médico: En cuanto a Helicobacter pylori, ¿sabe si le hicieron pruebas específicas para eso?  
+42. Paciente: Sí, me hicieron una prueba de aliento y salió negativa.  
+43. Médico: Perfecto. ¿Además de los alimentos grasos, algo más le produce estos síntomas? Por ejemplo, bebidas como el café o el alcohol.  
+44. Paciente: He reducido mucho el café y el alcohol, pero no noto mucha diferencia en los síntomas.  
+45. Médico: Señor, con base en lo que me cuenta y los estudios realizados, parece que sus síntomas podrían ser compatibles con un trastorno funcional del sistema digestivo.  
+46. Paciente: ¿Eso qué significa?  
+47. Médico: Es algo que afecta la función del estómago, pero no hay una causa orgánica o estructural detectable, como es su caso.  
+48. Paciente: ¿Tiene tratamiento?  
+49. Médico: Sí, el tratamiento incluye medicamentos como omeprazol, que reduce la acidez, y domperidona, que ayuda con el movimiento digestivo.  
+50. Paciente: Está bien, doctor. Haré lo que sea necesario para mejorar."

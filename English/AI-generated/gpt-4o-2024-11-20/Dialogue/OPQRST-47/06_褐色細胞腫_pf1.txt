@@ -1,0 +1,50 @@
+"1. 医師：Hello, I understand you're here today because you've been experiencing some episodes of palpitations and other symptoms. Can you tell me more about what's been going on?
+2. 患者：Yes, for about eight months now, I've been having these episodes where my heart races, I get really sweaty, and I feel like I have this intense headache.
+3. 医師：How often do these episodes occur, and how long do they usually last?
+4. 患者：They happen three or four times a week, and they last about 20 or 30 minutes each time.
+5. 医師：Do you notice anything that seems to trigger these episodes?
+6. 患者：Not really. They just come out of nowhere. Sometimes I feel a bit anxious when they happen, though.
+7. 医師：Have you noticed any other symptoms, like chest pain, dizziness, or fainting?
+8. 患者：No, I don't get chest pain or fainting. Sometimes I feel a little lightheaded, but that's it.
+9. 医師：You mentioned anxiety during these episodes. Do you have a history of anxiety or panic attacks?
+10. 患者：No, I've never been diagnosed with anything like that before.
+11. 医師：How about your blood pressure? Have you ever been told that you have high blood pressure?
+12. 患者：Yes, I’ve had high blood pressure. The last time it was checked, it was around 160 over 100.
+13. 医師：Have you been taking any medications for your blood pressure?
+14. 患者：No, I haven’t started any medications yet.
+15. 医師：Understood. Have you experienced any weight loss, fever, or changes in appetite?
+16. 患者：No, my weight’s been stable, and I eat normally.
+17. 医師：Do you have any family members with high blood pressure or similar symptoms?
+18. 患者：No, not that I know of.
+19. 医師：Have you noticed any changes in your skin, like darkening or unusual marks?
+20. 患者：No, my skin seems normal to me.
+21. 医師：How about your energy levels—do you feel more tired than usual?
+22. 患者：No, my energy feels about the same as it always has.
+23. 医師：Okay, and do you drink alcohol, smoke, or use any recreational drugs?
+24. 患者：I don’t smoke or use drugs, and I drink socially, maybe a couple of drinks on weekends.
+25. 医師：On physical exam, your blood pressure and heart rate are quite elevated. Have you noticed when they tend to rise?
+26. 患者：Not really, but during the episodes, it feels like my heart’s beating out of my chest.
+27. 医師：What about headaches—do they feel like migraines or something different?
+28. 患者：I don’t know. The pain is just really intense and throbbing, but it goes away after the episode ends.
+29. 医師：Have you ever had a doctor investigate your blood pressure before these symptoms started?
+30. 患者：No, I didn’t usually check it until these episodes started happening.
+31. 医師：When you’ve measured your blood pressure, is it always this high, or does it vary?
+32. 患者：It’s always been on the higher side when I check it.
+33. 医師：Do you ever wake up at night because of these episodes?
+34. 患者：No, they usually happen during the day.
+35. 医師：Let me ask about your sweating—does it feel excessive, or are you soaking through your clothes?
+36. 患者：Yeah, it feels excessive. I end up pretty drenched during the episodes.
+37. 医師：Do you remember the first time you had one of these attacks? Was it during a stressful situation?
+38. 患者：Not really. I think I was just sitting at home relaxing. That’s why it scared me.
+39. 医師：I can imagine that must be unsettling. Do you happen to monitor your heart rate during these episodes?
+40. 患者：I’ve checked it a couple of times, and it’s always really fast, over 100.
+41. 医師：How’s your sleep? Do you ever wake up sweating or with a fast heart rate?
+42. 患者：No, my sleep is usually okay. The symptoms haven’t woken me up.
+43. 医師：Have you had any recent illnesses or injuries before these symptoms began?
+44. 患者：No, nothing serious. I didn’t feel unwell before this started.
+45. 医師：Your test results show elevated plasma-free metanephrines and catecholamines, which can explain these symptoms. We also found an adrenal mass on imaging studies, which suggests a possible pheochromocytoma.
+46. 患者：What’s a pheochromocytoma?
+47. 医師：It’s a type of tumor in the adrenal gland that causes excessive production of hormones like adrenaline, leading to symptoms like you’ve described—palpitations, sweating, high blood pressure, and headaches.
+48. 患者：Is it serious? Can it be treated?
+49. 医師：Yes, it can be treated. The first step is managing your blood pressure and heart rate with specific medications, followed by surgery to remove the tumor.
+50. 患者：Okay, I’m glad there’s a plan. Thank you for explaining everything."

@@ -1,0 +1,53 @@
+"1. 医師: What brings you in today?  
+2. 患者: I've been having these sudden dizzy spells for two weeks now.  
+3. 医師: Can you describe these dizzy spells?  
+4. 患者: It feels like the room is spinning around me.  
+5. 医師: How long do these episodes last?  
+6. 患者: Just a few seconds, maybe 10 or 15 seconds.  
+7. 医師: What usually triggers these episodes?  
+8. 患者: Mostly when I move my head or roll over in bed, or if I stand up quickly.  
+9. 医師: Have you noticed any ringing in your ears or hearing loss?  
+10. 患者: No, none of that.  
+11. 医師: Any feeling of fullness or pressure in your ears?  
+12. 患者: No, my ears feel normal.  
+13. 医師: Do you experience any nausea or vomiting during these episodes?  
+14. 患者: No, I don't feel sick to my stomach.  
+15. 医師: Have you had any recent colds or respiratory infections?  
+16. 患者: No, I haven’t been sick recently.  
+17. 医師: Do you get headaches or migraines?  
+18. 患者: Yes, I’ve had migraines for years, but they’ve been the same as usual lately.  
+19. 医師: Has there been any change in your migraines recently?  
+20. 患者: No, they're the same as they’ve always been.  
+21. 医師: Have you ever had dizziness like this before?  
+22. 患者: No, this is the first time it's happened to me.  
+23. 医師: Has the dizziness caused you to fall or feel unsteady?  
+24. 患者: No, I haven’t fallen, but it does throw me off balance for a moment.  
+25. 医師: Are you able to go about your daily activities?  
+26. 患者: I’ve been managing, but I try to avoid quick movements.  
+27. 医師: Do you have any other medical conditions besides migraines?  
+28. 患者: No, nothing else.  
+29. 医師: Are you on any medications?  
+30. 患者: Just a medication for my migraines.  
+31. 医師: Have you experienced any vision changes or weakness in your limbs?  
+32. 患者: No, my vision is fine, and I don’t feel weak.  
+33. 医師: Have these spells ever occurred without movement?  
+34. 患者: No, they only happen when I move in certain ways.  
+35. 医師: What about stress—have you been under a lot of stress recently?  
+36. 患者: Not really, my life’s been pretty normal.  
+37. 医師: I’m going to perform a few tests to better understand your symptoms.  
+38. 患者: Okay, what kind of tests?  
+39. 医師: First, I’d like to do a maneuver to see if we can reproduce your dizziness.  
+40. 患者: Alright, I’m ready.  
+41. 医師: During the Dix-Hallpike test, you may feel dizzy for a few seconds—this is normal.  
+42. 患者: I understand, I’ll try to stay still.  
+43. 医師: When I turned your head to the right and lowered you back, did you feel dizzy?  
+44. 患者: Yes, the spinning feeling came back.  
+45. 医師: I noticed some nystagmus, or eye movement—this helps confirm what might be causing your symptoms.  
+46. 患者: Oh, what does that mean?  
+47. 医師: It suggests a condition called benign paroxysmal positional vertigo, or BPPV.  
+48. 患者: What is that exactly?  
+49. 医師: It’s a harmless issue where tiny crystals in your inner ear move out of place and cause dizziness with certain head movements.  
+50. 患者: So, that’s why I get dizzy when I roll over or stand up?  
+51. 医師: Exactly. The good news is it’s treatable, and I can perform a maneuver right now to help.  
+52. 患者: That’s a relief. What do I need to do?  
+53. 医師: We’ll start with a repositioning maneuver to shift the crystals back into place. You’ll feel better in no time.  "

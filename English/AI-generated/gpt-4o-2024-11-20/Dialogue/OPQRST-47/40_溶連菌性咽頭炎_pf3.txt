@@ -1,0 +1,50 @@
+"1. Doctor: What brings you in today?  
+2. Patient: I've had a really bad sore throat for three days now, and I feel terrible overall.  
+3. Doctor: Can you describe how the sore throat started? Was it sudden or gradual?  
+4. Patient: It started all of a sudden. One moment I was fine, and then my throat hurt so much.  
+5. Doctor: Have you noticed any other symptoms, like a cough or a runny nose?  
+6. Patient: No, no cough or runny nose at all. It’s just my throat and a fever that won’t go away.  
+7. Doctor: You mentioned fever. Have you measured your temperature?  
+8. Patient: Yes, it was around 102°F when I checked at home.  
+9. Doctor: Do you feel tired or weak?  
+10. Patient: Yes, I’ve been really fatigued, and I don’t feel like eating much.  
+11. Doctor: Does swallowing make the throat pain worse?  
+12. Patient: Yes, it’s so bad that I don’t even want to drink water sometimes.  
+13. Doctor: Have you experienced any nausea, vomiting, or abdominal pain?  
+14. Patient: No, nothing like that.  
+15. Doctor: Have you noticed any rash on your body or unusual spots on your skin?  
+16. Patient: No, my skin seems fine.  
+17. Doctor: Have you had a sore throat like this before or any similar symptoms?  
+18. Patient: No, I’ve never had anything like this before.  
+19. Doctor: Do you know if you’ve been around anyone sick recently?  
+20. Patient: Not that I know of. I don’t think anyone at work or home is sick.  
+21. Doctor: Have you traveled anywhere recently or been exposed to new environments?  
+22. Patient: No, I’ve just been staying local and following my usual routine.  
+23. Doctor: Do you have any medical conditions or take any regular medications?  
+24. Patient: No, I’m healthy and don’t take any meds.  
+25. Doctor: Any allergies to food, medications, or anything else?  
+26. Patient: No, I don’t have any allergies.  
+27. Doctor: Are you experiencing any difficulty breathing or wheezing?  
+28. Patient: No, my breathing is fine.  
+29. Doctor: Have you been able to sleep despite the symptoms?  
+30. Patient: Not really. The pain keeps me up at night.  
+31. Doctor: When I examine your throat, I see white spots on your tonsils. Have you noticed anything unusual when you look in the mirror?  
+32. Patient: Yes, I noticed my throat looks very red and those white patches.  
+33. Doctor: I also felt some tenderness in the lymph nodes in your neck during the exam. Has that area felt sore or tender to you?  
+34. Patient: Yes, I’ve noticed my neck feels kind of painful to the touch.  
+35. Doctor: Besides water, have you tried eating or drinking anything else?  
+36. Patient: Just small sips of tea, but solid foods are too painful to swallow.  
+37. Doctor: Are you feeling any chest pain or discomfort?  
+38. Patient: No, my chest feels fine.  
+39. Doctor: Someone in your age group might worry about mono. Have you heard of mono before?  
+40. Patient: Yes, I’ve heard of it, but I don’t think I’ve been exposed to it.  
+41. Doctor: Your symptoms, like the sudden onset, fever, sore throat, and white spots on your tonsils, fit more with a bacterial infection. I'm going to do some simple tests.  
+42. Patient: Okay, I understand. Please let me know what you think.  
+43. Doctor: We performed a rapid test for strep throat, and it came back positive. You have a bacterial infection called group A Streptococcus (GAS) pharyngitis.  
+44. Patient: So, that’s what’s causing all of this?  
+45. Doctor: Yes, and it’s treatable. I’ll prescribe an antibiotic called penicillin V for 10 days to clear the infection.  
+46. Patient: Will the antibiotic help with the pain too?  
+47. Doctor: The antibiotic will treat the infection. For pain and fever, you can also take acetaminophen as needed.  
+48. Patient: Okay, I’ll do that. How long until I feel better?  
+49. Doctor: Most people feel much better after 48 hours on antibiotics, but it's essential to finish the full course to prevent complications.  
+50. Patient: Got it. I’ll make sure to take all of the medication. Thank you, doctor.  "

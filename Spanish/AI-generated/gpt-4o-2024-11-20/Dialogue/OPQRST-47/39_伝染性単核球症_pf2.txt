@@ -1,0 +1,50 @@
+"1. Médico: Hola, buenas tardes. ¿Qué te trae por aquí hoy?  
+2. Paciente: Hola, doctor. Me siento muy mal. Tengo fiebre alta desde hace varios días, como 39 o más, y me siento extremadamente débil.  
+3. Médico: ¿Cuánto tiempo llevas con estos síntomas?  
+4. Paciente: Ya son 5 días, y no he mejorado nada.  
+5. Médico: ¿Has tomado algún medicamento para tratar de sentirte mejor?  
+6. Paciente: Sí, tomé unas pastillas para el dolor y la fiebre, pero no recuerdo exactamente cuáles.  
+7. Médico: Entendido. Además de la fiebre y la debilidad, ¿sientes dolor en alguna parte en especial?  
+8. Paciente: Sí, me duele mucho la garganta. Cada vez que intento tragar, siento como si algo me raspase.  
+9. Médico: ¿Has notado algún cambio en tu respiración o tos?  
+10. Paciente: No, hasta ahora no he tenido problemas para respirar ni he tosido.  
+11. Médico: ¿Has tenido contacto reciente con alguien que haya estado enfermo o con fiebre?  
+12. Paciente: No que yo sepa. No recuerdo a nadie cercano a mí que estuviera enfermo.  
+13. Médico: ¿Has notado pérdida de peso o sudores nocturnos?  
+14. Paciente: No, mi peso no ha cambiado, y no he sudado por las noches.  
+15. Médico: ¿Cómo está tu apetito? ¿Has podido comer algo estos días?  
+16. Paciente: No tengo mucho apetito por el dolor en la garganta, pero trato de comer lo que puedo, cosas suaves.  
+17. Médico: Bien. Ahora te haré algunas preguntas sobre otros síntomas para descartar cosas. ¿Has tenido manchas en la piel o picazón?  
+18. Paciente: No, mi piel está igual de siempre.  
+19. Médico: ¿Y dolores musculares o articulares?  
+20. Paciente: Estoy muy cansada, pero no diría que me duelan los músculos o las articulaciones.  
+21. Médico: ¿Has notado inflamación en el cuello o bultos palpables?  
+22. Paciente: Sí, tengo como unas bolas en el cuello que duelen cuando las toco.  
+23. Médico: Vamos a revisar eso más adelante. ¿Has tenido náuseas, vómitos o diarrea?  
+24. Paciente: No, mi estómago está bien.  
+25. Médico: ¿Algún problema urinario, como dolor al orinar o cambios en el color de la orina?  
+26. Paciente: No, nada extraño.  
+27. Médico: Perfecto. Ahora dime, ¿has viajado recientemente o tienes antecedentes de enfermedades importantes?  
+28. Paciente: No he viajado y, que yo sepa, no tengo ninguna enfermedad grave.  
+29. Médico: ¿Alguien en tu familia tiene problemas de salud similares ahora?  
+30. Paciente: No, todos están bien en casa.  
+31. Médico: Muy bien. Ahora voy a realizar un examen físico. Empezaré por revisar tu garganta.  
+32. Médico: Veo que tu garganta está muy inflamada, y las amígdalas tienen algo de pus. ¿Esto ha empeorado desde que empezaron los síntomas?  
+33. Paciente: Sí, ahora está peor que al principio.  
+34. Médico: También noto que tienes fiebre ahora mismo. ¿Te sientes más cansada que de costumbre?  
+35. Paciente: Sí, doctor, no tengo fuerzas para hacer nada.  
+36. Médico: De acuerdo, también noto unas adenopatías en tu cuello. ¿Este dolor en los ganglios apareció después de la fiebre o antes?  
+37. Paciente: Creo que fue después, primero vino la fiebre, luego el dolor.  
+38. Médico: Vamos a revisar el abdomen. Noto que tu hígado y bazo están un poco agrandados. ¿Has sentido presión o dolor en esta área?  
+39. Paciente: No me había dado cuenta, pero ahora que lo menciona siento algo de incomodidad.  
+40. Médico: Bien, muchas gracias por tu paciencia. Según lo que me cuentas y lo que he observado, necesito hacer unos análisis de sangre para confirmar lo que sospecho.  
+41. Paciente: Claro, doctor, lo que sea necesario.  
+42. Médico: Vamos a investigar si hay alguna infección viral o bacteriana que explique tu cuadro. Te avisaremos pronto con los resultados.  
+43. Paciente: De acuerdo, muchas gracias.  
+44. Médico: Según los resultados preliminares, tienes un aumento en los linfocitos y algunos valores alterados en el hígado. Te preguntaré, ¿antes habías tenido mononucleosis?  
+45. Paciente: No, nunca he tenido algo así.  
+46. Médico: También tus ganglios y el aspecto de la garganta son típicos de lo que llamamos mononucleosis infecciosa. Voy a confirmar esto con unas pruebas de serología.  
+47. Paciente: ¿Mononucleosis? No sabía que eso podía pasarme.  
+48. Médico: Es común en personas jóvenes. Resultó positiva la infección aguda por el virus de Epstein-Barr.  
+49. Paciente: Entonces, ¿qué debo hacer ahora?  
+50. Médico: Vamos a manejar los síntomas. Tu diagnóstico es mononucleosis infecciosa."

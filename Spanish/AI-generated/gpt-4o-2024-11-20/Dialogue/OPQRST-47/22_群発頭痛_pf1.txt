@@ -1,0 +1,50 @@
+"1. Médico: ¿Qué lo trae hoy a consulta?  
+2. Paciente: He estado teniendo unos dolores de cabeza muy intensos en el lado derecho, cerca del ojo.  
+3. Médico: ¿Puede describirme el dolor con más detalle?  
+4. Paciente: Es un dolor punzante, comienza de repente y es muy fuerte, casi insoportable.  
+5. Médico: ¿Cuánto tiempo dura cada episodio?  
+6. Paciente: Duran entre una hora y hora y media. A veces pueden ser algo más cortos, pero no menos de una hora.  
+7. Médico: ¿Con qué frecuencia le ocurren estos episodios?  
+8. Paciente: Pueden pasarme entre una y tres veces al día, sobre todo por la noche.  
+9. Médico: ¿Cuándo comenzaron estos episodios?  
+10. Paciente: Hace alrededor de dos semanas, pero es la primera vez que me ocurre algo así.  
+11. Médico: ¿Tiene algún síntoma acompañante durante los episodios?  
+12. Paciente: Sí, me empieza a llorar ese ojo, se me congestiona la nariz y a veces me gotea.  
+13. Médico: ¿Ha notado algún cambio en la vista o en los párpados del lado afectado?  
+14. Paciente: Sí, el ojo a veces parece más cerrado y más pequeño comparado con el otro.  
+15. Médico: ¿El dolor le despierta durante la noche?  
+16. Paciente: Sí, en cuanto empieza, el dolor me despierta de inmediato.  
+17. Médico: ¿Ha probado algo para aliviar el dolor?  
+18. Paciente: He tomado analgésicos como ibuprofeno, pero no hacen mucho efecto.  
+19. Médico: ¿Ha notado algún desencadenante que provoque los episodios?  
+20. Paciente: No, parecen ocurrir sin razón alguna, incluso mientras estoy dormido.  
+21. Médico: ¿Ha tenido problemas similares en el pasado?  
+22. Paciente: No, nunca había tenido dolores de cabeza como estos.  
+23. Médico: ¿Tiene antecedentes de migrañas u otros tipos de cefaleas en la familia?  
+24. Paciente: No, en mi familia nadie tiene problemas de migrañas ni dolores fuertes de cabeza.  
+25. Médico: ¿Ha notado algún problema en su visión entre episodios, como puntos ciegos o visión borrosa?  
+26. Paciente: No, mi visión es normal cuando no tengo dolor.  
+27. Médico: ¿Cómo afecta esto a su vida diaria?  
+28. Paciente: Me está afectando mucho, no puedo dormir bien y me cuesta concentrarme en el trabajo.  
+29. Médico: ¿Tiene otro tipo de dolor, como cervical o mandibular, que relacione con estos síntomas?  
+30. Paciente: No, no tengo ningún otro dolor aparte de estos dolores de cabeza.  
+31. Médico: ¿Cómo es su estado de salud en general? ¿Tiene alguna enfermedad crónica?  
+32. Paciente: Mi salud es buena, no tengo enfermedades crónicas.  
+33. Médico: ¿Toma algún medicamento regularmente?  
+34. Paciente: No, no tomo ningún medicamento diario.  
+35. Médico: ¿Consume alcohol, tabaco o alguna droga recreativa?  
+36. Paciente: Fumo de vez en cuando, pero no consumo alcohol ni drogas.  
+37. Médico: ¿Cree que el tabaco puede empeorar los episodios?  
+38. Paciente: No estoy seguro, pero no he notado una relación.  
+39. Médico: ¿Ha notado algún cambio en sus hábitos de sueño o estrés recientemente?  
+40. Paciente: Sí, no he estado durmiendo bien por estos episodios, y eso me está estresando mucho.  
+41. Médico: Durante los episodios, ¿ha sentido náuseas o ha vomitado?  
+42. Paciente: No, nada de eso, es solo el dolor de cabeza.  
+43. Médico: ¿Ha tenido fiebre o infecciones recientes?  
+44. Paciente: No, no he tenido fiebre ni he estado enfermo últimamente.  
+45. Médico: ¿Ha experimentado algún zumbido en los oídos o vértigo?  
+46. Paciente: No, mis oídos están bien.  
+47. Médico: En el examen, noto que su ojo derecho está algo lloroso y la pupila parece más pequeña. ¿Esto siempre ocurre durante las crisis?  
+48. Paciente: Sí, siempre pasa cuando tengo el dolor.  
+49. Médico: Basado en los síntomas y la evaluación, creo que está teniendo lo que llamamos cefalea en racimos.  
+50. Paciente: ¿Cefalea en racimos? ¿Qué significa eso y qué puedo hacer?  "

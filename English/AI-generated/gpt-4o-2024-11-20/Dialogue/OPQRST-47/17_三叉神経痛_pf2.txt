@@ -1,0 +1,51 @@
+"1. 医師：Hi, thank you for coming in today. Could you tell me more about the pain you're experiencing?  
+2. 患者：Sure, it's a sharp, stabbing pain on the left side of my face, mostly around my cheek and jaw.  
+3. 医師：When did this pain start?  
+4. 患者：It started about two months ago.  
+5. 医師：How often do you experience this pain?  
+6. 患者：It happens several times a day.  
+7. 医師：How would you describe the severity of the pain?  
+8. 患者：It's very severe—it feels like electric shocks.  
+9. 医師：How long do the episodes of pain usually last?  
+10. 患者：Usually just a few seconds to a couple of minutes.  
+11. 医師：Is there anything that seems to trigger the pain?  
+12. 患者：Yes, simple things like brushing my teeth, chewing, or even touching my face.  
+13. 医師：Do you notice any numbness or weakness in your face along with the pain?  
+14. 患者：No, none at all.  
+15. 医師：Have you ever had any similar episodes in the past?  
+16. 患者：No, this is the first time I've experienced anything like this.  
+17. 医師：Have you had any recent trauma to your face or head?  
+18. 患者：No, nothing like that.  
+19. 医師：Any recent infections, fevers, or weight loss?  
+20. 患者：No, not that I can think of.  
+21. 医師：Do you have any other medical conditions or a history of surgery?  
+22. 患者：No, I'm generally healthy.  
+23. 医師：Do you notice the pain worsening at specific times of the day or in certain environments?  
+24. 患者：Not really, it just happens throughout the day.  
+25. 医師：How has this pain been affecting your daily activities?  
+26. 患者：It's quite disruptive. I'm afraid to do simple things like eating or smiling.  
+27. 医師：That sounds very difficult to manage. Has this caused you any stress or anxiety?  
+28. 患者：Yes, I feel anxious all the time, waiting for the pain to come back.  
+29. 医師：Do painkillers, like over-the-counter medications, provide any relief?  
+30. 患者：No, they haven’t helped at all.  
+31. 医師：Has anyone in your family had similar symptoms or conditions?  
+32. 患者：No, this seems to just be me.  
+33. 医師：Let me briefly examine your face. Does this hurt when I lightly touch this part?  
+34. 患者：Yes, that’s exactly where the pain happens!  
+35. 医師：Alright, I’ll also check your neurological function. Do you feel me touching here?  
+36. 患者：Yes, I can feel it perfectly fine, no numbness at all.  
+37. 医師：Good, and can you clench your jaw for me?  
+38. 患者：Sure.  
+39. 医師：Any pain or difficulty moving your jaw when you do that?  
+40. 患者：No, just the normal motion—no pain with that.  
+41. 医師：Have you noticed any swelling or redness on your face?  
+42. 患者：No, nothing like that.  
+43. 医師：We performed an MRI scan to rule out any structural issues. It showed a blood vessel pressing on the nerve in your face.  
+44. 患者：Oh, so that’s causing the pain?  
+45. 医師：Yes, it appears to be causing irritation of your trigeminal nerve, leading to your symptoms.  
+46. 患者：What does that mean?  
+47. 医師：This condition is called trigeminal neuralgia. It’s caused by irritation or compression of the trigeminal nerve, which controls sensation in your face.  
+48. 患者：Is it treatable?  
+49. 医師：Yes, most people respond well to medication. We'll start with a drug called carbamazepine.  
+50. 患者：Okay, will that stop the pain completely?  
+51. 医師：It often helps significantly. We’ll start at a low dose and adjust as needed to control the pain."

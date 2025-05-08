@@ -1,0 +1,150 @@
+"1.  
+Doctor: Good morning. What brings you in today?  
+Patient: I've been having severe pain in my right upper abdomen since last night, and it's not getting better.  
+2.  
+Doctor: When did the pain start, and how would you describe it?  
+Patient: It started about 12 hours ago, suddenly after eating a big, greasy meal. The pain comes and goes, but it's really bad.  
+3.  
+Doctor: Does the pain spread anywhere else, or is it just in your upper abdomen?  
+Patient: It travels up to my right shoulder sometimes.  
+4.  
+Doctor: Have you had any other symptoms along with the pain?  
+Patient: I've been feeling nauseous, and I threw up once earlier.  
+5.  
+Doctor: Any fever or chills?  
+Patient: Yeah, I've felt pretty warm and had chills on and off.  
+6.  
+Doctor: Have you noticed any changes in your stool or urine?  
+Patient: Not really, everything seems normal there.  
+7.  
+Doctor: What about any yellowing of your skin or eyes, like jaundice?  
+Patient: I think my wife mentioned that my eyes looked a little yellow, but I didn't notice it myself.  
+8.  
+Doctor: Have you experienced any shortness of breath, chest pain, or heart issues?  
+Patient: No, nothing like that.  
+9.  
+Doctor: Do you have a history of similar pain or any gallbladder problems?  
+Patient: Yes, I had something similar about five years ago, and I was told it might have been gallbladder inflammation. They didn't do surgery back then.  
+10.  
+Doctor: Do you drink alcohol or use any recreational drugs?  
+Patient: No, I don't drink or use drugs.  
+11.  
+Doctor: Do you have a family history of gallbladder problems or similar conditions?  
+Patient: Not that I know of.  
+12.  
+Doctor: Do you take any medications or have any chronic health conditions?  
+Patient: No, I don’t take any regular medications and don’t have any chronic conditions.  
+13.  
+Doctor: Can you describe the meal you had before the pain started?  
+Patient: I had a big serving of fried chicken and mashed potatoes with lots of gravy.  
+14.  
+Doctor: Has your appetite been affected since the pain started?  
+Patient: Yes, I don’t feel like eating at all.  
+15.  
+Doctor: Does anything make the pain better or worse?  
+Patient: It feels worse when I move around or take deep breaths.  
+16.  
+Doctor: Have you tried anything, like painkillers, to relieve the pain?  
+Patient: I took some over-the-counter pain medicine, but it didn’t help much.  
+17.  
+Doctor: How severe would you rate the pain on a scale of 1 to 10?  
+Patient: It feels like a 9, maybe even 10 sometimes.  
+18.  
+Doctor: Have you been able to sleep or lie down comfortably since the pain started?  
+Patient: Not really. I’ve been tossing and turning all night because of the pain.  
+19.  
+Doctor: Do you have any problems with digestion in general?  
+Patient: Sometimes I get indigestion after greasy food, but nothing too serious.  
+20.  
+Doctor: Did you feel this same kind of pain during your previous gallbladder issue?  
+Patient: Yes, it feels very similar, but I think this time it's worse.  
+21.  
+Doctor: Have you had any recent illnesses, like colds, flu, or infections?  
+Patient: No, I’ve been healthy up until now.  
+22.  
+Doctor: Aside from the vomiting, any trouble keeping liquids down?  
+Patient: No, I can drink water okay, but I’m not feeling thirsty.  
+23.  
+Doctor: Have you traveled recently or eaten anything unusual?  
+Patient: No traveling, and I haven’t eaten anything out of the ordinary besides that big meal.  
+24.  
+Doctor: Has anyone else in your household been feeling unwell?  
+Patient: No, everyone else is fine.  
+25.  
+Doctor: How has this been affecting your daily activities?  
+Patient: I’ve been stuck in bed all day, it’s hard to do anything.  
+26.  
+Doctor: Have you noticed any swelling in your abdomen?  
+Patient: No swelling, just the pain.  
+27.  
+Doctor: Are you experiencing any dizziness or lightheadedness?  
+Patient: Not really, but I do feel weak from all this.  
+28.  
+Doctor: Do you have a history of surgeries or hospitalizations?  
+Patient: No surgeries, but I was hospitalized during the last gallbladder flare-up.  
+29.  
+Doctor: Has any doctor mentioned gallstones to you before?  
+Patient: Yes, I think they found stones during my last visit, but they didn’t seem too worried back then.  
+30.  
+Doctor: How has your pain been progressing since last night?  
+Patient: It’s gotten worse over time, and now it feels constant.  
+31.  
+Doctor: Have you had any significant weight loss or gain recently?  
+Patient: No, my weight’s been stable.  
+32.  
+Doctor: Do you usually eat a lot of fatty foods?  
+Patient: Not always, but I do enjoy fried food and heavy meals sometimes.  
+33.  
+Doctor: Have you ever had liver or pancreas issues?  
+Patient: No, not that I know of.  
+34.  
+Doctor: Do you have diabetes or high blood pressure?  
+Patient: No, I don’t have either of those.  
+35.  
+Doctor: Are you experiencing any sweating with the fever?  
+Patient: Yes, I’ve had some night sweats.  
+36.  
+Doctor: When you eat or drink, does it make the pain worse?  
+Patient: I haven’t tried eating since the pain started, so I’m not sure.  
+37.  
+Doctor: Let’s clarify your fever—have you measured your temperature at home?  
+Patient: No, I didn’t take my temperature, but I could tell I was feverish.  
+38.  
+Doctor: Have you noticed darker urine or lighter stools?  
+Patient: My urine might look a little darker than usual, but I didn’t notice anything with my stools.  
+39.  
+Doctor: Are you taking any supplements or herbal remedies?  
+Patient: No, I don’t take any of those.  
+40.  
+Doctor: Has the pain ever completely gone away since it began?  
+Patient: No, it’s been there the whole time, just more intense now.  
+41.  
+Doctor: How are you feeling now compared to earlier?  
+Patient: It’s about the same, still very painful.  
+42.  
+Doctor: Were you able to walk in here okay, or did someone help you?  
+Patient: My wife helped me get here because walking hurts.  
+43.  
+Doctor: Does bending forward or lying in a specific position help at all?  
+Patient: A little, but nothing really makes it go away.  
+44.  
+Doctor: Have you ever had heart problems like high cholesterol?  
+Patient: No, my heart has always been fine.  
+45.  
+Doctor: Do you have a strong support system at home, like family or friends?  
+Patient: Yes, my wife and kids have been taking care of me.  
+46.  
+Doctor: Were you able to drink enough water today?  
+Patient: I had a small glass earlier, but I haven’t had much since then.  
+47.  
+Doctor: Are you feeling particularly fatigued or weak?  
+Patient: Yes, I feel very drained, probably because I haven’t eaten.  
+48.  
+Doctor: Have you taken any antacids to see if they help with the pain?  
+Patient: I didn’t try that, only painkillers.  
+49.  
+Doctor: Does your job involve heavy lifting or significant physical activity?  
+Patient: No, I have a desk job.  
+50.  
+Doctor: Based on everything we’ve discussed, I suspect you might have an issue with your gallbladder, possibly an infection or stones causing blockage. We'll need some imaging and lab tests to confirm—let’s get started.  
+Patient: Alright. I hope we can figure this out soon!"

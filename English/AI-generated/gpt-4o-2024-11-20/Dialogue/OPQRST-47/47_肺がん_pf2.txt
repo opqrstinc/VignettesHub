@@ -1,0 +1,100 @@
+"1.  
+Doctor: Hello, I’m Dr. Smith. What brings you in today?  
+2.  
+Patient: Hi, Doctor. I've been having trouble breathing and a dry cough that just won't go away for the last three months.  
+3.  
+Doctor: I'm sorry to hear that. Can you tell me if the difficulty breathing gets worse with certain activities or if it comes and goes?  
+4.  
+Patient: It's been getting worse over time, especially when I'm climbing stairs or walking for a while.  
+5.  
+Doctor: Have you noticed anything else, like wheezing or chest tightness?  
+6.  
+Patient: Sometimes I hear myself wheezing, especially at night, but there's no chest pain.  
+7.  
+Doctor: How about coughing? Do you ever bring up any mucus or blood?  
+8.  
+Patient: No, it’s just a dry cough. No phlegm or blood at all.  
+9.  
+Doctor: Have you had any fever, chills, or night sweats?  
+10.  
+Patient: No, nothing like that.  
+11.  
+Doctor: Have you noticed any weight loss recently?  
+12.  
+Patient: Yes, I've lost about 7 kilos over the past few months without trying.  
+13.  
+Doctor: That’s definitely something we need to look into. Any changes in appetite or energy level?  
+14.  
+Patient: My appetite is okay, but I feel more tired than usual.  
+15.  
+Doctor: Do you have any history of medical conditions like asthma, COPD, or heart issues?  
+16.  
+Patient: No, I’ve been pretty healthy otherwise.  
+17.  
+Doctor: How about smoking? Have you ever smoked?  
+18.  
+Patient: Yes, I smoked for about 30 years, but I quit last year.  
+19.  
+Doctor: I’m glad you quit. Do you have any family history of lung disease or cancer?  
+20.  
+Patient: No, none that I know of.  
+21.  
+Doctor: Any occupational exposures, like asbestos or chemicals, in your work history?  
+22.  
+Patient: No, I didn’t have a job with any exposures like that.  
+23.  
+Doctor: Have you traveled recently or been around anyone who was sick?  
+24.  
+Patient: No, I haven’t been traveling, and I don’t recall being around anyone unwell.  
+25.  
+Doctor: During your breathing difficulties, have you felt like your heart was racing or skipping beats?  
+26.  
+Patient: No, I haven’t noticed anything unusual with my heart.  
+27.  
+Doctor: Do you ever feel shortness of breath when lying flat or wake up gasping for air?  
+28.  
+Patient: No, that doesn’t happen.  
+29.  
+Doctor: Do you have any unusual swelling in your legs or other parts of your body?  
+30.  
+Patient: No, nothing like that.  
+31.  
+Doctor: Have you observed any changes to your voice or had any difficulty swallowing?  
+32.  
+Patient: No, my voice is the same, and I can swallow fine.  
+33.  
+Doctor: Do you recall when exactly the symptoms started and what you were doing at the time?  
+34.  
+Patient: It started about three months ago. I wasn’t doing anything in particular, just routine stuff.  
+35.  
+Doctor: I listened to your lungs earlier, and there were decreased breath sounds on the right side. Any sensations of pain or discomfort in that area?  
+36.  
+Patient: No, there’s no pain at all.  
+37.  
+Doctor: It’s good that there’s no pain. Your chest X-ray showed something we’d like to investigate further—a mass in the right upper lobe of your lungs.  
+38.  
+Patient: A mass? What does that mean?  
+39.  
+Doctor: It could be a number of things, such as an infection, inflammation, or possibly something more serious, like a tumor.  
+40.  
+Patient: Oh no, that sounds frightening.  
+41.  
+Doctor: I understand it sounds concerning, but we’re going to take steps to figure out what’s going on. A CT scan has helped provide more details, showing a lesion in the lung.  
+42.  
+Patient: Is it cancer?  
+43.  
+Doctor: I can’t confirm that right now, but the imaging and findings do make us suspicious. To be sure, we performed a biopsy of the mass.  
+44.  
+Patient: I hope it’s something that can be treated.  
+45.  
+Doctor: That’s exactly what we’re focusing on. The biopsy results came back and show a type of cancer called adenocarcinoma, which is a form of non-small cell lung cancer.  
+46.  
+Patient: Cancer? I was hoping it wasn’t that.  
+47.  
+Doctor: I know this is difficult to hear, but there are specific treatments we can use, especially because your tests show a mutation that may respond well to targeted therapy.  
+48.  
+Patient: What does that mean?  
+49.  
+Doctor: It means that a medication called erlotinib, which targets a specific mutation found in your tumor, could help control the cancer. We’re also considering radiation therapy to manage it effectively.  
+50.  
+Patient: Okay. I’ll do whatever it takes to get better.  "

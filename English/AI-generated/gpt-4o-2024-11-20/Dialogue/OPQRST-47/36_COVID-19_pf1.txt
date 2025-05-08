@@ -1,0 +1,51 @@
+"1. Doctor: Good morning, I’m Dr. Smith. What brings you in today?  
+2. Patient: Hi, doctor. I’ve been feeling really unwell for the past four days.  
+3. Doctor: I’m sorry to hear that. Can you tell me more about your symptoms?  
+4. Patient: It started with a fever and I’ve been feeling very tired. I also have a weird dry cough.  
+5. Doctor: When you say fever, do you know how high it has been?  
+6. Patient: I measured it at home, and it was around 102°F.  
+7. Doctor: And has the fever been constant or does it come and go?  
+8. Patient: It comes and goes, but when it happens, I feel really hot and uncomfortable.  
+9. Doctor: I understand. How about your cough—has there been any mucus or phlegm?  
+10. Patient: No, it’s completely dry.  
+11. Doctor: Are you experiencing any chest pain or difficulty breathing?  
+12. Patient: No chest pain or shortness of breath, just this annoying cough.  
+13. Doctor: Have you noticed any changes in your ability to smell or taste?  
+14. Patient: No, my smell and taste are completely normal.  
+15. Doctor: Any sore throat, nausea, vomiting, diarrhea, or other symptoms?  
+16. Patient: No, nothing like that. Just the fever, cough, and this extreme tiredness.  
+17. Doctor: Have your symptoms been getting better, worse, or staying the same?  
+18. Patient: They’ve been getting worse, especially the fatigue.  
+19. Doctor: I see. Let’s talk about your background a bit. Do you have any medical conditions or take any medications?  
+20. Patient: No, I’m generally healthy and I don’t take any medications.  
+21. Doctor: Any allergies that you know of?  
+22. Patient: No allergies.  
+23. Doctor: Have you traveled anywhere recently, or been in contact with someone who was sick?  
+24. Patient: No recent travel, but I do work in a busy office with lots of people.  
+25. Doctor: That’s helpful to know. Do you smoke or use any substances, including alcohol?  
+26. Patient: No, I’ve never smoked or used drugs, and I only drink socially on rare occasions.  
+27. Doctor: Understood. How is your general health otherwise? Any recent changes in appetite or weight?  
+28. Patient: No, everything else has been normal until this started.  
+29. Doctor: How about your family—anyone at home experiencing similar symptoms?  
+30. Patient: No, my family is fine so far.  
+31. Doctor: I’m glad your family is well. Do you recall any recent exposure to infectious diseases, such as flu or COVID-19?  
+32. Patient: Not directly, but my office can get pretty crowded, so it’s possible.  
+33. Doctor: Thank you. On a scale of 1 to 10, how would you rate your fatigue?  
+34. Patient: It’s probably an 8. I feel like I can’t do much at all.  
+35. Doctor: That does sound challenging. Are you still able to eat and drink normally?  
+36. Patient: Yes, I’m forcing myself to eat, but I don’t feel too hungry.  
+37. Doctor: How about your sleep? Are you able to rest despite the symptoms?  
+38. Patient: Not very well. The fever and fatigue make it hard.  
+39. Doctor: I understand. Let’s discuss your fever. Does anything seem to help bring it down?  
+40. Patient: Taking acetaminophen helps, but only for a little while.  
+41. Doctor: Any other remedies or treatments you’ve tried?  
+42. Patient: Just staying hydrated and trying to rest.  
+43. Doctor: That’s good. Have you noticed any unusual rashes or swelling anywhere on your body?  
+44. Patient: No, nothing like that.  
+45. Doctor: When you work, are you in close contact with people for long periods?  
+46. Patient: Yes, we sit pretty close together in an open-plan office.  
+47. Doctor: Thank you for sharing. Based on what I’m hearing, I’d like to examine you and perhaps order some tests.  
+48. Patient: Sure, I’ll do whatever is needed.  
+49. Doctor: On physical exam, you have a fever and some crackles in your lungs. I’d like to run a few labs and a chest CT scan to rule out specific causes.  
+50. Patient: Okay, whatever you think is necessary.  
+51. Doctor: Your test results show SARS-CoV-2 infection. This is consistent with COVID-19. Let’s talk about next steps."

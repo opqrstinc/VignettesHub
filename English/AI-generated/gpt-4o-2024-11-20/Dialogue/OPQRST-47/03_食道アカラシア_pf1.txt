@@ -1,0 +1,50 @@
+"1. Physician: What brings you in today?  
+2. Patient: I've been having trouble swallowing for the past six months.  
+3. Physician: Can you explain more about the swallowing difficulty?  
+4. Patient: It started with solid foods, like meat and bread, getting stuck, but now I even have trouble with liquids.  
+5. Physician: Have you noticed anything that makes it worse or better?  
+6. Patient: It's always hard to swallow, but it feels worse after meals.  
+7. Physician: Have you experienced any chest discomfort or pain while swallowing?  
+8. Patient: Yes, I sometimes feel discomfort in my chest, especially after eating.  
+9. Physician: Does this discomfort happen every time you eat?  
+10. Patient: Not every time, but it's been happening more often recently.  
+11. Physician: Have you noticed regurgitation, where food comes back up after you swallow?  
+12. Patient: Yes, sometimes food comes back up, and it looks like it hasn’t even been digested.  
+13. Physician: Do you feel like you're coughing or choking at night?  
+14. Patient: Yes, there've been nights where I wake up coughing, but it's not frequent.  
+15. Physician: Have you had any nausea, vomiting, or blood in your vomit?  
+16. Patient: No, I haven't experienced anything like that.  
+17. Physician: How about changes in your weight?  
+18. Patient: I've lost about five kilograms in the past three months because I can't eat as much.  
+19. Physician: Have you had any issues with your bowel movements, like black or tarry stools?  
+20. Patient: No, nothing unusual with my bowel movements.  
+21. Physician: Do you have any history of similar symptoms in the past?  
+22. Patient: No, this is the first time I've had anything like this.  
+23. Physician: Do you have any other health conditions or concerns?  
+24. Patient: I have high blood pressure and take amlodipine daily for that.  
+25. Physician: Any surgeries in the past or major illnesses?  
+26. Patient: No surgeries or major illnesses.  
+27. Physician: Do you smoke or consume alcohol?  
+28. Patient: No, I don't smoke or drink.  
+29. Physician: Does anyone in your family have gastrointestinal problems or similar symptoms?  
+30. Patient: No, there's no family history of stomach or swallowing problems.  
+31. Physician: What kinds of food or drinks are hardest for you to swallow?  
+32. Patient: Meat and bread are the hardest, but lately even water is an issue.  
+33. Physician: Do you feel any sensation of a lump in your throat or neck?  
+34. Patient: No, it feels more like it's stuck lower down, near my chest.  
+35. Physician: Have you noticed changes in your voice or any throat pain?  
+36. Patient: No, my voice is fine, and my throat doesn't hurt.  
+37. Physician: Are you able to complete your meals, or do you feel full quickly?  
+38. Patient: No, I can't eat much before I feel like I have to stop because of the swallowing issue.  
+39. Physician: How is this affecting your daily life?  
+40. Patient: It’s been frustrating—I can’t enjoy meals anymore, and I’ve been feeling tired and weak from not eating enough.  
+41. Physician: Have you tried any over-the-counter medications or treatments to help with this?  
+42. Patient: Sometimes I drink warm water or tea, but it doesn’t really help much.  
+43. Physician: Have you traveled anywhere recently or eaten any unusual foods?  
+44. Patient: No, I haven’t traveled, and I eat pretty regular meals.  
+45. Physician: Do you ever feel like the issue is related to stress or anxiety in any way?  
+46. Patient: No, I don’t think it's related to stress.  
+47. Physician: Thank you for sharing all of that. Let’s go over some tests to better understand what’s happening.  
+48. Patient: Okay. I just really want to know what’s causing this.  
+49. Physician: Based on everything you’ve told me and the test results we’ve reviewed, your symptoms and findings are consistent with a condition called achalasia.  
+50. Patient: Achalasia? What does that mean?  "

@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, señora. ¿Qué la trae hoy por aquí?  
+2. Paciente: Buenas tardes, doctor. Desde hace tres semanas tengo un enrojecimiento en la cara que empezó cuando me expuse al sol, pero ahora no desaparece.  
+3. Médico: Entendido. ¿Puede describirme exactamente dónde aparece este enrojecimiento?  
+4. Paciente: Sí, cubre mis mejillas y la nariz, pero no llega a las partes cerca de los labios.  
+5. Médico: ¿Ha notado algún otro síntoma en este tiempo?  
+6. Paciente: Sí, se me está cayendo más el cabello de lo normal, y también he tenido dolores en las manos, rodillas y tobillos.  
+7. Médico: Estos dolores en las articulaciones, ¿cómo los describiría? ¿Son intensos?  
+8. Paciente: No son muy intensos, pero cambian de lugar, a veces son en las manos, otras en las rodillas.  
+9. Médico: ¿Y estos dolores le impiden moverse?  
+10. Paciente: No, puedo moverme, aunque por las mañanas siento las articulaciones como rigidas por cerca de una hora.  
+11. Médico: Entonces, esos dolores y rigidez matutina, ¿me dice que son diarios?  
+12. Paciente: Sí, cada mañana desde hace unas semanas.  
+13. Médico: Entendido. ¿Ha tenido fiebre o ha perdido peso recientemente?  
+14. Paciente: No, mi peso está igual y no he tenido fiebre.  
+15. Médico: ¿Algún antecedente de enfermedades autoinmunes en usted o su familia?  
+16. Paciente: No que yo sepa, doctor.  
+17. Médico: ¿Y alguna infección reciente, como de garganta o estomacal?  
+18. Paciente: No, ninguna infección que recuerde.  
+19. Médico: Volviendo al enrojecimiento, ¿siente picazón o ardor en la zona?  
+20. Paciente: No pica ni arde, solo está muy rojo.  
+21. Médico: ¿Ha notado úlceras o llagas en la boca o los labios?  
+22. Paciente: No, no he tenido nada de eso.  
+23. Médico: ¿Ha tenido algún otro síntoma diferente, como cansancio, hinchazón o problemas para respirar?  
+24. Paciente: Me he sentido algo cansada, pero no he tenido problemas para respirar ni otras cosas.  
+25. Médico: Muy bien, ¿puedo mirar su cara y revisar también su cuero cabelludo?  
+26. Paciente: Claro, doctor.  
+27. Médico: Noto un enrojecimiento en forma de mariposa sobre sus mejillas y nariz, y veo algunas áreas donde falta cabello. ¿Se ha dado cuenta de esta pérdida de cabello?  
+28. Paciente: Sí, se nota más cuando me cepillo, hay bastante cabello en el cepillo.  
+29. Médico: Entiendo. Voy a revisar sus articulaciones ahora. ¿Siente dolor cuando presiono aquí?  
+30. Paciente: Sí, en las manos y en las rodillas es donde más duele.  
+31. Médico: No hay inflamación evidente, pero sí noto sensibilidad. Dígame, ¿cuándo comenzó exactamente a sentir estos dolores y la rigidez?  
+32. Paciente: Comenzaron casi al mismo tiempo que el problema con el sol y la cara, doctor.  
+33. Médico: ¿Ha notado cambios en la orina, como oscurecimiento o espuma?  
+34. Paciente: Sí, a veces se ve como espumosa.  
+35. Médico: Esto es importante. ¿Ha tenido hinchazón en los pies o alrededor de los ojos?  
+36. Paciente: No, de momento no he notado eso.  
+37. Médico: Perfecto. Vamos a pedirle unos análisis de sangre y orina para investigar más.  
+38. Paciente: De acuerdo, doctor.  
+39. Médico: ¿Es alérgica a algún medicamento o tiene problemas con algún tratamiento?  
+40. Paciente: No, no tengo alergias conocidas.  
+41. Médico: Muy bien, estos análisis nos darán más información. Mientras tanto, evite exponerse al sol y use protector solar.  
+42. Paciente: Entendido, doctor.  
+43. Médico: He recibido los resultados y hay algunos hallazgos importantes, como anemia, disminución de glóbulos blancos y plaquetas, y algo llamado proteinuria y hematuria. Además, los exámenes inmunológicos indican un posible problema autoinmune.  
+44. Paciente: ¿Qué significa eso, doctor?  
+45. Médico: Los hallazgos clínicos y de laboratorio son compatibles con una condición llamada lupus eritematoso sistémico, o simplemente lupus.  
+46. Paciente: ¿Es algo grave?  
+47. Médico: Puede ser serio si no se trata, pero con el tratamiento adecuado podemos controlarlo.  
+48. Paciente: ¿Y cuál sería el tratamiento, doctor?  
+49. Médico: Iniciaremos con prednisona, un corticoide, y un medicamento llamado hidroxicloroquina para modular su sistema inmunológico.  
+50. Paciente: Gracias, doctor. Haré todo lo necesario."

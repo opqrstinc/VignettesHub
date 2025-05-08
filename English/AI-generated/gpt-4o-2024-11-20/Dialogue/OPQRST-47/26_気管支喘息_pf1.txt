@@ -1,0 +1,52 @@
+"1. 医師：Hello! What brings you to the clinic today?  
+2. 患者：I’ve been having a hard time breathing for the past three days.  
+3. 医師：Could you explain more about how it feels when breathing is difficult?  
+4. 患者：It feels tight in my chest, like I can’t get enough air.  
+5. 医師：Do you have any cough along with this?  
+6. 患者：Yes, but it’s dry. No mucus comes up.  
+7. 医師：When do these symptoms typically worsen?  
+8. 患者：It’s worse at night and early in the morning.  
+9. 医師：Did anything trigger these symptoms before they started?  
+10. 患者：Yes, I was outside, and there was a lot of pollen in the air.  
+11. 医師：Have you had these kinds of breathing problems before?  
+12. 患者：Not this bad.  
+13. 医師：Do you have any allergies or conditions we should know about?  
+14. 患者：I have allergies, mostly to dust and pollen.  
+15. 医師：Have you been diagnosed with any medical conditions in the past?  
+16. 患者：I was told I had allergic rhinitis when I was younger.  
+17. 医師：How have you been managing that condition?  
+18. 患者：I use a nasal spray sometimes, but not all the time.  
+19. 医師：Do you have any food allergies or skin conditions like eczema?  
+20. 患者：No, none that I know of.  
+21. 医師：Have you had any fever or recent cold symptoms?  
+22. 患者：No fever or colds recently.  
+23. 医師：Anyone around you with similar breathing problems or symptoms?  
+24. 患者：No, no one I know has the same symptoms.  
+25. 医師：Does anyone in your family have asthma or allergies?  
+26. 患者：Yes, my dad has asthma, and my mom has allergies.  
+27. 医師：Do you have any exposure to cigarette smoke at home?  
+28. 患者：No, nobody in my family smokes.  
+29. 医師：Have you traveled recently or been in any new environments?  
+30. 患者：No, I’ve been home or at school mostly.  
+31. 医師：Do you feel tired or notice any changes in your energy levels?  
+32. 患者：I’m more tired because I’m not sleeping well with the breathing problems.  
+33. 医師：When the symptoms worsen at night, does it wake you up from sleep?  
+34. 患者：Yes, I’ve woken up a few times feeling like I couldn’t breathe.  
+35. 医師：How about exercise or playing? Does that make your breathing worse?  
+36. 患者：Yes, running around makes me feel out of breath quickly.  
+37. 医師：How long does it take for you to catch your breath afterward?  
+38. 患者：It usually takes about 10 minutes to feel normal again.  
+39. 医師：Have you tried anything to relieve your symptoms at home?  
+40. 患者：Not really, I just try to rest.  
+41. 医師：Are you experiencing any chest pain along with these symptoms?  
+42. 患者：Not really pain, just tightness.  
+43. 医師：Do you ever hear wheezing, like a whistling sound when you breathe?  
+44. 患者：My mom said she noticed it a couple of times when I was trying to sleep.  
+45. 医師：Do you feel like your symptoms get worse in certain environments?  
+46. 患者：Yes, it’s worse when I’m around dust or outside with pollen.  
+47. 医師：Do you feel short of breath when you are just sitting and resting?  
+48. 患者：Not as much, but I still feel the tightness sometimes.  
+49. 医師：Do your symptoms improve with anything, like fresh air or sitting up?  
+50. 患者：They feel a little better when I sit up, but not completely.  
+51. 医師：Based on what you’ve described, your symptoms, history, and some tests we’ve done, it seems you are dealing with asthma.  
+52. 患者：Asthma? What does that mean for me?"

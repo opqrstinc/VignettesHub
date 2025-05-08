@@ -1,0 +1,50 @@
+"1. Médico: Hola, buenos días. ¿Cómo se llama tu hijo?  
+2. Paciente: Se llama Mateo.  
+3. Médico: Mucho gusto, Mateo. ¿Qué es lo que les preocupa hoy?  
+4. Paciente: Mateo tiene fiebre desde hace cuatro días.  
+5. Médico: Entiendo. ¿Recuerdas cuál fue la temperatura más alta?  
+6. Paciente: Sí, llegó hasta 39.5 °C.  
+7. Médico: Además de la fiebre, ¿ha presentado otros síntomas?  
+8. Paciente: Sí, empezó con tos y después salió un sarpullido.  
+9. Médico: ¿Puedes describirme cómo es ese sarpullido?  
+10. Paciente: Empezó en la cara y después se extendió al cuerpo y las piernas.  
+11. Médico: ¿Cómo es el sarpullido? ¿Tiene bolitas o es plano?  
+12. Paciente: Es como rojo y plano, pero hay partes donde parece que tiene como bolitas.  
+13. Médico: ¿La piel está muy seca o Mateo se ha estado rascando mucho?  
+14. Paciente: Sí, lo he visto rascándose.  
+15. Médico: ¿Hay partes donde el sarpullido no aparece, como en las palmas de las manos o plantas de los pies?  
+16. Paciente: Exactamente, en esas partes no tiene.  
+17. Médico: ¿Mateo ha tenido algún problema en los ojos, como irritación o lagrimeo?  
+18. Paciente: Sí, los ojos se le han puesto rojos y lagrimean mucho.  
+19. Médico: ¿Cómo ha estado comiendo y tomando líquidos?  
+20. Paciente: Come muy poco, pero sí ha estado tomando agua.  
+21. Médico: Eso es importante. ¿Tú o alguien más notaron algo inusual dentro de su boca?  
+22. Paciente: Pues sí, vi como unas manchas blancas en las mejillas por dentro.  
+23. Médico: Bien, esas manchas son importantes. ¿Mateo está vacunado según su edad?  
+24. Paciente: No, hemos tenido problemas para completar las vacunas.  
+25. Médico: ¿Han tenido contacto reciente con alguien que también esté enfermo?  
+26. Paciente: No, pero hicimos un viaje hace poco a una región con mucha gente.  
+27. Médico: ¿Sabes si en esa zona había reportes de enfermedades infectocontagiosas?  
+28. Paciente: Me dijeron que últimamente hubo muchos casos de sarampión.  
+29. Médico: Entiendo. ¿Mateo ha tenido alguna otra enfermedad importante en el pasado?  
+30. Paciente: No, nunca ha estado enfermo de gravedad.  
+31. Médico: ¿Notaron si Mateo respira más rápido de lo normal?  
+32. Paciente: Sí, a veces parece que respira muy rápido.  
+33. Médico: ¿Ha estado muy decaído o con menos energía de lo habitual?  
+34. Paciente: Sí, casi no quiere jugar y está muy cansado.  
+35. Médico: Eso debe ser difícil. ¿Han notado algo más, como dolor de oídos o irritabilidad?  
+36. Paciente: No, solo se ve que le molesta mucho el sarpullido.  
+37. Médico: ¿Han probado darle algo para la fiebre?  
+38. Paciente: Sí, le dimos paracetamol, y le baja un poco pero vuelve a subir.  
+39. Médico: Es normal que las fiebres sean intermitentes. ¿Mateo ha tenido algún problema para respirar?  
+40. Paciente: No, aunque sí tose mucho.  
+41. Médico: ¿La tos es seca o parece que trae flemas?  
+42. Paciente: Es seca.  
+43. Médico: Gracias por toda esta información. Durante el examen, noté las manchas en su boca y el sarpullido típico en cuerpo y extremidades.  
+44. Paciente: ¿Entonces, qué tiene?  
+45. Médico: Con los datos que me diste, creo que Mateo tiene una infección por el virus del sarampión.  
+46. Paciente: ¿El sarampión?  
+47. Médico: Sí, es una enfermedad viral común en niños no vacunados, especialmente después de viajes a áreas con brotes.  
+48. Paciente: ¿Es peligroso?  
+49. Médico: Puede serlo si hay complicaciones, pero lo revisaremos y daremos el tratamiento adecuado.  
+50. Paciente: Entendido, muchas gracias, doctor."

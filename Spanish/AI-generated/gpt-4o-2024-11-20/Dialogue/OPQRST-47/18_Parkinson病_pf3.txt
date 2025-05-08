@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señor. ¿Qué lo trae hoy a la consulta?  
+2. Paciente: Buenos días, doctor. Últimamente he notado que mi mano izquierda tiembla cuando estoy en reposo.  
+3. Médico: Entiendo. ¿Cuánto tiempo lleva con este temblor?  
+4. Paciente: Diría que empezó hace unos seis meses, pero al principio era muy leve.  
+5. Médico: ¿El temblor es constante o viene y va?  
+6. Paciente: No es todo el tiempo. Aparece cuando estoy relajado, sentado viendo televisión, por ejemplo.  
+7. Médico: ¿El temblor desaparece si usa la mano para hacer algo?  
+8. Paciente: Sí, cuando muevo la mano o la uso para escribir, el temblor casi desaparece.  
+9. Médico: ¿Ha notado algún cambio en su equilibrio o problemas al caminar?  
+10. Paciente: Sí, ahora que lo menciona, me tropiezo más de lo normal, sobre todo cuando giro o cambio de dirección.  
+11. Médico: ¿Ha tenido alguna caída por esos tropiezos?  
+12. Paciente: No, por suerte no me he caído, pero siento que ya es más difícil mantener el equilibrio.  
+13. Médico: ¿Qué tal le va con actividades diarias como vestirse o abotonarse una camisa?  
+14. Paciente: Me tardo más de lo usual, sobre todo al abotonar, pero lo logro.  
+15. Médico: ¿Ha sentido alguna rigidez o dolor en sus extremidades?  
+16. Paciente: Ahora que lo dice, mi brazo izquierdo a veces se siente como más rígido.  
+17. Médico: ¿Tiene dificultad al levantar objetos o realizar tareas con la mano izquierda?  
+18. Paciente: Un poco, pero no me impide usarla.  
+19. Médico: ¿Ha notado algún cambio en su forma de caminar?  
+20. Paciente: Sí, siento que mi brazo izquierdo no se mueve tanto al caminar, como si estuviera más rígido.  
+21. Médico: ¿Algún problema de memoria o confusión recientemente?  
+22. Paciente: No, en realidad mi mente está bien, no he notado nada raro.  
+23. Médico: ¿Qué me puede decir sobre su estado de ánimo? ¿Se ha sentido más triste o desanimado?  
+24. Paciente: He estado un poco preocupado por estos síntomas, pero en general estoy bien.  
+25. Médico: ¿Algún antecedente médico relevante en su familia?  
+26. Paciente: No, nadie en mi familia ha tenido problemas similares.  
+27. Médico: ¿Está tomando algún medicamento actualmente?  
+28. Paciente: No, no tomo nada.  
+29. Médico: ¿Fuma o consume alcohol?  
+30. Paciente: Pocas veces bebo alcohol, y no fumo.  
+31. Médico: Perfecto, ahora vamos a examinarlo. ¿Le parece si revisamos cómo se encuentran su fuerza y coordinación?  
+32. Paciente: Claro, doctor, no hay problema.  
+33. Médico: Note que su mano izquierda presenta un temblor fino al estar en reposo. ¿Es algo que empeora cuando está nervioso o cansado?  
+34. Paciente: Sí, lo he notado más en esos momentos.  
+35. Médico: Ahora revisemos su rigidez. Al mover su brazo izquierdo, hay un patrón de ""rueda dentada"". ¿Siente algo de tensión en los músculos?  
+36. Paciente: Sí, lo siento como si estuvieran más tensos.  
+37. Médico: Por último, realice este movimiento rápido con los dedos. Alterne entre el índice y el pulgar.  
+38. Paciente: Bien, pero me cuesta un poco ir rápido.  
+39. Médico: Perfecto, gracias. Ahora quiero observar cómo camina. Camine unos pasos hacia adelante, por favor.  
+40. Paciente: Claro, aquí voy.  
+41. Médico: Veo que hay una disminución en el braceo del lado izquierdo y los pasos son algo cortos. ¿Le cuesta iniciar el movimiento?  
+42. Paciente: Sí, a veces siento que mi cuerpo tarda en arrancar.  
+43. Médico: Vamos a apoyarnos con algunos estudios. Haremos una resonancia magnética y un estudio específico para evaluar dopamina en su cerebro.  
+44. Paciente: Está bien, doctor, lo que sea necesario.  
+45. Médico: Muy bien, cuando tengamos los resultados, podremos hablar más sobre lo que está ocurriendo.  
+46. (Días después) Médico: Hemos recibido los resultados de sus estudios. Su resonancia no muestra cambios significativos, pero el SPECT cerebral evidencia una disminución de dopamina en el hemisferio derecho.  
+47. Paciente: ¿Qué significa eso, doctor?  
+48. Médico: Con base en sus síntomas, el examen físico y los estudios, parece que estamos ante un caso de Parkinson idiopático.  
+49. Paciente: ¿Entonces tengo Parkinson?  
+50. Médico: Sí, pero asegúrese de que con el tratamiento adecuado puede mejorar sus síntomas y continuar con sus actividades diarias."

@@ -1,0 +1,149 @@
+"1.  
+Doctor: What brings you here today?  
+Patient: I've been having really bad pain in my right upper abdomen for the past 24 hours.  
+2.  
+Doctor: Can you describe the pain?  
+Patient: It's constant, very severe, and it feels like it’s going to my right shoulder.  
+3.  
+Doctor: Have you experienced anything like this before?  
+Patient: No, this is the first time I’ve ever felt like this.  
+4.  
+Doctor: Did the pain start suddenly or gradually?  
+Patient: It came on all of a sudden.  
+5.  
+Doctor: Do you have any nausea or vomiting?  
+Patient: Yes, I feel really nauseous, but I haven’t thrown up.  
+6.  
+Doctor: Have you had any fever or chills?  
+Patient: Yes, I’ve been feeling a bit feverish and have chills too.  
+7.  
+Doctor: Have you noticed any changes in your urine or stools?  
+Patient: My urine has been much darker than usual. My stools seem normal, though.  
+8.  
+Doctor: Have you noticed your skin or eyes turning yellow?  
+Patient: Yes, my wife told me my eyes look a bit yellow.  
+9.  
+Doctor: Have you had any recent weight loss or changes in your appetite?  
+Patient: No, my weight and appetite have been normal.  
+10.  
+Doctor: Any history of trauma to your abdomen?  
+Patient: No, none at all.  
+11.  
+Doctor: Do you have a prior history of gallstones or any abdominal surgeries?  
+Patient: No, I’ve never had gallstones or surgery before.  
+12.  
+Doctor: Do you drink alcohol or smoke?  
+Patient: No, I don’t drink or smoke.  
+13.  
+Doctor: Are you currently on any medications?  
+Patient: No, I don’t take any medications regularly.  
+14.  
+Doctor: Has anyone in your family had gallbladder problems or liver disease?  
+Patient: Not that I’m aware of.  
+15.  
+Doctor: How’s your overall health been recently?  
+Patient: Pretty good. I haven’t had any major health issues before this.  
+16.  
+Doctor: Have you been under any stress recently or made diet changes?  
+Patient: No major stress, and my diet has been the same as usual.  
+17.  
+Doctor: Do you have any other symptoms, like chest pain or trouble breathing?  
+Patient: No, my chest feels fine, and I’m breathing normally.  
+18.  
+Doctor: Have you had any recent travel or exposure to anyone who’s sick?  
+Patient: No, I’ve been at home most of the time.  
+19.  
+Doctor: Have you experienced any episodes of diarrhea or constipation along with this?  
+Patient: No, my bowel habits have been normal.  
+20.  
+Doctor: On a scale of 1 to 10, how would you rate your pain?  
+Patient: It’s definitely a 10.  
+21.  
+Doctor: Is anything making the pain worse or better?  
+Patient: Nothing really makes it better, but pressing on it makes it worse.  
+22.  
+Doctor: Can you point to the exact area where it hurts the most?  
+Patient: It’s right here in the upper right side of my abdomen.  
+23.  
+Doctor: Have you had any issues with your heart, liver, or other major organs before?  
+Patient: No, I haven’t had any problems with those.  
+24.  
+Doctor: Do you have any food allergies or intolerances?  
+Patient: No, I can eat pretty much everything.  
+25.  
+Doctor: Are you feeling lightheaded or dizzy at all?  
+Patient: Not really, just very uncomfortable because of the pain.  
+26.  
+Doctor: Have you had any rashes or itching alongside the jaundice?  
+Patient: No rashes or itching.  
+27.  
+Doctor: Have you been urinating less than usual?  
+Patient: No, the amount seems normal, but like I said, it’s much darker.  
+28.  
+Doctor: When was the last time you checked your temperature at home?  
+Patient: I haven’t checked it, but I know I feel feverish.  
+29.  
+Doctor: Are you able to lie down comfortably, or does moving make it worse?  
+Patient: Moving around seems to make it worse.  
+30.  
+Doctor: Did you eat anything unusual or oily recently?  
+Patient: No, nothing unusual lately.  
+31.  
+Doctor: Does the pain feel sharp, dull, or something else?  
+Patient: It’s sharp and constant.  
+32.  
+Doctor: Do you feel bloated or full after eating?  
+Patient: Not really, but I didn’t eat much today because of the pain.  
+33.  
+Doctor: Have you had any colds, coughs, or other illnesses recently?  
+Patient: No, I’ve been feeling fine health-wise until this pain started.  
+34.  
+Doctor: Do you have a history of diabetes or high blood pressure?  
+Patient: No, none of those.  
+35.  
+Doctor: Do you recall straining yourself, like lifting heavy objects?  
+Patient: No, I haven’t done anything like that.  
+36.  
+Doctor: Have you had any past episodes of jaundice or liver issues?  
+Patient: No, this is the first time my eyes have turned yellow.  
+37.  
+Doctor: Have you noticed any swelling in your abdomen or legs?  
+Patient: No, no swelling that I’ve noticed.  
+38.  
+Doctor: Do you feel the chills mostly at night or throughout the day?  
+Patient: It’s been happening on and off, mostly during the day.  
+39.  
+Doctor: Do you usually stay hydrated and drink enough water?  
+Patient: Yes, I drink water regularly.  
+40.  
+Doctor: Do you get any relief from over-the-counter pain medicine?  
+Patient: I didn’t take any because the pain is so severe I thought I needed help here.  
+41.  
+Doctor: Have you been having any headaches or vision problems?  
+Patient: No, my head and eyes feel fine other than the yellowing.  
+42.  
+Doctor: How long after the pain started did you notice the yellowing of your eyes?  
+Patient: It was about a day after the pain started.  
+43.  
+Doctor: How is your appetite today?  
+Patient: I’ve barely eaten because of the nausea and pain.  
+44.  
+Doctor: Do you recall having any abdominal ultrasounds or scans in the past?  
+Patient: No, I’ve never needed one before.  
+45.  
+Doctor: Do you have any seasonal allergies?  
+Patient: No allergies at all.  
+46.  
+Doctor: Do you feel any numbness or tingling in your arms or legs?  
+Patient: No, I haven’t felt anything like that.  
+47.  
+Doctor: Do you sleep well despite the pain?  
+Patient: No, I couldn’t sleep much last night because of it.  
+48.  
+Doctor: Do you have any dental issues that could be related to an infection?  
+Patient: No, my teeth and gums are fine.  
+49.  
+Doctor: Did you try eating or drinking anything to ease the discomfort?  
+Patient: No, I didn’t think that would help at all.  
+50.  
+Doctor: Based on your symptoms, exam findings, and test results, I believe you have acute calculous cholecystitis, an inflammation of your gallbladder caused by gallstones."

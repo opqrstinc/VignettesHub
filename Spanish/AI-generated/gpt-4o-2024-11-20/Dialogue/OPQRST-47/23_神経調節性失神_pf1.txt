@@ -1,0 +1,50 @@
+"1. Médico: ¿Qué tal, señor? ¿Qué le trae hoy por aquí?  
+2. Paciente: Hola, doctor. La semana pasada me desmayé durante una reunión familiar.  
+3. Médico: ¿Podría describir exactamente lo que ocurrió antes del desmayo?  
+4. Paciente: Claro. Estaba de pie durante unos 15 minutos en un lugar bastante caluroso y sin ventilación. De repente, empecé a sentirme mareado y con náuseas.  
+5. Médico: Entiendo. ¿Qué más sintió en ese momento?  
+6. Paciente: Comencé a sudar mucho, mi visión se volvió borrosa, y sentí unas palpitaciones fuertes. Luego, todo se puso negro.  
+7. Médico: ¿Llegó a golpearse al caer?  
+8. Paciente: No, creo que no me golpeé. Estaba rodeado de familiares, y me dijeron que me sujetaron al caer.  
+9. Médico: ¿Cuánto tiempo estuvo inconsciente?  
+10. Paciente: Me dijeron que solo estuve inconsciente unos 30 segundos.  
+11. Médico: ¿Se sintió confundido o desorientado al despertar?  
+12. Paciente: No, desperté bien. Solo me sentí un poco débil al principio.  
+13. Médico: ¿Le había pasado algo similar antes?  
+14. Paciente: No, es la primera vez que me pasa algo así.  
+15. Médico: ¿Tiene antecedentes de enfermedades del corazón o algún otro padecimiento crónico?  
+16. Paciente: No, siempre he sido sano. Nunca he tenido problemas del corazón.  
+17. Médico: ¿Alguien en su familia tiene antecedentes de desmayos, epilepsia o problemas cardíacos?  
+18. Paciente: No que yo sepa. Mi familia es bastante saludable.  
+19. Médico: Mencionó palpitaciones antes del desmayo. ¿Las ha sentido en otras ocasiones?  
+20. Paciente: No, creo que fue la primera vez que noté algo así.  
+21. Médico: ¿Notó si el desmayo ocurrió después de realizar alguna actividad física?  
+22. Paciente: No, estaba solo de pie hablando con mi primo, nada agotador.  
+23. Médico: ¿Qué tan frecuente consume agua u otros líquidos durante el día?  
+24. Paciente: Ahora que lo pienso, ese día no había tomado mucha agua, tal vez un vaso o dos.  
+25. Médico: ¿Ha tenido problemas recientes con el estrés o la falta de sueño?  
+26. Paciente: Bueno, he tenido un par de semanas estresantes en el trabajo, pero he estado durmiendo lo suficiente.  
+27. Médico: ¿Consumió alcohol o alguna sustancia inusual ese día?  
+28. Paciente: No, apenas un poco de refresco.  
+29. Médico: ¿Recuerda haber notado si sudaba más de lo habitual antes de desmayarse?  
+30. Paciente: Sí, estaba sudando muchísimo incluso antes de comenzar a sentirme mal.  
+31. Médico: ¿Ha experimentado mareos o visión borrosa en otros momentos, ya sea al levantarse de la cama o al estar de pie mucho tiempo?  
+32. Paciente: A veces siento un poco de mareo si me levanto rápido, pero nada como lo de ese día.  
+33. Médico: ¿Cuándo fue la última vez que le revisaron sus análisis de sangre?  
+34. Paciente: Hace más de un año, pero no encontraron nada fuera de lo normal.  
+35. Médico: ¿Suele consumir comidas altas en sal o sigue alguna dieta especial?  
+36. Paciente: No tengo una dieta especial, pero creo que no como demasiada sal.  
+37. Médico: ¿Nota que sus síntomas empeoran en lugares calurosos o mal ventilados?  
+38. Paciente: Sí, definitivamente el calor me afecta un poco más de lo normal.  
+39. Médico: ¿Participa regularmente en actividades físicas o algún deporte?  
+40. Paciente: Hago ejercicio tres veces por semana, pero no es algo muy intenso.  
+41. Médico: ¿Ha perdido peso recientemente o ha tenido fiebre?  
+42. Paciente: No, mi peso es estable y no he tenido fiebre.  
+43. Médico: ¿Qué ocurrió después de que recuperó la consciencia?  
+44. Paciente: Me ayudaron a sentarme y me dieron agua. Me recuperé en unos minutos.  
+45. Médico: ¿Cómo se siente al estar de pie durante largos periodos?  
+46. Paciente: Generalmente no tengo problemas, pero ese día fue diferente.  
+47. Médico: ¿Le han realizado estudios médicos previamente por otros motivos?  
+48. Paciente: Sí, algunos exámenes comunes, pero siempre todo ha salido bien.  
+49. Médico: Basándome en lo que me cuenta y los estudios que realizamos, creo que se trata de síncope vasovagal.  
+50. Paciente: Entiendo. ¿Eso es algo serio?"

@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, ¿qué lo trae hoy a consulta?  
+2. Paciente: Buenas tardes, tengo mucho dolor de garganta desde hace tres días.  
+3. Médico: Entiendo, ¿desde cuándo comenzó el dolor exactamente?  
+4. Paciente: Fue de repente, el lunes en la noche empezó.  
+5. Médico: ¿Ha notado fiebre o algún otro síntoma?  
+6. Paciente: Sí, he tenido fiebre alta, hasta 39 grados, y no se me quita.  
+7. Médico: ¿La fiebre apareció al inicio del dolor de garganta?  
+8. Paciente: Sí, todo empezó más o menos al mismo tiempo.  
+9. Médico: ¿Tiene tos o congestión nasal?  
+10. Paciente: No, nada de eso.  
+11. Médico: ¿Le cuesta tragar alimentos o líquidos?  
+12. Paciente: Muchísimo, me duele mucho cuando intento tragar.  
+13. Médico: De acuerdo. ¿Ha notado cansancio general o algún otro malestar?  
+14. Paciente: Sí, me siento muy cansado y también me duele la cabeza.  
+15. Médico: Comprendo. ¿Tiene alguna alergia conocida a medicamentos?  
+16. Paciente: No, que yo sepa no soy alérgico a nada.  
+17. Médico: ¿Le ha pasado algo similar antes? ¿Algún episodio de dolor de garganta en el pasado?  
+18. Paciente: No, nunca me había sentido así.  
+19. Médico: ¿Alguien en casa o en su trabajo ha estado enfermo recientemente?  
+20. Paciente: No que yo sepa, todos están bien.  
+21. Médico: Perfecto. Ahora le revisaré, abra grande la boca, por favor.  
+22. Paciente: Claro, doctor.  
+23. Médico: Veo las amígdalas muy rojas y con algo de pus. ¿Ha notado mal olor en su boca o sabor extraño?  
+24. Paciente: Sí, noto un mal sabor todo el tiempo.  
+25. Médico: ¿Ha sentido inflamación o dolor en el cuello?  
+26. Paciente: Sí, acá en los lados.  
+27. Médico: Al tocar el cuello, ¿esto le duele?  
+28. Paciente: Sí, bastante doloroso.  
+29. Médico: Muy bien. ¿Ha tenido problemas para respirar?  
+30. Paciente: No, para respirar no tengo problema.  
+31. Médico: ¿Ha tenido problemas estomacales como diarrea o náuseas?  
+32. Paciente: No, nada de eso.  
+33. Médico: Perfecto, ya tengo una buena idea de lo que podría estar pasando. Vamos a confirmar con algunas pruebas.  
+34. Paciente: Está bien, lo que sea necesario.  
+35. Médico: Le haré un test rápido para verificar si una bacteria específica podría estar causando su dolor de garganta.  
+36. Paciente: Eso está bien. ¿Es algo complicado?  
+37. Médico: No, es rápido. Solo tomaremos una muestra de su garganta.  
+38. Paciente: De acuerdo, doctor, hagámoslo.  
+39. Médico: Muy bien, ahora tomamos la muestra. Espere un momento mientras tenemos el resultado.  
+40. Paciente: Está bien, gracias.  
+41. Médico: Bueno, el resultado salió positivo para una infección por Streptococcus pyogenes.  
+42. Paciente: ¿Eso es grave?  
+43. Médico: No se preocupe, pero necesita tratamiento específico con antibióticos.  
+44. Paciente: Entiendo, ¿qué debo tomar?  
+45. Médico: Le recetaré amoxicilina, 500 mg cada ocho horas por 10 días. Esto eliminará la infección.  
+46. Paciente: Perfecto, lo tomaré como me indica.  
+47. Médico: Para el dolor y la fiebre, puede tomar ibuprofeno 400 mg cada ocho horas si lo necesita.  
+48. Paciente: Muchas gracias, doctor, lo haré.  
+49. Médico: Recuerde también evitar contacto cercano con otras personas durante las primeras 24 horas de tratamiento.  
+50. Paciente: Claro, seré cuidadoso. Gracias de nuevo."

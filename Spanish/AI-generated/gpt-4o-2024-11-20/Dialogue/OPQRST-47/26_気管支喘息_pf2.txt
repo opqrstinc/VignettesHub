@@ -1,0 +1,50 @@
+"1. Médico: ¿Qué tal, cómo te encuentras hoy?  
+2. Paciente: Bueno, últimamente no me he sentido muy bien.  
+3. Médico: Entendido, cuéntame un poco más, ¿qué es lo que te está molestando?  
+4. Paciente: Tengo dificultad para respirar, sobre todo por las noches, y siento como una presión en el pecho.  
+5. Médico: ¿Desde cuándo has tenido estos síntomas?  
+6. Paciente: Empezaron hace como dos años, pero eran de vez en cuando. Ahora son más frecuentes y fuertes.  
+7. Médico: ¿Este problema de respiración viene acompañado de tos?  
+8. Paciente: Sí, toso mucho, pero no saco flema.  
+9. Médico: ¿Dirías que la tos aumenta en algún momento del día?  
+10. Paciente: Sí, sobre todo en la noche, o cuando hago ejercicio.  
+11. Médico: ¿Has notado algo que empeore tu respiración, como el polvo o cambios de temperatura?  
+12. Paciente: Sí, creo que el polvo lo empeora. Siempre he tenido alergia a los ácaros.  
+13. Médico: ¿Has tratado esa alergia antes?  
+14. Paciente: No, nunca he seguido un tratamiento regular.  
+15. Médico: ¿Algún otro síntoma adicional, como fiebre o dolor en el pecho al respirar?  
+16. Paciente: No, solo la opresión en el pecho y la tos.  
+17. Médico: ¿En tu casa alguien fuma o estás expuesta al humo de cigarro?  
+18. Paciente: No, nadie fuma en casa.  
+19. Médico: ¿Tienes algún familiar con asma o problemas respiratorios?  
+20. Paciente: No, que yo sepa nadie en mi familia tiene asma.  
+21. Médico: ¿Y tú, has fumado alguna vez?  
+22. Paciente: No, nunca he fumado.  
+23. Médico: ¿Has notado si estos episodios afectan tu vida diaria o actividades, como estudios o deporte?  
+24. Paciente: Sí, me cuesta mucho correr o hacer deporte. Me falta el aire.  
+25. Médico: Entendido. ¿Has tenido que ir a urgencias por este problema?  
+26. Paciente: No, pero he pensado en hacerlo porque a veces se pone complicado.  
+27. Médico: ¿En algún momento estas crisis te han despertado en la noche?  
+28. Paciente: Sí, me pasa seguido en las últimas semanas.  
+29. Médico: ¿Has usado algún medicamento por tu cuenta para aliviar los síntomas?  
+30. Paciente: No, solo trato de descansar y esperar que pase.  
+31. Médico: En los últimos meses, ¿has tenido resfriados frecuentes o infecciones?  
+32. Paciente: No, la verdad no me enfermo mucho.  
+33. Médico: ¿Empiezas a sentir esta presión en el pecho solo con el ejercicio, o sucede también en reposo?  
+34. Paciente: Antes era solo con el ejercicio, pero ahora me pasa también cuando estoy descansando.  
+35. Médico: ¿Alguna vez has experimentado zumbidos en el pecho o un sonido raro al respirar?  
+36. Paciente: Sí, a veces siento como un silbido cuando respiro, sobre todo cuando exhalo.  
+37. Médico: Mientras hablas, noto que no estás usando tus músculos para respirar extra, ¿sientes que estás mejor en este momento?  
+38. Paciente: Ahora no es tan malo como otras veces, pero todavía siento algo de opresión.  
+39. Médico: ¿Cómo describirías tu energía en general? ¿Te sientes más cansada desde que comenzó esto?  
+40. Paciente: Sí, me siento más cansada últimamente. No tengo tanta energía como antes.  
+41. Médico: ¿Has notado cambios en tus horarios de sueño o dificultad para descansar?  
+42. Paciente: Sí, me cuesta dormir porque siento que no puedo respirar bien.  
+43. Médico: ¿Cómo describirías tu estado de ánimo con todo esto?  
+44. Paciente: Me siento un poco frustrada. No entiendo por qué me pasa esto.  
+45. Médico: Comprendido. Ahora vamos a revisar algunos detalles con tu exploración y pruebas.  
+46. Médico: Tu espirometría muestra ciertos cambios en la capacidad de tus pulmones para exhalar. Usaremos un tratamiento para medir tu respuesta.  
+47. Paciente: Está bien, haré lo que me diga.  
+48. Médico: He notado que respondes al salbutamol, lo que indica que podrías tener inflamación en los bronquios.  
+49. Paciente: ¿Eso significa que tiene solución?  
+50. Médico: Los resultados apuntan a una condición llamada asma persistente moderada."

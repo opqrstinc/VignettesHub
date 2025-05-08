@@ -1,0 +1,50 @@
+"1. 医師：Hello, how can I assist you today?  
+2. 患者：I’ve been feeling extremely tired and just not hungry for about six months now.  
+3. 医師：I'm sorry to hear that. Can you tell me a bit more about how these symptoms started and how they've changed?  
+4. 患者：It started gradually, but the tiredness has gotten worse. I feel like I can hardly get through my daily tasks or focus at work anymore.  
+5. 医師：That sounds difficult. Do you feel tired all the time, or are there parts of the day when it’s better or worse?  
+6. 患者：It’s worse in the mornings. I wake up feeling exhausted and just… heavy.  
+7. 医師：How’s your mood been during this time?  
+8. 患者：Not great. I feel down most days, like there’s no real point to anything I’m doing.  
+9. 医師：I see. Have you noticed any changes in your sleep?  
+10. 患者：Yes, I’ve been having trouble falling asleep, and when I do sleep, I wake up a lot during the night or really early in the morning.  
+11. 医師：That must make the fatigue even harder to deal with. Have you experienced any changes in your weight over this time?  
+12. 患者：No, my weight hasn’t really changed, but I’m barely eating. I just don’t feel hungry.  
+13. 医師：Have you had any specific situations or events that triggered these feelings?  
+14. 患者：I can’t think of anything specific, but I’ve been missing a lot of work and avoiding friends because I feel so low and...lonely.  
+15. 医師：That’s a tough position to be in. Have you had any thoughts of harming yourself or ending your life?  
+16. 患者：No, not really. I feel hopeless sometimes, but nothing like that.  
+17. 医師：Thank you for sharing that. Have you had any medical issues in the past that you think might relate to this?  
+18. 患者：I’ve had IBS for years, but it hasn’t really been acting up lately.  
+19. 医師：How about your energy levels—have you noticed weakness or difficulty even doing small tasks?  
+20. 患者：Yes, even small things like washing the dishes feel like they're too much sometimes.  
+21. 医師：I understand. Have you noticed any trouble thinking or focusing?  
+22. 患者：Yes, it’s really hard to concentrate. I feel like my brain is just sluggish all the time.  
+23. 医師：What about your emotions—do you often feel guilt or worthlessness during the day?  
+24. 患者：Yes, I feel like I’m failing at everything, and I don’t even know why.  
+25. 医師：Do you have any particular hobbies or things you used to enjoy? Are you still doing them?  
+26. 患者：I used to like painting, but I haven’t done it in months. I don’t have the energy or interest anymore.  
+27. 医師：Have you had any recent illnesses or infections in the last six months?  
+28. 患者：No, I can’t think of any.  
+29. 医師：Any history of using substances like alcohol, drugs, or any medications regularly?  
+30. 患者：No, I don’t drink or use drugs.  
+31. 医師：What about your family or social life—are you feeling supported by those around you?  
+32. 患者：I don’t think so. I’ve been withdrawing from everyone lately, and I think they don’t understand what’s wrong with me.  
+33. 医師：Thank you for telling me that. Can I ask if you’ve ever felt this way before at any other point in your life?  
+34. 患者：No, nothing like this.  
+35. 医師：Do you feel like these symptoms are affecting your ability to work or maintain your relationships?  
+36. 患者：Definitely. I’m falling behind at my job, and my partner and I have been arguing a lot because I’ve been so withdrawn.  
+37. 医師：What about physical symptoms like body aches, headaches, or anything unusual that you’ve noticed?  
+38. 患者：Not really. Just the fatigue and the lack of sleep.  
+39. 医師：Would you describe yourself as easily stressed or overwhelmed during this time?  
+40. 患者：Yes, very much so. Small things feel like they’re too much to handle.  
+41. 医師：Have you noticed any moments of feeling better temporarily, or does it feel constant?  
+42. 患者：It feels constant. I rarely have good days anymore.  
+43. 医師：Do you recall feeling particularly stressed at work before these feelings started?  
+44. 患者：Maybe a little, but nothing unusually stressful.  
+45. 医師：You mentioned IBS earlier—have you had digestive issues or changes during this time?  
+46. 患者：No changes, but I’m eating so little that my stomach doesn’t bother me much.  
+47. 医師：Have you tried anything to help with how you’ve been feeling—rest, exercise, anything else?  
+48. 患者：I’ve tried sleeping more, but I just can't seem to get good rest.  
+49. 医師：I understand. Based on everything you’ve told me and some questionnaires we’ve reviewed, it seems that you may be experiencing something we call major depressive disorder.  
+50. 患者：I was worried it might be something like that. What can we do about it?"

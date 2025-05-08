@@ -1,0 +1,51 @@
+"1. Médico: Buenos días, señor. ¿Qué lo trae a consulta hoy?  
+2. Paciente: Buenos días, doctor. He estado sintiéndome muy incómodo últimamente, como si tuviera el estómago lleno todo el tiempo, incluso sin comer mucho.  
+3. Médico: Entiendo. ¿Cuánto tiempo ha tenido esta sensación de plenitud?  
+4. Paciente: Ya van unas ocho semanas, más o menos.  
+5. Médico: ¿Nota si esta sensación empeora después de las comidas o varía a lo largo del día?  
+6. Paciente: Sí, definitivamente empeora después de comer.  
+7. Médico: ¿Ha tenido náuseas o algún otro síntoma?  
+8. Paciente: Sí, a veces siento náuseas, pero no vomito. También eructo frecuentemente.  
+9. Médico: ¿Y el dolor? ¿Ha sentido dolor en la parte superior del abdomen o en cualquier otra parte?  
+10. Paciente: No, dolor intenso no, solo un poco de molestia en la parte alta del estómago.  
+11. Médico: ¿Ha notado algún cambio en su peso reciente, pérdida de apetito o dificultad para comer?  
+12. Paciente: No, mi peso no ha cambiado mucho y como normal, aunque a veces me siento muy lleno rápidamente.  
+13. Médico: ¿Ha tenido problemas de ardor o acidez en la garganta o el pecho?  
+14. Paciente: No, ese tipo de síntomas no.  
+15. Médico: Bien, ahora quiero preguntarle sobre sus antecedentes médicos. ¿Tiene alguna enfermedad crónica o toma medicamentos regularmente?  
+16. Paciente: Sí, tengo diabetes y tomo metformina, 850 mg dos veces al día.  
+17. Médico: Perfecto, gracias por la información. ¿Qué tal ha estado su control de la diabetes?  
+18. Paciente: Bastante bien, creo. Mi última prueba fue hace unos meses y mi médico dijo que estaba estable.  
+19. Médico: Muy bien. ¿Ha tomado algún otro medicamento, como antiinflamatorios o algo para aliviar los síntomas?  
+20. Paciente: No, solo la metformina.  
+21. Médico: ¿Ha tenido alguna infección gastrointestinal reciente, como diarrea o fiebre?  
+22. Paciente: No, nada de eso.  
+23. Médico: ¿Qué hay de su dieta? ¿Come normalmente comidas grasosas, picantes o con muchas gaseosas?  
+24. Paciente: Bueno, a veces como algo grasoso, pero trato de evitarlo. Gaseosas, sí, de vez en cuando me gusta.  
+25. Médico: Entendido. ¿Consumió alcohol o fuma?  
+26. Paciente: No fumo. De vez en cuando bebo, pero nada exagerado.  
+27. Médico: Perfecto. ¿Ha tenido episodios de estrés o presión últimamente en su vida diaria o trabajo?  
+28. Paciente: No diría que mucho más que lo normal, la vida diaria y el trabajo pueden ser algo estresantes, pero nada fuera de lo común.  
+29. Médico: Comprendido. Ahora, durante el examen físico, noté algo de molestia en la parte alta del abdomen. ¿Es esa la molestia que siente usualmente?  
+30. Paciente: Sí, doctor, exactamente esa.  
+31. Médico: Su exploración física está dentro de lo normal fuera de esa pequeña molestia epigástrica. Voy a ordenar algunos estudios para descartar otras causas posibles.  
+32. Paciente: Muy bien, doctor.  
+33. Médico: Vamos a realizar análisis de laboratorio y pruebas específicas para evaluar su sistema digestivo. Por favor, asegúrese de seguir las instrucciones.  
+34. Paciente: Claro, lo haré.  
+35. Médico: Los resultados muestran que todo está dentro de los límites normales. Esto incluye su función hepática, renal y niveles de glucosa. Tampoco hay evidencia de infecciones bacterianas como H. pylori.  
+36. Paciente: Entonces, ¿qué podría ser?  
+37. Médico: Por ahora, considerando los síntomas persistentes y la ausencia de alteraciones en las pruebas, parece ser un caso de dispepsia funcional. Esto puede estar relacionado con cómo funciona su estómago después de comer.  
+38. Paciente: Entiendo. ¿Qué podemos hacer al respecto?  
+39. Médico: Iniciaremos un tratamiento que incluye omeprazol, para reducir la acidez, y domperidona, para mejorar la motilidad gástrica.  
+40. Paciente: ¿Eso ayudará con la sensación de plenitud?  
+41. Médico: Sí, debería aliviar mucho sus síntomas. También le recomendaré algunos cambios dietéticos, como comer menos cantidad en cada comida y evitar alimentos grasosos, picantes y gaseosos.  
+42. Paciente: De acuerdo, lo intentaré.  
+43. Médico: Finalmente, aunque usted no menciona estrés significativo, algunas prácticas de relajación pueden ser útiles para manejar cualquier situación que pueda estar contribuyendo.  
+44. Paciente: Eso suena bien. Lo intentaré también.  
+45. Médico: Perfecto. ¿Tiene alguna otra pregunta o preocupación que quiera comentar?  
+46. Paciente: Por el momento no. Estoy listo para intentar el tratamiento y hacer los cambios.  
+47. Médico: Excelente. Espero que note mejoría pronto. Haré seguimiento de su progreso en unas semanas.  
+48. Paciente: Muchas gracias, doctor. Confío en que esto ayudará.  
+49. Médico: Seguro que sí. Por favor, no dude en contactarme si surgen nuevos síntomas o preocupaciones.  
+50. Paciente: Lo haré, gracias otra vez.  
+"

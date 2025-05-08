@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, ¿puede contarme qué le trae por aquí hoy?  
+2. Paciente: Buenos días, tengo fiebre y me siento muy cansada desde hace una semana. Además, mi piel y ojos están amarillos.  
+3. Médico: Entiendo. ¿Desde cuándo comenzó usted a sentirse así?  
+4. Paciente: Hace siete días, primero sentí una fatiga muy fuerte y luego fiebre.  
+5. Médico: ¿La fiebre ha sido constante? ¿Ha tenido escalofríos o sudoración nocturna?  
+6. Paciente: La fiebre va y viene, y llega hasta 38.5°C. No he tenido escalofríos ni sudores nocturnos.  
+7. Médico: ¿Cuándo notó que su piel y ojos estaban amarillos?  
+8. Paciente: Me di cuenta hace como cinco días, pero ha ido empeorando.  
+9. Médico: Entendido. ¿Ha sentido náuseas, vómitos o algún malestar estomacal?  
+10. Paciente: No, no he tenido nada de eso.  
+11. Médico: ¿Ha tenido diarrea o algún cambio en el hábito intestinal?  
+12. Paciente: No, sigo igual en ese sentido.  
+13. Médico: ¿Algún dolor abdominal o molestia?  
+14. Paciente: No, no me duele nada en el abdomen.  
+15. Médico: ¿Cómo describiría su orina estos días?  
+16. Paciente: Es muy oscura, como si fuera té, desde hace tres días.  
+17. Médico: ¿Y sus heces? ¿Ha notado alguna diferencia en su color?  
+18. Paciente: Sí, son más claras, como un gris pálido, pero no me pican ni nada.  
+19. Médico: Bien. ¿Ha estado tomando algún medicamento últimamente?  
+20. Paciente: No, no he tomado nada.  
+21. Médico: ¿Ha viajado recientemente o ha tenido contacto con alguien enfermo?  
+22. Paciente: No he viajado y no conozco a nadie que esté enfermo.  
+23. Médico: ¿Consume mariscos u otros alimentos crudos regularmente?  
+24. Paciente: No, siempre cocino los alimentos bien.  
+25. Médico: ¿Alguna vez ha recibido transfusiones de sangre o tiene antecedentes de enfermedades hepáticas?  
+26. Paciente: No, nunca he necesitado transfusiones, y no tengo problemas en el hígado.  
+27. Médico: ¿Sabe si alguien en su familia ha tenido hepatitis o alguna enfermedad del hígado?  
+28. Paciente: Que yo sepa, no hay nadie con problemas de ese tipo en mi familia.  
+29. Médico: Comprendo. Ahora, ¿alguna vez ha tenido ictericia antes o alguna otra enfermedad relevante?  
+30. Paciente: No, es la primera vez que me pasa esto.  
+31. Médico: ¿Cómo ha estado su apetito en los últimos días?  
+32. Paciente: Normal, no he notado ningún cambio.  
+33. Médico: ¿Ha consumido alcohol recientemente?  
+34. Paciente: No, no bebo alcohol.  
+35. Médico: ¿Tiene algún tipo de trabajo o actividad que implique riesgos de exposición a sustancias químicas?  
+36. Paciente: No, trabajo en una oficina, nada de riesgo.  
+37. Médico: ¿Ha tenido relaciones sexuales recientemente con alguna pareja nueva o sin protección?  
+38. Paciente: Bueno, tuve una pareja nueva hace unos meses, pero usamos condón.  
+39. Médico: Entendido. ¿Ha compartido utensilios personales como cepillos de dientes o rasuradoras?  
+40. Paciente: No, siempre uso mis cosas.  
+41. Médico: Perfecto, gracias por responder. Voy a hacerle un examen físico. ¿Está bien?  
+42. Paciente: Claro, adelante.  
+43. Médico: Veo que tiene ictericia evidente en la piel y los ojos. ¿Ha notado algo más en la piel como moretones o sarpullido?  
+44. Paciente: No, solo la piel amarilla.  
+45. Médico: Al palpar el abdomen, noto que el hígado está un poco agrandado pero no duele. ¿Se ha sentido más hinchada?  
+46. Paciente: No, no he sentido hinchazón.  
+47. Médico: Muy bien. Ahora realizaremos unos análisis de sangre para entender mejor la causa de sus síntomas.  
+48. Paciente: De acuerdo, mientras me ayude a sentirme mejor.  
+49. Médico: Los resultados de sus pruebas muestran que tiene hepatitis aguda causada por el virus de la hepatitis B.  
+50. Paciente: Eso explica los síntomas. ¿Qué debo hacer ahora?"

@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señor. Yo soy el Dr. García. ¿Cómo se encuentra hoy?  
+2. Paciente: Buenos días, doctor. Pues, la verdad, no estoy seguro… Me siento algo confundido a veces.  
+3. Médico: Entiendo. ¿Le molestaría si le hago algunas preguntas para entender mejor lo que está ocurriendo?  
+4. Paciente: Claro, pregunte lo que necesite.  
+5. Médico: Su hija está con usted, ¿verdad? ¿Podría ayudarnos también explicando cómo han estado las cosas en casa?  
+6. Hija: Sí, doctor. Desde hace un par de años hemos notado que mi papá olvida muchas cosas, como eventos recientes o conversaciones.  
+7. Médico: ¿Podría darme un ejemplo de algo que haya sucedido?  
+8. Hija: Por ejemplo, pregunta varias veces lo mismo en poco tiempo, como si ya lo hubiéramos hablado pero él no lo recordara.  
+9. Médico: ¿Cuándo comenzó a notar este tipo de olvidos?  
+10. Hija: Aproximadamente hace dos años, pero ha empeorado en los últimos meses.  
+11. Médico: ¿Además del olvido, ha tenido algún otro problema?  
+12. Hija: Sí, a veces tiene problemas para hablar. Parece que se le olvida cómo se llaman algunas cosas.  
+13. Médico: Señor, ¿ha notado que esto le pasa frecuentemente, como no recordar cómo se llaman ciertos objetos?  
+14. Paciente: Sí, a veces no sé cómo explicarme, y eso me frustra.  
+15. Médico: ¿Puede contarme si ha tenido problemas con tareas cotidianas, como manejar su dinero o recordar tomar sus medicamentos?  
+16. Hija: Sí, doctor. Antes era muy organizado, pero ahora necesita ayuda para todo eso.  
+17. Médico: ¿Ha tenido alguna caída o pérdida del equilibrio recientemente?  
+18. Paciente: No, en ese aspecto creo que estoy bien.  
+19. Médico: ¿Qué me puede decir sobre su estado de ánimo? ¿Se siente triste o ansioso con frecuencia?  
+20. Paciente: Sí, a veces me siento un poco bajo de ánimos, especialmente cuando no puedo recordar algo.  
+21. Médico: ¿Ha notado cambios en su apetito o su sueño?  
+22. Paciente: Mi sueño está bien, pero no tengo tanta hambre como antes.  
+23. Médico: ¿Alguien más en la familia ha tenido problemas parecidos de memoria u otros trastornos neurológicos?  
+24. Hija: No, que sepamos, nadie más en la familia ha pasado por algo así.  
+25. Médico: ¿Ha tenido algún problema reciente relacionado con dolores de cabeza o visión borrosa?  
+26. Paciente: No, no tengo problemas con eso.  
+27. Médico: ¿Recuerda si olvidó algo particularmente importante en el trabajo o en su vida diaria hace unos años?  
+28. Paciente: Sí… una vez olvidé el cumpleaños de mi nieta y eso nunca me había pasado.  
+29. Médico: ¿Siente que sus olvidos afectan mucho su vida hoy en día?  
+30. Paciente: Sí, me cuesta hacer cosas que antes eran fáciles para mí.  
+31. Médico: Muy bien. Vamos a hablar de unos detalles más técnicos. ¿Qué medicamentos toma actualmente?  
+32. Hija: Él toma medicación para la presión alta y algo para el colesterol, no recuerdo bien los nombres.  
+33. Médico: Entendido. ¿Algún cambio reciente en estos tratamientos?  
+34. Hija: No, lleva años tomándolos.  
+35. Médico: Le voy a realizar algunas preguntas breves sobre ciertos eventos del día de hoy. ¿Qué día es hoy?  
+36. Paciente: Hmm… creo que es sábado, ¿verdad?  
+37. Médico: Hoy es lunes, pero no se preocupe, esto es parte de lo que quiero evaluar. ¿Recuerda qué desayunó esta mañana?  
+38. Paciente: No, no lo recuerdo bien.  
+39. Médico: ¿Podría restar 7 a partir del número 100 sucesivamente?  
+40. Paciente: 100… 93… 86… No, creo que me confundí.  
+41. Médico: Está bien. Ahora, intente recordar estas tres palabras: manzana, silla, papel. Se las preguntaré más adelante.  
+42. Paciente: Está bien, doctor.  
+43. Médico: ¿Tendría dificultad si le pidiera que dibuje una figura geométrica, como un triángulo o un cuadrado?  
+44. Paciente: Puedo intentarlo, pero no sé si me saldría bien ahora.  
+45. Médico: Perfecto, vamos a intentarlo después. Mientras tanto, ¿ha notado algún cambio en su visión o en cómo reconoce lugares familiares?  
+46. Hija: A veces le cuesta ubicarse incluso en la casa.  
+47. Médico: Por último, ¿ha tenido algún episodio en el que se sintiera muy confundido o perdido?  
+48. Hija: Sí, una vez se salió de casa y se perdió en el vecindario.  
+49. Médico: Con toda esta información, tenemos una idea más clara. Señor, después de nuestros análisis y pruebas, creemos que usted podría estar desarrollando una condición llamada enfermedad de Alzheimer en etapa inicial a moderada.  
+50. Paciente: Ya veo… ¿Y eso qué significa exactamente, doctor?  "

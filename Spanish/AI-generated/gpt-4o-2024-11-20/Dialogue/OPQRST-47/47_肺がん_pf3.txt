@@ -1,0 +1,50 @@
+"1. Médico: ¿Qué lo trae hoy por aquí?  
+2. Paciente: Tengo una tos que no se me quita desde hace unos tres meses.  
+3. Médico: ¿Es una tos seca o con flema?  
+4. Paciente: Es con flema, y a veces tiene sangre.  
+5. Médico: ¿Con qué frecuencia nota la sangre?  
+6. Paciente: No siempre, quizá una o dos veces por semana.  
+7. Médico: ¿Ha tenido fiebre en este tiempo?  
+8. Paciente: No, para nada.  
+9. Médico: ¿Tiene dificultad para respirar o algún dolor en el pecho?  
+10. Paciente: No, no tengo problemas para respirar, y el pecho no me duele mucho, solo a veces como una ligera molestia.  
+11. Médico: Entendido. ¿Ha notado algún otro cambio en su salud?  
+12. Paciente: Sí, he bajado de peso, como siete kilos, pero no he hecho nada para que eso pase.  
+13. Médico: ¿Ha cambiado su apetito o sus hábitos alimenticios?  
+14. Paciente: No mucho, como más o menos igual que antes.  
+15. Médico: ¿Tiene algún antecedente médico importante?  
+16. Paciente: Nada relevante, siempre he sido más o menos sano.  
+17. Médico: ¿Algún hábito como fumar o beber alcohol?  
+18. Paciente: Sí, fumo desde los 18 años.  
+19. Médico: ¿Cuántos cigarrillos fuma al día?  
+20. Paciente: Como un paquete diario.  
+21. Médico: Eso es bastante tiempo de fumar. ¿Ha intentado dejarlo alguna vez?  
+22. Paciente: Sí, pero nunca lo he logrado por más de unas semanas.  
+23. Médico: Entendido. ¿Alguna vez consumió drogas?  
+24. Paciente: No, nunca.  
+25. Médico: ¿Tiene algún dolor o malestar en otras partes del cuerpo, como huesos o articulaciones?  
+26. Paciente: No, ninguna molestia.  
+27. Médico: ¿Cree que la tos afecta su sueño o actividades diarias?  
+28. Paciente: Sí, a veces toso tanto que me cuesta descansar bien.  
+29. Médico: Le voy a examinar. ¿Algún problema con su respiración al hacer actividades físicas?  
+30. Paciente: No mucho, aunque me canso un poco si subo escaleras.  
+31. Médico: Escucharé su pecho. Respire profundo por favor.  
+32. Médico: Noto algunos ruidos respiratorios y disminución del sonido en el lado derecho. ¿Había notado algo diferente ahí?  
+33. Paciente: No, no sabía eso.  
+34. Médico: También parece que está más delgado de lo esperado. ¿Qué dice su familia de esta situación?  
+35. Paciente: Mi esposa también lo ha notado, está preocupada por mi peso y mi tos.  
+36. Médico: ¿Ella tiene algo más que quiera agregar?  
+37. Paciente: Ella dice que parece que me falta energía últimamente.  
+38. Médico: Gracias por compartir eso. Voy a pedir algunos estudios para entender mejor lo que pasa. ¿Está de acuerdo?  
+39. Paciente: Claro, lo que haga falta.  
+40. Médico: Solicitaremos una radiografía de tórax para empezar. ¿Se ha hecho alguna antes?  
+41. Paciente: No, nunca me han tomado una.  
+42. Médico: También le haremos un análisis de sangre. ¿Algún problema previo con exámenes o resultados?  
+43. Paciente: No, siempre han salido normales.  
+44. Médico: De acuerdo, y también realizaremos una tomografía computarizada si es necesario.  
+45. Paciente: Perfecto, quiero saber qué es lo que tengo.  
+46. Médico: Por último, ¿alguien en su familia ha tenido problemas con cáncer u otras enfermedades pulmonares?  
+47. Paciente: No que yo sepa.  
+48. Médico: Gracias por responder. Con estos datos y los resultados de las pruebas podremos determinar qué está sucediendo.  
+49. Paciente: Gracias, doctor, espero que encontremos una solución.  
+50. Médico: Por supuesto. Una vez que tengamos los resultados, podremos darle un diagnóstico certero y planificar el tratamiento."

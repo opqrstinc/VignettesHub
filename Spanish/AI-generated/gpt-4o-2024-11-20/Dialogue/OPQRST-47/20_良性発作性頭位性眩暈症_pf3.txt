@@ -1,0 +1,50 @@
+"1. Médico: Hola, señor. ¿Qué lo trae por aquí hoy?  
+2. Paciente: Doctor, he estado teniendo episodios de vértigo que me preocupan mucho.  
+3. Médico: Entiendo. ¿Podría describirme exactamente qué siente cuando experimenta esos episodios?  
+4. Paciente: Es como si el mundo girara a mi alrededor, especialmente cuando muevo la cabeza.  
+5. Médico: ¿Cuándo comenzaron estos episodios?  
+6. Paciente: Hace unas dos semanas, de forma repentina.  
+7. Médico: ¿Recuerda si algo en particular lo desencadenó?  
+8. Paciente: No que yo recuerde, solo empezó de repente una mañana.  
+9. Médico: ¿Estos episodios de vértigo ocurren en algún momento del día en particular?  
+10. Paciente: Generalmente cuando me acuesto o al girarme en la cama.  
+11. Médico: ¿Ha notado si le ocurre al mirar hacia algún lado específico?  
+12. Paciente: Sí, ocurre especialmente cuando miro hacia arriba o a la derecha.  
+13. Médico: ¿Cuánto duran estos episodios?  
+14. Paciente: Menos de un minuto cada vez.  
+15. Médico: ¿El cerrar los ojos le ayuda con el vértigo?  
+16. Paciente: Sí, lo hace un poco más llevadero, pero sigue siendo incómodo.  
+17. Médico: ¿Ha tenido náuseas o vómitos durante estos episodios?  
+18. Paciente: No, nada de eso. Solo el mareo.  
+19. Médico: ¿Algún cambio reciente en su audición?  
+20. Paciente: No, no he notado nada diferente.  
+21. Médico: ¿Alguna vez ha tenido tinnitus o ruidos en los oídos?  
+22. Paciente: Sí, ocasionalmente escucho un zumbido, pero esto ha ocurrido por años.  
+23. Médico: ¿Ha tenido fiebre, dolores de cabeza intensos o debilidad en alguna parte del cuerpo?  
+24. Paciente: No, me siento bien aparte del vértigo.  
+25. Médico: ¿Tiene antecedentes médicos importantes o alguna enfermedad crónica?  
+26. Paciente: No, en general he estado sano toda mi vida.  
+27. Médico: ¿Algún accidente o lesión en la cabeza antes de que comenzaran estos síntomas?  
+28. Paciente: Nada. No he tenido golpes ni caídas.  
+29. Médico: En su familia, ¿alguien más ha tenido problemas similares de vértigo?  
+30. Paciente: Que yo sepa, no. Soy el único que lo ha mencionado.  
+31. Médico: Voy a realizarle una pequeña prueba. Necesito girar su cabeza mientras está acostado y observar sus ojos.  
+32. Paciente: Claro, doctor, haré lo que me indique.  
+33. Médico: Durante esta maniobra, ¿siente el mismo vértigo que ha descrito?  
+34. Paciente: ¡Sí! Eso mismo siento, es muy intenso cuando hace este movimiento.  
+35. Médico: Estoy notando algo de nistagmo en sus ojos. Dígame, ¿se siente mucho peor cuando hago esto?  
+36. Paciente: Sí, es exactamente lo que me pasa en casa.  
+37. Médico: Vamos a detener esta maniobra. Parece que su vértigo está relacionado con cambios de posición de la cabeza.  
+38. Paciente: ¿Es algo grave, doctor?  
+39. Médico: Por lo que hemos visto hasta ahora, creo que el diagnóstico más probable es un vértigo posicional paroxístico benigno (VPPB).  
+40. Paciente: ¿Qué significa eso?  
+41. Médico: Es una afección causada por pequeños cristales en su oído interno que se mueven fuera de lugar, y provocan vértigo cuando cambia de posición.  
+42. Paciente: ¿Y eso tiene cura?  
+43. Médico: Es tratable. Hay maniobras que podemos hacer para reposicionar esos cristales y aliviar los síntomas.  
+44. Paciente: ¿Esas maniobras son dolorosas?  
+45. Médico: No, son bastante simples y no deberían causar dolor.  
+46. Paciente: ¿Y después de eso estaré mejor?  
+47. Médico: Sí, muchas personas sienten alivio inmediato o en el transcurso de unos días después de las maniobras.  
+48. Paciente: ¿Hay algo más que deba hacer?  
+49. Médico: Le recomendaré evitar movimientos bruscos de cabeza y también prescribiré un medicamento llamado betahistine para reducir los síntomas.  
+50. Paciente: Gracias, doctor, me siento más tranquilo sabiendo qué tengo y que hay solución."

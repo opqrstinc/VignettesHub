@@ -1,0 +1,51 @@
+"1. Médico: Hola, buenos días. ¿Qué te trae hoy aquí?  
+2. Paciente: Hola, doctora. Me desmayé el otro día durante un evento y estoy preocupada.  
+3. Médico: Lo siento. ¿Podrías explicarme exactamente cómo ocurrió?  
+4. Paciente: Estaba de pie en una fila mucho rato, hacía mucho calor, me sentí mareada y luego me desmayé.  
+5. Médico: ¿Recuerdas si sentiste algo antes de desmayarte, como náuseas, sudoración o visión borrosa?  
+6. Paciente: Sí, sentí calor, mucha sudoración y que todo se oscurecía antes de caer.  
+7. Médico: ¿Cuánto tiempo crees que estuviste inconsciente?  
+8. Paciente: No mucho, unos segundos, creo. Recuperé rápido la conciencia.  
+9. Médico: ¿Cómo te sentiste después de recuperar la conciencia?  
+10. Paciente: Me sentía muy cansada y un poco náusea, pero estaba bien para responder y moverme.  
+11. Médico: ¿Esto te ha pasado antes?  
+12. Paciente: He tenido mareos y debilidad en ocasiones, pero nunca me había desmayado hasta ahora.  
+13. Médico: ¿Cuándo suelen ocurrir esos episodios de mareo?  
+14. Paciente: Generalmente cuando estoy mucho tiempo de pie o hace mucho calor.  
+15. Médico: ¿Tienes algún problema médico conocido, como anemia?  
+16. Paciente: Sí, tengo anemia desde hace tiempo.  
+17. Médico: Entendido. ¿Sueles sentirte mareada o cansada en tu día a día, incluso sin desmayarte?  
+18. Paciente: Sí, a veces, sobre todo cuando no he comido bien o cuando estoy muy cansada.  
+19. Médico: ¿Tomas algún medicamento actualmente?  
+20. Paciente: No, nada regular.  
+21. Médico: ¿Tienes otros síntomas, como palpitaciones, dolor de cabeza o dificultad para respirar?  
+22. Paciente: No, nada de eso. Solo fue el mareo y el desmayo.  
+23. Médico: ¿Alguien más estaba contigo cuando ocurrió esto?  
+24. Paciente: Sí, una amiga.  
+25. Médico: ¿Tu amiga notó algo extraño o raro mientras estabas desmayada?  
+26. Paciente: Dijo que solamente parecía muy pálida, pero no convulsioné ni nada.  
+27. Médico: ¿Has tenido alguna enfermedad importante o cirugía en el pasado?  
+28. Paciente: No, nada relevante.  
+29. Médico: ¿Padeces de diabetes o algún problema de tiroides?  
+30. Paciente: No, nunca me los han diagnosticado.  
+31. Médico: ¿Qué tal están tus hábitos de sueño y alimentación? ¿Te sientes descansada?  
+32. Paciente: No duermo mucho, estudio y trabajo, como rápido y a veces salto comidas.  
+33. Médico: ¿Consumes suficiente agua al día?  
+34. Paciente: Tal vez no tanto como debería, solo un par de botellas.  
+35. Médico: ¿Qué hace cuando sientes mareos? ¿Te sientas o tomas medidas?  
+36. Paciente: Sí, trato de sentarme o recargarme, pero esta vez estaba en la fila y no tuve oportunidad.  
+37. Médico: ¿Sueles consumir café o bebidas con cafeína?  
+38. Paciente: Sí, todos los días, especialmente para mantenerme despierta.  
+39. Médico: ¿Has notado algo similar al cambiar posiciones, como al levantarte rápidamente?  
+40. Paciente: Sí, a veces me mareo si me levanto rápido de la cama.  
+41. Médico: ¿Hay antecedentes familiares de problemas cardíacos o desmayos?  
+42. Paciente: No que yo sepa, mi familia está sana.  
+43. Médico: En tu día a día, ¿hay algo que sientas que empeora los mareos?  
+44. Paciente: Tal vez el no comer bien, el estrés, o cuando no tomo agua suficiente.  
+45. Médico: ¿Has tenido episodios de pérdida de memoria o confusión después de un desmayo?  
+46. Paciente: No, siempre recuerdo bien lo que pasó luego.  
+47. Médico: Hablando de tu presión arterial, ¿la monitoreas o te la han medido regularmente?  
+48. Paciente: Solo en chequeos generales, nunca me han dicho que tengo alta o baja.  
+49. Médico: Por lo que me cuentas, podríamos estar ante un caso de síncope. Los estudios que realizaremos nos ayudarán a confirmar.  
+50. Paciente: Está bien, doctora. ¿Qué significa eso exactamente?  
+51. Médico: Parece ser síncope vasovagal, también llamado desmayo neurocardiogénico. No es grave, pero requiere ciertos cuidados y cambios."

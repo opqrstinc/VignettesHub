@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, señor. ¿Qué motivo lo trae al hospital hoy?  
+2. Paciente: Doctor, desde anoche tengo un dolor muy fuerte en el lado derecho del abdomen, no me deja en paz.  
+3. Médico: Entiendo. ¿Cuándo comenzó exactamente el dolor y cómo lo describiría?  
+4. Paciente: Empezó hace como 12 horas. Al principio era leve, pero ha ido empeorando. Ahora es constante y no desaparece.  
+5. Médico: ¿El dolor se queda en el lado derecho o se irradia a alguna otra parte?  
+6. Paciente: Se extiende a mi espalda y también lo siento en el hombro derecho.  
+7. Médico: ¿Ha sentido náuseas o ha vomitado desde que comenzó el dolor?  
+8. Paciente: Sí, tuve náuseas y vomité un par de veces.  
+9. Médico: ¿Tiene fiebre o ha sentido escalofríos?  
+10. Paciente: Me siento como si tuviera fiebre, pero no he medido la temperatura.  
+11. Médico: ¿Ha tenido este tipo de dolor anteriormente?  
+12. Paciente: Sí, hace dos años tuve algo parecido. Me dijeron que era un problema con la vesícula, pero no me operaron.  
+13. Médico: ¿Tiene algún otro antecedente médico como diabetes, hipertensión o alguna cirugía previa?  
+14. Paciente: No, no tengo otras enfermedades ni me han operado de nada. Solo lo de la vesícula.  
+15. Médico: ¿Toma medicamentos de forma regular?  
+16. Paciente: No, ninguno.  
+17. Médico: ¿El dolor es peor al tocar la zona del abdomen?  
+18. Paciente: Sí, cuando presiono el lado derecho duele más.  
+19. Médico: ¿Ha notado algún color amarillento en los ojos o la piel?  
+20. Paciente: No, no he notado nada raro en mi piel.  
+21. Médico: ¿Cómo está su apetito últimamente?  
+22. Paciente: No tengo ganas de comer desde que empezó el dolor.  
+23. Médico: ¿Sus evacuaciones y orina han cambiado de color?  
+24. Paciente: No estoy seguro, pero creo que todo está normal.  
+25. Médico: ¿Ha tenido dificultad para respirar o siente palpitaciones?  
+26. Paciente: No, nada de eso.  
+27. Médico: ¿Tiene antecedentes familiares de problemas en la vesícula o hígado?  
+28. Paciente: Mi madre tuvo cálculos en la vesícula, pero no sé más.  
+29. Médico: ¿El dolor le impide moverse o alguna posición lo alivia?  
+30. Paciente: No puedo moverme mucho porque duele más. No encuentro una posición que me alivie.  
+31. Médico: Muy bien, señor. Voy a examinar su abdomen, ¿de acuerdo?  
+32. Paciente: Claro, doctor.  
+33. Médico: Al tocar aquí, ¿esto le duele?  
+34. Paciente: Sí, ahí mismo. Es donde más duele.  
+35. Médico: Voy a pedirle que respire profundamente mientras presiono. ¿Cómo se siente?  
+36. Paciente: Uf, no puedo, duele demasiado.  
+37. Médico: Gracias por decírmelo. Este signo es importante para tu evaluación.  
+38. Médico: Ahora que lo pienso, ¿ha estado comiendo algo fuera de lo usual en estos últimos días?  
+39. Paciente: Bueno, sí, comí algo grasoso hace dos días, pero no sé si eso tenga que ver.  
+40. Médico: Es posible. ¿Ha sentido algún malestar similar después de comidas copiosas anteriormente?  
+41. Paciente: Sí, pero nunca fue tan intenso como ahora.  
+42. Médico: ¿Cuánto dirías que es el nivel de tu dolor en una escala del 1 al 10?  
+43. Paciente: Es un 9, doctor, no puedo aguantarlo.  
+44. Médico: Voy a solicitar análisis de sangre y una ecografía abdominal para comprender mejor tu situación.  
+45. Paciente: Bien, doctor, haré lo que sea necesario.  
+46. Médico: Los análisis muestran inflamación en tu cuerpo y valores alterados del hígado. La ecografía indica que tienes cálculos en la vesícula y uno obstruyendo el conducto cístico.  
+47. Paciente: ¿Eso es grave? ¿Qué significa?  
+48. Médico: Es una inflamación de la vesícula por esos cálculos. Lo llamamos colecistitis aguda.  
+49. Paciente: ¿Y qué se puede hacer, doctor?  
+50. Médico: Vamos a tratarlo con antibióticos y reposo digestivo ahora. Dependiendo de la evolución, podemos considerar una cirugía para retirar la vesícula."

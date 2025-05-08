@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señora. ¿Qué la trae hoy a consulta?  
+2. Paciente: Hola, doctor. Desde hace meses tengo muchos problemas para dormir.  
+3. Médico: ¿Podría describir un poco más los problemas? ¿Le cuesta quedarse dormida o mantenerse dormida?  
+4. Paciente: Me cuesta mucho quedarme dormida, a veces tardo más de una hora y, cuando logro dormir, me despierto varias veces en la noche.  
+5. Médico: Entiendo. ¿Cuánto tiempo lleva teniendo estos problemas?  
+6. Paciente: Como unos cinco meses. Empezaron de repente y no han mejorado.  
+7. Médico: ¿Ha notado algún cambio en su día a día por estos problemas de sueño?  
+8. Paciente: Sí, estoy siempre cansada, me cuesta concentrarme en el trabajo y todo me parece más complicado.  
+9. Médico: ¿Ha experimentado otros síntomas, como cambios en su estado de ánimo, tristeza o ansiedad?  
+10. Paciente: A veces me siento un poco desanimada pero creo que es por no dormir bien.  
+11. Médico: ¿Ha tenido algún problema similar en el pasado?  
+12. Paciente: Tuve depresión hace unos años, pero la traté con medicamentos y me sentí estable antes de suspenderlos.  
+13. Médico: ¿Cuánto tiempo estuvo en tratamiento para la depresión?  
+14. Paciente: Usé los medicamentos por tres años y los dejé hace un año porque mi médico dijo que ya estaba mejor.  
+15. Médico: Cuando empezó a dormir mal, ¿hubo algún evento importante o situación estresante?  
+16. Paciente: No, no pasó nada especial que yo recuerde. Simplemente empezó.  
+17. Médico: ¿Cómo describiría su rutina antes de acostarse? ¿Algún hábito como usar el teléfono o tomar café?  
+18. Paciente: No, intento preparar té de hierbas y leer un libro. No uso mucho el teléfono por la noche.  
+19. Médico: Bien, eso parece adecuado. ¿Hace ejercicio regularmente?  
+20. Paciente: Sí, camino 30 minutos casi todos los días.  
+21. Médico: Eso es bueno para la salud en general. ¿Consume algún tipo de medicación o suplemento actualmente?  
+22. Paciente: No, no estoy tomando nada.  
+23. Médico: ¿Ha sentido alguna vez palpitaciones, sudoración excesiva, o cambios en el peso o apetito?  
+24. Paciente: No, nada de eso. Todo parece normal en ese sentido.  
+25. Médico: Entendido. ¿Hay antecedentes familiares de problemas de sueño o de salud mental?  
+26. Paciente: No que yo sepa.  
+27. Médico: Vamos a hablar un poco del ambiente donde duerme. ¿Es cómodo y tranquilo?  
+28. Paciente: Sí, lo es. Mi habitación es bastante oscura y silenciosa.  
+29. Médico: Muy bien. ¿A qué hora suele acostarse y despertarse?  
+30. Paciente: Normalmente, intento acostarme a las 11 y despertarme a las 7, pero no siempre logro dormir esas horas.  
+31. Médico: Según lo que me cuenta, parece que sus problemas de sueño no están relacionados con hábitos o el ambiente.  
+32. Paciente: Sí, pensé que podría ser algo psicológico o de salud.  
+33. Médico: Revisemos más a fondo. ¿Ha notado algún problema físico, como dolor o molestias que interfieran con su sueño?  
+34. Paciente: No, físicamente me siento bien.  
+35. Médico: Durante estos cinco meses, ¿ha intentado algún remedio o tratamiento por su cuenta?  
+36. Paciente: Sí, probé valeriana y otros tés, pero no han funcionado.  
+37. Médico: Gracias por compartir esto. Por ahora, no parece haber señales de algún problema físico o debido a hábitos.  
+38. Paciente: ¿Cree que sea algo grave?  
+39. Médico: No necesariamente grave, pero podría tratarse de insomnio crónico. Haremos algunas pruebas para confirmar.  
+40. Paciente: Entendido, estoy dispuesta a colaborar.  
+41. Médico: Realizaremos análisis de sangre para verificar su tiroides y algunas otras funciones. ¿Le parece bien?  
+42. Paciente: Sí, claro que sí.  
+43. Médico: También le recomendaré un estudio del sueño para entender mejor qué ocurre por la noche.  
+44. Paciente: Está bien, nunca me han hecho algo así, pero lo haré.  
+45. Médico: ¿Hay algo más que quiera comentar o que crea importante sobre su situación?  
+46. Paciente: No, creo que es todo, doctor.  
+47. Médico: Perfecto. Según lo que hemos hablado, y a la espera de los resultados de las pruebas, creo que podríamos estar ante un caso de insomnio crónico primario.  
+48. Paciente: ¿Eso es tratable?  
+49. Médico: Sí, por supuesto. Comenzaremos con técnicas no farmacológicas como higiene del sueño y relajación.  
+50. Paciente: Muchas gracias, doctor. Espero poder dormir mejor pronto."

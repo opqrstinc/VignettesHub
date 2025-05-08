@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señor. ¿Qué lo trae hoy por aquí?  
+2. Paciente: Buenos días, doctor. He notado un temblor en mi mano derecha desde hace meses.  
+3. Médico: Entiendo. ¿Puede describirme cómo comenzó el temblor y cuándo lo notó por primera vez?  
+4. Paciente: Pues, empezó hace como seis meses, casi sin darme cuenta. Es más evidente cuando estoy en reposo.  
+5. Médico: ¿El temblor disminuye o desaparece cuando mueve la mano o realiza alguna actividad?  
+6. Paciente: Sí, cuando hago algo, como escribir o agarrar algo, parece que mejora.  
+7. Médico: Además del temblor, ¿ha notado alguna otra molestia en su extremidad derecha?  
+8. Paciente: Sí, también he sentido algo raro en la pierna derecha. No sé cómo explicarlo, como si estuviera más pesada.  
+9. Médico: ¿Ha tenido alguna dificultad para caminar o realizar tareas cotidianas?  
+10. Paciente: Sí, abotonarme la camisa o escribir se ha vuelto más difícil. También siento que camino más lento.  
+11. Médico: ¿Ha tenido alguna caída o pérdida del equilibrio?  
+12. Paciente: No, caídas no, pero a veces me siento un poco torpe al caminar.  
+13. Médico: ¿Ha tenido problemas de memoria, dificultad para hablar o cambios en su estado de ánimo?  
+14. Paciente: No, mi memoria y ánimo están bien, creo.  
+15. Médico: ¿Algún dolor muscular o rigidez en su cuerpo?  
+16. Paciente: Ahora que lo menciona, siento como una especie de rigidez en el brazo derecho.  
+17. Médico: ¿Tiene usted antecedentes de traumatismo en la cabeza o alguna enfermedad neurológica?  
+18. Paciente: No, nunca he tenido golpes fuertes en la cabeza ni enfermedades de ese tipo.  
+19. Médico: ¿Consume o ha consumido drogas ilícitas o ha estado expuesto a productos químicos tóxicos?  
+20. Paciente: No, doctor, nunca.  
+21. Médico: ¿Alguien en su familia ha padecido una enfermedad neurológica o algún tipo de problema similar?  
+22. Paciente: No, que yo sepa, nadie en mi familia ha tenido algo parecido.  
+23. Médico: Veo que está tomando enalapril para la presión arterial. ¿Cómo ha estado su control de la hipertensión?  
+24. Paciente: Muy bien, mi presión ha estado controlada con el enalapril.  
+25. Médico: Perfecto. Ahora dígame, ¿el temblor ha aumentado o cambiado en intensidad en estos meses?  
+26. Paciente: Sí, creo que ha empeorado un poco. Al principio casi no lo notaba, pero ahora es más evidente.  
+27. Médico: ¿Cómo ha estado su energía en general? ¿Se siente más cansado de lo normal?  
+28. Paciente: No, mi energía está bien.  
+29. Médico: ¿Ha notado alguna alteración en su escritura, como letras más pequeñas o más difíciles de leer?  
+30. Paciente: Sí, ahora escribo más pequeño y me cuesta mantener las letras claras.  
+31. Médico: ¿Ha tenido alguna dificultad para tragar o cambios en su voz?  
+32. Paciente: No, eso no. Mi voz está igual y no tengo problemas para tragar.  
+33. Médico: ¿Cómo describiría su caminar? ¿Alguna vez ha sentido que le cuesta iniciar el movimiento?  
+34. Paciente: Sí, me pasa a veces. También noto que doy pasos más cortos.  
+35. Médico: ¿Tiene algún dolor en las articulaciones o inflamación?  
+36. Paciente: No, en eso no he tenido problemas.  
+37. Médico: ¿Cómo ha dormido últimamente? ¿Ha tenido cambios en su sueño?  
+38. Paciente: Mi sueño está bien, duermo las horas que necesito.  
+39. Médico: ¿Ha perdido interés en actividades que antes disfrutaba?  
+40. Paciente: No, sigo disfrutando lo que siempre me ha gustado.  
+41. Médico: ¿Ha notado que el temblor aparece o empeora con algún tipo de estrés o emoción?  
+42. Paciente: No he notado algún cambio por estrés o emociones.  
+43. Médico: Finalmente, ¿ha notado disminución en el balanceo de su brazo derecho al caminar?  
+44. Paciente: Ahora que lo menciona, sí. Mi brazo derecho como que no se mueve tanto al caminar.  
+45. Médico: Gracias por toda la información, señor. Vamos a proceder a hacer una exploración física detallada.  
+46. Paciente: Claro, doctor, estoy a su disposición.  
+47. Médico: He notado un temblor en reposo en su mano derecha y cierta rigidez cuando muevo su brazo. Además, su caminar es lento y asimétrico.  
+48. Paciente: ¿Eso confirma algo?  
+49. Médico: Con base en su historia clínica, los síntomas descritos, la exploración y algunos estudios que hemos revisado, parece que estamos frente a una enfermedad de Parkinson.  
+50. Paciente: ¿Enfermedad de Parkinson? ¿Es grave?"

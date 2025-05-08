@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señor. ¿Qué lo trae por aquí hoy?  
+2. Paciente: Buenos días, doctor. He estado sintiendo un dolor en el pecho desde hace unos días.  
+3. Médico: Entiendo. ¿Cuándo comenzó este dolor en el pecho?  
+4. Paciente: Hace cuatro días, de repente. Era como una opresión en el pecho.  
+5. Médico: ¿Ha notado si el dolor se irradia hacia el brazo, mandíbula o espalda?  
+6. Paciente: No, el dolor no se mueve, está solo en el centro del pecho.  
+7. Médico: ¿Hay algo que desencadene o empeore el dolor, como ejercicio o alimentos?  
+8. Paciente: No, no hay algo en particular que lo empeore.  
+9. Médico: ¿El dolor mejora o empeora con movimientos, tos o al recostarse?  
+10. Paciente: Sí, noto que empeora cuando me acuesto.  
+11. Médico: ¿Y cómo está ahora su respiración? ¿Tiene alguna dificultad al respirar?  
+12. Paciente: Sí, me falta un poco de aire, especialmente cuando estoy activo.  
+13. Médico: ¿Ha tenido fiebre en estos días?  
+14. Paciente: Sí, he tenido algo de fiebre, hasta 38.5 grados creo.  
+15. Médico: ¿Ha sentido palpitaciones, mareos o ha perdido el conocimiento?  
+16. Paciente: No, nada de eso, doctor. Solo el dolor y la falta de aire.  
+17. Médico: ¿Alguna historia de infecciones recientes, como resfriado o gripe?  
+18. Paciente: No, no he estado enfermo antes de esto.  
+19. Médico: ¿Algún golpe en el pecho recientemente o viajes?  
+20. Paciente: No, nada de eso tampoco.  
+21. Médico: ¿Cómo describiría la intensidad del dolor, de 1 a 10?  
+22. Paciente: Diría que es un 6 u 8, no es insoportable pero constante.  
+23. Médico: ¿Tiene antecedentes médicos importantes que deba saber?  
+24. Paciente: Bueno, tengo hipertensión, pero está bastante controlada.  
+25. Médico: ¿Está tomando medicamentos para la presión arterial?  
+26. Paciente: Sí, tomo los que me recetó mi médico, no he tenido problemas con ellos.  
+27. Médico: ¿Hay antecedentes de problemas cardíacos en su familia?  
+28. Paciente: No, mi familia nunca ha tenido esos problemas, hasta donde sé.  
+29. Médico: ¿Cómo está siendo su rutina diaria con estos síntomas recientes?  
+30. Paciente: Difícil, doctor. He tenido que descansar más, no puedo hacer mucho.  
+31. Médico: En su exploración, noté que su frecuencia cardíaca y presión están algo elevadas. ¿Ha notado algo más fuera de lo normal?  
+32. Paciente: No, bueno, fuera del dolor y la fiebre, todo lo demás parece igual.  
+33. Médico: En su auscultación cardíaca detecté un sonido llamado ""roce pericárdico"". Esto podría estar relacionado con su dolor.  
+34. Paciente: ¿Qué quiere decir con eso, doctor?  
+35. Médico: Es un sonido que normalmente se escucha cuando hay inflamación en los tejidos alrededor del corazón.  
+36. Paciente: ¿Eso es algo serio?  
+37. Médico: Puede serlo si no se trata, pero primero necesitamos confirmar mis sospechas.  
+38. Médico: Vamos a realizar algunos estudios, como un electrocardiograma para evaluar sus músculos del corazón.  
+39. Paciente: Por supuesto, doctor, lo que sea necesario.  
+40. Médico: También veo que sus análisis muestran una inflamación y un poco de troponina elevada, lo que apunta a una inflamación cardíaca, no un infarto.  
+41. Paciente: Ah, entonces no es un ataque al corazón, ¿verdad?  
+42. Médico: Correcto, no parece ser un ataque cardíaco. Más bien, parece pericarditis aguda.  
+43. Paciente: ¿Pericarditis? ¿Qué significa eso?  
+44. Médico: Es una inflamación del pericardio, la capa que rodea su corazón.  
+45. Paciente: ¿Y eso se puede tratar?  
+46. Médico: Sí, tomará medicamentos antiinflamatorios y colchicina, que ayudarán a reducir la inflamación.  
+47. Paciente: ¿Voy a estar bien, doctor?  
+48. Médico: Sí, con el tratamiento adecuado y algo de reposo, debería recuperarse completamente.  
+49. Paciente: Gracias, doctor. Seguiré sus indicaciones al pie de la letra.  
+50. Médico: Perfecto. Veremos cómo evoluciona en el seguimiento. No se preocupe, estamos aquí para ayudarle.  "

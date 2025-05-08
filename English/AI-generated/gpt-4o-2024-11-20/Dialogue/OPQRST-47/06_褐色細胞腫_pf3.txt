@@ -1,0 +1,56 @@
+"1. Physician: What brings you in today?  
+2. Patient: I've been having these episodes of rapid heartbeat, shortness of breath, and sweating.  
+3. Physician: How long have these episodes been happening?  
+4. Patient: It's been about three months now, on and off.  
+5. Physician: Can you describe what happens during these episodes?  
+6. Patient: They come on suddenly. My heart races, I feel like I can't catch my breath, and I start sweating a lot.  
+7. Physician: How long do these episodes usually last?  
+8. Patient: It varies, but usually a few minutes to an hour.  
+9. Physician: Do you notice anything that seems to trigger them?  
+10. Patient: Not really. They just come out of nowhere.  
+11. Physician: Do you feel anxious or panicked during these episodes?  
+12. Patient: Yes, I feel really on edge. Almost like something bad is going to happen.  
+13. Physician: Do you experience any other symptoms like headaches or dizziness?  
+14. Patient: Yes, I get really bad headaches with these episodes.  
+15. Physician: Have you ever measured your blood pressure during an episode?  
+16. Patient: Once. I borrowed a monitor, and it was very high—higher than normal for me.  
+17. Physician: What is your normal blood pressure?  
+18. Patient: It's usually around 130 over 80.  
+19. Physician: Have you been diagnosed with high blood pressure in the past?  
+20. Patient: No, never.  
+21. Physician: Do you take any medications or use recreational drugs?  
+22. Patient: No, I don’t use anything, not even caffeine much.  
+23. Physician: Do you have a family history of hypertension or endocrine problems?  
+24. Patient: Not that I know of.  
+25. Physician: Have you had any unintentional weight loss or gains?  
+26. Patient: No, my weight has been pretty steady.  
+27. Physician: Can you remember any stress or major events when these episodes first started?  
+28. Patient: No, nothing unusual was happening.  
+29. Physician: Do these episodes happen in specific situations, like when you're active or resting?  
+30. Patient: No, they happen at random times, even when I’m just sitting on the couch.  
+31. Physician: Have you noticed any abdominal pain or unusual lumps anywhere?  
+32. Patient: No, nothing like that.  
+33. Physician: Have you had similar episodes in the past or is this something entirely new?  
+34. Patient: Something this intense? No, this is new.  
+35. Physician: When you say your heart races, how fast does it feel like it's beating?  
+36. Patient: It feels like it’s going a mile a minute—really fast.  
+37. Physician: During an episode, do you feel like you might faint?  
+38. Patient: I feel lightheaded sometimes, but I’ve never passed out.  
+39. Physician: Does anything help relieve the symptoms during an episode?  
+40. Patient: No, I usually just wait for it to pass.  
+41. Physician: How is your sleep? Have the episodes ever woken you up at night?  
+42. Patient: My sleep is fine. The episodes haven’t happened while I’m sleeping.  
+43. Physician: Outside of these symptoms, do you feel generally okay?  
+44. Patient: Yes, I feel fine when it’s not happening.  
+45. Physician: We'll need to run some tests to figure out what's going on. I'll check your heart rate and blood pressure during and after an episode.  
+46. Patient: Okay, yeah, that makes sense.  
+47. Physician: Your blood pressure today is rather high—180/100—during this episode. Would you describe this as similar to past episodes?  
+48. Patient: Yes, it feels like the same thing.  
+49. Physician: Based on your symptoms, we may need to check your adrenaline levels and imaging of your abdomen. This could be related to how your adrenal glands function.  
+50. Patient: That sounds serious. Adrenal glands, you said?  
+51. Physician: Yes, it’s possible you have a condition causing your adrenal glands to overproduce certain hormones. We’ll confirm with tests like urine and blood markers and possibly imaging.  
+52. Patient: I see.  
+53. Physician: Imaging has identified an adrenal mass, and your blood tests show elevated hormone markers. This supports something called pheochromocytoma.  
+54. Patient: What’s pheochromocytoma?  
+55. Physician: It's a rare tumor of the adrenal gland that can cause the exact symptoms you've described. With proper treatment, it is typically manageable.  
+56. Patient: I’m relieved to finally know what’s causing this."

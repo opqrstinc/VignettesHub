@@ -1,0 +1,50 @@
+"1. Médico: ¿Qué la trae hoy por aquí?  
+2. Paciente: He estado sintiendo mucha sequedad en la boca y los ojos últimamente, y también tengo dolor en las articulaciones.  
+3. Médico: Entiendo. ¿Hace cuánto tiempo comenzó a sentir estos síntomas?  
+4. Paciente: Bueno, creo que ya llevo varios meses así, pero los síntomas han ido empeorando gradualmente.  
+5. Médico: ¿Podría describirme un poco más la sensación de sequedad en la boca?  
+6. Paciente: Sí, siento como si no tuviera saliva. Me cuesta tragar alimentos sólidos, y necesito tomar mucha agua constantemente.  
+7. Médico: ¿Y ha notado cambios en su lengua o en la mucosa de su boca?  
+8. Paciente: Mi lengua está como agrietada y a veces siento que mis labios están muy secos.  
+9. Médico: ¿En qué momento del día siente más esta sequedad?  
+10. Paciente: Creo que es constante, pero por la noche parece ser peor.  
+11. Médico: En cuanto a sus ojos, ¿podría decirme qué ha notado?  
+12. Paciente: Mis ojos siempre están irritados, tengo una sensación de que hay algo dentro, y la luz me molesta mucho.  
+13. Médico: ¿Usa lentes de contacto o tiene algún problema visual conocido?  
+14. Paciente: No, no uso lentes de contacto y mi visión estaba bien hasta hace poco.  
+15. Médico: ¿Ha intentado usar lágrimas artificiales o algo similar?  
+16. Paciente: Sí, las uso a veces, pero no noto mucha mejoría.  
+17. Médico: Hablemos ahora del dolor en las articulaciones. ¿En qué partes del cuerpo siente estas molestias?  
+18. Paciente: Principalmente en las manos y en las muñecas.  
+19. Médico: ¿El dolor es constante o aparece y desaparece?  
+20. Paciente: Es intermitente, pero cuando aparece es bastante molesto.  
+21. Médico: ¿Nota hinchazón o enrojecimiento en las articulaciones afectadas?  
+22. Paciente: No, no me parece que estén inflamadas ni rojas.  
+23. Médico: ¿Ha tenido fiebre, pérdida de peso o algún otro síntoma?  
+24. Paciente: No, nada de eso.  
+25. Médico: ¿Tiene antecedentes de enfermedades autoinmunes en su familia?  
+26. Paciente: Mi madre tenía lupus, pero eso es todo lo que sé.  
+27. Médico: ¿Ha notado resequedad en otras partes de su cuerpo, como la piel?  
+28. Paciente: Un poco, pero no tanto como en los ojos y la boca.  
+29. Médico: ¿Cómo han afectado estos síntomas a su vida diaria?  
+30. Paciente: Mucho. Trabajo en una oficina y mis ojos están muy irritados todo el tiempo. También comer es incómodo por la sequedad en mi boca.  
+31. Médico: Entendido. Vamos a revisar su boca y sus ojos. ¿Le parece bien?  
+32. Paciente: Claro, adelante.  
+33. Médico: Su lengua parece fisurada y la mucosa oral está bastante seca. Esto concuerda con lo que describe.  
+34. Paciente: Eso es lo que he notado también.  
+35. Médico: Vamos a realizar una prueba sencilla en sus ojos, llamada test de Schirmer, para medir la producción de lágrimas.  
+36. Paciente: Está bien, lo que sea necesario.  
+37. Médico: Los resultados muestran que su producción de lágrimas está bastante baja en ambos ojos.  
+38. Paciente: ¿Eso explica lo irritados que están?  
+39. Médico: Sí, podría ser una causa importante de la irritación y la sensación de cuerpo extraño.  
+40. Paciente: ¿Y qué puede estar causando esto?  
+41. Médico: Primero, vamos a profundizar en algunos análisis de sangre y otras pruebas específicas para buscar posibles causas.  
+42. Paciente: ¿Es algo serio?  
+43. Médico: Podría estar relacionado con una enfermedad autoinmune, pero es importante confirmarlo antes de apresurarnos.  
+44. Paciente: Entendido. ¿Qué tipo de análisis necesita hacerme?  
+45. Médico: Haremos análisis para buscar ciertos anticuerpos como los anti-SSA/Ro y anti-SSB/La, entre otros.  
+46. Paciente: Muy bien, lo que sea necesario.  
+47. Médico: También sería útil realizar una pequeña biopsia de las glándulas salivales menores para evaluar más a fondo.  
+48. Paciente: ¿Es un procedimiento complicado?  
+49. Médico: No, es bastante sencillo y podemos hacerlo de manera ambulatoria.  
+50. Paciente: Perfecto, doctor. Me preocupa, pero confío en que me ayudará con esto. "

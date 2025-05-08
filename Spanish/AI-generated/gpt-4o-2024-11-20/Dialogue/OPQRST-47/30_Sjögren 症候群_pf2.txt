@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, señor. ¿Qué lo trae a consulta hoy?  
+2. Paciente: Buenas tardes, doctor. Desde hace unos seis meses siento la boca muy seca y parece que está empeorando.  
+3. Médico: Entiendo. ¿Esa sequedad ocurre todo el día o en momentos específicos?  
+4. Paciente: Es todo el día, pero se siente más incómodo cuando intento comer algo seco.  
+5. Médico: ¿Ha notado si necesita tomar agua más seguido de lo normal?  
+6. Paciente: Sí, especialmente al comer. No puedo pasar los alimentos si no tengo agua a la mano.  
+7. Médico: Comprendo. ¿Ha notado algún problema con los ojos, como sequedad o irritación?  
+8. Paciente: Un poco, pero no tanto como la boca.  
+9. Médico: ¿Qué otros síntomas ha notado además de la sequedad?  
+10. Paciente: Me siento cansado todo el tiempo, sin energía. Y también me duelen las manos y las muñecas.  
+11. Médico: ¿Ese dolor en las manos y muñecas es constante o ocurre en ciertos momentos?  
+12. Paciente: Es más fuerte por las mañanas, pero luego mejora un poco con el movimiento.  
+13. Médico: ¿Ha notado inflamación o enrojecimiento en esas articulaciones?  
+14. Paciente: No, solo siento dolor y algo de sensibilidad si las presiono.  
+15. Médico: ¿Ha tenido fiebre, pérdida de peso o algún otro síntoma asociado?  
+16. Paciente: No, nada de eso.  
+17. Médico: ¿Tiene algún antecedente médico importante, como diabetes o hipertensión?  
+18. Paciente: No, nunca he tenido problemas médicos serios.  
+19. Médico: ¿Alguno de sus familiares ha tenido enfermedades reumáticas o autoinmunes?  
+20. Paciente: No que yo sepa.  
+21. Médico: ¿Fuma o consume alcohol con frecuencia?  
+22. Paciente: No fumo, y solo bebo en ocasiones especiales.  
+23. Médico: ¿Está tomando algún medicamento actualmente?  
+24. Paciente: No, ninguno.  
+25. Médico: ¿Ha notado cambios en su piel, como resequedad excesiva o manchas?  
+26. Paciente: Mi piel está un poco más seca de lo normal, pero pensé que era por la edad.  
+27. Médico: ¿Ha tenido problemas para tragar alimentos o líquidos aparte de lo que mencionó?  
+28. Paciente: Solamente con cosas secas, como pan o galletas.  
+29. Médico: Entiendo. Durante este tiempo, ¿ha notado que sus glándulas cerca de la cara o el cuello estén inflamadas?  
+30. Paciente: No estoy seguro, tal vez un poco debajo de las mejillas, pero no duele.  
+31. Médico: Al examinar su boca, veo que la mucosa está bastante seca. ¿Ha tenido aftas o llagas?  
+32. Paciente: No, nada de eso.  
+33. Médico: ¿Algún problema con los dientes o caries recientes?  
+34. Paciente: He tenido algo más de problemas con mis dientes, pero no he ido al dentista todavía.  
+35. Médico: Comprendo. Le haré unas preguntas para explorar otras posibles causas. ¿Ha tenido problemas respiratorios o con su garganta?  
+36. Paciente: No, nada en particular.  
+37. Médico: ¿Alguna vez ha tenido infecciones frecuentes en la boca o en los ojos?  
+38. Paciente: No, solamente sequedad en la boca.  
+39. Médico: ¿Ha experimentado dolor o molestias en otras articulaciones del cuerpo?  
+40. Paciente: No, solo en las manos y las muñecas.  
+41. Médico: ¿Cómo describiría la fatiga que siente? ¿Es constante o mejora con descanso?  
+42. Paciente: Es constante, incluso después de descansar me siento cansado.  
+43. Médico: Bien, también noté que las glándulas parótidas están algo agrandadas pero no inflamadas. ¿Alguna vez sintió dolor en esta zona?  
+44. Paciente: No, doctor, nunca me han dolido.  
+45. Médico: Haré algunos exámenes para confirmar lo que sospechamos. Por ahora, ¿algo más que quiera mencionar o consultar?  
+46. Paciente: No, creo que ya le mencioné todo, doctor.  
+47. Médico: Según los análisis realizados, tiene una afección llamada síndrome de Sjögren primario.  
+48. Paciente: ¿Y qué significa eso, doctor?  
+49. Médico: Es una condición autoinmune que afecta las glándulas que producen lágrimas y saliva. Por eso tiene sequedad en la boca y posiblemente en los ojos.  
+50. Paciente: Ya entiendo, ¿entonces eso explica todo lo que he sentido últimamente?  "

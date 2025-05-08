@@ -1,0 +1,50 @@
+"1. 医師：Hello, I’m Dr. Smith. What brings you in today?  
+2. 患者：Hi, doctor. I’ve been having severe pain in my lower right abdomen for the past day.  
+3. 医師：I see. Could you tell me when the pain started and how it’s changed over time?  
+4. 患者：It started about 24 hours ago, around my belly button, but now it’s moved to my lower right side and feels sharper.  
+5. 医師：Did anything trigger the pain, or did it come on suddenly?  
+6. 患者：It just started out of the blue yesterday. I can’t think of anything that may have caused it.  
+7. 医師：Have you noticed any other symptoms, such as nausea, vomiting, or fever?  
+8. 患者：Yes, I’ve been feeling nauseous and haven’t had much of an appetite. I think I might have a fever, too.  
+9. 医師：Have you actually vomited at all?  
+10. 患者：No, I haven’t vomited, just feeling queasy.  
+11. 医師：How about your bowel habits—any diarrhea, constipation, or changes?  
+12. 患者：No, everything has been normal in that regard.  
+13. 医師：And any issues with urination, like pain or going more often than usual?  
+14. 患者：No, none of that, urination is normal.  
+15. 医師：Do you remember ever having similar symptoms before?  
+16. 患者：No, I’ve never felt anything like this before.  
+17. 医師：Do you have any medical conditions or allergies I should be aware of?  
+18. 患者：I have allergic rhinitis, but other than that, no.  
+19. 医師：Have you had any prior surgeries?  
+20. 患者：No, I haven’t.  
+21. 医師：Are you currently on any medications?  
+22. 患者：No, I don’t take any medications regularly.  
+23. 医師：How about smoking or substance use?  
+24. 患者：No, I don’t smoke or use any drugs, not even socially.  
+25. 医師：How high has your fever been, if you’ve measured it?  
+26. 患者：I didn’t measure it, but I feel like I’m burning up.  
+27. 医師：Alright. Let’s talk more about this pain. On a scale of 1 to 10, how severe is it right now?  
+28. 患者：It’s about an 8.  
+29. 医師：Does anything make the pain better or worse?  
+30. 患者：Moving around or pressing on that area makes it worse. Nothing seems to make it better.  
+31. 医師：Have you noticed any unusual rashes, skin changes, or joint pain?  
+32. 患者：No, none of that.  
+33. 医師：How about a history of pelvic infections or anything concerning your reproductive health?  
+34. 患者：No, no pelvic infections or gynecologic issues.  
+35. 医師：When was your last menstrual period, and has it been normal?  
+36. 患者：It was about two weeks ago, and it was normal.  
+37. 医師：Given your symptoms, we’ll do a physical exam. I’ll gently press on your abdomen to pinpoint the source of the pain.  
+38. 患者：Okay, I’m ready.  
+39. 医師：Your lower right abdomen is tender with guarding and rebound pain. We’ll follow up with some tests.  
+40. 患者：I figured something was wrong there since it hurts so much.  
+41. 医師：We need to run some blood tests, a urine test, and possibly an imaging study to confirm what’s going on.  
+42. 患者：Alright, I’ll do whatever is necessary.  
+43. 医師：Your blood test shows an elevated white blood cell count and inflammation markers. Your urine test ruled out a UTI.  
+44. 患者：So, what does that mean?  
+45. 医師：It suggests inflammation or infection in your abdomen. Your ultrasound and CT scan confirmed an inflamed appendix.  
+46. 患者：Oh, so it’s appendicitis?  
+47. 医師：Yes, you have acute appendicitis. It’s a condition where your appendix becomes inflamed, and we usually treat it with surgery and antibiotics.  
+48. 患者：Will I need surgery?  
+49. 医師：Yes, a laparoscopic appendectomy is the best option. It’s a minimally invasive procedure to remove the appendix.  
+50. 患者：Okay, if that’s what’s needed, let’s do it."

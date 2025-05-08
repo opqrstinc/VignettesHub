@@ -1,0 +1,51 @@
+"1. 医師：Hello, I’m Dr. Smith. What brings you in today?  
+2. 患者：Hi, doctor. I've been having a sore throat, neck pain, and swelling in the front of my neck for the past two weeks.  
+3. 医師：I see. Has the neck swelling been getting worse over time?  
+4. 患者：Yes, it seems to have gotten a bit bigger, and it feels more tender too.  
+5. 医師：Do you feel the pain all the time, or is it worse with certain activities?  
+6. 患者：It’s there all the time, but swallowing makes it worse.  
+7. 医師：Have you had any fever, chills, or night sweats?  
+8. 患者：I’ve had a mild fever on and off, but no chills or night sweats.  
+9. 医師：Have you noticed any changes in your weight recently?  
+10. 患者：No, my weight has stayed about the same.  
+11. 医師：What about your energy levels? Do you feel more tired than usual?  
+12. 患者：Yes, actually. I’ve been really fatigued lately.  
+13. 医師：Any rapid heartbeats, palpitations, or shaking in your hands?  
+14. 患者：Not really palpitations, but I sometimes feel warm for no reason.  
+15. 医師：When did the symptoms first begin?  
+16. 患者：Around two weeks ago. It started with some throat discomfort, and then the swelling appeared.  
+17. 医師：Did you have a cold or any upper respiratory infection before this started?  
+18. 患者：No, I didn’t have any colds or anything like that.  
+19. 医師：Have you had any injuries or trauma to your neck recently?  
+20. 患者：No, nothing like that.  
+21. 医師：Do you recall being exposed to any chemicals or toxic substances?  
+22. 患者：No, not that I know of.  
+23. 医師：Have you experienced this kind of issue with your throat or neck in the past?  
+24. 患者：No, this is the first time.  
+25. 医師：Do you have any other medical problems or take any medications regularly?  
+26. 患者：No, I’m generally healthy and don’t take any medications.  
+27. 医師：How about allergies, do you have any known allergies?  
+28. 患者：Nope, no allergies.  
+29. 医師：Does anyone in your family have thyroid problems?  
+30. 患者：Not that I’m aware of.  
+31. 医師：When you say the swelling is tender, is it painful to touch?  
+32. 患者：Yes, it hurts when I press on it or when I move my neck.  
+33. 医師：Have you noticed any changes in your voice, like hoarseness?  
+34. 患者：No, my voice has been normal.  
+35. 医師：What about difficulty breathing or swallowing food and liquids?  
+36. 患者：Swallowing is uncomfortable, but no problems breathing or getting food down.  
+37. 医師：Have you been feeling anxious or more irritable lately?  
+38. 患者：Not really, just very tired.  
+39. 医師：Have you noticed any swelling in other areas, like your underarms or behind your ears?  
+40. 患者：No swelling anywhere else, just in the front of my neck.  
+41. 医師：Do you feel any lumps or nodules in the swollen area?  
+42. 患者：No, it just feels swollen all over and tender.  
+43. 医師：What about difficulty tolerating heat or sweating excessively?  
+44. 患者：Not really sweating, just that warm feeling more often.  
+45. 医師：Have you been sleeping okay, or is your sleep disturbed by your symptoms?  
+46. 患者：I’ve been sleeping okay, maybe just a little restless from the soreness.  
+47. 医師：Do you drink alcohol or smoke?  
+48. 患者：No, I don’t smoke, and I drink socially, maybe once or twice a month.  
+49. 医師：Alright, based on what you’ve told me and the findings I see on your physical exam, I think we’re dealing with something involving your thyroid.  
+50. 患者：Oh, I see. What could it be?  
+51. 医師：It seems to be a condition called subacute thyroiditis. Your symptoms, the tenderness of the gland, and some specific test findings strongly suggest it."

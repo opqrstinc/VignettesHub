@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señora. ¿Qué la trae hoy a consulta?  
+2. Paciente: Buenos días, doctor. He estado teniendo episodios de mareo muy fuertes, parece como si todo estuviera dando vueltas.  
+3. Médico: ¿Cuándo comenzaron estos episodios?  
+4. Paciente: Hace alrededor de una semana.  
+5. Médico: ¿Cómo describiría esos episodios? ¿Son constantes o aparecen y desaparecen?  
+6. Paciente: No, no son constantes. Me pasa de repente y duran menos de un minuto.  
+7. Médico: ¿Nota si ocurren en alguna situación específica?  
+8. Paciente: Sí, suelen pasar cuando cambio de posición, como al girarme en la cama o al levantarme rápido.  
+9. Médico: ¿Estos episodios están acompañados de otros síntomas como náuseas o vómitos?  
+10. Paciente: Sí, siento algo de náuseas, pero no he vomitado.  
+11. Médico: ¿Ha notado pérdida de audición, zumbidos en los oídos o sensación de presión en ellos?  
+12. Paciente: No, nada de eso, mi audición está bien.  
+13. Médico: ¿Algún síntoma como debilidad en el cuerpo, dificultad para hablar o visión doble?  
+14. Paciente: No, ninguno de esos síntomas.  
+15. Médico: Entiendo. ¿Ha tenido algo parecido antes?  
+16. Paciente: No, al menos no que recuerde.  
+17. Médico: Veo en su historial que tiene migrañas. ¿Ha tenido alguna crisis reciente?  
+18. Paciente: No, hace meses que no tengo un ataque de migraña.  
+19. Médico: ¿Los episodios afectan más al girar la cabeza hacia algún lado en concreto?  
+20. Paciente: Creo que hacia el lado derecho siento que es peor.  
+21. Médico: ¿Estos mareos le han impedido realizar sus actividades diarias?  
+22. Paciente: Un poco, la verdad. Tengo miedo de moverme rápido y ya no duermo tranquila.  
+23. Médico: Entiendo. Además de lo que me ha contado, ¿nota algún otro síntoma que la preocupe?  
+24. Paciente: No, solo ese mareo cuando cambio de posición.  
+25. Médico: Vamos a hacer unas pruebas aquí mismo para evaluar su equilibrio y otras posibles causas del vértigo, ¿le parece bien?  
+26. Paciente: Claro, doctor, lo que sea necesario.  
+27. Médico: Le haré una maniobra llamada Dix-Hallpike. Puede que sienta mareo o veamos algunos movimientos involuntarios de sus ojos.  
+28. Paciente: Está bien, doctor, estoy lista.  
+29. Médico: Muy bien, giraré su cabeza hacia la derecha y de inmediato la recostaré rápido. Avíseme si siente mareo.  
+30. Paciente: ¡Ay, sí, ahí está el mareo! Todo da vueltas.  
+31. Médico: Veo un movimiento ocular que llamamos nistagmo. Este mareo, ¿es parecido al que siente en casa?  
+32. Paciente: Sí, es exactamente igual.  
+33. Médico: El mareo está disminuyendo ahora, ¿verdad?  
+34. Paciente: Sí, ya pasó.  
+35. Médico: Muy bien. Vamos a realizar la misma maniobra hacia el lado izquierdo, ¿de acuerdo?  
+36. Paciente: De acuerdo, doctor.  
+37. Médico: Ahora giraré su cabeza al lado izquierdo y la recostaré rápido. ¿Nota algo?  
+38. Paciente: No, no siento nada.  
+39. Médico: Perfecto. Basándonos en lo que hemos observado, parece que su problema está relacionado con el oído interno en el lado derecho.  
+40. Paciente: ¿Y eso significa que es algo grave?  
+41. Médico: No, es una condición muy común llamada vértigo posicional paroxístico benigno, o BPPV.  
+42. Paciente: ¿Y qué puedo hacer para que se me quite?  
+43. Médico: Hay una maniobra de reposicionamiento que podemos hacer ahora llamada Epley para aliviar el vértigo. ¿Le parece si la realizamos?  
+44. Paciente: Sí, doctor, por favor.  
+45. Médico: Muy bien. Durante esta maniobra moveré su cabeza en distintas posiciones lentamente. Avíseme si siente mareo en algún momento.  
+46. Paciente: Está bien, doctor, hágalo.  
+47. Médico: Listo, hemos terminado. Es normal que sienta algo de mareo ahora, pero debería mejorar en poco tiempo.  
+48. Paciente: Gracias, doctor. Creo que ya me siento un poco mejor.  
+49. Médico: Me alegra oír eso. Le explicaré cómo evitar posiciones desencadenantes y le recomendaré unos ejercicios para hacer en casa.  
+50. Paciente: Muchas gracias, doctor, seguiré todas sus indicaciones.  "

@@ -1,0 +1,50 @@
+"1. Physician: What brings you to the clinic today?  
+2. Patient: I've been feeling really tired and unable to focus for the past six months.  
+3. Physician: Could you explain more about the fatigue? When does it happen, and how severe is it?  
+4. Patient: It’s almost constant, and it feels like no matter how much rest I get, I’m never refreshed.  
+5. Physician: How has your sleep been during this time?  
+6. Patient: Not good. I struggle to fall asleep, sometimes lying awake for hours. Even when I do sleep, I wake up often.  
+7. Physician: How many nights a week would you say this happens?  
+8. Patient: At least four nights every week, sometimes more.  
+9. Physician: Do you feel like your sleep is restorative, as in it leaves you feeling refreshed?  
+10. Patient: Not at all. I wake up still feeling drained.  
+11. Physician: Do you ever experience nightmares, sleepwalking, or unusual movements in your sleep?  
+12. Patient: No, none of those things.  
+13. Physician: Have you noticed snoring, choking, or gasping during the night?  
+14. Patient: No, not that I know of. My partner hasn’t mentioned anything like that either.  
+15. Physician: How about any leg movements or sensations that disturb your sleep?  
+16. Patient: No, my legs don’t bother me during sleep.  
+17. Physician: Besides the fatigue, have you been feeling down, anxious, or overwhelmed lately?  
+18. Patient: No, not really. I mean, I’ve been irritable, but not depressed or overly anxious.  
+19. Physician: Could you explain more about the irritability? How is it affecting you?  
+20. Patient: I just get annoyed easily, even with small things, which isn’t usual for me.  
+21. Physician: Has this impacted your work or daily activities?  
+22. Patient: Yes, definitely. It’s hard to concentrate, and I’ve been less productive at work.  
+23. Physician: Were there any significant stresses or changes in your life around the time this all started?  
+24. Patient: No, things have been pretty steady, no major changes or stress.  
+25. Physician: Do you drink alcohol, or use any substances that might affect sleep?  
+26. Patient: I drink socially, but not much, and no drugs.  
+27. Physician: What about caffeine—do you consume coffee, tea, or energy drinks?  
+28. Patient: I have about two cups of coffee in the morning, but none after that.  
+29. Physician: Have you tried anything to improve your sleep, like over-the-counter remedies or lifestyle changes?  
+30. Patient: I tried melatonin once, but it didn’t help. I’ve also tried relaxing before bed, but nothing works.  
+31. Physician: Have you ever been diagnosed with any medical conditions that could cause fatigue, like thyroid issues or anemia?  
+32. Patient: No, my doctor has always said I’m healthy.  
+33. Physician: Do you have any history of mental health issues like depression or anxiety?  
+34. Patient: No, never.  
+35. Physician: Do you feel joy in activities you used to enjoy, or has that changed?  
+36. Patient: I still enjoy things, just don’t have the energy or motivation sometimes.  
+37. Physician: Have you been feeling hopeless or worthless?  
+38. Patient: No, nothing like that.  
+39. Physician: Have you experienced any weight changes, fever, or other physical symptoms?  
+40. Patient: No, I’ve stayed the same weight, and I don’t get sick often.  
+41. Physician: Do you feel drowsy during the day, like you might fall asleep unintentionally?  
+42. Patient: A little, but it’s not like I’m falling asleep at my desk or anything.  
+43. Physician: Have you ever had any sleep studies done in the past?  
+44. Patient: No, this is my first time talking about sleep issues with a doctor.  
+45. Physician: Does anyone in your family have sleep problems, or a history of fatigue issues?  
+46. Patient: Not that I know of.  
+47. Physician: Based on what you're describing, it seems like your primary issue is poor-quality sleep. Do you agree?  
+48. Patient: Yes, I think that’s the root of all of this.  
+49. Physician: After evaluating your symptoms and results, I believe you’re experiencing chronic insomnia disorder.  
+50. Patient: Oh, I didn’t know insomnia could cause this much trouble. What can we do about it?"

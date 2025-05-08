@@ -1,0 +1,150 @@
+"1.  
+Doctor: What brings you in today?  
+Patient: I've been having really bad throat pain for the past two weeks, and it's been getting worse.  
+2.  
+Doctor: Can you describe the pain? Is it sharp, dull, or something else?  
+Patient: It's a constant ache, but it gets worse when I swallow or move my neck.  
+3.  
+Doctor: Have you noticed any other symptoms along with the throat pain?  
+Patient: I've been feeling really tired, had a fever, and I've lost some weight, about 4 kilograms in the last two weeks.  
+4.  
+Doctor: Have you been eating less, or has your appetite changed?  
+Patient: Not really. My appetite is about the same, I think.  
+5.  
+Doctor: Do you have difficulty swallowing or pain when swallowing?  
+Patient: No, I don’t have trouble swallowing, and it’s not painful beyond the throat ache.  
+6.  
+Doctor: How about your voice—have you noticed any hoarseness or changes in it?  
+Patient: No, my voice has been normal.  
+7.  
+Doctor: Have you had any recent illnesses, like a cold or the flu?  
+Patient: No, I haven’t been sick recently.  
+8.  
+Doctor: Have you taken any trips recently, maybe somewhere outside the country?  
+Patient: No, I haven’t traveled anywhere.  
+9.  
+Doctor: How about your general health—any past medical conditions?  
+Patient: Nothing major. I’ve been pretty healthy.  
+10.  
+Doctor: Do you have a personal or family history of thyroid problems?  
+Patient: No, none that I know of.  
+11.  
+Doctor: Have you felt any swelling or tenderness in your neck?  
+Patient: Yes, I've noticed some tenderness in the front, and it hurts more when I touch it or move my neck.  
+12.  
+Doctor: When did the tenderness in your neck start? Did it begin when the throat pain started?  
+Patient: It started a few days after the throat pain began.  
+13.  
+Doctor: Have you been experiencing any palpitations or feeling like your heart is racing?  
+Patient: Now that you mention it, yes, I’ve felt my heart racing at times, even when I’m resting.  
+14.  
+Doctor: Have you checked your temperature at home?  
+Patient: Yes, it's been pretty high—around 38°C or higher.  
+15.  
+Doctor: How about sweating or feeling warmer than usual, even when it’s not hot?  
+Patient: Yes, I feel hot all the time lately, and I sweat a lot.  
+16.  
+Doctor: Any changes in your bowel movements, such as diarrhea?  
+Patient: No, my bowel movements have been normal.  
+17.  
+Doctor: Have you noticed any shaking or trembling in your hands?  
+Patient: Yeah, sometimes my hands feel shaky.  
+18.  
+Doctor: How’s your energy level been?  
+Patient: I feel completely drained. I can barely get through the day.  
+19.  
+Doctor: Have you been under a lot of stress lately?  
+Patient: Not more than usual, no.  
+20.  
+Doctor: Are you sleeping well?  
+Patient: Not really. It feels like I can't relax, and I wake up feeling tired.  
+21.  
+Doctor: Do you smoke or drink alcohol?  
+Patient: I drink occasionally, but I don’t smoke.  
+22.  
+Doctor: Let’s talk about your weight loss. Has it been intentional at all?  
+Patient: Not at all. It just happened out of nowhere.  
+23.  
+Doctor: How about eating—any food intolerances or nausea?  
+Patient: No, nothing like that.  
+24.  
+Doctor: Do you take any medications or supplements?  
+Patient: Just a multivitamin here and there.  
+25.  
+Doctor: Have you had any joint pain or muscle weakness?  
+Patient: My muscles feel weaker than usual, but no joint pain.  
+26.  
+Doctor: Do you feel a lump in your neck when you touch it, or has anyone mentioned it to you?  
+Patient: I haven’t noticed a lump, just the tenderness.  
+27.  
+Doctor: Do you remember any injuries to your neck or throat recently?  
+Patient: No, nothing like that.  
+28.  
+Doctor: Have you been sweating at night or waking up drenched?  
+Patient: Yes, that's been happening a lot lately.  
+29.  
+Doctor: Did the symptoms start suddenly or build up gradually?  
+Patient: It started gradually but worsened a lot over the past week.  
+30.  
+Doctor: Do you notice your heart racing when you’re lying down or resting?  
+Patient: Yes, it doesn’t seem to slow down even when I’m lying down.  
+31.  
+Doctor: I’d like to examine your neck; would that be okay?  
+Patient: Of course, no problem.  
+32.  
+Doctor: Do you feel this area here on the right side of your neck is more tender?  
+Patient: Yes, that spot is the most painful.  
+33.  
+Doctor: I can feel some enlargement of your thyroid gland. Have you noticed swelling there before?  
+Patient: No, this is the first time I've noticed anything abnormal.  
+34.  
+Doctor: I’ll listen to your heart now. Have you noticed any irregular heartbeats?  
+Patient: No, just the racing feeling.  
+35.  
+Doctor: Your pulse is a bit fast. Have you been feeling anxious or jittery?  
+Patient: No more than usual, but it feels like I can’t stay calm.  
+36.  
+Doctor: How about exercise or physical activity? Has that been harder to do?  
+Patient: Yes, I get tired really quickly when I try to exercise.  
+37.  
+Doctor: Has anyone in your family had issues with rapid weight loss or similar symptoms?  
+Patient: Not that I know of.  
+38.  
+Doctor: I noticed your fever is around 38.5°C. Have you tried any medication for it?  
+Patient: I’ve taken ibuprofen a few times, but it doesn’t really help much.  
+39.  
+Doctor: Have you felt any pain in your ear or jaw linked to the throat pain?  
+Patient: Not really, it’s just the throat and neck area that hurt.  
+40.  
+Doctor: Does the pain in your neck feel like it’s spreading anywhere else?  
+Patient: No, it stays in the front of my neck.  
+41.  
+Doctor: Looking at everything we’ve discussed, I’m thinking this may involve your thyroid gland.  
+Patient: My thyroid? What does that mean?  
+42.  
+Doctor: Your symptoms and exam suggest you might have subacute thyroiditis, an inflammation of the thyroid gland.  
+Patient: Oh wow, I’ve never heard of that.  
+43.  
+Doctor: It’s consistent with the throat and neck pain, fever, and your thyroid test results showing inflammation and overactivity.  
+Patient: That makes sense. I was wondering why the pain was so bad in my neck.  
+44.  
+Doctor: For now, we’ll treat the inflammation with corticosteroids and manage hyperthyroid symptoms with beta-blockers.  
+Patient: Okay, will this help me feel better?  
+45.  
+Doctor: Yes, you should notice improvement in just a few days with the medications.  
+Patient: That’s a relief. Anything else I need to do?  
+46.  
+Doctor: We’ll monitor your thyroid function and symptoms carefully over the next few weeks.  
+Patient: Thank you, I’m glad we finally know what’s going on.  
+47.  
+Doctor: You did the right thing by coming in. Subacute thyroiditis is treatable, but we need to keep an eye on it.  
+Patient: I appreciate your help.  
+48.  
+Doctor: Are there any other questions you have about the condition?  
+Patient: Just one—will I recover completely from this?  
+49.  
+Doctor: Most patients recover fully without long-term thyroid problems. The key is the right treatment.  
+Patient: That’s great to hear.  
+50.  
+Doctor: If you notice any worsening symptoms or new concerns, let us know right away.  
+Patient: I’ll definitely do that. Thanks again, doctor.  "

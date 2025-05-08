@@ -1,0 +1,50 @@
+"1. Médico: ¿Qué le trae por aquí hoy?  
+2. Paciente: He estado sintiéndome muy fatigada últimamente, ya no tengo energía para nada.  
+3. Médico: ¿Hace cuánto tiempo comenzó a sentirse así?  
+4. Paciente: Creo que todo empezó hace como un año, pero ha empeorado en los últimos meses.  
+5. Médico: Entiendo. ¿Nota algún otro síntoma aparte de la fatiga?  
+6. Paciente: Sí, también he subido de peso, casi 6 kilos, sin cambiar lo que como.  
+7. Médico: ¿Ha hecho algo diferente en su dieta o rutina de ejercicios?  
+8. Paciente: No, realmente sigo los mismos hábitos que siempre.  
+9. Médico: ¿Ha notado problemas con el frío, como si lo tolerara menos?  
+10. Paciente: Sí, parece que siempre tengo frío, aunque los demás están bien.  
+11. Médico: ¿Cómo han estado sus hábitos intestinales?  
+12. Paciente: Últimamente he tenido estreñimiento; ir al baño se ha vuelto difícil.  
+13. Médico: ¿Ha notado algún tipo de fiebre o sensación de calor en exceso?  
+14. Paciente: No, realmente no he tenido fiebre ni nada parecido.  
+15. Médico: ¿Le han ocurrido episodios de palpitaciones o sentir el corazón muy acelerado?  
+16. Paciente: No, mi corazón parece estar bien.  
+17. Médico: ¿Alguna vez ha sentido desmayos o síntomas como si su azúcar estuviera muy baja?  
+18. Paciente: No, nunca he sentido algo así.  
+19. Médico: ¿Tiene algún antecedente médico que sea importante mencionar?  
+20. Paciente: Tengo hipertensión y tomo enalapril todos los días desde hace 5 años.  
+21. Médico: ¿Cómo están sus controles de presión arterial?  
+22. Paciente: Mi presión casi siempre está bien, aunque a veces sube un poco si olvido tomar la pastilla.  
+23. Médico: ¿Hay antecedentes de enfermedades tiroideas en su familia?  
+24. Paciente: No que yo sepa. Nadie en mi familia ha tenido problemas de tiroides.  
+25. Médico: ¿Fuma o consume alcohol con frecuencia?  
+26. Paciente: No, no fumo y tampoco tomo alcohol.  
+27. Médico: Perfecto. Quisiera saber si ha notado cambios en su piel o cabello.  
+28. Paciente: Sí, mi piel está muy seca últimamente y mi cabello parece más débil.  
+29. Médico: ¿Ha observado cambios en sus cejas o uñas?  
+30. Paciente: Sí, me he dado cuenta de que las uñas están quebradizas, y las cejas han perdido algo de pelo.  
+31. Médico: Durante este tiempo, ¿ha experimentado hinchazón en las piernas o en otras partes del cuerpo?  
+32. Paciente: Sí, las piernas a veces están algo hinchadas, pero no tanto.  
+33. Médico: ¿Qué tal el apetito? ¿Ha cambiado en los últimos meses?  
+34. Paciente: No, he seguido comiendo igual que siempre.  
+35. Médico: En la mañana, ¿siente dificultad para levantarse?  
+36. Paciente: Mucho, me cuesta empezar el día; siempre estoy cansada.  
+37. Médico: ¿Alguna dificultad para concentrarse o recordar cosas?  
+38. Paciente: Sí, siento que últimamente olvido muchas cosas pequeñas.  
+39. Médico: Vamos a revisar un poco su historia clínica. ¿Alguna cirugía previa o enfermedades serias antes de su hipertensión?  
+40. Paciente: No, nunca me han operado y no recuerdo haber tenido algo grave.  
+41. Médico: Cuando tenía fatiga al comienzo, ¿era tan intensa como ahora?  
+42. Paciente: No, al principio solo era un poco de cansancio, pero ahora es constante.  
+43. Médico: Gracias por la información. Vamos a seguir con un examen físico. ¿Nota algún dolor en el cuello al tragar?  
+44. Paciente: No, trago bien y no me duele para nada.  
+45. Médico: ¿Ha sentido algún bulto o molestia en la garganta?  
+46. Paciente: No, pero a veces siento como que mi cuello está un poco raro, no sabría explicar.  
+47. Médico: Entiendo, dejaré que descanse mientras reviso sus análisis y los resultados de las pruebas iniciales.  
+48. Paciente: Claro, gracias doctor.  
+49. Médico: Basado en los resultados de laboratorio, puedo decirle que tiene hipotiroidismo primario, probablemente causado por una condición llamada tiroiditis de Hashimoto.  
+50. Paciente: ¿Qué significa eso?"

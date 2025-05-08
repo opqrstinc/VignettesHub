@@ -1,0 +1,50 @@
+"1. Physician: What brings you in today?  
+2. Patient: I've been having tremors in my left hand. It's gotten worse over the past year.  
+3. Physician: Can you describe these tremors? When do they occur?  
+4. Patient: They're worse when I'm resting, but they seem to get better when I move my hand.  
+5. Physician: I see. When did you first notice the tremors?  
+6. Patient: It started about a year ago, but it was mild and only happened every now and then.  
+7. Physician: Has the tremor become more constant or severe over time?  
+8. Patient: Yes, it's definitely more constant now, and people around me have started to notice.  
+9. Physician: Besides the tremor, have you had difficulty with any particular tasks?  
+10. Patient: Yes, things like buttoning my shirt or writing have become harder. My hand just doesn't work like it used to.  
+11. Physician: Have you noticed any changes in your movement overall?  
+12. Patient: I've been feeling slower in general. It takes me longer to get up and start moving, and I feel stiff in the mornings.  
+13. Physician: Do you feel the stiffness improves once you’ve been moving for a while?  
+14. Patient: Yes, it seems to ease up as the day goes on.  
+15. Physician: Any difficulty with your walking or balance?  
+16. Patient: Yes, I sometimes feel off-balance, and my wife says I walk differently now.  
+17. Physician: Does your wife notice anything specific about how you walk?  
+18. Patient: Wife: He doesn't swing his left arm much when he walks, and he’s leaning forward more.  
+19. Physician: Have you had any weakness or pain in your muscles?  
+20. Patient: No real weakness or pain, just the stiffness and slowness.  
+21. Physician: Have you had any trouble speaking, swallowing, or maintaining facial expressions?  
+22. Patient: No, none of that.  
+23. Physician: Any history of feeling unusually tired or low energy?  
+24. Patient: I've felt a little more tired lately, but I thought it was just my age catching up with me.  
+25. Physician: Have you noticed any changes in your handwriting?  
+26. Patient: Yes, my writing has gotten smaller and less clear.  
+27. Physician: Are there any other symptoms you’ve noticed, like memory problems or mood changes?  
+28. Patient: No memory issues, but I do feel frustrated about the tremor and stiffness.  
+29. Physician: Have you ever had any head injuries or recent trauma?  
+30. Patient: No, nothing like that.  
+31. Physician: Do you drink alcohol or use recreational drugs?  
+32. Patient: I drink occasionally, but I don’t use drugs.  
+33. Physician: Are you currently taking any medications?  
+34. Patient: No, nothing at all.  
+35. Physician: Do you have any medical conditions like diabetes, high blood pressure, or thyroid disease?  
+36. Patient: No, I’ve been pretty healthy overall.  
+37. Physician: Does anyone in your family have symptoms like tremors or stiffness?  
+38. Patient: No, there's no history of anything like that in my family.  
+39. Physician: Have you been exposed to any toxins or done work with chemicals?  
+40. Patient: No, nothing that I can think of.  
+41. Physician: Let me ask you a bit about your daily activities. Do you feel these symptoms limit what you can do?  
+42. Patient: Some things take longer, but I try to manage. My tremor is what bothers me the most.  
+43. Physician: On examination, I noticed a resting tremor in your left hand, and your movements seem slower. Have you noticed this slowness affecting specific tasks?  
+44. Patient: Yes, things like using utensils or typing are harder now.  
+45. Physician: During your gait assessment, your posture was a bit stooped. Do you feel you lean forward when you walk?  
+46. Patient: My wife mentioned it before, but I hadn't really noticed.  
+47. Physician: A couple more questions—any dizziness or fainting spells?  
+48. Patient: No, I haven’t had any of those.  
+49. Physician: Alright, based on what you've described and what I’ve observed, I believe you may have a condition called Parkinson’s disease, which affects movement and commonly causes symptoms like tremor, stiffness, and slowness.  
+50. Patient: Parkinson's disease? What does that mean for me?  "

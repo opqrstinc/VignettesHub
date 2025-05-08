@@ -1,0 +1,50 @@
+"1. Médico: Hola, señora, ¿cómo se encuentra el día de hoy?  
+2. Paciente: Hola doctor, estoy preocupada por algunos síntomas que he tenido últimamente.  
+3. Médico: Entiendo, cuénteme cuáles son esos síntomas.  
+4. Paciente: He notado que mi piel está muy seca y siento mucho frío, aunque no esté tan frío el clima.  
+5. Médico: ¿Desde hace cuánto tiempo ha tenido estos síntomas?  
+6. Paciente: Aproximadamente seis meses.  
+7. Médico: Además de la sequedad en la piel y la sensación de frío, ¿ha notado algún otro cambio?  
+8. Paciente: Sí, me siento muy cansada todo el tiempo y he subido como 5 kilos, sin haber cambiado mucho lo que como.  
+9. Médico: Entendido. ¿Ha notado caída del cabello o algún cambio en su cabello?  
+10. Paciente: Sí, mi cabello se está cayendo más de lo normal y está muy débil.  
+11. Médico: ¿Ha tenido dificultad para respirar, palpitaciones o algún síntoma relacionado con el corazón?  
+12. Paciente: No, no he tenido problemas de ese tipo, doctor.  
+13. Médico: ¿Tiene problemas para ir al baño, como estreñimiento?  
+14. Paciente: Sí, a veces tengo estreñimiento, pero no siempre.  
+15. Médico: ¿Cómo ha estado durmiendo? ¿Siente sueño durante el día?  
+16. Paciente: Me cuesta trabajo quedarme dormida bien en la noche, y durante el día tengo mucho sueño.  
+17. Médico: ¿Alguien en su familia ha tenido problemas de la tiroides?  
+18. Paciente: No, que yo sepa, nadie en mi familia tiene problemas de la tiroides.  
+19. Médico: ¿Ha estado expuesta a radiación, especialmente en el cuello?  
+20. Paciente: No, nunca he estado expuesta a radiación.  
+21. Médico: Comprendo. ¿Cómo ha estado su manejo de la diabetes? ¿Toma alguna medicación?  
+22. Paciente: Sí, doctor, tomo metformina, 850 mg cada 12 horas. Mi azúcar a veces está un poco alta.  
+23. Médico: Gracias por mencionarlo. ¿Qué tal su apetito? ¿Ha cambiado recientemente?  
+24. Paciente: No, no he notado cambios en mi apetito.  
+25. Médico: Le voy a revisar ahora. Permítame evaluar algunas cosas.  
+26. Paciente: Claro, doctor.  
+27. Médico: Noto que su piel está seca y escamosa, especialmente en las extremidades. ¿Se aplica crema hidratante?  
+28. Paciente: Sí, pero no parece ayudar mucho.  
+29. Médico: Su cabello también se ve un poco frágil. ¿Ha intentado cambiar champú o algún tratamiento para el cabello?  
+30. Paciente: No, uso el mismo de siempre.  
+31. Médico: Tiene las manos frías. ¿Siempre las siente así?  
+32. Paciente: Sí, últimamente siempre están frías.  
+33. Médico: La escucharé un momento su corazón. Su pulso está algo lento. ¿Se siente mareada o débil?  
+34. Paciente: No, solamente cansada todo el tiempo.  
+35. Médico: Sus reflejos en las piernas están un poco bajos. ¿Ha tenido calambres o debilidad en las piernas?  
+36. Paciente: No, pero a veces siento como pesadez en las piernas.  
+37. Médico: Vamos a realizar algunos análisis para confirmar lo que sospecho.  
+38. Paciente: ¿Qué cree que pueda ser, doctor?  
+39. Médico: Bueno, sus síntomas podrían estar relacionados con un problema en la tiroides.  
+40. Paciente: ¿Eso tiene solución?  
+41. Médico: Sí, tiene tratamiento, pero primero necesitamos confirmar con los análisis.  
+42. Paciente: Está bien, doctor.  
+43. Médico: Además, revisaremos cómo está su azúcar y su colesterol.  
+44. Paciente: ¿El colesterol? No sabía que podía estar relacionado.  
+45. Médico: Sí, a veces los problemas de la tiroides también afectan los niveles de colesterol.  
+46. Paciente: Entendido, doctor.  
+47. Médico: Los resultados muestran que su tiroides no está funcionando bien. Tiene una condición llamada tiroiditis de Hashimoto, que causa hipotiroidismo.  
+48. Paciente: ¿Qué significa eso, doctor?  
+49. Médico: Significa que su tiroides está produciendo menos hormonas de lo que su cuerpo necesita.  
+50. Paciente: ¿Y qué puedo hacer al respecto?  "

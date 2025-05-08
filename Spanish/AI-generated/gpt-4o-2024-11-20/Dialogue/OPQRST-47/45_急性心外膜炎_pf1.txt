@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes. ¿Qué la trae hoy a consulta?  
+2. Paciente: Hola, doctor. Desde hace tres días tengo un dolor en el pecho que va hacia la espalda y el cuello.  
+3. Médico: Entendido. ¿Cómo describiría el dolor? ¿Es constante o viene y va?  
+4. Paciente: Es constante, pero se siente más fuerte cuando me acuesto boca arriba.  
+5. Médico: ¿Hay algo que lo alivie?  
+6. Paciente: Sí, cuando me inclino hacia adelante parece que mejora un poco.  
+7. Médico: ¿Además del dolor, ha notado otros síntomas?  
+8. Paciente: Sí, me ha costado un poco respirar, como si me faltara aire, y he tenido fiebre.  
+9. Médico: ¿Qué tan alta ha sido la fiebre?  
+10. Paciente: He llegado a 38.5 grados. También me siento agotada, como con malestar general.  
+11. Médico: ¿Ha tenido escalofríos, sudores nocturnos o pérdida de peso?  
+12. Paciente: No, nada de eso. Solo la fiebre.  
+13. Médico: ¿Y tos? ¿Ha notado algún cambio en la calidad de su voz?  
+14. Paciente: Sí, tengo mucha tos, pero es seca. Mi voz está normal.  
+15. Médico: ¿Ha tenido náuseas, vómitos o dolor abdominal?  
+16. Paciente: No, nada de eso.  
+17. Médico: ¿Tiene antecedentes de problemas cardíacos, hipertensión o alguna otra enfermedad crónica?  
+18. Paciente: No, nunca me han diagnosticado nada grave.  
+19. Médico: ¿Está tomando algún medicamento actualmente, o ha tomado algo para el dolor o la fiebre?  
+20. Paciente: No, solo tomé paracetamol para la fiebre, pero no ayudó mucho con el dolor.  
+21. Médico: ¿Alguien en su familia tiene enfermedades cardíacas o problemas relacionados?  
+22. Paciente: Mi madre tuvo hipertensión, pero nada más por lo que sepa.  
+23. Médico: ¿Ha realizado alguna actividad física intensa recientemente o algún movimiento que desencadenara este dolor?  
+24. Paciente: No, mi rutina ha sido bastante normal.  
+25. Médico: ¿Ha estado en contacto con alguien enfermo o ha viajado recientemente?  
+26. Paciente: No he salido de la ciudad y no conozco a nadie con fiebre o algo similar.  
+27. Médico: ¿Ha notado hinchazón en los pies o en tobillos, o venas en el cuello hinchadas?  
+28. Paciente: No, nada de eso. Mis piernas están normales.  
+29. Médico: ¿El dolor en el pecho ha cambiado en intensidad durante estos días?  
+30. Paciente: Diría que es igual. No ha mejorado mucho.  
+31. Médico: ¿El dolor aumenta al hacer actividad o caminar?  
+32. Paciente: No, no cambia con el ejercicio.  
+33. Médico: Voy a tomarle los signos vitales. Veo que tiene fiebre y taquicardia. Voy a escuchar su pecho, ¿está bien?  
+34. Paciente: Claro, doctor.  
+35. Médico: Escucho un sonido como un roce al lado izquierdo del pecho. ¿Ha notado algún cambio en su ritmo cardíaco?  
+36. Paciente: No sé, no me he fijado en eso. Solo siento que late rápido.  
+37. Médico: En el electrocardiograma que le hicimos veo cambios en la actividad eléctrica del corazón que podrían explicarse por inflamación.  
+38. Paciente: ¿Inflamación? ¿Es grave?  
+39. Médico: Podría ser una inflamación del pericardio, que es una capa que rodea el corazón.  
+40. Paciente: ¿Y eso por qué pasa?  
+41. Médico: A veces ocurre por infecciones virales. También puede ser idiopático, es decir, sin una causa clara. Vamos a seguir investigando.  
+42. Paciente: ¿Requiere cirugía o algo complicado?  
+43. Médico: No parece ser el caso. El líquido alrededor del corazón es moderado y no hay signos de peligro inmediato.  
+44. Paciente: ¿Me curaré pronto?  
+45. Médico: Con tratamiento adecuado, la mayoría de las personas mejora en pocos días.  
+46. Paciente: ¿Qué tratamiento necesito?  
+47. Médico: Usaremos colchicina y un antiinflamatorio como ibuprofeno para controlar la inflamación y el dolor.  
+48. Paciente: ¿Tendré que tomar muchos medicamentos?  
+49. Médico: Principalmente esos dos, y un protector gástrico para evitar molestias estomacales.  
+50. Paciente: Gracias, doctor. Espero mejorar pronto."

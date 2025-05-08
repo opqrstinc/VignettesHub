@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, ¿en qué puedo ayudarle hoy?  
+2. Paciente: Buenas tardes, doctor. Vengo porque tengo mucha fatiga desde hace meses, y me siento mareada a veces, especialmente cuando me levanto rápido.  
+3. Médico: Entiendo, ¿desde cuándo comenzó a sentir estos síntomas?  
+4. Paciente: Hace como seis meses. Al principio era leve, pero en el último mes ha sido peor.  
+5. Médico: ¿Qué tanto afecta su vida diaria?  
+6. Paciente: Mucho. Me cuesta hacer tareas simples, y subir escaleras es todo un reto porque me falta el aire.  
+7. Médico: ¿Tiene algún otro síntoma, como fiebre, pérdida de peso o problemas con el estómago?  
+8. Paciente: No, nada de eso.  
+9. Médico: ¿Cómo son sus menstruaciones?, ¿son regulares?  
+10. Paciente: Siempre he tenido menstruaciones muy abundantes desde que era adolescente. Uso muchas compresas al día durante varios días.  
+11. Médico: Entiendo. ¿Ha tenido algún episodio reciente de sangrado que no sea menstrual?  
+12. Paciente: No, no he tenido nada fuera de lo normal.  
+13. Médico: ¿Ha notado algún cambio en su cabello o en sus uñas?  
+14. Paciente: Sí, ahora que lo menciona, mi cabello se cae mucho últimamente y mis uñas están muy frágiles.  
+15. Médico: ¿Recuerda haber tenido problemas similares en el pasado?  
+16. Paciente: No, nunca. Esta es la primera vez que me siento así por tanto tiempo.  
+17. Médico: ¿Tiene antecedentes de enfermedades en su familia, como problemas de tiroides o anemia?  
+18. Paciente: Mi madre tuvo anemia cuando estaba embarazada, pero nada más.  
+19. Médico: ¿Toma algún medicamento o suplemento actualmente?  
+20. Paciente: No, nada.  
+21. Médico: ¿Cómo son sus hábitos alimenticios?  
+22. Paciente: Creo que como de todo, pero no soy muy fan de las carnes rojas.  
+23. Médico: Entendido. ¿Fuma o consume alcohol regularmente?  
+24. Paciente: No, no fumo, y solo tomo vino en ocasiones especiales.  
+25. Médico: Muy bien. ¿Ha tenido cambios en su piel, como palidez?  
+26. Paciente: Mi esposo dice que estoy más pálida de lo normal, pero no me había fijado hasta ahora.  
+27. Médico: ¿Cómo ha dormido últimamente?  
+28. Paciente: Duermo bien, pero aun así me siento cansada todo el día.  
+29. Médico: ¿Ha tenido episodios de dolor en el pecho o latidos rápidos?  
+30. Paciente: No dolor, pero a veces siento que mi corazón late muy rápido.  
+31. Médico: Haré una revisión física para confirmar algunas cosas.  
+32. Paciente: Claro, doctor.  
+33. Médico: En la exploración noto que su piel y mucosas están pálidas, y tiene taquicardia leve. También veo que sus uñas están algo frágiles.  
+34. Paciente: ¿Eso puede ser grave?  
+35. Médico: Puede estar relacionado con anemia, pero necesitamos analizarlo más. Le solicitaré un hemograma y otros análisis de hierro.  
+36. Paciente: Está bien, confío en usted.  
+37. Médico: ¿Puede mencionar si ha tenido problemas para realizar actividades específicas, como caminar o cargar algo pesado?  
+38. Paciente: Caminar largas distancias ya no puedo, y cargar cosas pesadas me cansa mucho.  
+39. Médico: ¿Cuándo fue su última menstruación, y cómo la describiría?  
+40. Paciente: Fue hace dos semanas, muy abundante como siempre, con coágulos.  
+41. Médico: Gracias por compartir esa información. Sus síntomas coinciden con deficiencia de hierro, pero lo confirmaremos con los análisis.  
+42. Paciente: ¿Y qué causa esa deficiencia?  
+43. Médico: Frecuentemente es por sangrado crónico, como su menorragia.  
+44. Paciente: Eso tiene sentido.  
+45. Médico: Le preguntaré algo más. ¿Ha tenido problemas digestivos o cambios en sus hábitos intestinales?  
+46. Paciente: No, doctor, todo normal.  
+47. Médico: También evaluaremos si hay pérdidas intestinales de sangre, aunque no creo que sea la causa principal.  
+48. Paciente: Entiendo.  
+49. Médico: Según sus síntomas y tras descartar otras causas, parece que tiene anemia ferropénica.  
+50. Paciente: ¿Eso se puede tratar?"

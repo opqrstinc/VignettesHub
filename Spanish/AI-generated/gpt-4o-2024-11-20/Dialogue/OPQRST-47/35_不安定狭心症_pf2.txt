@@ -1,0 +1,51 @@
+"1. Médico: Buenos días, señora. ¿Cómo se encuentra hoy?  
+2. Paciente: Buenos días, doctor. No muy bien, he estado teniendo unos dolores en el pecho.  
+3. Médico: Entiendo. ¿Puede describirme cómo es ese dolor?  
+4. Paciente: Es como una presión muy fuerte, aquí en el centro del pecho.  
+5. Médico: ¿Cuándo comenzó ese dolor por primera vez?  
+6. Paciente: Hace dos días. Aparece y desaparece, y dura unos 10 o 15 minutos cada vez.  
+7. Médico: ¿Qué estaba haciendo cuando apareció por primera vez?  
+8. Paciente: La primera vez estaba sentada viendo televisión. No hice nada especial.  
+9. Médico: ¿Ha notado si el dolor aparece al realizar esfuerzos físicos o al caminar?  
+10. Paciente: No, más bien aparece cuando estoy en reposo.  
+11. Médico: ¿Viene acompañado de algún otro síntoma, como dificultad para respirar?  
+12. Paciente: No, doctor, puedo respirar bien.  
+13. Médico: ¿Y qué tal náuseas, mareos o desmayos? ¿Ha experimentado algo de eso?  
+14. Paciente: No, nada de eso.  
+15. Médico: ¿Ha sentido que el corazón le late más rápido durante estos episodios?  
+16. Paciente: Sí, a veces me dan palpitaciones junto con el dolor.  
+17. Médico: ¿Ha notado que suda más de lo normal cuando tiene esos episodios?  
+18. Paciente: Sí, me pongo sudorosa, incluso aunque no haga calor.  
+19. Médico: Entiendo. ¿Ha tomado algo para aliviar el dolor?  
+20. Paciente: No, pensé que se me iba a pasar, pero ya es muy frecuente.  
+21. Médico: ¿Ha notado que los episodios son ahora más intensos o más frecuentes?  
+22. Paciente: Sí, en las últimas 24 horas han sido más seguidos y más fuertes.  
+23. Médico: ¿Tiene algún antecedente de enfermedades como hipertensión o colesterol alto?  
+24. Paciente: Tengo diabetes, me dieron metformina para controlarla.  
+25. Médico: ¿Desde hace cuánto tiempo le diagnosticaron diabetes?  
+26. Paciente: Hace como 10 años, más o menos.  
+27. Médico: ¿Cómo han estado sus niveles de azúcar últimamente?  
+28. Paciente: No me los checo muy seguido, pero creo que están un poco altos.  
+29. Médico: ¿Y tiene algún antecedente en su familia de enfermedades del corazón?  
+30. Paciente: Mi padre tuvo un infarto hace muchos años.  
+31. Médico: ¿Ha tenido dolores similares en el pasado?  
+32. Paciente: No, es la primera vez que me pasa algo así.  
+33. Médico: ¿Ha notado algún cambio en sus actividades diarias desde que comenzó el dolor?  
+34. Paciente: Sí, trato de no moverme mucho por miedo a que me dé otro episodio.  
+35. Médico: Cuando ocurre el dolor, ¿hace algo para que se le pase?  
+36. Paciente: No hago nada, pero normalmente desaparece solo después de un rato.  
+37. Médico: ¿Fuma usted?  
+38. Paciente: No, nunca he fumado, doctor.  
+39. Médico: ¿Consume bebidas alcohólicas de forma regular?  
+40. Paciente: Solo en ocasiones especiales, muy poco.  
+41. Médico: Entendido. ¿Ha tenido algún problema reciente con su medicación para la diabetes?  
+42. Paciente: No, la tomo todos los días como me indicaron.  
+43. Médico: ¿Recuerda si ha tenido fiebre o resfriados en los últimos días?  
+44. Paciente: No, nada de eso.  
+45. Médico: Le haremos exámenes para evaluar mejor este dolor, pero por su descripción me preocupa que pudiera ser algo relacionado con el corazón.  
+46. Paciente: ¿Cree que es algo serio, doctor?  
+47. Médico: Puede ser, pero no se preocupe. Estamos aquí para identificar qué está pasando.  
+48. Paciente: Está bien, doctor, confío en usted.  
+49. Médico: Gracias. También le haré un electrocardiograma y análisis de sangre para evaluar ciertas enzimas del corazón que nos muestran si hubo daño.  
+50. Paciente: Lo que sea necesario para saber qué tengo, doctor.  
+(Continuando en la siguiente etapa de diagnóstico y proporcionando información adicional sobre el procedimiento y tratamiento.)"

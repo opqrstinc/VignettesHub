@@ -1,0 +1,51 @@
+"1. Médico: Hola, buenos días. ¿Qué lo trae por aquí hoy?  
+2. Paciente: Buenos días, doctor. Tengo dolor en las piernas, sobre todo cuando camino o hago ejercicio.  
+3. Médico: Entiendo. ¿Desde hace cuánto tiempo nota este dolor?  
+4. Paciente: Comenzó hace como seis meses, y poco a poco ha ido empeorando.  
+5. Médico: ¿El dolor aparece siempre al caminar o haciendo esfuerzos?  
+6. Paciente: Sí, casi siempre sucede cuando estoy activo, pero mejora un poco cuando descanso.  
+7. Médico: ¿Podría describir el dolor? ¿Es punzante, constante o de otro tipo?  
+8. Paciente: Es como si me quemara, pero a veces siento como un hormigueo o calambres.  
+9. Médico: ¿Ha notado si el dolor es más fuerte en alguna hora del día?  
+10. Paciente: No, más que nada depende de si estoy caminando o de pie por mucho tiempo.  
+11. Médico: ¿El dolor lo siente en ambas piernas o solo en una?  
+12. Paciente: Es en las dos, pero parece que un poco más en la derecha.  
+13. Médico: ¿Ha notado algún cambio en el color o la apariencia de la piel en sus pies o piernas?  
+14. Paciente: Sí, a veces los pies se ven pálidos, pero cuando los bajo al suelo se ponen rojizos.  
+15. Médico: ¿Tiene sensación de frío en los pies, incluso cuando hace calor?  
+16. Paciente: Sí, eso me pasa mucho. Siempre siento que los pies están helados.  
+17. Médico: ¿Alguna vez ha tenido heridas o úlceras en los pies que tarden en sanar?  
+18. Paciente: No, no he tenido heridas, por suerte.  
+19. Médico: ¿Tiene usted alguna enfermedad crónica como diabetes, hipertensión o colesterol alto?  
+20. Paciente: No, ninguna de esas cosas. Siempre me he considerado sano hasta ahora.  
+21. Médico: ¿Toma algún medicamento regularmente?  
+22. Paciente: No, no tomo ningún medicamento.  
+23. Médico: ¿Fuma o ha fumado alguna vez?  
+24. Paciente: Sí, fumo. He fumado como 20 cigarrillos diarios por más de 20 años.  
+25. Médico: Entiendo. ¿Ha intentado dejar de fumar en algún momento?  
+26. Paciente: Lo he pensado, pero nunca lo he intentado seriamente.  
+27. Médico: Gracias por compartirlo. ¿En su familia hay antecedentes de problemas de circulación o enfermedades del corazón?  
+28. Paciente: No, que yo sepa mi familia está sana.  
+29. Médico: ¿Tiene otros síntomas como fiebre, pérdida de peso o cansancio excesivo?  
+30. Paciente: No, nada de eso. Solamente lo de las piernas.  
+31. Médico: ¿Siente molestias o calambres durante la noche, incluso estando en reposo?  
+32. Paciente: Sí, a veces tengo calambres en las piernas por la noche.  
+33. Médico: ¿Le cuesta encontrar una posición cómoda para los pies al dormir?  
+34. Paciente: Sí, a veces debo dejarlos colgando al borde de la cama porque así se siente mejor.  
+35. Médico: En su exploración he notado que sus pies están algo pálidos y los pulsos en las arterias de las piernas están disminuidos. ¿Lo ha notado antes?  
+36. Paciente: No, nunca me lo habían revisado.  
+37. Médico: He visto también que la piel se pone roja al bajar los pies. Esto sugiere problemas en la circulación.  
+38. Paciente: ¿Eso es grave, doctor?  
+39. Médico: Todavía necesito hacer algunas pruebas para confirmarlo, pero podría tratarse de un problema de vasos sanguíneos.  
+40. Paciente: ¿Eso tiene que ver con que fume?  
+41. Médico: Es posible, el tabaquismo suele dañar las arterias y empeorar problemas circulatorios.  
+42. Paciente: ¿Hay algo que pueda hacer para mejorar esto?  
+43. Médico: Sí, dejar de fumar sería lo más importante para empezar. También existen tratamientos que pueden ayudar.  
+44. Paciente: ¿Son necesarios exámenes o estudios?  
+45. Médico: Sí, realizaremos un Doppler y otras pruebas para evaluar el flujo sanguíneo en sus piernas.  
+46. Paciente: ¿Eso duele?  
+47. Médico: No, es un examen no invasivo, como una ecografía, y no duele.  
+48. Paciente: Bien, entonces lo hago.  
+49. Médico: Perfecto. Con base en sus síntomas y los hallazgos, parece que podría haber una enfermedad llamada tromboangeítis obliterante, que afecta a fumadores.  
+50. Paciente: ¿Eso se puede tratar?  
+51. Médico: Sí, además de dejar de fumar, usaremos medicamentos como ácido acetilsalicílico y cilostazol para mejorar la circulación y prevenir complicaciones."

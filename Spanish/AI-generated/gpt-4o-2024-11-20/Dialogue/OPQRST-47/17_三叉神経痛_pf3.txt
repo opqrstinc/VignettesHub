@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señor. ¿Qué lo trae a la consulta hoy?  
+2. Paciente: Buenos días, doctor. Estoy aquí porque tengo un dolor muy fuerte y extraño alrededor del ojo derecho.  
+3. Médico: ¿Puede describir ese dolor?  
+4. Paciente: Claro, es como una puñalada, muy intenso y agudo, viene de repente y dura pocos segundos, tal vez minutos.  
+5. Médico: Entiendo. ¿Cuándo comenzó este dolor?  
+6. Paciente: Hace como dos meses, pero ha empeorado en las últimas semanas. Ahora sucede más seguido y con más intensidad.  
+7. Médico: ¿Cuántas veces al día tiene este dolor?  
+8. Paciente: Creo que fácilmente más de diez veces al día.  
+9. Médico: ¿Sabe qué podría desencadenar el dolor?  
+10. Paciente: Sí, parece que ocurre cuando me expongo al viento frío o cuando algo roza ligeramente la zona.  
+11. Médico: ¿Ha notado algo que lo alivia?  
+12. Paciente: No realmente, desaparece solo, pero es muy incapacitante mientras dura.  
+13. Médico: ¿Ha tenido dolor de cabeza, náuseas o vómitos junto con estos episodios?  
+14. Paciente: No, no he tenido nada de eso.  
+15. Médico: ¿Y ha notado algún problema de visión o hinchazón en la zona afectada?  
+16. Paciente: No, mi vista está normal y no he notado hinchazón.  
+17. Médico: ¿Tiene antecedentes de algún accidente o golpe en la cara o la cabeza?  
+18. Paciente: No, nunca he tenido golpes ni nada similar.  
+19. Médico: ¿Alguna otra enfermedad que padezca o algo en su salud que sea importante mencionar?  
+20. Paciente: Bueno, tengo asma, pero está bajo control con los medicamentos.  
+21. Médico: Perfecto. Ahora, durante estos episodios, ¿ha experimentado algún entumecimiento o sensación extraña en la cara?  
+22. Paciente: No, solo el dolor.  
+23. Médico: ¿Siente que el dolor se queda en un lugar específico o se extiende a otras áreas?  
+24. Paciente: Siempre está alrededor del ojo derecho, no se mueve de ahí.  
+25. Médico: Muy bien, ¿y ocurre mientras duerme o lo despierta por la noche?  
+26. Paciente: No, nunca pasa mientras duermo, solo durante el día.  
+27. Médico: Cuando comenzó el dolor, ¿había hecho algo inusual esa semana? ¿Cambios en su rutina, tensión, estrés?  
+28. Paciente: Nada fuera de lo normal, llevo una vida tranquila.  
+29. Médico: Entendido. ¿Ha tomado algo para aliviar el dolor?  
+30. Paciente: Probé con analgésicos comunes, pero no funcionan.  
+31. Médico: Ahora vamos a explorar su cara, por favor, dígame si siente algo extraño.  
+32. Paciente: Ok, estoy listo.  
+33. Médico: Al tocar ligeramente esta área, ¿siente el dolor típico?  
+34. Paciente: Sí, justo ahí, es el mismo dolor.  
+35. Médico: Gracias por su paciencia. Vamos a hacer algunas pruebas más. ¿Tiene antecedentes familiares de problemas neurológicos o enfermedades similares?  
+36. Paciente: Que yo sepa, no, mi familia está bastante sana.  
+37. Médico: Entendido. ¿Ha tenido fiebre o algún signo de infección hace poco?  
+38. Paciente: No, nada de eso.  
+39. Médico: Muy bien, voy a solicitar algunos estudios de imagen y análisis para descartar otras causas posibles.  
+40. Paciente: Está bien, doctor, lo que sea necesario.  
+41. Médico: La exploración inicial no muestra signos de anormalidades visibles, pero quiero estar seguro. Vamos a hacer una resonancia magnética.  
+42. Paciente: De acuerdo, doctor, prefiero saber exactamente qué tengo.  
+43. Médico: También evaluaremos su sangre para descartar inflamaciones o infecciones.  
+44. Paciente: Muy bien.  
+45. Médico: Después de revisar todos los resultados, no encontramos lesiones ni problemas estructurales en su cerebro o nervios.  
+46. Paciente: Eso suena bien, pero ¿entonces qué causa el dolor?  
+47. Médico: Basándome en la descripción de su dolor, los desencadenantes específicos y la ausencia de otros problemas, parece que tiene neuralgia del trigémino, en el área que corresponde a la rama V1 del nervio trigémino.  
+48. Paciente: ¿Y eso qué significa?  
+49. Médico: Es un trastorno que ocasiona dolor intenso en una zona de la cara, debido a una irritación o hipersensibilidad de ese nervio. Es tratable, no se preocupe.  
+50. Paciente: Gracias, doctor, me deja más tranquilo."

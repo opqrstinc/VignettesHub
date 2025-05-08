@@ -1,0 +1,51 @@
+"1. Médico: Buenas tardes, señor. ¿Qué lo trae hoy a consulta?  
+2. Paciente: Buenas tardes, doctor. He estado teniendo un dolor fuerte en el pecho desde hace dos días.  
+3. Médico: ¿Podría describirme cómo es ese dolor?  
+4. Paciente: Es un dolor como si algo me aplastara el pecho, justo aquí en el centro.  
+5. Médico: ¿El dolor se desplaza o permanece en esa misma área?  
+6. Paciente: A veces comienza en el pecho y siento como si se moviera hacia mi brazo izquierdo e incluso a la mandíbula.  
+7. Médico: ¿Cuándo comenzó este dolor?  
+8. Paciente: Creo que hace dos días. Lo sentí por primera vez mientras subía unas escaleras.  
+9. Médico: ¿Qué estaba haciendo exactamente cuando empezó?  
+10. Paciente: Estaba subiendo unas escaleras con algo de prisa.  
+11. Médico: ¿El dolor desapareció al descansar?  
+12. Paciente: Sí, mejoró un poco al sentarme, pero no del todo.  
+13. Médico: ¿Ha tenido estos dolores en otros momentos?  
+14. Paciente: Sí, han ocurrido varias veces en estos días.  
+15. Médico: ¿Cuánto tiempo duran estos episodios?  
+16. Paciente: Cada vez duran como unos 15 minutos.  
+17. Médico: ¿Se relaciona este dolor con comer o con cambiar de posición?  
+18. Paciente: No, doctor, no parece tener nada que ver con eso.  
+19. Médico: ¿Ha sentido algún síntoma más cuando tiene ese dolor?  
+20. Paciente: Sí, me falta el aire y siento el corazón muy rápido.  
+21. Médico: ¿Qué tan frecuente ha sentido estas palpitaciones?  
+22. Paciente: Solo cuando tengo el dolor.  
+23. Médico: ¿Ha notado algo que desencadene estos episodios?  
+24. Paciente: Parece ser cuando hago algún esfuerzo, nada más.  
+25. Médico: ¿Estos episodios son iguales o han empeorado?  
+26. Paciente: Han sido más frecuentes, pero el dolor parece el mismo.  
+27. Médico: ¿Ha tenido mareos, náuseas o sudoraciones frías?  
+28. Paciente: Sí, sudor frío a veces.  
+29. Médico: ¿Algún antecedente de problemas cardíacos en su familia?  
+30. Paciente: Mi padre murió de un ataque al corazón hace años.  
+31. Médico: ¿Usted tiene algún otro problema de salud conocido?  
+32. Paciente: Sí, tengo presión alta desde hace tiempo.  
+33. Médico: ¿Toma usted algún medicamento para la hipertensión?  
+34. Paciente: Sí, tomo losartán todos los días.  
+35. Médico: ¿Fuma, consume alcohol o alguna otra sustancia?  
+36. Paciente: Fumé hasta hace 15 años, pero ya no. Tomo algo de vino de vez en cuando.  
+37. Médico: ¿Alguna alergia a medicamentos o alimentos?  
+38. Paciente: No, doctor, ninguna.  
+39. Médico: ¿Ha tenido síntomas como hinchazón en las piernas o pérdida de conciencia?  
+40. Paciente: No, nada de eso.  
+41. Médico: En estos días, ¿se ha sentido más cansado de lo habitual?  
+42. Paciente: Sí, como que me cuesta más andar largas distancias.  
+43. Médico: ¿Qué tan severo diría usted que es este dolor en una escala del 1 al 10?  
+44. Paciente: Cuando ocurre, diría que es un 8 o 9, es bastante fuerte.  
+45. Médico: Muy bien. Revisaré ahora su presión arterial y escucharé su corazón.  
+46. Paciente: Está bien, doctor.  
+47. Médico: Su presión está un poco elevada. No escucho soplos en su corazón.  
+48. Paciente: ¿Eso es bueno?  
+49. Médico: Es un dato positivo, pero hay que investigar más. Vamos a tomar un electrocardiograma y unas muestras de sangre urgente.  
+50. Paciente: ¿Cree que es algo grave?  
+"

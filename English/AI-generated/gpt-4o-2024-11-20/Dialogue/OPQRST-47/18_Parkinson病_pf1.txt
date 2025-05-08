@@ -1,0 +1,50 @@
+"1. Physician: What brings you in today?  
+2. Patient: I've noticed a trembling in my right hand, especially when I'm resting.  
+3. Physician: When did you first notice this tremor?  
+4. Patient: About six months ago, but it’s gotten worse over time.  
+5. Physician: Has the tremor changed in any way since it started?  
+6. Patient: Yes, it’s become more frequent and more noticeable.  
+7. Physician: Does the tremor stop when you use your hand or move it?  
+8. Patient: Yes, it seems to stop when I'm doing something with it.  
+9. Physician: Does anything make the tremor worse?  
+10. Patient: It gets worse when I’m stressed or nervous.  
+11. Physician: Have you noticed any other symptoms besides the tremor?  
+12. Patient: I feel stiff in my legs sometimes, and walking has felt different lately.  
+13. Physician: How has your walking been different?  
+14. Patient: My steps are shorter, and I’ve started to shuffle a bit.  
+15. Physician: Have you had difficulty getting up from a chair or starting to walk?  
+16. Patient: Yes, it’s harder to get moving at first.  
+17. Physician: Have you had any falls?  
+18. Patient: No, I haven't fallen.  
+19. Physician: Has your family noticed any changes in your movement or behavior?  
+20. Patient: They’ve mentioned that my face seems less expressive, and my voice has become softer.  
+21. Physician: Did you ever have a head injury or any neurological disease in the past?  
+22. Patient: No, nothing like that.  
+23. Physician: Are you taking any medications for other conditions?  
+24. Patient: I take amlodipine for high blood pressure.  
+25. Physician: Do you have any history of substance use, smoking, or drinking alcohol?  
+26. Patient: No, I don't smoke, drink, or use drugs.  
+27. Physician: Has the stiffness in your legs become painful or caused any swelling?  
+28. Patient: No, it’s more discomfort than pain, and there’s no swelling.  
+29. Physician: Have you had any trouble with balance or coordination?  
+30. Patient: Not really, but I feel like I don’t swing my arms as much when I walk.  
+31. Physician: Do you ever feel lightheaded or dizzy?  
+32. Patient: No, I haven’t noticed that.  
+33. Physician: How has your day-to-day functionality been? Can you still do what you normally do?  
+34. Patient: I can still do most things, but everything feels slower and more effortful.  
+35. Physician: Do you have any numbness or tingling anywhere?  
+36. Patient: No, I don’t have that.  
+37. Physician: Do you notice the tremor on one side only?  
+38. Patient: Yes, it’s only in my right hand.  
+39. Physician: Have you ever experienced a headache or vision changes?  
+40. Patient: No, I haven’t had any of that.  
+41. Physician: Have you tried anything to relieve the symptoms, like medication?  
+42. Patient: No, I wasn’t sure what to take, so I just left it alone.  
+43. Physician: How has your mood been lately? Any anxiety or feelings of depression?  
+44. Patient: I feel fine emotionally, just frustrated with these physical issues.  
+45. Physician: Have you noticed any changes in your sleep patterns?  
+46. Patient: Not really, my sleep has been normal.  
+47. Physician: Do you have any family history of neurological disorders like Parkinson’s disease?  
+48. Patient: No, no one in my family has had this kind of problem.  
+49. Physician: Based on your symptoms and what we've found, I believe we are dealing with Parkinson's disease.  
+50. Patient: I see. What does that mean, and what are the next steps?  "

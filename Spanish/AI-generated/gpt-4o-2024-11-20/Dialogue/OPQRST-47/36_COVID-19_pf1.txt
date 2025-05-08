@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, ¿qué la trae por aquí hoy?  
+2. Paciente: Buenas tardes, doctor. Tengo fiebre desde hace tres días, tos seca y me siento muy cansada.  
+3. Médico: Entiendo. ¿La fiebre ha sido constante o intermitente?  
+4. Paciente: Ha sido más constante, me tomé la temperatura y llegó a 38.5°C.  
+5. Médico: ¿Ha notado algo más, como dolor de cabeza, dificultad para respirar, alteraciones en el gusto o el olfato?  
+6. Paciente: No, ninguna de esas cosas. Solo la fiebre, la tos y este agotamiento.  
+7. Médico: ¿Cuál fue el primer síntoma que notó?  
+8. Paciente: Creo que la fatiga fue lo primero, pero la tos empezó casi al mismo tiempo.  
+9. Médico: ¿La tos es seca o con flema?  
+10. Paciente: Es seca, no he sacado nada al toser.  
+11. Médico: ¿Ha tenido contacto con alguien con síntomas similares o diagnosticado con COVID-19?  
+12. Paciente: No que yo sepa, y tampoco he viajado últimamente.  
+13. Médico: ¿Tiene alguna enfermedad crónica, como diabetes, hipertensión u otra condición que debamos saber?  
+14. Paciente: No, estoy sana, sin problemas médicos.  
+15. Médico: ¿Está tomando algún medicamento de forma regular?  
+16. Paciente: No, doctor, nada en absoluto.  
+17. Médico: ¿Alguna alergia conocida a medicamentos o alimentos?  
+18. Paciente: No, nunca he tenido alergias.  
+19. Médico: Perfecto. ¿Cómo ha estado su apetito estos días?  
+20. Paciente: Ha bajado un poco porque no tengo muchas ganas de comer.  
+21. Médico: ¿Pero está pudiendo hidratarse bien, tomando suficiente agua?  
+22. Paciente: Creo que sí, trato de tomar agua constantemente.  
+23. Médico: Buena señal. ¿Ha sentido dolor o molestias al respirar?  
+24. Paciente: No, respirar no me causa problemas.  
+25. Médico: ¿Y dolor en el pecho o algún malestar muscular?  
+26. Paciente: Tengo algo de dolor en los músculos, pero suponía que era por la fiebre.  
+27. Médico: Podría estar relacionado. ¿Ha tenido escalofríos o sudores nocturnos?  
+28. Paciente: Sí, la primera noche tuve escalofríos, pero no sudores.  
+29. Médico: ¿Ha notado alguna erupción en la piel u otro síntoma nuevo?  
+30. Paciente: No, mi piel está normal.  
+31. Médico: Voy a revisarle los pulmones. Respire profundamente, por favor.  
+32. Paciente: Claro, doctor.  
+33. Médico: No escucho ruidos anormales, pero parece que los sonidos respiratorios están algo disminuidos en las bases.  
+34. Paciente: ¿Qué significa eso?  
+35. Médico: Podría ser un indicio de que hay algo afectando los pulmones, pero no necesariamente algo grave.  
+36. Médico: ¿Y ha tenido hinchazón en las piernas o dificultad para caminar?  
+37. Paciente: No, mis piernas están normales.  
+38. Médico: En este caso, vamos a tomar algunos exámenes de sangre y una radiografía del tórax para aclarar más la situación.  
+39. Paciente: Está bien, doctor. Quiero saber qué tengo.  
+40. Médico: También haremos una prueba PCR para descartar o confirmar COVID-19, ¿está de acuerdo?  
+41. Paciente: Sí, claro. He oído hablar mucho de eso últimamente.  
+42. Médico: Desde luego. Mientras tanto, le recomendaré reposo, paracetamol para la fiebre y que se mantenga bien hidratada.  
+43. Paciente: ¿Algo más que deba hacer, doctor?  
+44. Médico: Sí, por ahora evite el contacto cercano con otras personas hasta saber los resultados.  
+45. Paciente: Por supuesto, me quedaré en casa.  
+46. Médico: Sus análisis muestran inflamación leve y linfopenia, además la PCR para COVID-19 salió positiva.  
+47. Paciente: ¿Significa que tengo COVID-19?  
+48. Médico: Es correcto. Sus síntomas sugieren un caso leve, y no veo signos de gravedad por ahora.  
+49. Paciente: ¿Qué debo hacer entonces?  
+50. Médico: Lo principal es continuar en reposo, tomar paracetamol para la fiebre y seguir en aislamiento."

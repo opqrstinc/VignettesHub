@@ -1,0 +1,50 @@
+"1. 医師: Hello, good to see you today. What brings you here?  
+2. 患者: I've been having sharp, severe pain around my right eye for months, and it's been getting worse.  
+3. 医師: I see. How would you describe the pain? Is it constant or does it come and go?  
+4. 患者: The pain is very sharp and severe, but it comes in short bursts. It lasts only for seconds or sometimes a minute or two.  
+5. 医師: Does anything seem to trigger the pain?  
+6. 患者: Yes, cold air or even small things like washing my face can set it off.  
+7. 医師: When did this pain start?  
+8. 患者: About six months ago. At first, it wasn’t as frequent, but now it’s happening more often.  
+9. 医師: How has the intensity of the pain changed since it started?  
+10. 患者: It’s much worse now compared to when it began.  
+11. 医師: Do you notice any changes in your vision when the pain occurs?  
+12. 患者: No, my vision seems normal.  
+13. 医師: Any numbness or weakness around the area?  
+14. 患者: No, nothing like that.  
+15. 医師: Have you had any recent facial injuries, infections, or dental procedures?  
+16. 患者: No, nothing like that at all.  
+17. 医師: Have you experienced any other symptoms, like nausea, fever, or headaches?  
+18. 患者: No, it's just this horrible pain.  
+19. 医師: Do you have any history of similar pain in the past?  
+20. 患者: No, this is the first time I've experienced anything like this.  
+21. 医師: I understand you have asthma. Are you currently using any medications for that?  
+22. 患者: Yes, I use my inhaler with corticosteroids regularly.  
+23. 医師: Have you developed any allergies or other conditions recently?  
+24. 患者: No, I don’t think so.  
+25. 医師: Did anything in your life change around the time this pain started—like stress, new work conditions, or travel?  
+26. 患者: Not really; everything was pretty normal when this started.  
+27. 医師: When you touch your face near the painful area, does it worsen or trigger the pain?  
+28. 患者: Yes, even light touches can sometimes make it start.  
+29. 医師: Does the pain ever affect both sides of your face or is it just one side?  
+30. 患者: It’s only on my right side.  
+31. 医師: Do you get these episodes of pain multiple times in one day?  
+32. 患者: Yes, it can happen many times throughout the day.  
+33. 医師: Have any over-the-counter pain relievers helped?  
+34. 患者: No, nothing seems to work at all.  
+35. 医師: Have you noticed any swelling, redness, or changes in the skin where the pain occurs?  
+36. 患者: No, my skin looks completely normal.  
+37. 医師: Have you sought medical care for this before coming today?  
+38. 患者: No, this is my first time seeing a doctor about it.  
+39. 医師: Just to confirm, did you notice any hearing problems or ringing in your ears?  
+40. 患者: No, my hearing is fine.  
+41. 医師: How is this pain affecting your daily life?  
+42. 患者: It’s really hard to concentrate at work. I avoid going out in the cold, and washing my face has become a challenge.  
+43. 医師: I understand this must be frustrating for you. Any family history of similar issues?  
+44. 患者: No, no one else in my family has had anything like this.  
+45. 医師: Alright. I will examine you now. Let me know if I reproduce the pain when I touch around the area.  
+46. 患者: Sure.  
+47. 医師: When I lightly palpate around the forehead and eye region, does this feel similar to the pain you experience?  
+48. 患者: Yes, that’s exactly the kind of pain I’ve been experiencing.  
+49. 医師: Thank you. Based on your history and the examination, your symptoms are consistent with trigeminal neuralgia, specifically in the branch near your eye.  
+50. 患者: What causes that, and can it be fixed?"

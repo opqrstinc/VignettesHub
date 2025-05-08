@@ -1,0 +1,50 @@
+"1. Médico: Hola, señor, ¿qué lo trae hoy por aquí?  
+2. Paciente: Doctor, tengo un dolor muy fuerte en el dedo gordo del pie izquierdo desde hace dos días.  
+3. Médico: Entendido. ¿Cómo describiría ese dolor?  
+4. Paciente: Es muy agudo, casi insoportable. Empezó de repente y ha ido empeorando.  
+5. Médico: ¿Le impide realizar alguna actividad en particular?  
+6. Paciente: Sí, apenas puedo caminar, cualquier movimiento con el pie me duele mucho.  
+7. Médico: ¿Ha tenido algún golpe o lesión reciente en el pie?  
+8. Paciente: No, ningún golpe ni accidente.  
+9. Médico: ¿Ha notado fiebre u otros síntomas como malestar general?  
+10. Paciente: No, nada de eso, solo el dolor en el dedo.  
+11. Médico: ¿Ha tenido anteriormente este tipo de dolor?  
+12. Paciente: Sí, pero fue hace meses, creo que fue en el mismo dedo aunque no fue tan fuerte y se me pasó solo.  
+13. Médico: Muy bien, ¿ha cambiado algo en su dieta en los últimos días?  
+14. Paciente: Bueno, hace tres días estuve en una reunión y tomé un poco de alcohol y comí mariscos.  
+15. Médico: Entendido. ¿Cuánto alcohol consumió?  
+16. Paciente: Tal vez unas tres copas de vino en toda la noche.  
+17. Médico: Además del dolor, ¿ha notado el dedo rojo o inflamado?  
+18. Paciente: Sí, está muy hinchado, rojo y caliente.  
+19. Médico: ¿Tiene usted antecedentes médicos de importancia?  
+20. Paciente: Sí, tengo hipertensión y colesterol alto.  
+21. Médico: ¿Está siguiendo algún tratamiento para estos problemas?  
+22. Paciente: Sí, tomo pastillas para la presión alta todos los días y otra para el colesterol.  
+23. Médico: ¿Recuerda los nombres de estos medicamentos?  
+24. Paciente: Sí, uno es enalapril y el otro es atorvastatina.  
+25. Médico: ¿Ha notado algún otro problema en su cuerpo, como inflamación en otras articulaciones?  
+26. Paciente: No, solo es en el dedo gordo del pie izquierdo.  
+27. Médico: ¿Hay alguien más en su familia con problemas parecidos?  
+28. Paciente: Mi padre tuvo algo similar, aunque no recuerdo exactamente qué le dijeron los médicos.  
+29. Médico: ¿Tiene usted alguna alergia a medicamentos?  
+30. Paciente: No, que yo sepa.  
+31. Médico: Perfecto. Ahora voy a mirar su pie. ¿Puede quitarse el zapato y calcetín, por favor?  
+32. Paciente: Claro, aquí está.  
+33. Médico: Veo que tiene el área muy roja, inflamada y caliente. ¿Le duele si toco aquí?  
+34. Paciente: ¡Sí, mucho!  
+35. Médico: ¿Y si intento mover el dedo?  
+36. Paciente: No puedo moverlo, duele demasiado.  
+37. Médico: Entendido. Además de este dolor, ¿ha notado problemas al orinar, como dolor o cambios en el color?  
+38. Paciente: No, mi orina es normal.  
+39. Médico: Le voy a pedir unos análisis de sangre y posiblemente extraer líquido de la articulación para analizarlo.  
+40. Paciente: ¿Es algo grave, doctor?  
+41. Médico: Todavía no lo sabemos, pero es importante analizar sus síntomas a fondo.  
+42. Paciente: Muy bien, doctor, hágalo. Solo quiero que este dolor desaparezca.  
+43. Médico: No se preocupe. Según lo que me cuenta y lo que veo en su pie, esto podría ser una inflamación aguda en la articulación.  
+44. Paciente: ¿Y qué lo estaría causando?  
+45. Médico: Podría ser un problema relacionado con los cristales en la articulación. Lo sabremos con los resultados.  
+46. Paciente: ¿Es algo que se puede tratar fácilmente?  
+47. Médico: Sí, en la mayoría de los casos responde bien al tratamiento.  
+48. Paciente: Eso me tranquiliza mucho.  
+49. Médico: Muy bien, los análisis confirman que tiene una artritis causada por cristales de ácido úrico, también llamada gota.  
+50. Paciente: Ah, nunca había escuchado eso, pero al menos ahora sé qué es."

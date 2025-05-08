@@ -1,0 +1,50 @@
+"1. 医師：Hello, thank you for coming in today. What brings you here?  
+2. 患者：I've been having really dry eyes and a dry mouth for about six months now.  
+3. 医師：I see. Could you describe how often this dryness happens?  
+4. 患者：It’s persistent, pretty much all the time.  
+5. 医師：Have you noticed anything that makes it better or worse?  
+6. 患者：Drinking water helps a bit, but it doesn't completely go away.  
+7. 医師：How about your eyes? Do they feel irritated or itchy?  
+8. 患者：They feel sore and gritty, like there’s sand in them.  
+9. 医師：Have you experienced any changes in your vision?  
+10. 患者：No, my vision seems okay otherwise.  
+11. 医師：And you mentioned dry mouth. Is it more noticeable during meals?  
+12. 患者：Yes, especially when I eat dry food. Swallowing can be hard sometimes.  
+13. 医師：Any changes in your diet or weight recently?  
+14. 患者：No, my diet's been the same, and I haven’t lost weight.  
+15. 医師：Do you have any pain or stiffness in your joints?  
+16. 患者：Yes, my hands and wrists ache sometimes, especially in the morning.  
+17. 医師：Do you notice any swelling or redness in those joints?  
+18. 患者：No swelling or redness, just some tenderness.  
+19. 医師：Does the joint pain come and go, or is it constant?  
+20. 患者：It’s off and on. Some days are worse than others.  
+21. 医師：How’s your energy level been?  
+22. 患者：I've been feeling a bit more tired than usual, but nothing extreme.  
+23. 医師：Any fever, rashes, or sensitivity to sunlight?  
+24. 患者：No, none of those.  
+25. 医師：Have you noticed any changes in your skin or hair?  
+26. 患者：No, nothing unusual.  
+27. 医師：Do you have any history of medical conditions or surgeries?  
+28. 患者：No, my health’s generally been good.  
+29. 医師：Do you take any medications regularly?  
+30. 患者：No, I don’t take anything.  
+31. 医師：Is there any family history of autoimmune diseases?  
+32. 患者：Not that I’m aware of.  
+33. 医師：Have you had dental issues, like cavities or gum problems, recently?  
+34. 患者：Not really, but my mouth does feel quite dry.  
+35. 医師：How much water do you drink daily?  
+36. 患者：I try to drink a lot because of the dryness, maybe around 8 to 10 glasses.  
+37. 医師：How about your eyes? Do over-the-counter eye drops help?  
+38. 患者：They help for a little while, but the dryness always comes back.  
+39. 医師：When did you first notice these symptoms beginning?  
+40. 患者：About six months ago.  
+41. 医師：Have you traveled recently or been exposed to anything unusual?  
+42. 患者：No, I’ve just been staying in the same area.  
+43. 医師：Do you feel the dry symptoms are progressively getting worse?  
+44. 患者：Yes, I think the mouth dryness has worsened over time.  
+45. 医師：I’d like to ask about your joints again. How long do they feel stiff in the morning?  
+46. 患者：Maybe about 30 minutes, then it improves as I move around.  
+47. 医師：Have you ever had testing like blood work or imaging done in the past?  
+48. 患者：No, this is the first time I’m seeking help for these symptoms.  
+49. 医師：Alright, based on what you've told me, it seems we need to investigate further for something called Sjögren syndrome. It's a condition that affects moisture-producing glands.  
+50. 患者：Oh, I’ve never heard of that. What does that involve?"

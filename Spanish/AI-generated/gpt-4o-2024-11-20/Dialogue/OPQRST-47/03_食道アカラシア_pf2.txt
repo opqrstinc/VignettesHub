@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señora. ¿Qué la trae por aquí hoy?  
+2. Paciente: Buenos días, doctor. Desde hace unos meses he notado que me cuesta tragar, tanto sólidos como líquidos.  
+3. Médico: Entiendo. ¿Podría contarme un poco más sobre cuándo comenzó a notar este problema?  
+4. Paciente: Hace como unos seis meses empezó, pero era solo con cosas más sólidas. Ahora está peor, incluso con líquidos.  
+5. Médico: ¿Ha notado que esto ocurre más a menudo en algún momento del día o es constante?  
+6. Paciente: Es constante, pero parece ser peor después de las comidas.  
+7. Médico: ¿Ha tenido alguna vez la sensación de que los alimentos regresan desde el esófago a la boca?  
+8. Paciente: Sí, a veces siento como si la comida no bajara y luego la termino expulsando sin haberla digerido.  
+9. Médico: ¿Esto es frecuente o sólo ha ocurrido en ocasiones puntuales?  
+10. Paciente: No es todo el tiempo, pero ocurre varias veces por semana.  
+11. Médico: ¿Ha presentado algún dolor en el pecho junto con estos síntomas?  
+12. Paciente: Sí, a veces siento una presión o dolor detrás del esternón, especialmente después de comer.  
+13. Médico: ¿Ese dolor es constante o viene y va?  
+14. Paciente: Viene y se va, no es algo continuo.  
+15. Médico: ¿Ha tenido fiebre, náuseas, vómitos o dolor abdominal?  
+16. Paciente: No, nada de eso.  
+17. Médico: ¿Qué me puede decir sobre su peso? ¿Ha notado algún cambio reciente?  
+18. Paciente: Sí, he perdido peso, pero no lo intenté. Perdí como 7 kilos en tres meses.  
+19. Médico: Eso es significativo. ¿Qué hay de su apetito? ¿Siente hambre normalmente?  
+20. Paciente: Sí, tengo hambre, pero me cuesta tanto comer que a veces prefiero evitarlo.  
+21. Médico: Entendido. ¿Tiene algún antecedente médico significativo, como alergias o alguna condición previa?  
+22. Paciente: Tengo rinitis alérgica, pero nada más grave.  
+23. Médico: ¿Hay algún historial de enfermedades similares en su familia?  
+24. Paciente: No, nadie en mi familia ha tenido problemas de este tipo.  
+25. Médico: ¿Ha sido operada alguna vez o ha sufrido de enfermedades digestivas antes?  
+26. Paciente: No, nunca me han operado ni tenido problemas de este tipo.  
+27. Médico: ¿Consume usted tabaco, alcohol o drogas recreativas?  
+28. Paciente: No, no fumo, ni bebo alcohol y nunca he consumido drogas.  
+29. Médico: ¿Ha notado cambios en su hábito intestinal o sangre en las heces?  
+30. Paciente: No, mis intestinos funcionan como siempre y no he visto sangre.  
+31. Médico: Muy bien. ¿Su día a día se ha visto afectado por estos síntomas?  
+32. Paciente: Sí, mucho. Comer con mi familia o salir a cenar con amigos ya no es igual.  
+33. Médico: Es comprensible. ¿Ha intentado algún remedio casero o algún cambio en su dieta para aliviar los síntomas?  
+34. Paciente: He tratado de comer cosas suaves o líquidas, pero no siempre ayuda.  
+35. Médico: ¿Qué tipo de alimentos le resulta más difícil tragar, sólidos o líquidos?  
+36. Paciente: Ambos son difíciles, pero al principio era más con los sólidos. Ahora los líquidos también.  
+37. Médico: ¿Suele beber líquidos durante las comidas para ayudar a pasar la comida?  
+38. Paciente: Sí, pero a veces eso no hace mucha diferencia.  
+39. Médico: Entendido. Cuando tiene esos episodios de regurgitación, ¿tiene mal sabor en la boca?  
+40. Paciente: No, solo siento que la comida regresa, pero no tiene mal sabor.  
+41. Médico: ¿Duerme bien o ha notado molestias nocturnas debido a estos síntomas?  
+42. Paciente: A veces me despierto porque siento como si algo estuviera atascado.  
+43. Médico: ¿Alguna vez ha sentido que estos síntomas empeoran cuando está inclinada o acostada?  
+44. Paciente: Tal vez, pero no estoy completamente segura.  
+45. Médico: Realizaremos algunas pruebas para entender mejor lo que está ocurriendo. ¿Estaría de acuerdo?  
+46. Paciente: Sí, claro. Ya solo quiero saber qué es lo que tengo.  
+47. Médico: Excelente. Según lo que me cuenta, parece que su problema está relacionado con el esófago.  
+48. Paciente: Eso suena preocupante… ¿Es algo serio?  
+49. Médico: No necesariamente, pero necesitamos confirmarlo con estudios, como una radiografía especial con bario, entre otros.  
+50. Paciente: Está bien, doctor. Haré todo lo que sea necesario.  "

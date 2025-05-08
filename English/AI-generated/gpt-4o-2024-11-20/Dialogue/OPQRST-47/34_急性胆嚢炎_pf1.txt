@@ -1,0 +1,51 @@
+"1. Physician: Can you describe what brought you in today?  
+2. Patient: I've been having this pain in my upper right abdomen for the past two days.  
+3. Physician: How would you describe the pain? Is it sharp, dull, or cramping?  
+4. Patient: It's a constant, sharp pain, and it seems to be getting worse.  
+5. Physician: Does the pain move anywhere, or is it just in the same spot?  
+6. Patient: It radiates up to my right shoulder.  
+7. Physician: Have you noticed any other symptoms along with the pain?  
+8. Patient: Yes, I've had a fever, and I feel very nauseous. I even vomited once.  
+9. Physician: Have you had any diarrhea?  
+10. Patient: No, no diarrhea.  
+11. Physician: What about chest pain or difficulty breathing?  
+12. Patient: No, nothing like that.  
+13. Physician: Are you able to eat or have any appetite?  
+14. Patient: Not really, I barely feel like eating anything.  
+15. Physician: Have you ever had pain like this before?  
+16. Patient: I've had gallstones in the past, but I don't remember it being this bad.  
+17. Physician: Have you ever had surgery on your gallbladder, or any other surgeries?  
+18. Patient: No, I've never had any surgeries.  
+19. Physician: Any history of jaundice, where your skin or eyes turned yellow?  
+20. Patient: No, I've never had that happen.  
+21. Physician: Do you have any other health conditions we should be aware of?  
+22. Patient: Just the gallstones. They've caused occasional discomfort over the years.  
+23. Physician: Are you taking any medications regularly?  
+24. Patient: No, I don't take any regular medications.  
+25. Physician: Have you had a fever often during this episode?  
+26. Patient: Yes, I noticed the fever started just after the pain began.  
+27. Physician: How high has your fever been, if you’ve checked?  
+28. Patient: I think it was 101°F yesterday.  
+29. Physician: Have you experienced chills or sweating with the fever?  
+30. Patient: Yes, a bit of both.  
+31. Physician: Do you or anyone in your family have a history of liver disease or hepatitis?  
+32. Patient: No, not that I know of.  
+33. Physician: Have you recently traveled anywhere or eaten any unusual foods?  
+34. Patient: No, I've been home and everything I ate seemed normal.  
+35. Physician: Does it hurt more when you take deep breaths or change positions?  
+36. Patient: Yes, deep breaths make the pain worse.  
+37. Physician: How's your hydration? Are you able to keep fluids down?  
+38. Patient: I can drink small sips of water, but even that feels a bit uncomfortable.  
+39. Physician: Have you noticed any unusual changes in your stool or urine?  
+40. Patient: No, everything seems normal there.  
+41. Physician: You mentioned nausea earlier. Has that been constant, or does it come and go?  
+42. Patient: It's been pretty constant, worse after the fever started.  
+43. Physician: How severe would you say the pain is, on a scale of 1 to 10?  
+44. Patient: Probably a 9. It’s really bad.  
+45. Physician: Have you taken anything for the pain?  
+46. Patient: Just acetaminophen, but it barely helps.  
+47. Physician: Does pressing on your abdomen make it more painful?  
+48. Patient: Yes, right where the pain is. It’s tender to touch.  
+49. Physician: Have you been bed-bound because of this?  
+50. Patient: Mostly, yes. It's hard to move around because of the pain.  
+51. Physician: Based on your symptoms, physical exam findings, and additional testing, it appears you have acute cholecystitis, likely due to gallstones.  "

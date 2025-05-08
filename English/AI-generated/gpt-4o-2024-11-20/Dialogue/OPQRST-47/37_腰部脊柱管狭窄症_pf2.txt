@@ -1,0 +1,50 @@
+"1. Doctor: Good morning, what brings you in today?  
+2. Patient: I've been having terrible pain in my lower back that spreads down both legs.  
+3. Doctor: How long has this pain been bothering you?  
+4. Patient: It started about a year ago, but it's gotten much worse in the last three months.  
+5. Doctor: Can you describe the pain? Is it sharp, dull, or burning?  
+6. Patient: Mostly a dull ache, but sometimes it's sharp and burning when I stand too long.  
+7. Doctor: Does the pain go down both legs equally?  
+8. Patient: Yes, mostly in the back of my thighs and calves.  
+9. Doctor: Does anything make the pain better or worse?  
+10. Patient: Walking makes it worse, but sitting or bending forward helps a lot.  
+11. Doctor: How far can you walk before the pain starts?  
+12. Patient: About 50 meters, then my legs feel numb and heavy.  
+13. Doctor: Have you noticed any weakness in your legs?  
+14. Patient: Yes, I've started having trouble with things like climbing stairs.  
+15. Doctor: What about changes in your bowel or bladder habits?  
+16. Patient: No, nothing like that.  
+17. Doctor: Any fevers, unexplained weight loss, or night sweats?  
+18. Patient: No, none of those.  
+19. Doctor: Have you had any injuries or accidents in the past?  
+20. Patient: No, my back just started hurting on its own.  
+21. Doctor: Do you have any other medical conditions or prior surgeries?  
+22. Patient: No, I’ve been healthy before this.  
+23. Doctor: How has the back pain affected your daily life?  
+24. Patient: I can't stand for too long, and walking around the house is difficult.  
+25. Doctor: Have you taken any medications for the pain?  
+26. Patient: Just some over-the-counter painkillers, but they barely help.  
+27. Doctor: How about physical therapy?  
+28. Patient: I haven’t tried that yet.  
+29. Doctor: Let me ask, is your pain worse in the morning or at night?  
+30. Patient: It’s pretty constant, but it feels worse if I move around a lot.  
+31. Doctor: On examination, I noticed some weakness in your ankles and toes. Have you felt anything unusual there?  
+32. Patient: Yes, I’ve noticed my feet feel weaker, and I sometimes trip over them.  
+33. Doctor: Did you notice any changes in your sensation, like numbness or tingling?  
+34. Patient: Yes, my legs feel numb, especially in the thighs and calves.  
+35. Doctor: Are you still able to do basic activities, like grocery shopping or cooking?  
+36. Patient: Barely. I need to sit down after just a few minutes on my feet.  
+37. Doctor: How about your posture? Do you find yourself bending forward to relieve the pain?  
+38. Patient: Yes, bending forward definitely feels better.  
+39. Doctor: Do you remember the first time you noticed these symptoms?  
+40. Patient: It just started as a mild backache, then slowly got worse over time.  
+41. Doctor: Have you ever felt shooting pain down your legs when lifting something heavy?  
+42. Patient: No, I avoid lifting anything heavy these days.  
+43. Doctor: Do you have any hobbies or activities that involve standing or walking a lot?  
+44. Patient: I used to like gardening, but I can’t do it anymore because of the pain.  
+45. Doctor: Do you feel like your mobility is decreasing over time?  
+46. Patient: Yes, it gets harder every day.  
+47. Doctor: Based on your symptoms and initial exam, I suspect you may have a condition called lumbar spinal stenosis.  
+48. Patient: What does that mean?  
+49. Doctor: It's a narrowing of the spaces within your spine, which puts pressure on the nerves and can cause the symptoms you're describing.  
+50. Patient: That makes sense. What can I do about it?"

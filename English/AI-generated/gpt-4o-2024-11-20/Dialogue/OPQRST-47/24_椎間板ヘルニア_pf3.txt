@@ -1,0 +1,53 @@
+"1. Physician: What brings you in today?  
+2. Patient: I've been dealing with terrible back pain and pain shooting down my left leg for the past month.  
+3. Physician: Can you describe the pain? Is it constant or does it come and go?  
+4. Patient: It's sharp and starts in my lower back, then it runs down to the back of my left thigh and calf. Sometimes it even reaches my foot. It's pretty much always there now.  
+5. Physician: Do you recall any injury or specific event that triggered the pain?  
+6. Patient: No, it just started gradually for no apparent reason.  
+7. Physician: How severe would you rate the pain on a scale from 0 to 10, with 10 being the worst?  
+8. Patient: I’d say it’s about an 8 most of the time.  
+9. Physician: Have you noticed if anything makes the pain better or worse?  
+10. Patient: It gets worse when I stand or walk for too long, or try to bend over. Resting helps a little, but not much.  
+11. Physician: Any numbness or tingling in that leg?  
+12. Patient: Yes, sometimes my leg feels numb, and I get this pins-and-needles sensation.  
+13. Physician: Do you have any weakness in your leg or foot?  
+14. Patient: I think so—like I sometimes have trouble keeping my balance.  
+15. Physician: Have you experienced any trouble controlling your bowels or bladder?  
+16. Patient: No, nothing like that.  
+17. Physician: Have you had low back pain like this before?  
+18. Patient: Yes, but it was mild and went away on its own after a few days.  
+19. Physician: Any other symptoms, like fever, recent weight loss, or fatigue?  
+20. Patient: No, none of that.  
+21. Physician: Do you exercise or do any activities that could strain your back?  
+22. Patient: Not really. I mostly sit at my desk for work, but I try to go for walks when I can.  
+23. Physician: Are you taking any medications for this pain?  
+24. Patient: I’ve been using over-the-counter pain relievers, but they don’t help much.  
+25. Physician: Do you have any other medical conditions or past surgeries?  
+26. Patient: No, nothing major. I’m generally healthy.  
+27. Physician: Any family history of back problems or nerve issues?  
+28. Patient: Not that I know of.  
+29. Physician: I’d like to ask a few questions to rule out some other possibilities. Have you had any recent infections or illnesses?  
+30. Patient: No, I’ve been healthy otherwise.  
+31. Physician: Do you have any trouble with your joints, like arthritis symptoms?  
+32. Patient: No, my joints are fine.  
+33. Physician: How does this pain affect your daily activities?  
+34. Patient: It’s really limiting. I can’t walk or stand for long, and even bending over to pick things up is hard.  
+35. Physician: How has this been affecting your mood or sleep?  
+36. Patient: I’m not sleeping well because the pain wakes me up. It’s frustrating and exhausting.  
+37. Physician: I understand. Let me perform a physical exam to assess your back and legs.  
+38. Patient: Sure, anything to figure this out.  
+39. Physician: When I lift your leg straight up, does this reproduce the pain in your back or leg?  
+40. Patient: Yes, it does—exactly the same pain down my leg.  
+41. Physician: I noticed some weakness in certain movements of your left foot. Have you noticed trouble walking on your heels or toes?  
+42. Patient: Yes, walking on my heels on the left side is harder than usual.  
+43. Physician: I’ll check your reflexes now. Do you recall noticing any recent changes in how your leg feels to touch?  
+44. Patient: Now that you mention it, yes—the outside of my left leg feels kind of numb.  
+45. Physician: Thank you for sharing all this information. Based on your symptoms, I’m concerned this might involve a nerve in your back.  
+46. Patient: What could cause that?  
+47. Physician: It could be due to something like a herniated disc compressing a nerve. We’d confirm it with imaging.  
+48. Patient: What would that involve?  
+49. Physician: We’ll likely order an MRI to get a detailed look at your spine.  
+50. Patient: Okay, I just want to know what’s causing this and how to fix it.  
+51. Physician: Based on the MRI results, this appears to be a herniation of the disc in your lower back, pressing on the L5 nerve root on your left side, which matches your symptoms.  
+52. Patient: So, that’s what’s causing all this?  
+53. Physician: Yes, and there are conservative treatment options we can try to help relieve your symptoms without surgery."

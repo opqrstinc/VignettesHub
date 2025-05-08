@@ -1,0 +1,50 @@
+"1. 医師：What brings you here today?  
+2. 患者：I've been feeling extremely tired for several months.  
+3. 医師：Can you describe the fatigue? How does it affect you?  
+4. 患者：I feel exhausted all the time, no matter how much I rest.  
+5. 医師：Have you noticed any other changes, like weight loss?  
+6. 患者：Yes, I've lost about 6 kg without trying.  
+7. 医師：That’s significant. Have you had any appetite changes?  
+8. 患者：Not really, though I feel worse after eating sometimes.  
+9. 医師：What do you mean by ""worse""? Could you explain?  
+10. 患者：I often get crampy pain in my lower belly, mainly on the right side.  
+11. 医師：How often does this pain occur?  
+12. 患者：Several times a week, especially after meals.  
+13. 医師：Is the pain constant or does it come and go?  
+14. 患者：It comes and goes, usually lasts for a little while.  
+15. 医師：Have you noticed any changes in your bowel habits?  
+16. 患者：Yes, I've been having loose stools, about 3 to 5 times a day.  
+17. 医師：Have you seen any blood in the stools?  
+18. 患者：No, there's no blood, just loose stools.  
+19. 医師：Have you traveled recently, or been exposed to anyone sick?  
+20. 患者：No, I haven’t traveled, and I don’t recall being around sick people.  
+21. 医師：Have you taken antibiotics recently?  
+22. 患者：No, not for a long time.  
+23. 医師：Do you have a fever or night sweats?  
+24. 患者：No, none of those.  
+25. 医師：Have you experienced other symptoms like nausea or vomiting?  
+26. 患者：Not really, just the fatigue and stomach pain.  
+27. 医師：Can you recall any specific triggers for your symptoms?  
+28. 患者：Not really, but eating sometimes seems to aggravate the pain.  
+29. 医師：Do you have any history of medical conditions?  
+30. 患者：I had asthma as a child, but it’s not been an issue lately.  
+31. 医師：Any family history of similar symptoms or bowel problems?  
+32. 患者：Not that I know of.  
+33. 医師：Have you noticed mouth sores, joint pain, or skin changes?  
+34. 患者：No, none of those.  
+35. 医師：How about weight changes—clothing fitting differently?  
+36. 患者：Yes, my clothes feel looser these days.  
+37. 医師：Do you feel the fatigue limits your daily life?  
+38. 患者：Yes, I get tired easily and can’t keep up with my usual activities.  
+39. 医師：Do you follow any special diet currently?  
+40. 患者：No, just my normal diet.  
+41. 医師：Has there been any stress or big life events recently?  
+42. 患者：Nothing unusual, just the usual daily stresses.  
+43. 医師：Do you get regular check-ups and blood work done?  
+44. 患者：Not really; it’s been a while since I've seen a doctor.  
+45. 医師：Have you noticed any lumps or swollen areas in your abdomen?  
+46. 患者：No, I haven’t noticed anything like that.  
+47. 医師：Are stools greasy or difficult to flush?  
+48. 患者：No, I wouldn’t say that.  
+49. 医師：Thank you for sharing. Based on your symptoms and test results, you have Crohn’s disease.  
+50. 患者：Oh, I’ve never heard of that. What does it mean?  "

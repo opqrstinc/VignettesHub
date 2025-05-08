@@ -1,0 +1,59 @@
+"1. 医師：Hello, what brings you to the clinic today?  
+2. 患者：I've been experiencing a dry cough for the past five days, and it's been getting worse.  
+3. 医師：I see. Have you noticed any other symptoms besides the cough?  
+4. 患者：Yes, I feel very tired, and it's getting harder to breathe.  
+5. 医師：When did these symptoms start?  
+6. 患者：About five days ago, first it was just mild fatigue and a low fever, but the fever went away by the second day.  
+7. 医師：Did you notice the cough or shortness of breath starting at the same time?  
+8. 患者：No, the cough started around the same time as the fatigue, but the shortness of breath got worse after a few days.  
+9. 医師：Have you had any chest pain or coughing up blood?  
+10. 患者：No, no chest pain or blood when I cough.  
+11. 医師：Any heart palpitations or a racing heartbeat?  
+12. 患者：No, my heart seems fine.  
+13. 医師：Have you traveled anywhere recently or been in contact with anyone who has tested positive for COVID-19?  
+14. 患者：No, I haven't traveled, and I don't know anyone with confirmed COVID-19.  
+15. 医師：Do you have any other medical conditions?  
+16. 患者：I have type 2 diabetes that I take metformin for.  
+17. 医師：How well is your diabetes controlled?  
+18. 患者：It's usually fine. My blood sugars are mostly stable.  
+19. 医師：Have you had any issues with your lungs or heart in the past?  
+20. 患者：No, not that I can remember.  
+21. 医師：Can you tell me more about your fatigue? Is it constant, or does it come and go?  
+22. 患者：It's constant. I feel drained all the time.  
+23. 医師：What about your shortness of breath? Does it occur with activity or at rest?  
+24. 患者：It’s mostly when I’m moving around, but lately, it's also a little bit when I'm resting.  
+25. 医師：Have you noticed any swelling in your legs or difficulty lying flat due to breathing issues?  
+26. 患者：No, I haven’t noticed anything like that.  
+27. 医師：Have you been able to eat and drink normally since this started?  
+28. 患者：I'm eating less because I’m too tired, but I’m drinking okay.  
+29. 医師：Is there anything that makes your symptoms better or worse?  
+30. 患者：Rest helps a little, but nothing seems to stop the coughing.  
+31. 医師：Do you feel like your symptoms are getting worse?  
+32. 患者：Yes, that's why I came in today.  
+33. 医師：Do you live alone, or is there someone who can help observe your condition?  
+34. 患者：I live with my husband. He’s worried about me.  
+35. 医師：Has your husband noticed any changes in your condition?  
+36. 患者家族：Yes, she seems more tired than usual, and she’s breathing faster than normal.  
+37. 医師：Thank you for sharing. Have you been monitoring your temperature at home?  
+38. 患者：Yes, it’s been normal for the last few days.  
+39. 医師：You mentioned a fever earlier. Do you remember how high it was?  
+40. 患者：It wasn’t very high, just a low-grade fever.  
+41. 医師：Do you have any allergies to medications?  
+42. 患者：No, I don’t have any allergies.  
+43. 医師：Do you currently take any medications aside from metformin?  
+44. 患者：No, just metformin for my diabetes.  
+45. 医師：I’m going to listen to your lungs now. This may give us more information.  
+46. 患者：Okay, go ahead.  
+47. 医師：Your lungs have some crackles when I listen, especially at the bases. I’d like to check your oxygen level.  
+48. 患者：Alright, that’s fine.  
+49. 医師：Your oxygen saturation is lower than normal. We’ll need to perform further tests, including a COVID-19 test.  
+50. 患者：I understand. Do you think I might have it?  
+51. 医師：It’s a possibility, especially with your symptoms, but we’ll confirm with tests.  
+52. 患者：Okay, I’ll do whatever tests you think are necessary.  
+53. 医師：We may also perform imaging, like a chest scan, to look at your lungs.  
+54. 患者：That sounds fine.  
+55. 医師：After the test results are reviewed, I’ll explain the findings and next steps.  
+56. 患者：Thank you, doctor. I appreciate your help.  
+57. 医師：Your tests confirm that you have COVID-19 pneumonia, which explains your symptoms.  
+58. 患者：I was worried about that. What happens next?  
+"

@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señor. ¿Cómo se siente hoy?  
+2. Paciente: Buenos días, doctor. Pues, estoy... un poco confundido a veces, creo.  
+3. Médico: Entiendo. Sus familiares me comentaron que últimamente ha tenido episodios de desorientación. ¿Nos puede contar más sobre eso?  
+4. Paciente: Bueno, a veces no sé en qué lugar estoy, como si de repente me perdiera, pero no lo recuerdo muy bien.  
+5. Médico: ¿Recuerda cuándo empezó a pasar algo así por primera vez?  
+6. Paciente: No estoy seguro, quizás hace un año. Mi esposa puede saberlo mejor.  
+7. Médico: Señora, ¿podría explicarnos un poco más sobre cómo ha sido la evolución?  
+8. Familiares: Claro, doctor. Al principio eran olvidos pequeños, como no recordar dónde dejó algo, pero luego empezó a perderse en lugares cercanos. Hace unos meses no pudo identificar nuestra casa.  
+9. Médico: Gracias. Señor, ¿ha notado problemas al hablar, como dificultad para encontrar las palabras correctas?  
+10. Paciente: Sí, doctor. A veces sé lo que quiero decir, pero no me sale. Es frustrante.  
+11. Médico: ¿Ha notado dificultad para reconocer a las personas o cosas a su alrededor?  
+12. Paciente: No, reconozco a las personas, pero a veces no recuerdo sus nombres.  
+13. Médico: ¿Cómo van las actividades diarias? ¿Ha sentido que necesita más ayuda que antes?  
+14. Familiares: Sí, doctor. Ahora necesita ayuda con pagos, organizar cosas y hasta con algunas tareas básicas porque olvida cómo hacerlas.  
+15. Médico: Y en casa, ¿ha habido cambios en su comportamiento que les preocupen?  
+16. Familiares: Tal vez está un poco más irritable a veces, pero lo que más notamos es esa confusión.  
+17. Médico: Señor, otra pregunta. ¿Puede contarme cómo le va con la memoria a corto plazo? Por ejemplo, si le digo tres palabras, ¿podría recordarlas después de unos minutos?  
+18. Paciente: Podemos intentarlo.  
+19. Médico: Perfecto, recuerde estas palabras: lápiz, ventana, mesa. Le preguntaré en unos minutos.  
+20. Paciente: Está bien, doctor.  
+21. Médico: Muy bien. ¿Ha tenido dolores de cabeza, mareos o problemas de visión?  
+22. Paciente: No, nada de eso.  
+23. Médico: ¿Convulsiones o sensación de debilidad en alguna parte del cuerpo?  
+24. Paciente: No, nunca me ha pasado.  
+25. Médico: Perfecto. ¿Y cómo está durmiendo últimamente?  
+26. Paciente: Pues, creo que bien. Tal vez me despierto un poco más por las noches.  
+27. Médico: Comprendido. Ahora dígame, ¿recuerda las tres palabras que le mencioné antes?  
+28. Paciente: Eh... Creo que una era lápiz, pero las otras no las recuerdo.  
+29. Médico: Está bien, no se preocupe. Es parte de lo que estamos evaluando.  
+30. Médico: Hablando del apetito, ¿ha tenido algún cambio reciente?  
+31. Paciente: No, sigo comiendo como siempre.  
+32. Médico: Y sobre el ánimo, ¿se ha sentido deprimido o ansioso?  
+33. Paciente: A veces me siento triste porque no entiendo qué me pasa.  
+34. Médico: ¿Le cuesta realizar actividades que antes disfrutaba?  
+35. Paciente: Sí, ya no me sale igual. Me canso más rápido.  
+36. Médico: Gracias por compartir eso. Señora, ¿ha notado si se le olvidan nombres de objetos comunes?  
+37. Familiares: Sí, eso es muy frecuente. Le pasa con cosas simples, como una silla o un plato.  
+38. Médico: ¿Han notado si repite mucho las mismas preguntas o frases?  
+39. Familiares: Sí, suele preguntar varias veces algo que ya le respondimos.  
+40. Médico: Señor, ¿ha tenido problemas recientes para caminar o algún cambio en su equilibrio?  
+41. Paciente: No, camino igual que siempre.  
+42. Médico: ¿Toma algún medicamento?  
+43. Paciente: Sí, para la presión y el azúcar, pero no sé los nombres. Mi esposa puede decírselos.  
+44. Familiares: Se llama enalapril y metformina, doctor.  
+45. Médico: Muy bien, gracias. Ahora, ¿ha tenido algún problema como infecciones recientes o fiebre?  
+46. Paciente: No, que yo sepa.  
+47. Médico: ¿Alguien en la familia ha tenido trastornos similares, como pérdida de memoria?  
+48. Familiares: Mi suegra, la madre de él, tuvo algo similar cuando era mayor.  
+49. Médico: Entendido. Según lo que hemos hablado y los exámenes previos, los hallazgos sugieren que se trata de una enfermedad degenerativa de la memoria, llamada enfermedad de Alzheimer.  
+50. Paciente: ¿Eso es lo que me está pasando? ¿Se puede tratar?  "

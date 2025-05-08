@@ -1,0 +1,51 @@
+"1. 医師: Hello, I’m Dr. Smith. What brings you in today?  
+2. 患者: Hi, Doctor. I've been having intense lower back pain, numbness in my right leg, and trouble walking for the past two weeks.  
+3. 医師: When did these symptoms first start?  
+4. 患者: The back pain started mildly about three months ago, but it got much worse recently.  
+5. 医師: Can you describe the pain?  
+6. 患者: It’s a sharp pain in my lower back, and it travels down the back of my right leg, all the way to my calf.  
+7. 医師: What makes it worse?  
+8. 患者: Bending forward, standing for a long time, or walking even short distances makes it worse.  
+9. 医師: How about anything that makes it feel better?  
+10. 患者: Lying down helps a bit, and I’ve been taking over-the-counter painkillers.  
+11. 医師: Have you had any injuries or trauma to your back recently?  
+12. 患者: No, none that I can think of.  
+13. 医師: Any fever, weight loss, or recent illnesses?  
+14. 患者: No fever or illnesses, and my weight has been stable.  
+15. 医師: How about your bowels and bladder—any trouble controlling them?  
+16. 患者: No, those are normal.  
+17. 医師: Before this started, had you ever experienced back pain?  
+18. 患者: Yes, I’ve had mild back pain off and on, but it’s never been this bad.  
+19. 医師: What do you do for work?  
+20. 患者: I work at an office, so I sit for long hours at a desk.  
+21. 医師: Do you feel the numbness all the time, or does it come and go?  
+22. 患者: It’s not constant, but it’s been happening more often lately.  
+23. 医師: Can you describe exactly where you feel the numbness in your leg?  
+24. 患者: It’s on the outside of my right calf and sometimes on the top of my foot.  
+25. 医師: Have you noticed any weakness or difficulties using your right leg?  
+26. 患者: Yes, it feels weaker, especially when I try to move my foot up.  
+27. 医師: Have you been exercising or lifting heavy objects recently?  
+28. 患者: Not really, I’ve been trying to avoid too much activity because of the pain.  
+29. 医師: Are you able to sleep through the night, or does the pain wake you up?  
+30. 患者: The pain wakes me up sometimes, but lying on my back usually helps.  
+31. 医師: Does the pain ever radiate to the front of your leg or stop above the knee?  
+32. 患者: No, it’s always the back of my leg, and it goes past the knee to the calf.  
+33. 医師: Do your symptoms feel better or worse after sitting for a long time?  
+34. 患者: Sitting makes it worse. I try to stand up and move around when I can.  
+35. 医師: How has this impacted your daily life?  
+36. 患者: It’s hard to work or even walk, and I’m scared it’s going to keep getting worse.  
+37. 医師: Do you recall how this initially started three months ago?  
+38. 患者: It was just mild discomfort at first, and I thought it was from sitting too long.  
+39. 医師: Have you tried physical therapy or seen anyone for this in the past?  
+40. 患者: No, I’ve just been taking painkillers and resting.  
+41. 医師: Were the painkillers helping initially?  
+42. 患者: They helped a little at first, but not anymore.  
+43. 医師: On a scale of 1 to 10, how bad is your pain right now?  
+44. 患者: It’s about an 8 most of the time.  
+45. 医師: Have you noticed any unusual sensations or tingling in your foot?  
+46. 患者: Yes, I do feel some tingling on the top of my right foot.  
+47. 医師: Do you have any other medical conditions we should know about?  
+48. 患者: No, I’m otherwise healthy.  
+49. 医師: Based on your symptoms and exam today, I suspect a herniated disc might be pressing on a nerve in your lower back. We’ll confirm this with an MRI.  
+50. 患者: Okay, that sounds serious. Is it treatable?  
+"

@@ -1,0 +1,53 @@
+"1. 医師：What brings you in today?  
+2. 患者：I’ve been dealing with some discomfort in my upper abdomen for the past three months.  
+3. 医師：Can you describe the discomfort a bit more?  
+4. 患者：It’s like a dull pain, and it feels bloated, especially after eating.  
+5. 医師：Do you notice if certain types of food make it worse?  
+6. 患者：Not really, it doesn’t seem to matter much what I eat.  
+7. 医師：Have you tried anything to relieve the symptoms?  
+8. 患者：I’ve tried changing my diet and taking antacids, but it didn’t really help.  
+9. 医師：Does the discomfort ever wake you up at night?  
+10. 患者：No, it doesn’t.  
+11. 医師：Have you been experiencing nausea or vomiting?  
+12. 患者：No vomiting or anything like that.  
+13. 医師：Any significant weight loss recently without trying?  
+14. 患者：No, my weight has stayed about the same.  
+15. 医師：How about changes in your bowel habits, like diarrhea or constipation?  
+16. 患者：No, nothing unusual there.  
+17. 医師：Do you feel overly full after eating, even small meals?  
+18. 患者：Yes, I feel really full quickly, even after eating small amounts.  
+19. 医師：Do you experience frequent belching?  
+20. 患者：Yes, a lot.  
+21. 医師：Do you take any medications regularly?  
+22. 患者：I take metformin for my diabetes.  
+23. 医師：How has your blood sugar control been recently?  
+24. 患者：Honestly, it hasn’t been great.  
+25. 医師：Do you drink alcohol or smoke?  
+26. 患者：I don’t smoke, and I rarely drink.  
+27. 医師：Have you noticed any blood in your stool or black, tarry stools?  
+28. 患者：No, none of that.  
+29. 医師：Have you ever had issues with your stomach like ulcers or gastritis?  
+30. 患者：Not that I know of.  
+31. 医師：Do you have any heartburn or acid reflux symptoms?  
+32. 患者：Not really, just the bloating and fullness.  
+33. 医師：Have you had any fevers or felt generally unwell?  
+34. 患者：Not at all, I feel fine aside from the stomach issues.  
+35. 医師：Does the pain move anywhere, or is it localized to your upper abdomen?  
+36. 患者：It’s mostly just in the upper abdomen; it doesn’t spread.  
+37. 医師：Do you have any history of gallstones or liver problems?  
+38. 患者：No, I’ve never had issues with those.  
+39. 医師：Has stress or anxiety been an issue for you recently?  
+40. 患者：I’ve been a bit stressed, but not more than usual.  
+41. 医師：Do you exercise regularly?  
+42. 患者：I try to walk a few times a week, but it’s not consistent.  
+43. 医師：Have you had any imaging or tests done for this issue before?  
+44. 患者：No, this is the first time I’m seeking help for it.  
+45. 医師：How about your appetite – has it changed at all?  
+46. 患者：I still have my appetite, but I don’t eat as much because of the discomfort.  
+47. 医師：When the symptoms started, was there any trigger you can recall?  
+48. 患者：No, I can’t think of anything specific.  
+49. 医師：Have you had these symptoms intermittently, or are they constant?  
+50. 患者：They’ve been constant for the past three months.  
+51. 医師：Based on what you’ve told me and after reviewing your tests, it seems like you might have a condition called functional dyspepsia.  
+52. 患者：What is that?  
+53. 医師：It’s a common digestive disorder where the stomach doesn’t function smoothly, causing fullness, bloating, and sometimes discomfort. It’s not caused by an underlying disease, but rather how the stomach processes food."

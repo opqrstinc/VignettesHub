@@ -1,0 +1,56 @@
+"1. Physician: Hi, thank you for coming in today. Can you describe what has been bothering you lately?  
+2. Patient: Yes, for the past three months, I've been feeling really tired, and it's gotten harder to breathe, especially when I'm moving around.  
+3. Physician: I see. Does the shortness of breath happen at rest as well, or mainly with activity?  
+4. Patient: It's mainly when I'm doing things, like walking up stairs or carrying groceries.  
+5. Physician: Understood. Have you noticed any other symptoms along with the fatigue?  
+6. Patient: I've had double vision sometimes, especially later in the day, and my eyelids feel like they're drooping.  
+7. Physician: Double vision and drooping eyelids. Does this get better or worse at specific times of the day?  
+8. Patient: Yeah, it’s worse in the evening. In the morning, it’s not as bad.  
+9. Physician: That's helpful to know. Have you experienced any difficulties with speaking, chewing, or swallowing?  
+10. Patient: Actually, yes. Chewing certain foods feels tiring, and sometimes I have trouble swallowing solid food.  
+11. Physician: I see. What kind of foods are the most troublesome for you to eat?  
+12. Patient: Things like meat or bread—solid stuff. I feel like I have to chew forever.  
+13. Physician: Alright. Besides this, have you had any weakness in your arms or legs?  
+14. Patient: Yes, my arms and legs feel weak, especially when I try to lift things or climb stairs.  
+15. Physician: Is the weakness more noticeable in your upper or lower body?  
+16. Patient: I'd say it's worse in my thighs and shoulders.  
+17. Physician: Do you find that the weakness gets worse if you use those muscles for a longer time?  
+18. Patient: Yes, definitely. The more I use them, the weaker they feel.  
+19. Physician: Thanks for sharing that. Have you experienced any numbness or tingling in your arms or legs?  
+20. Patient: No, nothing like that.  
+21. Physician: How about any recent fevers, infections, or illnesses?  
+22. Patient: Nope, nothing like that.  
+23. Physician: Any changes in your medications or new medications in the last few months?  
+24. Patient: No, I haven’t changed anything. I’m still taking metformin for my diabetes.  
+25. Physician: Have you had any recent injuries to your head or neck?  
+26. Patient: No, nothing like that.  
+27. Physician: Now, when you try to look up for a while, do you notice your symptoms, like the drooping eyelids, getting worse?  
+28. Patient: Yes, after a while it feels like my eyelids just can’t stay open.  
+29. Physician: Do you feel short of breath when you’re lying down or sleeping?  
+30. Patient: A little bit, but it’s not as bad as when I’m active.  
+31. Physician: Alright. Are you able to walk for long distances, or do you have to stop because of the weakness?  
+32. Patient: I can walk short distances, but I have to stop and rest pretty often.  
+33. Physician: Have you or anyone in your family noticed any changes in your voice recently?  
+34. Patient: My wife says I sound more nasal sometimes, like when I’m really tired.  
+35. Physician: Thank you—that’s useful information. Do you ever feel like it’s harder to take a deep breath?  
+36. Patient: Yes, sometimes I can’t seem to get enough air.  
+37. Physician: Have you had any history of muscle pain or cramping?  
+38. Patient: No, not at all.  
+39. Physician: How’s your energy level, generally speaking?  
+40. Patient: It’s very low. I feel tired most of the time.  
+41. Physician: Okay. Do you smoke or drink alcohol?  
+42. Patient: I don’t smoke, and I drink socially, but not much.  
+43. Physician: Any family history of neurological or autoimmune diseases?  
+44. Patient: No, not that I know of.  
+45. Physician: Have you noticed any lumps or swelling in your chest or neck?  
+46. Patient: No, I haven’t.  
+47. Physician: Thank you. Now, I’ll perform a few tests to check your muscle strength and eye movements. Do you feel your symptoms worsening while I examine you?  
+48. Patient: Yes, my eyelids feel heavier the longer you check them.  
+49. Physician: Alright. Based on what you’ve told me and what I’ve found on your exam, we’ll need to run some tests to look further into what’s causing this.  
+50. Patient: Okay, what kind of tests?  
+51. Physician: We’ll start with blood tests to check for specific antibodies and an electrical study of your nerves and muscles, as well as imaging of your chest.  
+52. Patient: Alright, will these tests take long?  
+53. Physician: Not too long. These will help me confirm if a condition called myasthenia gravis might be causing your symptoms.  
+54. Patient: Myasthenia gravis? What is that?  
+55. Physician: It’s a condition where communication between your nerves and muscles is disrupted, often leading to weakness that gets worse with use. I’ll explain more after the tests.  
+56. Patient: Okay, I understand. Thank you."

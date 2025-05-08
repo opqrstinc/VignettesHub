@@ -1,0 +1,52 @@
+"1. Médico: Buenas tardes, ¿qué la trae por aquí hoy?  
+2. Paciente: Hola doctor, tengo una hinchazón y dolor en la parte delantera del cuello desde hace un par de semanas.
+3. Médico: Entiendo, ¿puede describirme cómo comenzó el dolor?  
+4. Paciente: Al principio era solo una molestia leve, especialmente cuando tragaba, pero después empezó a sentirse más fuerte, como una presión.
+5. Médico: ¿Ha notado algo que empeore o alivie los síntomas?  
+6. Paciente: Empeora al tocar la zona o al mover el cuello. No he encontrado algo que realmente lo alivie.
+7. Médico: ¿Ha tenido fiebre o algún otro malestar general?  
+8. Paciente: No fiebre alta, pero algunos días he sentido febrícula y por las noches a veces sudo un poco.
+9. Médico: ¿Siente algún tipo de debilidad o fatiga?  
+10. Paciente: Sí, he estado bastante cansada últimamente, incluso haciendo actividades básicas.
+11. Médico: ¿Ha tenido pérdida de peso reciente o algún cambio en su apetito?  
+12. Paciente: No he perdido peso ni he notado cambios grandes en mi apetito.
+13. Médico: ¿Ha notado temblores, palpitaciones o sensación de calor excesivo?  
+14. Paciente: No, nada de eso. Solo sudoración nocturna, como le dije antes.
+15. Médico: ¿Ha presentado problemas para dormir o cambios en su estado de ánimo?  
+16. Paciente: He dormido mal por la incomodidad del cuello, pero no estoy ansiosa ni deprimida.
+17. Médico: ¿Tiene antecedentes personales de problemas tiroideos o alguna enfermedad crónica?  
+18. Paciente: No, nunca he tenido problemas con la tiroides ni otras enfermedades importantes.
+19. Médico: ¿Algún miembro de su familia ha tenido problemas tiroideos?  
+20. Paciente: Mi mamá tiene hipotiroidismo, pero creo que es algo relacionado con la edad.
+21. Médico: ¿Algún cambio en su voz o dificultad para respirar?  
+22. Paciente: Un poco de molestia al tragar, pero no he tenido problemas con mi voz ni para respirar.
+23. Médico: ¿Ha notado algún bulto o nódulo duro en el cuello?  
+24. Paciente: Solo la hinchazón general, no un bulto específico.
+25. Médico: ¿Ha tenido alguna infección reciente, como una gripe o faringitis?  
+26. Paciente: Sí, hace como un mes tuve un resfriado, pero nada grave.
+27. Médico: ¿Ha recibido alguna vacuna en las últimas semanas?  
+28. Paciente: No, creo que la última vacuna fue hace más de un año.
+29. Médico: ¿Alguna alergia a medicamentos o historial de reacciones adversas?  
+30. Paciente: No, no soy alérgica a nada que yo sepa.
+31. Médico: ¿Notó algún cambio en el tamaño de la hinchazón durante este tiempo?  
+32. Paciente: Sí, al principio era más pequeña, pero ha crecido un poco en las últimas semanas.
+33. Médico: ¿El dolor es constante o fluctúa durante el día?  
+34. Paciente: Es bastante constante, a veces más intenso por la noche.
+35. Médico: ¿Ha usado algo para tratar el dolor, como analgésicos o compresas?  
+36. Paciente: He tomado ibuprofeno, pero no parece ayudar mucho.
+37. Médico: Muy bien, voy a examinar su cuello. Dígame si siente dolor al tocar la zona.  
+38. Paciente: Claro, pero ya le adelanto que duele mucho al tocar el lado derecho.
+39. Médico: ¿Ha notado si la piel encima de la hinchazón está caliente o enrojecida?  
+40. Paciente: No, la piel se ve normal, no está roja ni caliente.
+41. Médico: La hinchazón se siente homogénea y sensible al tacto. No hay bultos duros ni adenopatías cercanas, lo cual es bueno.  
+42. Paciente: Eso es un alivio, doctor, pero el dolor sigue siendo preocupante.
+43. Médico: Por el momento, quiero solicitar algunos análisis de sangre y posiblemente una ecografía tiroidea para investigar más.  
+44. Paciente: Está bien, lo que sea necesario.
+45. Médico: Exploraré específicamente las hormonas tiroideas y algunos valores inflamatorios. ¿Está de acuerdo?  
+46. Paciente: Sí, doctor, solo quiero saber qué está pasando.
+47. Médico: Mientras esperamos los resultados, trate de evitar tocar la zona afectada y continúe con el ibuprofeno según las instrucciones.  
+48. Paciente: Lo haré, aunque será difícil porque a veces me duele mucho.
+49. Médico: Gracias por su paciencia. Basándonos en sus síntomas y lo que observamos, esto podría estar relacionado con una inflamación temporal de la tiroides, posiblemente lo que llamamos tiroiditis subaguda.  
+50. Paciente: ¿Tiroiditis subaguda? ¿Es algo grave, doctor?
+51. Médico: No se preocupe, no es grave. Es una inflamación que tiende a resolverse con el tratamiento adecuado. Vamos a confirmarlo con los resultados del laboratorio y la ecografía.  
+"

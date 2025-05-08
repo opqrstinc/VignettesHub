@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, ¿en qué puedo ayudarte hoy?  
+2. Paciente: Doctor, hace unas horas comenzó un dolor en mi pecho del lado derecho y tengo dificultad para respirar.  
+3. Médico: Entendido. ¿El dolor comenzó de forma repentina o fue algo que apareció poco a poco?  
+4. Paciente: Fue repentino, pero con el paso de las horas ha ido empeorando.  
+5. Médico: ¿Puedes describirme cómo es ese dolor? ¿Es punzante, constante o intermitente?  
+6. Paciente: Es un dolor constante, como una presión o punzada en el costado del pecho.  
+7. Médico: ¿El dolor se agrava con la respiración profunda o ciertos movimientos?  
+8. Paciente: Sí, al respirar más profundamente siento que duele más.  
+9. Médico: ¿Has tenido fiebre, tos, o has escupido sangre últimamente?  
+10. Paciente: No, nada de eso.  
+11. Médico: ¿Has sufrido algún golpe en el pecho recientemente o algún accidente?  
+12. Paciente: No, no he tenido ningún traumatismo.  
+13. Médico: ¿Tienes antecedentes de enfermedades respiratorias o algún problema médico?  
+14. Paciente: No, nunca he tenido problemas médicos ni enfermedades importantes.  
+15. Médico: ¿Fumas o has fumado en el pasado?  
+16. Paciente: No, nunca he fumado.  
+17. Médico: ¿A qué te dedicas? ¿Realizas actividades físicas intensas o algún deporte?  
+18. Paciente: Trabajo en una oficina, no hago mucho ejercicio.  
+19. Médico: ¿Sentiste algo más más allá del dolor y la dificultad para respirar? ¿Alguna sensación de mareo o desmayo?  
+20. Paciente: Me he sentido un poco débil, pero no he llegado a marearme o desmayarme.  
+21. Médico: Antes de que aparecieran los síntomas, ¿notaste alguna incomodidad o algo fuera de lo normal?  
+22. Paciente: No, todo empezó de repente mientras estaba trabajando.  
+23. Médico: ¿Tienes antecedentes familiares de enfermedades pulmonares o cardíacas?  
+24. Paciente: No que yo sepa.  
+25. Médico: ¿Has tenido neumonías o asma en tu infancia?  
+26. Paciente: No, nada de eso.  
+27. Médico: ¿Cuándo notaste que empezaste a tener más dificultad para respirar?  
+28. Paciente: Fue poco después de que comenzó el dolor, y ha ido empeorando con el tiempo.  
+29. Médico: ¿Has tenido alguna infección respiratoria leve en las últimas semanas?  
+30. Paciente: No, me he sentido bien hasta ahora.  
+31. Médico: Mencionaste que el dolor afecta el lado derecho, ¿te duele en alguna otra parte, como espalda o hombro?  
+32. Paciente: Sí, a veces se siente un poco en la espalda, pero más que nada en el lado derecho del pecho.  
+33. Médico: Voy a revisar tus pulmones. Respira profundo, por favor.  
+34. Médico: Noto que los sonidos respiratorios en el lado derecho están muy disminuidos.  
+35. Paciente: ¿Es grave, doctor?  
+36. Médico: Aún no lo sabemos, vamos a realizar una radiografía para entender mejor la situación.  
+37. Paciente: De acuerdo.  
+38. Médico: La radiografía muestra un neumotórax, es decir, aire acumulado en el espacio que rodea tu pulmón derecho.  
+39. Paciente: ¿Qué significa eso?  
+40. Médico: Esto puede causar el colapso parcial del pulmón, lo que explica tu dolor y dificultad para respirar.  
+41. Paciente: ¿Por qué pasó esto?  
+42. Médico: Puede ocurrir espontáneamente en personas jóvenes y sanas, sin una causa aparente.  
+43. Paciente: ¿Es grave? ¿Qué necesito hacer?  
+44. Médico: Es importante iniciar el tratamiento para liberar el aire acumulado y permitir que el pulmón se expanda nuevamente.  
+45. Paciente: ¿Cómo se hace eso?  
+46. Médico: Colocaremos un tubo pequeño en tu pecho que permita evacuar el aire. También recibirás analgésicos y seguimiento cercano.  
+47. Paciente: ¿Es doloroso?  
+48. Médico: Sentirás un poco de incomodidad, pero usaremos anestesia para minimizar el dolor.  
+49. Paciente: Entiendo, estoy listo para lo que sea necesario.  
+50. Médico: Muy bien, actuaremos rápidamente para aliviar tus síntomas y garantizar tu recuperación."

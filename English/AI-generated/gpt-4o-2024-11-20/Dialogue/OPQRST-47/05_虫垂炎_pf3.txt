@@ -1,0 +1,51 @@
+"1. Doctor: Good morning. What brings you in today?  
+2. Patient: I’ve been having worsening pain in my right lower abdomen since yesterday.  
+3. Doctor: I see. Can you describe the pain for me?  
+4. Patient: At first, it was dull, but now it’s sharp and focused on the right lower side.  
+5. Doctor: When did you first notice this pain?  
+6. Patient: It started about 24 hours ago.  
+7. Doctor: Have you noticed any nausea or vomiting?  
+8. Patient: I feel a bit nauseous, but I haven’t thrown up.  
+9. Doctor: Any fever that you’ve noticed?  
+10. Patient: Not really, but I’ve been feeling a little warm.  
+11. Doctor: Have you had any diarrhea or constipation?  
+12. Patient: No, none of that.  
+13. Doctor: Have you been able to eat normally?  
+14. Patient: Not really, I’ve lost my appetite since the pain began.  
+15. Doctor: Have you ever had any abdominal surgeries or stomach issues before?  
+16. Patient: No, nothing like this before.  
+17. Doctor: Do you have any medical conditions or take any medications?  
+18. Patient: I have high blood pressure and take losartan daily.  
+19. Doctor: Thanks for that information. Let’s move on to some exams. Does pressing here hurt? (presses on RLQ)  
+20. Patient: Yes, that’s really painful!  
+21. Doctor: And if I press here on the left and release, do you feel anything on the right?  
+22. Patient: Yes, it starts to hurt on the right side when you do that.  
+23. Doctor: Alright. I’m also noticing some guarding and tenderness on examination. Have you noticed anything else unusual?  
+24. Patient: No, just the pain and the nausea.  
+25. Doctor: Do you have any allergies to medications?  
+26. Patient: No, I don’t have any allergies.  
+27. Doctor: Do you smoke or drink alcohol?  
+28. Patient: I don’t smoke, and I drink occasionally.  
+29. Doctor: Do you have any family history of abdominal conditions or surgeries?  
+30. Patient: No, not that I know of.  
+31. Doctor: I’ll order some blood work to check for signs of inflammation.  
+32. Patient: Sure, whatever is needed.  
+33. Doctor: I may also get imaging like an ultrasound to confirm what’s going on.  
+34. Patient: Okay, I understand.  
+35. Doctor: Do you feel the pain moving or staying in one area?  
+36. Patient: It’s staying in one spot now—right here in the lower right.  
+37. Doctor: Have you been able to pass gas or have a bowel movement?  
+38. Patient: Yes, that’s been normal.  
+39. Doctor: Your white blood cells are elevated, indicating inflammation.  
+40. Patient: So, could it be serious?  
+41. Doctor: It’s possible. Based on your symptoms and the exam, it could be appendicitis.  
+42. Patient: Appendicitis? That doesn’t sound good.  
+43. Doctor: It’s manageable. We’ll confirm with a CT scan and decide how to proceed.  
+44. Patient: Alright, let’s do that.  
+45. Doctor: The scan shows signs of an inflamed appendix. This is acute appendicitis.  
+46. Patient: What happens now?  
+47. Doctor: You’ll need surgery to remove the appendix. It’s a common procedure.  
+48. Patient: Surgery? Is it urgent?  
+49. Doctor: Yes, we want to do it soon to prevent complications like rupture.  
+50. Patient: Okay, let’s get it done.  
+"

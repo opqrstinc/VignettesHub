@@ -1,0 +1,50 @@
+"1. 医師：Hello, how can I help you today?  
+2. 患者：I had a strange experience a couple of hours ago.  
+3. 医師：Could you describe to me what happened?  
+4. 患者：Well, suddenly my right side felt weak, like my arm and leg were heavy.  
+5. 医師：Did this weakness come on gradually or suddenly?  
+6. 患者：It was very sudden, like one moment I was fine, and the next I wasn’t.  
+7. 医師：Did you notice any other symptoms at the same time?  
+8. 患者：Yes, my speech was slurred, and my vision was blurry.  
+9. 医師：How long did these symptoms last?  
+10. 患者：Not very long, about 30 minutes or so, and then everything went back to normal.  
+11. 医師：Did you have any headache, nausea, or vomiting when this happened?  
+12. 患者：No, none of that.  
+13. 医師：Did you lose consciousness or feel dizzy at any point?  
+14. 患者：No, I stayed conscious the whole time.  
+15. 医師：Have you ever had something like this happen before?  
+16. 患者：No, this was the first time.  
+17. 医師：Do you have any chronic medical conditions?  
+18. 患者：Yes, I have high blood pressure.  
+19. 医師：Are you taking any medications for your blood pressure?  
+20. 患者：I’m supposed to, but I haven’t been keeping up with them.  
+21. 医師：How long have you had high blood pressure?  
+22. 患者：For about 15 years.  
+23. 医師：Do you have diabetes or a history of strokes?  
+24. 患者：No, none of those.  
+25. 医師：Do you smoke or drink alcohol?  
+26. 患者：No, I don’t do either.  
+27. 医師：Any drug use?  
+28. 患者：No, never.  
+29. 医師：Does anyone in your family have a history of stroke, diabetes, or heart disease?  
+30. 患者：No, not that I know of.  
+31. 医師：When I examine you now, I don’t see any weakness or speech problems. Do you feel completely back to normal?  
+32. 患者：Yes, I feel fine now.  
+33. 医師：Your blood pressure is quite high today, 185 over 102 mmHg. Have you measured it recently?  
+34. 患者：No, I haven’t checked it in a while.  
+35. 医師：Have you experienced anything like chest pain or palpitations?  
+36. 患者：No, nothing like that.  
+37. 医師：Have you ever felt your heart racing or skipping beats?  
+38. 患者：No, my heart has always felt regular.  
+39. 医師：Do you exercise or follow any diet for your blood pressure?  
+40. 患者：Not really. I know I should, but I haven’t been good about it.  
+41. 医師：We’ll need to perform some tests to rule out other causes of your symptoms.  
+42. 患者：Okay, whatever needs to be done.  
+43. 医師：Based on your description, it seems like you may have had a transient ischemic attack, or TIA.  
+44. 患者：What does that mean?  
+45. 医師：It’s like a warning sign of a possible future stroke, caused by temporarily reduced blood flow to your brain.  
+46. 患者：But everything is normal now, right?  
+47. 医師：Yes, the symptoms resolve on their own, but it’s important to address the underlying risks to prevent a stroke.  
+48. 患者：What’s causing this then?  
+49. 医師：Your uncontrolled high blood pressure and possibly some atherosclerosis are likely contributing factors.  
+50. 患者：So, what do we do now?"

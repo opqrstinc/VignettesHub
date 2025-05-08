@@ -1,0 +1,50 @@
+"1. 医師：Good morning. What brings you into the clinic today?  
+2. 患者：I've been having this burning sensation in my chest after meals for the past six months.  
+3. 医師：I see. Does this burning sensation happen after every meal or specific ones?  
+4. 患者：Mostly after fatty or spicy meals. It gets worse then.  
+5. 医師：How would you describe the sensation? Is it a burning pain, or does it feel like something else?  
+6. 患者：It’s like a burning feeling, like acid coming up my throat sometimes.  
+7. 医師：Do the symptoms get worse when you lie down or bend forward?  
+8. 患者：Yes, definitely. It’s very uncomfortable when I lie down after eating.  
+9. 医師：Have you tried anything to relieve the symptoms?  
+10. 患者：I’ve been taking over-the-counter antacids. They help a little, but only for a short time.  
+11. 医師：How often do these symptoms occur?  
+12. 患者：In the beginning, it was only every now and then, but now it happens several times a week.  
+13. 医師：Have you noticed any difficulty swallowing food or liquids?  
+14. 患者：No, swallowing seems fine to me.  
+15. 医師：What about weight loss? Have you lost any weight unintentionally?  
+16. 患者：No, my weight has stayed about the same.  
+17. 医師：Have you seen any blood in your vomit or stool?  
+18. 患者：No, I haven’t noticed anything like that.  
+19. 医師：Do you have any other medical conditions we should know about?  
+20. 患者：I have high blood pressure, but it’s controlled with medication.  
+21. 医師：What medication are you taking for your blood pressure?  
+22. 患者：I take amlodipine, 5 milligrams every day.  
+23. 医師：Do you smoke or drink alcohol?  
+24. 患者：No, I don’t smoke or drink.  
+25. 医師：Have you ever taken NSAIDs like ibuprofen frequently?  
+26. 患者：No, rarely, maybe once or twice in the past year.  
+27. 医師：I will now perform a physical examination. Are you experiencing any abdominal pain or discomfort?  
+28. 患者：No, my stomach feels fine.  
+29. 医師：On examination, I don’t see or feel anything abnormal. Do you currently feel the burning sensation?  
+30. 患者：No, not right now, but I had it after dinner last night.  
+31. 医師：Have you tried changing your diet or eating habits to see if it helps?  
+32. 患者：Not really, but I know that greasy or spicy foods make it worse.  
+33. 医師：You mentioned that lying down worsens the symptoms. Do you use multiple pillows or elevate your head while sleeping?  
+34. 患者：No, I usually sleep flat.  
+35. 医師：Has this issue impacted your quality of life, like affecting your work or sleep?  
+36. 患者：It's been hard to sleep when I eat late, but during the day, I can manage.  
+37. 医師：When you feel the regurgitation, does it have a sour or bitter taste?  
+38. 患者：Yes, mostly sour.  
+39. 医師：Have you ever had a similar issue in the past, or is this the first time?  
+40. 患者：This is the first time it has lasted this long.  
+41. 医師：We’ll need to do some tests to evaluate further. Would you feel okay undergoing an endoscopy?  
+42. 患者：If it helps to figure this out, yes, I’m okay with it.  
+43. 医師：An endoscopy showed mild inflammation in the lower esophagus but no ulcers or serious damage.  
+44. 患者：Is that something to worry about?  
+45. 医師：No, but it confirms irritation possibly due to acid reflux. A 24-hour pH test showed increased acid exposure in your esophagus.  
+46. 患者：So, what does that mean?  
+47. 医師：It indicates gastroesophageal reflux disease, or GERD, due to stomach acid moving back into your esophagus.  
+48. 患者：That makes sense with what I’ve been feeling. What can I do to improve it?  
+49. 医師：We’ll start lifestyle changes, like elevating the head of your bed, avoiding late meals, and limiting fatty or spicy foods. We’ll also start a medication called omeprazole.  
+50. 患者：Thank you, doctor. I’ll follow the plan.  "

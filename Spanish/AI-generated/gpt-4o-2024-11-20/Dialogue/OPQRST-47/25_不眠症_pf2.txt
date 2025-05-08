@@ -1,0 +1,51 @@
+"1. Médico: ¿Qué le trae por aquí hoy?  
+2. Paciente: He estado teniendo problemas para dormir, doctor. Es difícil conciliar el sueño y me despierto varias veces por la noche.  
+3. Médico: Entiendo, ¿desde cuándo le ocurre esto?  
+4. Paciente: Ya llevan como seis meses, no puedo dormir bien.  
+5. Médico: ¿Diría que esto comenzó después de algún evento o cambio importante en su vida?  
+6. Paciente: Pues, no realmente. No hubo nada fuera de lo común que lo desencadenara.  
+7. Médico: ¿Cómo se siente al día siguiente después de estas noches de mal sueño?  
+8. Paciente: Me siento cansado todo el día, como si no hubiera descansado nada. También me cuesta concentrarme en el trabajo y estoy como más irritable.  
+9. Médico: ¿Ha notado algún patrón o situación específica que empeore estos episodios?  
+10. Paciente: No, simplemente pasa todas las noches, es frustrante.  
+11. Médico: ¿Consume café, té, refrescos con cafeína o algo similar durante el día?  
+12. Paciente: A veces tomo café en la mañana, pero nada en la tarde o noche.  
+13. Médico: ¿Utiliza el teléfono, la televisión o algún dispositivo electrónico antes de acostarse?  
+14. Paciente: Bueno, sí. Siempre veo algo de televisión antes de dormir.  
+15. Médico: ¿Ha notado alguna relación entre ver televisión y su dificultad para dormir?  
+16. Paciente: No lo había pensado, pero no lo creo. Siempre ha sido parte de mi rutina.  
+17. Médico: ¿Qué tal su horario de sueño? ¿Suele acostarse y levantarse a la misma hora todos los días?  
+18. Paciente: No exactamente. A veces me quedo despierto más tarde los fines de semana.  
+19. Médico: ¿Hay algo más que le preocupe o le genere estrés últimamente?  
+20. Paciente: No, todo ha estado tranquilo. Mi trabajo no es tan pesado, y en casa todo está bien.  
+21. Médico: ¿En algún momento ha consumido sustancias para ayudarle a dormir, como medicamentos o remedios caseros?  
+22. Paciente: No, nunca he tomado nada para dormir.  
+23. Médico: ¿Toma algún medicamento de manera regular o tiene algún problema de salud previo?  
+24. Paciente: No, estoy completamente saludable, hasta donde sé.  
+25. Médico: En estas últimas semanas, ¿nota que los problemas de insomnio han afectado su calidad de vida?  
+26. Paciente: Definitivamente, cada vez me siento más agotado y preocupado por no descansar suficiente.  
+27. Médico: ¿Ha tenido problemas para quedarse dormido por más de 30 minutos?  
+28. Paciente: Sí, casi todas las noches me toma más tiempo de lo normal.  
+29. Médico: ¿Y cuántas veces suele despertarse durante la noche?  
+30. Paciente: Depende, a veces me despierto dos o tres veces sin razón aparente.  
+31. Médico: ¿Se sincera con alguien más sobre estas preocupaciones, como familiares o amigos?  
+32. Paciente: Sí, mi esposa me dice que luzco muy cansado y que debo buscar ayuda.  
+33. Médico: ¿Ella ha notado algo fuera de lo común mientras duerme, como ronquidos fuertes o movimientos bruscos?  
+34. Paciente: No, dice que no ronco y que todo parece normal salvo que me despierto con frecuencia.  
+35. Médico: ¿Nunca ha tenido episodios en los que deje de respirar mientras duerme?  
+36. Paciente: No, para nada.  
+37. Médico: ¿Cómo describiría su estado de ánimo en estos días?  
+38. Paciente: La verdad estoy algo irritado y a veces me siento abatido, pero creo que es por no dormir bien.  
+39. Médico: ¿Practica alguna actividad física regularmente?  
+40. Paciente: Camino un poco, pero no tengo una rutina de ejercicios fija.  
+41. Médico: ¿Y qué hace habitualmente antes de dormir para relajarse?  
+42. Paciente: Pues veo televisión y a veces reviso el teléfono.  
+43. Médico: Gracias por compartir todo esto conmigo. Vamos a recopilar algo más de información para entender mejor su situación. ¿Qué le parece?  
+44. Paciente: Claro, usted dígame qué necesito hacer.  
+45. Médico: Además de su información clínica, realizaremos un estudio llamado polisomnografía para analizar su sueño durante una noche.  
+46. Paciente: ¿Eso implica dormir en un hospital o algo así?  
+47. Médico: Es un monitoreo que se realiza mientras usted duerme, y nos ayudará a identificar patrones en su sueño.  
+48. Paciente: Perfecto, si me ayuda a entender qué pasa, lo haré.  
+49. Médico: Basándonos en la información hasta ahora recogida y el estudio, parece que podría tratarse de insomnio primario crónico.  
+50. Paciente: ¿Eso significa que no hay una causa física detrás de mi problema?  
+51. Médico: Correcto, y existen varias estrategias para tratarlo, empezando con medidas de higiene del sueño y, si es necesario, un tratamiento farmacológico temporal."

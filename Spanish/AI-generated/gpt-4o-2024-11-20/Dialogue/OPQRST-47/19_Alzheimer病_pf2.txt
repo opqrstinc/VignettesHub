@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, señora. ¿Puede decirme en qué puedo ayudarle hoy?  
+2. Paciente: Últimamente olvido muchas cosas, doctor, y a veces me siento confundida.  
+3. Médico: Entiendo. ¿Cuándo comenzó a notar estos olvidos?  
+4. Paciente: Hace como dos años, pero al principio no era tan grave.  
+5. Médico: ¿Qué tipo de cosas olvida con mayor frecuencia?  
+6. Paciente: Sobre todo nombres, fechas y a veces qué día es. También me cuesta recordar las cosas que acabo de hacer.  
+7. Médico: ¿Ha notado si esto afecta sus actividades diarias, como cocinar o manejar dinero?  
+8. Paciente: Sí, a veces me cuesta seguir instrucciones o hacer varias cosas al mismo tiempo. Mi hija me ayuda con esas cosas.  
+9. Médico: ¿Le ha pasado que se desoriente en lugares que conoce bien?  
+10. Paciente: Sí, doctor, una vez me perdí en la calle cerca de mi casa, y eso nunca me había pasado antes.  
+11. Médico: ¿Algún familiar ha notado estos cambios o le ha dicho algo?  
+12. Paciente: Mi hija siempre me dice que repito las mismas cosas muchas veces y que me cuesta mantener una conversación.  
+13. Médico: ¿Cómo se siente emocionalmente? ¿Ha notado cambios en su estado de ánimo?  
+14. Paciente: Me siento un poco triste a veces y no me interesa salir o hacer las cosas que me gustaban.  
+15. Médico: Entiendo. ¿Tiene antecedentes de alguna enfermedad?  
+16. Paciente: Tengo artritis reumatoide desde hace varios años, y también me dijeron que tengo un problema en el corazón, fibrilación auricular, creo.  
+17. Médico: Gracias por compartir eso. ¿Está tomando medicamentos para estas condiciones?  
+18. Paciente: Sí, tomo pastillas para el dolor y otras para el corazón, aunque no recuerdo sus nombres.  
+19. Médico: No se preocupe, verificaremos esos detalles. ¿Ha tenido algún otro síntoma, como debilidad o dificultad para caminar?  
+20. Paciente: No, físicamente me siento bien, solo es mi cabeza lo que parece fallar.  
+21. Médico: ¿Ha tenido problemas para hacer cálculos simples o resolver problemas cotidianos?  
+22. Paciente: Sí, me cuesta contar dinero o hacer cuentas fáciles.  
+23. Médico: ¿Puede seguir una conversación sin perder el hilo o encontrar las palabras correctas?  
+24. Paciente: No mucho, a veces olvido lo que iba a decir o no encuentro cómo expresarlo.  
+25. Médico: Entendido. ¿Cómo ha cambiado su rutina diaria desde que empezaron los síntomas?  
+26. Paciente: Ya no hago sola muchas cosas, mi hija y mi nieta me ayudan bastante.  
+27. Médico: ¿Quién vive con usted en casa?  
+28. Paciente: Vivo sola, pero mi hija me visita casi todos los días.  
+29. Médico: ¿Ha notado episodios de agresividad o cambios bruscos de comportamiento?  
+30. Paciente: No diría agresividad, pero a veces me irrito más rápido de lo normal.  
+31. Médico: ¿Cómo están su apetito y su sueño?  
+32. Paciente: Como poco, y duermo, pero despierto con frecuencia en la noche.  
+33. Médico: Gracias. Ahora, dígame, ¿ha tenido mareos, visión borrosa o dolores de cabeza?  
+34. Paciente: Nada de eso, doctor.  
+35. Médico: Muy bien. Ahora me gustaría saber si tiene antecedentes familiares de alguna enfermedad como esta.  
+36. Paciente: No que yo sepa, mis padres murieron jóvenes, y no recuerdo que mis abuelos tuvieran algo así.  
+37. Médico: De acuerdo. ¿Ha sufrido alguna enfermedad grave o accidente cerebral en el pasado?  
+38. Paciente: No, siempre tuve buena salud aparte de mi artritis y el corazón.  
+39. Médico: Perfecto, eso nos ayuda mucho. ¿Alguna vez ha tenido infecciones recientes o fiebre?  
+40. Paciente: No, nada de eso.  
+41. Médico: Muy bien. Le haré algunas preguntas sobre su memoria a corto plazo. ¿Recuerda lo que desayunó hoy?  
+42. Paciente: Creo que fue pan con café, pero no estoy segura.  
+43. Médico: ¿Y qué hizo ayer?  
+44. Paciente: Fui al parque con mi hija, creo, aunque no lo recuerdo claramente.  
+45. Médico: ¿Le resulta difícil organizar sus pensamientos o planificar actividades?  
+46. Paciente: Sí, siento que mi mente está confusa.  
+47. Médico: Según lo que me comenta, creo que debemos investigar más sobre sus problemas de memoria y confusión.  
+48. Paciente: ¿Cree que sea algo serio, doctor?  
+49. Médico: Posiblemente estemos hablando de una enfermedad que afecta la memoria, pero necesitamos hacer exámenes.  
+50. Paciente: Entendido, doctor."

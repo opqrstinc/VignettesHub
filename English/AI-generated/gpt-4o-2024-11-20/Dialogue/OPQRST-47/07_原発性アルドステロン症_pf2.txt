@@ -1,0 +1,106 @@
+"1.  
+Doctor: What brings you in today?
+2.  
+Patient: I've been having high blood pressure and occasional heart racing for a few months now.  
+3.  
+Doctor: I see, how long have you been experiencing these symptoms?  
+4.  
+Patient: It started about six months ago, on and off.  
+5.  
+Doctor: Have you noticed anything specific that seems to trigger these episodes?  
+6.  
+Patient: Not really, it just kind of happens randomly.  
+7.  
+Doctor: Aside from the palpitations and high blood pressure, have you noticed any other symptoms?  
+8.  
+Patient: Sometimes I feel really weak, especially in my legs, and tired for no clear reason.  
+9.  
+Doctor: Do the weakness and fatigue occur with the palpitations, or do they happen separately?  
+10.  
+Patient: They’re not always at the same time, but I’ve felt them both recently.  
+11.  
+Doctor: Have you had any chest pain, difficulty breathing, or sudden weight changes?  
+12.  
+Patient: No, none of that.  
+13.  
+Doctor: Any recent changes in your lifestyle, diet, or medications?  
+14.  
+Patient: No big changes. I did stop taking a cholesterol medication a while ago because it made me feel sick.  
+15.  
+Doctor: What medication was that?  
+16.  
+Patient: Atorvastatin, I think.  
+17.  
+Doctor: Any history of hypertension, heart problems, or similar issues in your family?  
+18.  
+Patient: No, there’s no family history of that.  
+19.  
+Doctor: Do you smoke, drink alcohol, or use any recreational drugs?  
+20.  
+Patient: No, none of those.  
+21.  
+Doctor: Have you noticed any unusual swelling, pain, or lumps in your body?  
+22.  
+Patient: No swelling or lumps, just the weakness I mentioned.  
+23.  
+Doctor: Do you ever feel restless or jittery?  
+24.  
+Patient: Yes, kind of restless, but not all the time.  
+25.  
+Doctor: Have you noticed any changes in your bowel or urinary habits?  
+26.  
+Patient: No, nothing out of the ordinary.  
+27.  
+Doctor: How's your overall diet and physical activity?  
+28.  
+Patient: I eat fairly healthy and stay active, so nothing unusual there.  
+29.  
+Doctor: Have you had any muscle cramps or unusual sensations in your limbs?  
+30.  
+Patient: Yes, sometimes, but not very often.  
+31.  
+Doctor: When you check your blood pressure, is it consistently high or does it fluctuate?  
+32.  
+Patient: It’s usually high when I check it, that’s how I noticed something was wrong.  
+33.  
+Doctor: Do you feel anxious or stressed when you experience these symptoms?  
+34.  
+Patient: Not really, but the symptoms make me worry when they happen.  
+35.  
+Doctor: How’s your energy level throughout the day?  
+36.  
+Patient: It’s low. I feel tired more often than not.  
+37.  
+Doctor: Do you ever feel dizzy or lightheaded?  
+38.  
+Patient: Not usually, just weak in my legs.  
+39.  
+Doctor: Has your doctor ever mentioned anything about issues with potassium or other electrolytes in your bloodwork?  
+40.  
+Patient: Not that I know of.  
+41.  
+Doctor: Did you ever quit the cholesterol medication because of muscle pain or other side effects?  
+42.  
+Patient: Yes, I think it was muscle pain and fatigue.  
+43.  
+Doctor: Have you ever had any imaging tests or referrals to a specialist for your hypertension or palpitations?  
+44.  
+Patient: No, this is the first time I’m seeing someone about it.  
+45.  
+Doctor: Given the palpitations and the high blood pressure, I’d like to ask—a random question—do you ever feel your legs are unusually strong or weak when climbing stairs?  
+46.  
+Patient: Sometimes they feel weak, getting tired faster than they should.  
+47.  
+Doctor: Would you say it’s an effort for you to stand from a seated position?  
+48.  
+Patient: A little bit, but I thought it was just because I’ve been tired recently.  
+49.  
+Doctor: Your elevated blood pressure and muscle weakness might be related. Have you noticed any swelling or discoloration in your legs?  
+50.  
+Patient: No, they look normal to me.  
+51.  
+Doctor: Based on everything you’ve shared, tests have revealed high levels of aldosterone with low renin levels, indicating a condition called primary aldosteronism.  
+52.  
+Patient: Oh, what does that mean?  
+53.  
+Doctor: It means your adrenal gland is producing too much aldosterone, causing high blood pressure and low potassium, which explains your symptoms.  "

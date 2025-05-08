@@ -1,0 +1,50 @@
+"1. Médico: ¿Qué la trae hoy a consulta?  
+2. Paciente: Me siento muy cansada todo el tiempo, tengo meses así.  
+3. Médico: ¿Cuánto tiempo lleva sintiéndose así?  
+4. Paciente: Desde hace unos seis meses, pero empeoró en los últimos tres.  
+5. Médico: ¿Puede describir cómo se siente ese cansancio?  
+6. Paciente: Es como si no tuviera energía para nada, ni siquiera para cosas simples.  
+7. Médico: ¿Ha notado algún cambio en su apetito?  
+8. Paciente: Sí, no tengo ganas de comer, he perdido el apetito por completo.  
+9. Médico: ¿Ha bajado de peso recientemente?  
+10. Paciente: No, el peso creo que sigue igual.  
+11. Médico: ¿Cómo ha estado su sueño?  
+12. Paciente: Me cuesta mucho trabajo quedarme dormida, doy vueltas en la cama por horas.  
+13. Médico: ¿Se despierta varias veces durante la noche o duerme de corrido?  
+14. Paciente: No, una vez que consigo dormirme, suelo dormir de corrido.  
+15. Médico: ¿Ha tenido algún problema para concentrarse?  
+16. Paciente: Sí, es muy difícil para mí. A veces siento que no puedo mantener la mente en lo que estoy haciendo.  
+17. Médico: ¿Eso le ha afectado en su trabajo?  
+18. Paciente: Sí, mucho. Ya no rindo como antes, y eso me preocupa.  
+19. Médico: ¿Ha estado sintiéndose triste o desanimada?  
+20. Paciente: Sí, casi todos los días me siento así, como si todo estuviera mal.  
+21. Médico: ¿Tiene algún sentimiento de desesperanza?  
+22. Paciente: Sí, siento que nada va a mejorar.  
+23. Médico: ¿Ha llorado con frecuencia?  
+24. Paciente: Sí, y muchas veces no sé ni por qué estoy llorando.  
+25. Médico: ¿Ha tenido pensamientos sobre hacerse daño o quitarse la vida?  
+26. Paciente: No, nunca he pensado en eso.  
+27. Médico: ¿Algún evento reciente que pueda haber desencadenado estos sentimientos?  
+28. Paciente: No, nada en especial ha pasado, todo ha sido bastante normal.  
+29. Médico: ¿Consume alcohol, drogas o algo similar?  
+30. Paciente: No, no consumo nada de eso.  
+31. Médico: ¿Tiene algún problema de salud diagnosticado?  
+32. Paciente: Tengo colon irritable, pero lo manejo con la dieta, no tomo ningún medicamento.  
+33. Médico: ¿Alguna vez ha tenido síntomas parecidos a estos antes?  
+34. Paciente: No, nunca me había sentido así antes.  
+35. Médico: ¿Cómo describiría su estado de ánimo en general?  
+36. Paciente: Me siento vacía, como si nada tuviera sentido.  
+37. Médico: ¿Tiene apoyo emocional de su familia o amigos?  
+38. Paciente: Sí, vivo con mi pareja, pero no siempre hablo de cómo me siento con él.  
+39. Médico: ¿Él ha notado algún cambio en usted?  
+40. Paciente: Sí, me dice que antes era más activa y más alegre.  
+41. Médico: ¿Qué actividades le solían gustar y que ahora ya no disfruta?  
+42. Paciente: Me gustaba hacer ejercicio y cocinar, pero ya no tengo ánimo para nada de eso.  
+43. Médico: ¿Se siente constantemente preocupada por algo en especial?  
+44. Paciente: No, son más mis pensamientos negativos todo el tiempo.  
+45. Médico: ¿Ha tenido dolores físicos relacionados con este estado, como dolores de cabeza o musculares?  
+46. Paciente: A veces tengo dolor de cabeza, pero no es fuerte.  
+47. Médico: Entiendo. Quiero hacerle algunas pruebas básicas, como un análisis de sangre. ¿Está de acuerdo?  
+48. Paciente: Sí, claro.  
+49. Médico: Perfecto, también completaremos un cuestionario sobre sus síntomas emocionales. Es parte del protocolo.  
+50. Paciente: Está bien, haré lo que sea necesario."

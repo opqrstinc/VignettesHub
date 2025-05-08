@@ -1,0 +1,51 @@
+"1. Médico: Hola, buenas tardes. ¿Qué la trae hoy a consulta?  
+2. Paciente: Buenas tardes, doctor. He estado sufriendo de episodios de palpitaciones y me han dicho que tengo la presión alta.  
+3. Médico: Entendido. ¿Cuándo comenzaron esos episodios de palpitaciones?  
+4. Paciente: Hace unos seis meses. Al principio no les di mucha importancia, pero ahora pasan más seguido.  
+5. Médico: ¿Cómo describiría esas palpitaciones? ¿Siente que su corazón late muy rápido o fuerte?  
+6. Paciente: Sí, es como si mi corazón latiera muy rápido y fuerte de repente.  
+7. Médico: ¿Qué tan frecuentes son estos episodios?  
+8. Paciente: Aproximadamente dos o tres veces por semana.  
+9. Médico: ¿Cuánto tiempo suelen durar?  
+10. Paciente: No mucho, tal vez unos minutos, pero se sienten intensos.  
+11. Médico: ¿Algo parece desencadenarlos o suceden de manera inesperada?  
+12. Paciente: No he notado algo específico. A veces pasan cuando estoy tranquila.  
+13. Médico: ¿Ha sentido algún otro síntoma durante estos episodios, como mareos o dolor de cabeza?  
+14. Paciente: Sí, a veces tengo dolor de cabeza y me siento un poco mareada.  
+15. Médico: ¿Estos síntomas coinciden siempre con los episodios de palpitaciones?  
+16. Paciente: No siempre, pero pasan a veces al mismo tiempo.  
+17. Médico: He notado que menciona el dolor de cabeza, ¿qué tan intenso es y dónde lo siente?  
+18. Paciente: Es leve a moderado, lo siento como presión en la frente o en los lados de la cabeza.  
+19. Médico: ¿Ha tenido náuseas, vómitos o problemas para ver durante estos dolores de cabeza?  
+20. Paciente: No, nada de eso.   
+21. Médico: ¿Ha tenido desmayos o sensación de que va a desmayarse?  
+22. Paciente: No, nunca he llegado a desmayarme.  
+23. Médico: Me comentó que tiene hipertensión. ¿Cuándo se la diagnosticaron?  
+24. Paciente: Hace unos meses, cuando fui al médico por los episodios de palpitaciones.  
+25. Médico: ¿Actualmente está tomando algún medicamento para eso?  
+26. Paciente: No, no estoy tomando nada aún. Me dijeron que debería controlarla pero no comencé tratamiento.  
+27. Médico: ¿Tiene antecedentes personales de alguna otra enfermedad?  
+28. Paciente: Sí, me dijeron hace un tiempo que tengo el colesterol alto.  
+29. Médico: ¿Algún problema en el pasado relacionado con el corazón o el sistema endocrino, como diabetes?  
+30. Paciente: No, nada más que recuerde.  
+31. Médico: ¿Qué hay de antecedentes quirúrgicos, alguna operación previa?  
+32. Paciente: Nunca me han operado.  
+33. Médico: ¿Consume alcohol, fuma o usa alguna droga recreativa?  
+34. Paciente: No fumo, no tomo alcohol y tampoco uso drogas.  
+35. Médico: ¿Algún medicamento o suplemento que tome regularmente?  
+36. Paciente: No, no estoy tomando nada en este momento.  
+37. Médico: ¿Alguien en su familia tiene hipertensión, enfermedades del corazón o problemas endocrinos?  
+38. Paciente: Mi papá tiene hipertensión, y creo que a mi abuela le encontraron algo en la tiroides.  
+39. Médico: ¿Recuerda si alguien más en la familia ha tenido colesterol alto?  
+40. Paciente: Creo que mi mamá también tiene colesterol alto.  
+41. Médico: Perfecto, gracias por compartir toda esa información. Ahora, durante los episodios de palpitaciones, ¿siente sudoración excesiva?  
+42. Paciente: No, no he notado eso.  
+43. Médico: ¿Qué hay de temblores o sensación de ansiedad?  
+44. Paciente: No, tampoco.  
+45. Médico: ¿Le han hecho exámenes recientes para el colesterol o análisis de sangre en general?  
+46. Paciente: Sí, me hicieron unos análisis hace unos meses, pero no recuerdo mucho los resultados excepto que tenía el colesterol alto.  
+47. Médico: Antes de que aparecieran estos síntomas, ¿cambió algo en su vida, como estrés extra, dieta o actividad física?  
+48. Paciente: No ha habido cambios importantes. Mi rutina sigue siendo la misma.  
+49. Médico: Finalmente, ¿ha notado algún cambio en su peso, cabello, piel o comportamiento en general?  
+50. Paciente: No, todo parece igual.  
+Médico: Sus síntomas podrían estar relacionados con un problema hormonal. Vamos a realizar algunos exámenes adicionales, pero creo que el diagnóstico es Hiperaldosteronismo Primario. Esto explicaría la hipertensión, las palpitaciones, el bajo nivel de potasio y los hallazgos en su imagen."

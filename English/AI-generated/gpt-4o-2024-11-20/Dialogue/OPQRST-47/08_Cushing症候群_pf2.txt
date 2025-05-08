@@ -1,0 +1,150 @@
+"1.  
+Doctor: What brings you in today?  
+Patient: I’ve been experiencing a lot of muscle weakness and other strange symptoms over the last six months.
+2.  
+Doctor: What kind of muscle weakness are you having?  
+Patient: My arms and legs feel weak, especially when I try to do things like climb stairs or get up from a chair.
+3.  
+Doctor: Has the weakness been getting worse over time?  
+Patient: Yes, it’s gradually become more noticeable and now it’s interfering with my daily life.
+4.  
+Doctor: Have you noticed any changes in your appearance or weight?  
+Patient: Yes, I’ve gained about 10 kilograms in the last six months and my face looks rounder than before.
+5.  
+Doctor: Have you made any changes to your diet or exercise habits?  
+Patient: No, everything has stayed the same, but the weight just keeps increasing.
+6.  
+Doctor: Have you seen any other changes like bruising or skin changes?  
+Patient: Yes, I bruise very easily now, even without bumping into anything, and I have purple streaks on my abdomen and thighs.
+7.  
+Doctor: How wide are these streaks?  
+Patient: They’re around 2 centimeters wide.
+8.  
+Doctor: Are you experiencing any other symptoms, like changes in your menstrual cycle?  
+Patient: My periods have been irregular recently, which is unusual for me.
+9.  
+Doctor: Do you use any medications like steroids or anything that might affect your hormones?  
+Patient: No, I don’t take anything like that.
+10.  
+Doctor: Have you had any conditions in the past that required medication?  
+Patient: I was diagnosed with hypothyroidism four years ago, but I take levothyroxine every day for it.
+11.  
+Doctor: How much levothyroxine do you take daily?  
+Patient: I take 100 micrograms every morning.
+12.  
+Doctor: Has your thyroid condition been well-controlled?  
+Patient: Yes, my tests have been normal for quite some time now.
+13.  
+Doctor: Do you have any other medical conditions or symptoms you’ve noticed?  
+Patient: Not really, though I’ve also noticed some mild acne recently.
+14.  
+Doctor: Have you had any issues with high blood pressure?  
+Patient: I’m not sure, I haven’t been checking my blood pressure regularly.
+15.  
+Doctor: How about blood sugar or any signs of diabetes?  
+Patient: My doctor mentioned my blood sugar was a bit high during my last check-up, but I’m not on any medication for it.
+16.  
+Doctor: Have you felt more tired or fatigued recently?  
+Patient: Yes, I feel exhausted most of the time, and it’s hard to keep up with my usual activities.
+17.  
+Doctor: Have you noticed any changes in your mood or mental health?  
+Patient: I feel more irritable and down lately, but I think it’s because I’m so frustrated with these symptoms.
+18.  
+Doctor: I see that you mentioned bruising earlier. Are the bruises painful or do they happen spontaneously?  
+Patient: They don’t hurt, and they just seem to appear out of nowhere.
+19.  
+Doctor: How often are you getting these bruises?  
+Patient: I find new ones almost every week now.
+20.  
+Doctor: Have you had any major injuries or surgeries in the past?  
+Patient: No, I haven’t had any injuries or surgeries recently.
+21.  
+Doctor: Do you notice any hair growth in areas like your face or body that wasn’t there before?  
+Patient: No, I haven’t seen any unusual hair growth.
+22.  
+Doctor: Have you had any issues with your sleep or energy levels?  
+Patient: Yes, I find it hard to sleep well at night, and my energy is very low during the day.
+23.  
+Doctor: Do you have anyone in your family with similar symptoms or hormonal issues?  
+Patient: No, no one in my family has had anything like this.
+24.  
+Doctor: Do you remember when these symptoms first started?  
+Patient: It was about six months ago when I first started feeling weak and gaining weight.
+25.  
+Doctor: Have you ever experienced these symptoms before in your life?  
+Patient: No, this is the first time I’ve had anything like this.
+26.  
+Doctor: Have you had any recent infections or illnesses?  
+Patient: No, I’ve been pretty healthy until all of this started.
+27.  
+Doctor: Has your appetite changed at all during this time?  
+Patient: Not really, I eat about the same as before.
+28.  
+Doctor: Do you drink or smoke?  
+Patient: I don’t smoke, and I only drink alcohol occasionally.
+29.  
+Doctor: Have you traveled anywhere recently?  
+Patient: No, I haven’t been out of the country or traveled anywhere unusual.
+30.  
+Doctor: Have you noticed any swelling or changes in your ankles or legs?  
+Patient: No, nothing like that.
+31.  
+Doctor: When did you first notice your face becoming rounder?  
+Patient: It started a few months ago, and it’s gotten more noticeable since then.
+32.  
+Doctor: You mentioned purple streaks on your skin earlier. Are these painful or itchy?  
+Patient: No, they don’t hurt or itch, but they look strange and I’ve never had anything like them before.
+33.  
+Doctor: Have you had any headaches or issues with your vision?  
+Patient: I don’t get headaches often, and my vision seems fine.
+34.  
+Doctor: Is there anything else you want to mention about your symptoms?  
+Patient: No, I think I’ve shared everything that’s been bothering me.
+35.  
+Doctor: Based on what you’ve described, I’d like to run some tests to check your hormones and overall health. Does that sound okay to you?  
+Patient: Yes, that’s fine. I just want to figure out what’s going on.
+36.  
+Doctor: Good. We’ll start with some bloodwork and urine tests to check your cortisol and other hormone levels.  
+Patient: Cortisol? I don’t know much about that, but I’m okay with doing the tests.
+37.  
+Doctor: It’s a hormone that helps regulate many functions in your body, but too much of it can sometimes cause symptoms like yours.  
+Patient: Okay, that makes sense.
+38.  
+Doctor: We’ll also do a physical exam to look for things that could explain your symptoms.  
+Patient: Sure, whatever you think is necessary.
+39.  
+Doctor: During the exam, I noticed bruising, moon-shaped facial features, and the purple streaks you mentioned. These can sometimes point to a specific condition.  
+Patient: I hope the tests can give us some answers soon.
+40.  
+Doctor: Yes, and if needed, we might do imaging studies to take a closer look at your adrenal glands.  
+Patient: Adrenal glands? What are those?
+41.  
+Doctor: They’re small glands on top of your kidneys that produce many important hormones, including cortisol.  
+Patient: Oh, I didn’t know that. Please let me know what the tests show.
+42.  
+Doctor: Absolutely. Once we have the results, we’ll discuss them together.  
+Patient: Thank you. I really appreciate that.
+43.  
+Doctor: Your test results showed very high cortisol levels and a problem with how your body is regulating hormones.  
+Patient: So, does that mean something is wrong with my adrenal glands?
+44.  
+Doctor: Yes, your imaging showed a small lesion on your right adrenal gland, which is likely causing your symptoms.  
+Patient: Is it serious?
+45.  
+Doctor: It’s a condition called Cushing syndrome, and in your case, it’s caused by a benign growth on your adrenal gland.  
+Patient: What does that mean for me?
+46.  
+Doctor: It means your adrenal gland is producing too much cortisol. This is treatable, often with surgery to remove the gland.  
+Patient: Surgery? Is that the only option?
+47.  
+Doctor: For your condition, surgery is the best choice to remove the source of the excess cortisol.  
+Patient: I see. If it fixes the problem, I’m willing to do it.
+48.  
+Doctor: After surgery, your symptoms should gradually improve. We’ll also support you with medication as your body adjusts.  
+Patient: I’m nervous, but I’m glad we have a plan.
+49.  
+Doctor: That’s completely understandable. We’ll guide you through each step and make sure you’re comfortable.  
+Patient: Thank you for explaining everything.
+50.  
+Doctor: You’re welcome. We’ll schedule the surgery soon and start working toward getting you healthier.  
+Patient: Thank you so much, doctor. I feel relieved to know what’s been causing all of this.  "

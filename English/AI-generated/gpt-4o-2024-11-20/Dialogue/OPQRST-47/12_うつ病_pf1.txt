@@ -1,0 +1,50 @@
+"1. Physician: What brings you in today?  
+2. Patient: I’ve been feeling very unmotivated to work and I can’t seem to sleep properly for about three months now.  
+3. Physician: I see. Did anything specific happen around the time these symptoms started?  
+4. Patient: Not really, but they started shortly after I finished university and began my new job.  
+5. Physician: Can you tell me more about how you’re feeling lately?  
+6. Patient: I feel tired all the time, like I have no energy. I’ve lost interest in things I used to enjoy, like playing soccer and going out with friends.  
+7. Physician: That sounds tough. Has this been affecting your ability to concentrate or focus?  
+8. Patient: Yes, a lot. At work, I just sit and stare at my computer. It’s hard to get anything done.  
+9. Physician: Have you noticed any changes in your appetite or weight?  
+10. Patient: Not really. Sometimes I eat less because I don’t feel hungry, but nothing major.  
+11. Physician: I understand. How’s your mood overall? Do you feel sad or down often?  
+12. Patient: Every day. I feel hopeless most of the time.  
+13. Physician: I’m sorry to hear that. Have you had any thoughts of hurting yourself or ending your life?  
+14. Patient: Sometimes I think about it, but I don’t think I’d ever do it.  
+15. Physician: Thank you for sharing that. It’s important to talk about these feelings. Have you noticed anything unusual about your sleeping pattern?  
+16. Patient: I lie awake for hours most nights. I just can’t fall asleep, and even when I do, I wake up feeling exhausted.  
+17. Physician: That must be exhausting. Do you feel anxious or worried often?  
+18. Patient: A little. Mostly it’s stress from my job. I feel like I’m under constant pressure to do better.  
+19. Physician: I see. Do you ever use alcohol, drugs, or caffeine to help manage your stress or sleep?  
+20. Patient: No, I stay away from all of that.  
+21. Physician: That’s good to hear. What about your family? Is there any history of mental health issues or conditions like depression or anxiety?  
+22. Patient: Not that I know of.  
+23. Physician: Have you ever experienced similar feelings or received treatment for mental health concerns in the past?  
+24. Patient: No, this is the first time I’ve felt this way.  
+25. Physician: Have you noticed any physical symptoms, like headaches, body pain, or any other discomfort?  
+26. Patient: Not really, just the constant fatigue.  
+27. Physician: Understood. Do you enjoy your job? Or do you feel it’s contributing a lot to how you’re feeling?  
+28. Patient: I’m grateful for the job, but it feels overwhelming. I don’t think I’m doing well enough.  
+29. Physician: That sounds like a lot to manage. Are you able to talk with friends or family about how you’re feeling?  
+30. Patient: I haven’t told many people. I don’t want to bother them with my problems.  
+31. Physician: I appreciate you opening up here. Do you notice a particular time of day when your mood feels worse?  
+32. Patient: It’s usually the worst in the mornings.  
+33. Physician: How’s your energy during the day? Does it get better as the day goes on?  
+34. Patient: Not really, I feel drained all the time.  
+35. Physician: Are there any activities or hobbies you’ve tried to pick up lately to distract yourself?  
+36. Patient: I’ve tried, but I can’t find the motivation to do anything.  
+37. Physician: Understandable. Besides work stress, are there other sources of stress in your life right now?  
+38. Patient: No, work is the main thing.  
+39. Physician: Are you currently in a relationship or have social support from anyone in particular?  
+40. Patient: No, I’m single. I have friends, but I’ve been avoiding them.  
+41. Physician: Do you live alone?  
+42. Patient: No, I live with my parents, but we don’t talk much about personal things.  
+43. Physician: Has anyone around you mentioned any changes they’ve noticed in your behavior or mood?  
+44. Patient: My mom said I seem more distant and quiet lately.  
+45. Physician: Thanks for letting me know. Do you find yourself thinking negatively about yourself often?  
+46. Patient: All the time. I feel like I’m not good enough for this job or anything else.  
+47. Physician: Thank you for being so honest. I’ll be conducting some routine tests and asking you to complete a questionnaire to better understand your situation.  
+48. Patient: Okay, I can do that.  
+49. Physician: Based on your symptoms and our evaluation, it seems like you may be experiencing major depressive disorder.  
+50. Patient: Okay… so what happens now? How do I get better?  "

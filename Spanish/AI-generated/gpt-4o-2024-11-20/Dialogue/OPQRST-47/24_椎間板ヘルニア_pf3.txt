@@ -1,0 +1,51 @@
+"1. Médico: Buenas tardes, ¿en qué puedo ayudarte hoy?  
+2. Paciente: Hola, doctor. Tengo un dolor muy fuerte en la parte baja de la espalda que se corre hacia mi pierna derecha.  
+3. Médico: ¿Cuándo notaste que comenzó este dolor?  
+4. Paciente: Hace dos semanas, justo después de levantar una caja muy pesada en mi trabajo.  
+5. Médico: ¿El dolor comenzó de manera repentina o fue aumentando poco a poco?  
+6. Paciente: Fue de repente, como un calambre muy fuerte.  
+7. Médico: Además del dolor, ¿has sentido hormigueo o debilidad en la pierna?  
+8. Paciente: Sí, siento como si mi pierna derecha estuviera más débil y a veces siento hormigueo, sobre todo en el pie.  
+9. Médico: ¿Te duele más al hacer ciertos movimientos o posiciones, como sentarte o agacharte?  
+10. Paciente: Sí, cuando intento doblarme hacia adelante duele más.  
+11. Médico: ¿Has tenido fiebre, perdido peso sin razón o algún golpe reciente?  
+12. Paciente: No, nada de eso. Solo este dolor.  
+13. Médico: ¿Sueles tener dolor en la espalda baja con frecuencia?  
+14. Paciente: Sí, he tenido dolores de espalda en el pasado, pero nunca de esta intensidad ni que se moviera a la pierna.  
+15. Médico: ¿Este dolor afecta tu sueño o tus actividades diarias?  
+16. Paciente: Sí, me cuesta mucho moverme y no puedo dormir bien del dolor.  
+17. Médico: ¿Tienes algún problema para controlar los esfínteres, como orinar o defecar?  
+18. Paciente: No, eso lo hago normal.  
+19. Médico: Entiendo. ¿Estás tomando algún medicamento para el dolor?  
+20. Paciente: Solo paracetamol, pero no me ayuda mucho.  
+21. Médico: Durante estos días, ¿has intentado reposo o alguna actividad que alivie el dolor?  
+22. Paciente: Reposo, pero al estar acostada mucho rato también me incomoda.  
+23. Médico: ¿Puedes señalar exactamente dónde sientes el dolor en la pierna?  
+24. Paciente: Empieza en la nalga derecha y baja por la parte de atrás de la pierna hasta el pie.  
+25. Médico: ¿Notas alguna diferencia en la fuerza de tu pierna derecha comparada con la izquierda?  
+26. Paciente: Sí, siento mi pierna derecha más débil, sobre todo al caminar.  
+27. Médico: ¿El dolor es constante o aparece en momentos específicos?  
+28. Paciente: Casi siempre está ahí, pero empeora cuando estoy de pie o me muevo.  
+29. Médico: Cuando levantas la pierna derecha mientras estás acostada, ¿empeora el dolor?  
+30. Paciente: Sí, no puedo levantarla mucho porque duele más.  
+31. Médico: ¿El dolor cambia de intensidad si te inclinas hacia un lado o hacia el otro?  
+32. Paciente: Sí, si inclino el peso hacia el lado izquierdo mejora un poco.  
+33. Médico: ¿Qué trabajo haces?  
+34. Paciente: Trabajo en una tienda, así que tengo que cargar cajas seguido.  
+35. Médico: ¿Cómo te sientes emocionalmente con este dolor?  
+36. Paciente: Estoy muy frustrada, no puedo trabajar ni disfrutar estar con mi familia.  
+37. Médico: Veo que esto afecta mucho tu vida diaria. ¿Tu familia te está ayudando con tus actividades?  
+38. Paciente: Sí, mi esposo ha estado ayudándome con las tareas de la casa y el cuidado de los niños.  
+39. Médico: ¿Has tenido este tipo de dolor irradiado en la pierna antes?  
+40. Paciente: No, siempre había sido solo la espalda baja.  
+41. Médico: Según lo que me describes, parece que podría haber afectación en un nervio lumbar. Quiero examinar tu espalda y piernas. ¿Te parece?  
+42. Paciente: Claro, doctor.  
+43. Médico: Observé que tienes menos fuerza en algunos músculos de la pierna derecha y sensibilidad disminuida en un área específica. Además, ciertos movimientos empeoran tus síntomas.  
+44. Paciente: Eso explica por qué siento la pierna rara y débil.  
+45. Médico: Vamos a pedir una resonancia magnética para confirmar lo que sospechamos. Esto nos dará más claridad sobre lo que está pasando.  
+46. Paciente: Muy bien, doctor. ¿Cree que es algo grave?  
+47. Médico: Por lo que veo hasta ahora, no parece ser algo grave, pero sí algo que requiere atención.  
+48. Paciente: Gracias, tenía mucho miedo porque nunca me había pasado algo así.  
+49. Médico: Entiendo tu preocupación. Según los síntomas y los hallazgos del examen, podría tratarse de una hernia discal.  
+50. Paciente: ¿Eso tiene solución?  
+51. Médico: Sí, el manejo inicial es normalmente conservador, con medicamentos y fisioterapia. La resonancia nos confirmará el diagnóstico y podremos decidir los próximos pasos."

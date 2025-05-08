@@ -1,0 +1,51 @@
+"1. 医師：Hello, I’m Dr. Smith. What brings you in today?  
+2. 患者：Hi, Doctor. I’ve been having worsening back pain that spreads to my legs. It’s been going on for about six months.  
+3. 医師：I see. Could you describe the pain? Is it sharp, dull, or something else?  
+4. 患者：It’s mostly dull, but sometimes it gets sharp. It gets worse when I stand or walk for a long time.  
+5. 医師：Does anything help relieve the pain?  
+6. 患者：Sitting down or leaning forward helps.  
+7. 医師：Do you feel this pain more in one leg or both?  
+8. 患者：It affects both legs about the same.  
+9. 医師：Are there any other symptoms, like numbness or weakness?  
+10. 患者：Yes, my legs feel numb sometimes, and they also feel weak when I walk too far.  
+11. 医師：How far can you walk before the pain and numbness start?  
+12. 患者：Not very far—maybe about 100 meters. After that, I have to stop.  
+13. 医師：I understand. Have these symptoms limited your daily activities?  
+14. 患者：Yes, it’s been harder to do simple things. Even grocery shopping is difficult.  
+15. 医師：Have you noticed any bowel or bladder problems?  
+16. 患者：No, nothing like that.  
+17. 医師：Have you experienced any fever, weight loss, or night sweats?  
+18. 患者：No, I haven’t.  
+19. 医師：Do you have any history of back problems?  
+20. 患者：Yes, 15 years ago, I was told I had a herniated disc.  
+21. 医師：How was that managed back then?  
+22. 患者：I did physical therapy, and it got better over time.  
+23. 医師：Any injuries or accidents recently?  
+24. 患者：No, nothing like that.  
+25. 医師：Do you take any medications for your symptoms now?  
+26. 患者：Just over-the-counter painkillers like ibuprofen sometimes.  
+27. 医師：Have you noticed any changes in the way your legs look, like swelling or muscle loss?  
+28. 患者：No, they look the same to me.  
+29. 医師：When you feel the numbness, where exactly do you notice it?  
+30. 患者：Mostly on the sides of my lower legs and feet.  
+31. 医師：Does the numbness or weakness affect your balance?  
+32. 患者：A little bit, yes. I sometimes feel unsteady.  
+33. 医師：Do you find climbing stairs or standing up difficult?  
+34. 患者：Yes, my legs feel weak when I climb stairs.  
+35. 医師：You mentioned the pain worsens with standing. Does it also worsen when bending backward?  
+36. 患者：Yes, it does.  
+37. 医師：I’d like to understand more about your daily activities. What’s your routine like?  
+38. 患者：I used to take walks and stay pretty active, but now I avoid walking because of the pain.  
+39. 医師：Do you feel this has affected your mood or sleep?  
+40. 患者：Yes, it’s frustrating, and I don’t sleep as well because I wake up from the discomfort.  
+41. 医師：You mentioned the pain improves when leaning forward. Is this consistent?  
+42. 患者：Yes, leaning forward or sitting down always makes it better.  
+43. 医師：Do you have any family history of back problems?  
+44. 患者：Not that I know of.  
+45. 医師：Do you have any conditions like diabetes or other chronic illnesses?  
+46. 患者：No, I don’t.  
+47. 医師：Alright, based on what you’ve told me and my examination findings, you might have lumbar spinal stenosis, particularly at the L4-L5 level.  
+48. 患者：What exactly is lumbar spinal stenosis?  
+49. 医師：It’s a narrowing of the spinal canal that can compress the nerves in your lower back, causing the symptoms you’ve described.  
+50. 患者：I see. What can be done about it?  
+"

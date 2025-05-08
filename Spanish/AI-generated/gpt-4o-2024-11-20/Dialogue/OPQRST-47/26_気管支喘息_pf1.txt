@@ -1,0 +1,50 @@
+"1. Médico: Hola, buenas tardes. ¿Cómo te llamas y cuántos años tienes?  
+2. Paciente: Hola, me llamo María, tengo 10 años.  
+3. Médico: Muy bien, María. ¿Qué te trae por aquí?  
+4. Paciente: Llevo como tres días que me cuesta mucho respirar a ratos, sobre todo por la noche.  
+5. Médico: Entiendo. ¿También has tenido tos?  
+6. Paciente: Sí, tos seca que no se quita, y me duele el pecho como si estuviera apretado.  
+7. Médico: ¿Notas que todo esto empeora en algún momento del día?  
+8. Paciente: Sí, más al meterme a la cama y cuando me levanto temprano.  
+9. Médico: ¿Y al hacer ejercicio?  
+10. Paciente: Subir las escaleras me cansa mucho, me quedo sin aire rápido.  
+11. Médico: ¿Has tenido fiebre o te has sentido como con gripe?  
+12. Paciente: No, nada de eso.  
+13. Médico: ¿Alguna pérdida de peso o cansancio extremo?  
+14. Paciente: No, me siento cansada, pero creo que es por no poder dormir bien.  
+15. Médico: ¿Tienes alguna alergia o enfermedad que te hayan diagnosticado antes?  
+16. Paciente: Sí, me dijeron que tenía alergia en la nariz cuando era más pequeña.  
+17. Médico: ¿Tomas algún medicamento ahora para esa alergia?  
+18. Paciente: No, hace años que no tomo nada.  
+19. Médico: ¿Qué tal está tu familia? ¿Alguien más tiene algo como lo que tú describes?  
+20. Paciente: No, creo que no.  
+21. Médico: Quiero preguntarte, ¿vives con alguna mascota?  
+22. Paciente: Sí, tenemos un perro en casa.  
+23. Médico: ¿Recuerdas si esto comenzó después de estar más tiempo cerca del perro o de algo similar?  
+24. Paciente: No estoy segura, pero siempre duerme en mi cuarto.  
+25. Médico: ¿Notas que esto suele pasar en alguna época del año más que en otras?  
+26. Paciente: Sí, cuando las flores comienzan a salir, siempre tengo más mocos.  
+27. Médico: ¿Te sientes tranquila con lo que te pasa o tienes miedo?  
+28. Paciente: A veces me asusta cuando no puedo respirar bien.  
+29. Médico: No te preocupes, María, vamos a intentar resolver esto juntos. Te voy a explorar ahora, ¿está bien?  
+30. Paciente: Está bien, doctor.  
+31. Médico: Durante la revisión noté que estás respirando un poco rápido. ¿Te cansas al hablar mucho?  
+32. Paciente: Sí, a veces siento que me falta aire.  
+33. Médico: Escuché algunos ruidos en tus pulmones, se llaman sibilancias. ¿Has tenido esto antes?  
+34. Paciente: No me acuerdo, creo que no.  
+35. Médico: Vamos a hacerte una prueba para evaluar cómo están funcionando tus pulmones, ¿de acuerdo?  
+36. Paciente: De acuerdo.  
+37. Médico: Según la prueba que hicimos, tus pulmones tienen un poco de dificultad para sacar el aire. Esto puede deberse a una inflamación en las vías respiratorias.  
+38. Paciente: ¿Eso es malo?  
+39. Médico: No te preocupes, es algo que podemos tratar. Voy a darte una medicina para ayudarte a respirar mejor.  
+40. Paciente: Vale, gracias.  
+41. Médico: María, después de usar este inhalador hubiera mejorado tu respiración. ¿Te sientes más aliviada ahora?  
+42. Paciente: Sí, siento que puedo respirar mejor.  
+43. Médico: Esto confirma que tienes algo llamado asma, probablemente relacionado con tus alergias.  
+44. Paciente: ¿Es grave?  
+45. Médico: No es grave si tomas tus medicinas y sigues algunas recomendaciones.  
+46. Paciente: ¿Qué tengo que hacer?  
+47. Médico: Te voy a dar un inhalador con medicina para usar todos los días y otro para cuando tengas dificultad para respirar.  
+48. Paciente: ¿Eso me va a curar?  
+49. Médico: El asma no se cura, pero con estas medicinas podemos controlar los síntomas para que vivas como siempre.  
+50. Paciente: Está bien, haré todo lo que me diga, doctor.  "

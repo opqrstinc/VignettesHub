@@ -1,0 +1,50 @@
+"1. Doctor: What brings you in today?  
+2. Patient: I have a really bad headache on one side of my head, on the right side, and it feels like it's throbbing.  
+3. Doctor: When did the headache start?  
+4. Patient: It began about 12 hours ago.  
+5. Doctor: Did it come on suddenly or gradually?  
+6. Patient: It started suddenly and got worse over time.  
+7. Doctor: How intense is the pain on a scale of 1 to 10?  
+8. Patient: It’s about an 8 out of 10—it’s pretty bad.  
+9. Doctor: Have you had headaches like this before?  
+10. Patient: Yes, I usually get them once or twice a month for the past few years.  
+11. Doctor: Do these headaches feel the same as this one?  
+12. Patient: Yes, it’s the same throbbing pain.  
+13. Doctor: Do you ever notice anything before the headache starts?  
+14. Patient: Sometimes I see flashing lights or weird patterns in my vision.  
+15. Doctor: Do you know what tends to bring on these headaches?  
+16. Patient: Stress, lack of sleep, and sometimes certain foods like chocolate or red wine.  
+17. Doctor: Were you under stress or exposed to these triggers before this episode?  
+18. Patient: Yes, I had a very stressful day yesterday.  
+19. Doctor: Do you have nausea or vomiting with the headache?  
+20. Patient: I feel nauseous, but I haven’t thrown up.  
+21. Doctor: What about sensitivity to light or sound?  
+22. Patient: Light really bothers me right now.  
+23. Doctor: Do you have any neck stiffness or fever?  
+24. Patient: No, none of that.  
+25. Doctor: Any weakness or numbness anywhere in your body?  
+26. Patient: No, I haven’t noticed anything like that.  
+27. Doctor: Do you take any medication or use anything to relieve these headaches?  
+28. Patient: Sometimes over-the-counter pain meds, but they don’t help much.  
+29. Doctor: How long do these headaches usually last when you get them?  
+30. Patient: Usually a few hours to a day, depending on how severe they are.  
+31. Doctor: Has your headache ever woken you up at night or gotten worse when you lie down?  
+32. Patient: No, it doesn’t usually wake me up.  
+33. Doctor: Do you have any other medical conditions or are you on any medications?  
+34. Patient: No, I’m generally healthy, and I’m not taking anything regularly.  
+35. Doctor: Do migraines run in your family?  
+36. Patient: Yes, my mom gets them too.  
+37. Doctor: What’s the impact of these headaches on your daily life?  
+38. Patient: When they’re this bad, I can’t focus on work and need to lie down in a dark room.  
+39. Doctor: Did anything specific help with relief this time?  
+40. Patient: No, nothing has worked so far.  
+41. Doctor: Have you had any recent head injuries or changes in your vision, aside from the scotomas?  
+42. Patient: No injuries, and no vision change other than the flashing lights.  
+43. Doctor: What about other symptoms like dizziness or fainting?  
+44. Patient: No, just the headache and nausea.  
+45. Doctor: Has this headache been different from your usual migraines in any way?  
+46. Patient: Not really—it feels just like the ones I’ve had before.  
+47. Doctor: Have headaches ever lasted longer than a day for you?  
+48. Patient: Rarely, but when they do it’s not very common.  
+49. Doctor: Based on what you’ve told me, this headache sounds consistent with a migraine.  
+50. Patient: Oh, I was wondering if that could be it. What should I do to feel better?"

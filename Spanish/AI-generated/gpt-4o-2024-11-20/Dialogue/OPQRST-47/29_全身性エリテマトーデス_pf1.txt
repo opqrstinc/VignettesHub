@@ -1,0 +1,50 @@
+"1. Médico: ¿Qué te trae por aquí hoy?  
+2. Paciente: He notado un enrojecimiento en las mejillas que aparece más cuando estoy al sol y no desaparece.  
+3. Médico: ¿Desde hace cuánto tienes este enrojecimiento?  
+4. Paciente: Aproximadamente dos meses, y creo que ha empeorado.  
+5. Médico: ¿Está acompañado de descamación o comezón?  
+6. Paciente: No, no hay descamación ni me pica.  
+7. Médico: ¿Has notado algo más en tu piel o en otras partes del cuerpo?  
+8. Paciente: No, solo el enrojecimiento en las mejillas.  
+9. Médico: Además del enrojecimiento, ¿hay otros síntomas que te preocupen?  
+10. Paciente: Sí, he tenido dolor en las muñecas y las rodillas.  
+11. Médico: ¿Cómo describirías ese dolor?  
+12. Paciente: Es un dolor constante en ambas muñecas y rodillas, y me siento rígida en las mañanas.  
+13. Médico: ¿Cuánto tiempo dura esa rigidez matutina?  
+14. Paciente: Como una hora o más.  
+15. Médico: ¿Has tenido fiebre u otros malestares generales?  
+16. Paciente: A veces siento un poco de fiebre, pero no muy alta. También me siento cansada todo el tiempo.  
+17. Médico: ¿La fatiga afecta tus actividades diarias?  
+18. Paciente: Sí, me cuesta mucho hacer mis tareas diarias, incluso cosas simples.  
+19. Médico: ¿Tienes historial familiar de enfermedades autoinmunes o alergias?  
+20. Paciente: No, nadie en mi familia tiene enfermedades similares.  
+21. Médico: ¿Has tenido pérdida de cabello recientemente?  
+22. Paciente: No, mi cabello parece estar normal.  
+23. Médico: ¿Alguna vez has notado llagas en la boca o en otras áreas?  
+24. Paciente: No, no he tenido llagas.  
+25. Médico: ¿Tus ciclos menstruales han sido normales?  
+26. Paciente: Sí, no he notado ningún cambio.  
+27. Médico: ¿Tienes alguna condición médica previa o tomas algún medicamento?  
+28. Paciente: No, siempre he estado bastante saludable y no tomo medicamentos regularmente.  
+29. Médico: ¿Has tenido infecciones respiratorias o síntomas de gripa recientemente?  
+30. Paciente: No, no he tenido nada fuera de lo común.  
+31. Médico: ¿Trabajas o pasas mucho tiempo bajo el sol?  
+32. Paciente: Trabajo en una oficina, pero intento salir al aire libre los fines de semana, y ahí es cuando noto que el enrojecimiento empeora.  
+33. Médico: ¿Utilizas protector solar o ropa para protegerte del sol?  
+34. Paciente: No siempre, especialmente porque no creí que fuera tan importante en estos meses.  
+35. Médico: ¿Tus dolores articulares han limitado tus movimientos de alguna manera?  
+36. Paciente: Sí, a veces me cuesta abrir cosas o levantar objetos.  
+37. Médico: ¿Has notado hinchazón en tus articulaciones?  
+38. Paciente: Un poco en las muñecas y rodillas, pero no demasiado.  
+39. Médico: ¿Cómo ha sido tu alimentación y tu peso últimamente?  
+40. Paciente: Mi alimentación no ha cambiado mucho, y creo que mi peso se ha mantenido igual.  
+41. Médico: ¿Alguna vez has notado un cambio en la cantidad de orina o su color?  
+42. Paciente: Creo que no, todo parece normal.  
+43. Médico: Me gustaría realizar un examen físico. ¿Puedo observar el enrojecimiento en tus mejillas?  
+44. Paciente: Claro, adelante.  
+45. Médico: Veo un enrojecimiento en forma de alas de mariposa en tu cara. ¿Te duele o te molesta?  
+46. Paciente: No, no duele, pero es notable y me incomoda estéticamente.  
+47. Médico: En la exploración noto un poco de inflamación en tus muñecas y rodillas. ¿Sientes dolor al tocarlas?  
+48. Paciente: Un poco, pero lo soporto.  
+49. Médico: Vamos a solicitar unos análisis de sangre y orina para ver más detalles sobre tus síntomas.  
+50. Paciente: Está bien, haré lo que sea necesario."

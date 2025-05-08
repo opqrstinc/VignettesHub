@@ -1,0 +1,51 @@
+"1. Médico: Hola, buenas tardes. ¿Qué la trae hoy a consulta?  
+2. Paciente: Hola, doctor. He estado teniendo dolores de cabeza muy intensos casi todas las noches.  
+3. Médico: Entiendo. ¿Podría describirme cómo es ese dolor?  
+4. Paciente: Es un dolor muy fuerte, como si me estuvieran perforando en un lado de la cabeza, siempre en el lado izquierdo y alrededor del ojo.  
+5. Médico: ¿Desde cuándo comenzaron estos dolores?  
+6. Paciente: Hace como un mes, aproximadamente, y han seguido ocurriendo casi todos los días.  
+7. Médico: ¿Cuánto tiempo dura cada episodio?  
+8. Paciente: Aproximadamente entre 45 minutos y dos horas.  
+9. Médico: ¿Estos dolores aparecen en un momento específico del día?  
+10. Paciente: Sí, generalmente en la noche. Es difícil dormir cuando suceden.  
+11. Médico: Durante estos episodios, ¿ha notado otros síntomas, como náuseas o vómitos?  
+12. Paciente: No, náuseas ni vómitos no.  
+13. Médico: ¿Qué hay de sensibilidad a la luz o al ruido?  
+14. Paciente: No, no me molestan la luz ni el ruido.  
+15. Médico: ¿Ha notado que su nariz se congestiona o le gotea?  
+16. Paciente: Sí, mi nariz se congestiona y a veces noto que sale algo de líquido.  
+17. Médico: ¿Tiene enrojecimiento o lagrimeo en el ojo afectado?  
+18. Paciente: Sí, mi ojo se pone rojo y también lagrimea mucho.  
+19. Médico: ¿Y ha sentido hinchazón en esa zona, alrededor del ojo?  
+20. Paciente: Sí, un poco de hinchazón también, pero desaparece después del dolor.  
+21. Médico: Durante los episodios, ¿siente alguna inquietud o necesidad de moverse?  
+22. Paciente: Sí, me pongo muy inquieta y no puedo quedarme quieta, camino de un lado a otro.  
+23. Médico: ¿Estos episodios comenzaron de forma brusca o fue algo progresivo?  
+24. Paciente: Fue algo brusco, de un momento a otro comenzaron las molestias.  
+25. Médico: ¿Tiene antecedentes familiares de migrañas u otros problemas neurológicos?  
+26. Paciente: No, nadie en mi familia ha tenido migrañas ni problemas parecidos.  
+27. Médico: ¿Ha tenido este tipo de dolores en algún otro momento de su vida?  
+28. Paciente: No, es la primera vez que me pasa algo así.  
+29. Médico: Además del dolor y los síntomas asociados, ¿ha notado algo más fuera de lo común en este último mes?  
+30. Paciente: No, creo que no, aparte de los dolores y los síntomas que le mencioné.  
+31. Médico: ¿Ha probado algo para aliviar el dolor?  
+32. Paciente: Sí, he intentado con analgésicos comunes, pero no funcionan.  
+33. Médico: Entendido. ¿El dolor empeora con algún movimiento o actividad física?  
+34. Paciente: No, parece que no tiene relación con eso.  
+35. Médico: ¿Actualmente está tomando algún medicamento?  
+36. Paciente: No, no estoy tomando nada aparte de los analgésicos que intenté sin éxito.  
+37. Médico: ¿Algún problema de salud previo o cirugías recientes?  
+38. Paciente: No, estoy saludable en general. Nunca he tenido nada grave.  
+39. Médico: ¿Qué me dice de su alimentación, sueño y niveles de estrés en este último mes?  
+40. Paciente: Bueno, el sueño está muy interrumpido por los dolores. En cuanto al estrés, no tengo más del habitual del trabajo.  
+41. Médico: Entiendo. ¿Realiza alguna actividad fuera del trabajo que pueda ser exigente físicamente?  
+42. Paciente: No, mi rutina en general es tranquila, solo trabajo y paso tiempo en casa.  
+43. Médico: ¿Ha experimentado fiebre, pérdida de peso o debilidad últimamente?  
+44. Paciente: No, esas cosas no.  
+45. Médico: Muy bien. Con los síntomas que describe, me gustaría realizar un examen clínico detallado y solicitar algunas pruebas para descartar otras causas posibles.  
+46. Paciente: Claro, doctor, lo que sea necesario.  
+47. Médico: Según lo que me cuenta y los hallazgos iniciales, parece que sus síntomas podrían estar relacionados con un tipo específico de dolor de cabeza denominado ""cefalea en racimos"".  
+48. Paciente: ¿Cefalea en racimos? Nunca había escuchado de eso.  
+49. Médico: Es un tipo de dolor de cabeza severo y recurrente que tiene las características que usted menciona, como el dolor unilateral, los síntomas en el ojo y la nariz, y la inquietud.  
+50. Paciente: Ah, entiendo. ¿Hay algún tratamiento para esto?  
+"

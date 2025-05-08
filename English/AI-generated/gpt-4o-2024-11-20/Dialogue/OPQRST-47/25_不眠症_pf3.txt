@@ -1,0 +1,53 @@
+"1. Physician: What brings you in today?  
+2. Patient: I've been having a really hard time sleeping for the past few months.  
+3. Physician: Can you describe what’s been happening with your sleep?  
+4. Patient: It’s hard to fall asleep. I just lie in bed for over an hour most nights, and even when I do fall asleep, I wake up several times.  
+5. Physician: How long has this been going on?  
+6. Patient: About three months now, and it seems to be getting worse.  
+7. Physician: When you wake up at night, do you find it difficult to fall back asleep?  
+8. Patient: Yes, I’m wide awake and can’t seem to relax enough to go back to sleep.  
+9. Physician: How do you feel in the morning after such nights?  
+10. Patient: I feel exhausted, like I didn’t sleep at all.  
+11. Physician: Have you noticed any changes in your mood because of this?  
+12. Patient: I’ve been feeling irritable and frustrated, but I wouldn't say I’m depressed.  
+13. Physician: Are you able to focus at work or during daily activities?  
+14. Patient: Not really. I’m struggling to concentrate, which is really affecting my work.  
+15. Physician: Do you still feel tired during the day, even if you think you’ve slept longer?  
+16. Patient: Yes, I feel this constant fatigue no matter how much I try to sleep.  
+17. Physician: How’s your appetite? Have you noticed any recent weight loss or gain?  
+18. Patient: My appetite hasn’t really changed, and my weight’s been steady.  
+19. Physician: Have you tried anything to help you sleep, like over-the-counter medications?  
+20. Patient: I tried some herbal teas and melatonin, but they didn’t really work.  
+21. Physician: Do you drink caffeine or use other stimulants, especially in the evenings?  
+22. Patient: I do drink coffee, but I usually stop by early afternoon.  
+23. Physician: Have you ever experienced these sleep problems before?  
+24. Patient: Not like this, no.  
+25. Physician: Do you have a history of any psychiatric conditions or treatments?  
+26. Patient: I was diagnosed with depression about five years ago.  
+27. Physician: Did you receive treatment for it?  
+28. Patient: Yes, I took sertraline for a couple of years, but I stopped it three years ago and haven’t needed it since.  
+29. Physician: Have you had any symptoms of depression recently, like low mood or loss of interest in things you enjoy?  
+30. Patient: No, nothing like that.  
+31. Physician: Have you ever had suicidal thoughts, even in the past?  
+32. Patient: No, never.  
+33. Physician: Do you consume alcohol or use any recreational drugs?  
+34. Patient: No, I don’t drink or use drugs.  
+35. Physician: Is there any history of sleep disorders in your family?  
+36. Patient: No, none that I know of.  
+37. Physician: Have you noticed any snoring or gasping for air during the night?  
+38. Patient: Not that I’m aware of.  
+39. Physician: Does your sleeping environment feel comfortable?  
+40. Patient: It’s fine—quiet, dark, and I keep the temperature pretty cool.  
+41. Physician: How about your bedtime routine? Is it consistent?  
+42. Patient: Not really. I sometimes stay up late scrolling on my phone or watching TV.  
+43. Physician: Do you ever feel restless or have an urge to move your legs while lying in bed?  
+44. Patient: No, I don’t have that.  
+45. Physician: Do you feel stressed about anything in particular lately?  
+46. Patient: Just this lack of sleep—it’s stressing me out.  
+47. Physician: Do you ever feel your mind racing at night when trying to sleep?  
+48. Patient: Yes, that’s part of the problem. I can’t stop thinking about everything.  
+49. Physician: Have you ever had a sleep study done, like a test to monitor your sleep patterns overnight?  
+50. Patient: No, I’ve never had anything like that.  
+51. Physician: Based on your symptoms and history, it seems you have a condition called primary insomnia. It’s affecting your ability to fall and stay asleep, leading to fatigue and difficulty concentrating.  
+52. Patient: Oh, is there something we can do to help with that?  
+53. Physician: Yes, we’ll use a combination of behavioral therapy and medication to improve your sleep. I’ll explain the plan in detail."

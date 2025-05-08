@@ -1,0 +1,50 @@
+"1. 医師: Hello, I understand you're here because you've experienced episodes of dizziness and fainting. Can you tell me more about what happens during these episodes?  
+2. 患者: Yes, it started about three months ago. I would feel lightheaded, dizzy, and sometimes nauseous, and then I would faint for a very brief moment.  
+3. 医師: How long do you stay unconscious during these episodes?  
+4. 患者: Less than a minute, I think. I wake up quickly and feel okay afterward.  
+5. 医師: Have you ever felt confused or disoriented after regaining consciousness?  
+6. 患者: No, not at all. I feel completely normal once I wake up.  
+7. 医師: That’s good to know. Are there any specific situations that seem to trigger these episodes?  
+8. 患者: Yes, they often happen when I’ve been standing for a long time or if I’m very stressed.  
+9. 医師: Have you noticed any changes in your ability to stand for extended periods?  
+10. 患者: Yes, I get dizzy much faster than before if I stand for too long.  
+11. 医師: Do you experience any other symptoms before losing consciousness, like sweating or palpitations?  
+12. 患者: Yes, I usually feel very sweaty, and my heart feels like it’s racing.  
+13. 医師: Do you experience chest pain or shortness of breath during or after these episodes?  
+14. 患者: No, I don’t have chest pain or trouble breathing at all.  
+15. 医師: And do you have any history of seizures or neurological conditions?  
+16. 患者: No, nothing like that.  
+17. 医師: Have you had any injuries as a result of these fainting episodes?  
+18. 患者: No, thankfully I haven’t hurt myself during any of these episodes.  
+19. 医師: That’s good. Are you taking any medications or supplements?  
+20. 患者: No, I’m not on any medications.  
+21. 医師: What about alcohol or recreational drugs? Have you been using those?  
+22. 患者: No, I don’t drink or use recreational drugs.  
+23. 医師: Is there any family history of heart disease, arrhythmias, or fainting episodes?  
+24. 患者: No, my family doesn’t have those issues as far as I know.  
+25. 医師: Do you feel stressed or anxious often in your daily life?  
+26. 患者: Occasionally, but nothing too extreme.  
+27. 医師: When the episodes happen, does your body feel stiff or do you shake involuntarily?  
+28. 患者: No, I don’t think so. I just faint without any jerking movements.  
+29. 医師: When the dizziness starts, do you notice if you’ve been drinking enough fluids or eating properly?  
+30. 患者: Now that you mention it, I think it might happen more often when I haven’t had much water.  
+31. 医師: That’s helpful to know. Have you tried anything that seems to prevent these episodes?  
+32. 患者: Not really. I just try to sit down quickly when I start feeling dizzy.  
+33. 医師: That’s a good reflex. Do you ever feel these symptoms while lying down or seated?  
+34. 患者: No, it always seems to start when I’m standing.  
+35. 医師: What about while exercising or doing physical activity?  
+36. 患者: No, I don’t notice it during exercise.  
+37. 医師: Have these episodes affected your daily activities or work?  
+38. 患者: A little, I’ve been avoiding long meetings or standing in lines for too long.  
+39. 医師: I understand. Does the dizziness worsen with emotional stress or fear?  
+40. 患者: Yes, it definitely feels worse when I’m under emotional pressure.  
+41. 医師: Have you ever noticed a change in your vision, like blurriness or blacking out?  
+42. 患者: Yes, everything becomes a little blurry before I faint.  
+43. 医師: During these episodes, have you ever noticed your hands or feet getting cold?  
+44. 患者: No, I haven’t noticed anything like that.  
+45. 医師: Do you ever feel particularly tired or weak after these episodes?  
+46. 患者: No, I recover almost immediately.  
+47. 医師: Do you recall experiencing something similar at all earlier in your life?  
+48. 患者: No, this is completely new for me.  
+49. 医師: After examining you and conducting some tests, including the tilt table test, I believe you’re experiencing neurocardiogenic syncope, also called vasovagal syncope.  
+50. 患者: What is that?"

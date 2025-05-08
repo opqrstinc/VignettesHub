@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, ¿qué lo trae hoy a consulta?  
+2. Paciente: Buenas tardes, doctor. Llevo ya algunos meses sintiéndome muy cansado, con debilidad en el cuerpo.  
+3. Médico: Entendido. ¿Puede describirme un poco más esa debilidad? ¿Es en todo el cuerpo o en alguna zona específica?  
+4. Paciente: Es general, pero parece peor en los brazos y las piernas. Las cosas simples, como subir escaleras o levantar algo, se han vuelto muy difíciles.  
+5. Médico: ¿Cuándo empezó a notar estos síntomas?  
+6. Paciente: Hace unos tres meses, al principio era solo un poco al final del día, pero ha empeorado.  
+7. Médico: ¿Ha sentido otros síntomas, como fiebre o pérdida de peso?  
+8. Paciente: No, no he tenido fiebre ni he bajado de peso.  
+9. Médico: ¿Tiene dificultad para respirar o siente que le falta el aire al hacer algún esfuerzo?  
+10. Paciente: Sí, noto que me cuesta más respirar cuando hago alguna actividad, como caminar rápido o subir escaleras.  
+11. Médico: ¿La debilidad muscular es igual durante el día o nota que empeora en algún momento?  
+12. Paciente: Empeora más hacia la tarde o la noche, especialmente si he hecho muchas cosas durante el día.  
+13. Médico: ¿Ha tenido problemas con los ojos, como visión doble o caída de los párpados?  
+14. Paciente: Sí, mis párpados caen, sobre todo el izquierdo, y me cuesta mantener los ojos abiertos al final del día.  
+15. Médico: ¿Y la visión doble? ¿Eso también ocurre?  
+16. Paciente: No, la visión doble no, solo que se me caen los párpados.  
+17. Médico: ¿Ha tenido dificultades para masticar o tragar alimentos?  
+18. Paciente: Sí, noto que al comer cosas como carne o pan, me siento más cansado y me cuesta masticar bien.  
+19. Médico: ¿Ha notado cambios en su forma de hablar, como dificultad para pronunciar palabras?  
+20. Paciente: Ahora que lo menciona, mi esposa dice que a veces mi voz suena rara, como si me costara hablar.  
+21. Médico: ¿Tiene antecedentes de alguna enfermedad o está en tratamiento con algún medicamento?  
+22. Paciente: Sí, tengo diabetes tipo 2 y tomo metformina dos veces al día.  
+23. Médico: ¿Ha habido algún cambio reciente en el control de su diabetes?  
+24. Paciente: No, mi azúcar está más o menos controlada como siempre.  
+25. Médico: ¿Hay alguien en su familia con problemas similares a los suyos o con enfermedades neurológicas?  
+26. Paciente: No, que yo sepa nadie en mi familia tiene algo así.  
+27. Médico: Antes de estos tres meses, ¿había tenido episodios similares de debilidad o fatiga?  
+28. Paciente: Nunca, esta es la primera vez que siento algo así.  
+29. Médico: ¿Algún problema reciente con infecciones o enfermedades graves?  
+30. Paciente: No, no he tenido ninguna enfermedad importante en este tiempo.  
+31. Médico: Voy a hacerle unas preguntas más específicas. ¿Ha tenido algún cambio en los reflejos, como debilidad en los movimientos involuntarios?  
+32. Paciente: No que yo me haya dado cuenta.  
+33. Médico: ¿Ha observado algún problema con su sensibilidad, como adormecimiento o sensación de hormigueo?  
+34. Paciente: No, no he notado nada de eso.  
+35. Médico: ¿Qué me puede decir de su energía en general? ¿Se siente completamente agotado o la debilidad solo ocurre al usar los músculos?  
+36. Paciente: Solo ocurre al usar los músculos, si estoy en reposo no me siento tan mal.  
+37. Médico: Su tono de voz al hablar parece un poco más suave. ¿Esto es algo que su familia también percibe?  
+38. Paciente: Sí, mi esposa lo ha notado, me dice que parece que hablo más bajo.  
+39. Médico: Muy bien, ¿ha tenido alguna dificultad para mantener una postura recta o para sostener la cabeza?  
+40. Paciente: Sí, a veces siento que mi cuello está débil y me cuesta mantener la cabeza erguida.  
+41. Médico: Perfecto. Ahora, durante la exploración noté que sus párpados tienen algo de caída. ¿Esto es algo constante o varía?  
+42. Paciente: Varía, en la mañana están mejor, pero hacia la tarde se caen más.  
+43. Médico: ¿Se siente particularmente peor después de repetir movimientos, como subir y bajar escaleras varias veces?  
+44. Paciente: Sí, cuanto más repito algo, más cansado me siento y me cuesta más seguir.  
+45. Médico: Muy bien. Según lo que me comenta, sospecho que puede ser una condición que afecta la conexión entre los nervios y los músculos.  
+46. Paciente: ¿Qué significa eso, doctor?  
+47. Médico: Puede tratarse de una enfermedad llamada miastenia gravis, que provoca debilidad muscular y otros síntomas como los suyos.  
+48. Paciente: ¿Es algo grave? ¿Tiene tratamiento?  
+49. Médico: Tiene tratamiento, y normalmente se puede controlar bien con medicamentos. Vamos a confirmar el diagnóstico con algunos estudios específicos.  
+50. Paciente: Muchas gracias, doctor. Espero que con el tratamiento pueda sentirme mejor.  "

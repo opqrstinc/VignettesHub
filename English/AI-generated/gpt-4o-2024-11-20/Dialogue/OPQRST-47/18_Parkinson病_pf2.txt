@@ -1,0 +1,50 @@
+"1. Doctor: Good morning. What brings you in today?  
+2. Patient: I've been having trouble moving my legs and my muscles feel very stiff.  
+3. Doctor: How long have you been experiencing these symptoms?  
+4. Patient: It's been going on for about two years now, but it has gradually gotten worse.  
+5. Doctor: Can you describe how it all started?  
+6. Patient: At first, I just noticed a little stiffness in my legs, especially after sitting for a while.  
+7. Doctor: Did the stiffness stay only in your legs, or did it spread?  
+8. Patient: It spread. Now my arms, neck, and even my upper body feel stiff.  
+9. Doctor: Are there specific times when you notice the stiffness more?  
+10. Patient: It's worse in the mornings or if I sit still for too long.  
+11. Doctor: Do you have trouble with any daily tasks?  
+12. Patient: Yes, walking and even getting dressed has become more difficult.  
+13. Doctor: Have you noticed any shaking or tremors?  
+14. Patient: Yes, I have a slight tremor in my right hand, especially when I’m resting.  
+15. Doctor: When did you first notice the tremor?  
+16. Patient: It started about a year ago, but it’s been getting worse.  
+17. Doctor: Does the tremor stop when you try to use your hand for something?  
+18. Patient: Yes, it goes away when I’m doing something with my hand.  
+19. Doctor: Have you had any issues with balance or walking?  
+20. Patient: Yes, I feel a bit unsteady sometimes, especially when I try to turn.  
+21. Doctor: Have you had any falls?  
+22. Patient: No, not yet, but I feel like I could if I’m not careful.  
+23. Doctor: Do you feel any weakness in your muscles?  
+24. Patient: No, my strength seems fine; it’s just the stiffness and slowness.  
+25. Doctor: Have you noticed any changes in your facial expressions or voice?  
+26. Patient: My family says my face looks blank sometimes, and I sound softer when I talk.  
+27. Doctor: Do you have any difficulty swallowing or chewing food?  
+28. Patient: Not really, but I do feel like I’m slower when eating.  
+29. Doctor: How is your mood? Have you been feeling sad or anxious?  
+30. Patient: I feel frustrated sometimes because everything takes so much effort now.  
+31. Doctor: Have you noticed any changes in your handwriting?  
+32. Patient: Yes, my writing has gotten smaller and harder to read.  
+33. Doctor: How about sleep? Any trouble there?  
+34. Patient: I sleep okay, but sometimes I feel stiff when I wake up.  
+35. Doctor: Any family history of conditions like this or neurological diseases?  
+36. Patient: No, none that I know of.  
+37. Doctor: Do you have any other medical conditions?  
+38. Patient: I have type 2 diabetes, but it’s under control with my medication.  
+39. Doctor: Are you taking any medications for your diabetes?  
+40. Patient: Yes, I take pills, but I don’t remember the names right now.  
+41. Doctor: Have you ever had a head injury or any neurological problems in the past?  
+42. Patient: No, nothing like that.  
+43. Doctor: Have you noticed any memory issues or confusion?  
+44. Patient: No, my memory seems fine.  
+45. Doctor: Have you experienced any unusual sensations, like numbness or tingling?  
+46. Patient: No, I haven’t had anything like that.  
+47. Doctor: I’d like to discuss some of your physical exam findings and test results. Does that sound good?  
+48. Patient: Yes, of course.  
+49. Doctor: Based on your symptoms, exam findings, and imaging, you likely have Parkinson's disease.  
+50. Patient: Parkinson’s disease? What does that mean for me?  "

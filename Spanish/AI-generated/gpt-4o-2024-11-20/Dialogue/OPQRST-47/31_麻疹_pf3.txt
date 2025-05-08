@@ -1,0 +1,50 @@
+"1. Médico: Hola, buenas tardes. ¿Cómo está la pequeña hoy?  
+2. Madre: Hola, buenas tardes, está algo irritable y sigue con fiebre, además de que no quiere comer mucho.  
+3. Médico: Entiendo. ¿Cuándo comenzaron estos síntomas?  
+4. Madre: Hace unos cuatro días empezó con fiebre muy alta, como de 39.5 °C, y también una tos seca.  
+5. Médico: ¿La fiebre ha sido continua o ha habido momentos en que disminuye?  
+6. Madre: Es continua, no baja mucho, incluso después de darle paracetamol.  
+7. Médico: ¿Notaron algo más, como malestar general o algo inusual en su comportamiento?  
+8. Madre: Sí, está muy irritable, como que todo la molesta. Además, los ojos le lloran mucho y parece tener molestia con la luz.  
+9. Médico: ¿Ha notado que sus ojos estén rojos o alguna secreción?  
+10. Madre: Sí, están muy rojos, pero no hay nada de pus o secreción.  
+11. Médico: Entendido. ¿Ha tenido otros signos como dolor de garganta, congestión nasal o manchas en la piel?  
+12. Madre: No había notado nada en la piel, pero sí ha estado tosiendo y cuando abre la boca para llorar, su garganta se ve algo roja.  
+13. Médico: ¿La tos es frecuente o más bien ocasional?  
+14. Madre: Es más ocasional, pero parece que le molesta mucho.  
+15. Médico: ¿Tiene antecedentes de alguna enfermedad o alergias importantes?  
+16. Madre: No, nunca ha tenido problemas de salud.  
+17. Médico: ¿Y sobre sus vacunas, está al día?  
+18. Madre: No, doctora. No ha recibido algunas vacunas como la del sarampión.  
+19. Médico: Entiendo. ¿Ha estado en contacto con alguien enfermo recientemente?  
+20. Madre: No que recuerde, pero estuvo en una pequeña reunión hace una semana.  
+21. Médico: ¿Cómo era el entorno, había muchos niños?  
+22. Madre: Sí, y algunos tenían gripe, pero no parecían muy graves.  
+23. Médico: Hace un momento mencionó que la fiebre empezó hace cuatro días. ¿Hoy apareció algún cambio en su piel?  
+24. Madre: Sí, hoy me di cuenta de unas manchas rojizas en su rostro y detrás de las orejas. Después, vi que se extendieron al cuerpo.  
+25. Médico: ¿Cómo describiría esas manchas, son planas, elevadas o con líquido?  
+26. Madre: Son como planas, pero algo rugosas al tacto.  
+27. Médico: Ya veo. ¿Ha notado alguna ganglia inflamada o algún otro hinchazón?  
+28. Madre: Sí, tiene como bolitas en el cuello, detrás, y se queja si las toco.  
+29. Médico: ¿Tiene hinchazón en otros lugares, como en los párpados?  
+30. Madre: Justo eso, también tiene un poco hinchados los párpados.  
+31. Médico: ¿Ha tenido dificultad para respirar o dolor en el pecho?  
+32. Madre: No, por suerte no ha tenido problemas para respirar.  
+33. Médico: ¿Y su apetito, qué nos puede contar sobre eso?  
+34. Madre: Muy poco, casi no quiere comer nada desde hace unos días.  
+35. Médico: ¿Qué tal su ingesta de líquidos, al menos está bebiendo suficiente agua?  
+36. Madre: Bebe, pero no parece ser lo suficiente.  
+37. Médico: ¿Ha tenido vómitos, diarrea o alguna otra molestia abdominal?  
+38. Madre: No, nada de eso.  
+39. Médico: Entendido. Vamos a revisarla para confirmar lo que nos está contando, en especial esas manchas que menciona.  
+40. Madre: Claro, adelante, gracias.  
+41. Médico: Definitivamente tiene signos claros en sus ojos y la garganta. Además, noto unas pequeñas manchas blancas en el interior de su boca.  
+42. Madre: ¿Qué significan esas manchas?  
+43. Médico: Es algo llamado manchas de Koplik. Son un signo característico de una infección viral que sospecho.  
+44. Madre: ¿Eso es grave?  
+45. Médico: Todavía tenemos que confirmar, pero por los otros signos y antecedentes, sospecho de sarampión.  
+46. Madre: ¿Sarampión? Pensé que casi ya no había.  
+47. Médico: Así es, pero puede ocurrir en personas no vacunadas o en ciertos brotes.  
+48. Madre: ¿Y cómo se confirma esto?  
+49. Médico: Realizaremos una prueba específica para detectar anticuerpos en la sangre y también un análisis del virus.  
+50. Madre: ¿Es peligroso?"

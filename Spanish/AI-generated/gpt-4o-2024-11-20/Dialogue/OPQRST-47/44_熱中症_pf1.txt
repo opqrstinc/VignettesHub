@@ -1,0 +1,50 @@
+"1. Médico: Hola, joven, ¿cómo te encuentras hoy?  
+2. Paciente: Me siento muy cansado y débil, pero estoy aquí para buscar ayuda.  
+3. Médico: Entendido. Cuéntame, ¿qué te trae hoy a la consulta?  
+4. Paciente: Ayer, después de hacer ejercicio al aire libre, me empecé a sentir muy mal. Tenía mucho calor, estaba sudando mucho y me mareé bastante.  
+5. Médico: ¿Qué tipo de ejercicio estabas haciendo y por cuánto tiempo?  
+6. Paciente: Estaba corriendo y haciendo ejercicios de fuerza bajo el sol, fueron como dos horas más o menos.  
+7. Médico: ¿Habías comido o bebido algo antes o durante el ejercicio?  
+8. Paciente: Comí algo ligero en la mañana, pero no bebí mucha agua durante el ejercicio.  
+9. Médico: ¿En qué momento comenzaron los síntomas?  
+10. Paciente: Como a la hora y media de estar haciendo ejercicio, empecé a sentirme mareado y muy cansado.  
+11. Médico: ¿Qué sensación tenías mientras sudabas? ¿El sudor era muy abundante?  
+12. Paciente: Sí, estaba empapado en sudor y no podía dejar de sudar, aunque ya no me sentía bien.  
+13. Médico: ¿Al terminar el ejercicio, qué hiciste? ¿Te sentaste, tomaste agua o descansaste?  
+14. Paciente: Descansé un poco a la sombra, pero no tomé mucha agua. Luego, cuando volví a casa, todo empeoró.  
+15. Médico: ¿Qué síntomas notaste cuando llegaste a casa?  
+16. Paciente: Me dolía mucho la cabeza, tenía náuseas y sentía que mi cuerpo estaba muy débil.  
+17. Médico: ¿Hubo algún otro síntoma físico como fiebre, desorientación o escalofríos?  
+18. Paciente: Mi mamá dijo que estaba un poco desorientado, y mi cuerpo estaba muy caliente.  
+19. Médico: ¿Te midieron la temperatura en algún momento?  
+20. Paciente: Sí, estaba a más de 40 grados, creo.
+21. Médico: ¿Alguien más te notó algo extraño o comentó sobre tu estado?  
+22. Paciente: Mi mamá dijo que me veía muy raro y me llevó al hospital.  
+23. Médico: Claro, ¿has tenido algo similar antes después de hacer ejercicio?  
+24. Paciente: No, nunca me había pasado algo así. Siempre hago ejercicio y me siento bien.  
+25. Médico: ¿Alguna condición médica previa como problemas del corazón, riñones o diabetes?  
+26. Paciente: No, siempre he estado sano.  
+27. Médico: ¿Tomaste algún medicamento, suplemento o algo fuera de lo común?  
+28. Paciente: No, nada. Solo mi comida normal.  
+29. Médico: Entiendo. ¿Durante el día de ejercicio, hacía mucho calor afuera?  
+30. Paciente: Sí, estaba terriblemente caliente, creo que fue uno de los días más calurosos del verano.  
+31. Médico: ¿Llegaste a notar si tu orina cambió de color o si tuviste menos ganas de orinar?  
+32. Paciente: No oriné mucho después del ejercicio, y cuando lo hice, estaba muy oscura.  
+33. Médico: Eso es importante. Ahora, ¿has intentado algo para aliviar los síntomas desde entonces?  
+34. Paciente: Hemos estado colocando paños fríos y tomando mucha agua.  
+35. Médico: Perfecto que intentaras enfriarte, pero algunas cosas pueden necesitar atención médica inmediata.  
+36. Médico: ¿Has tenido episodios de vómitos o problemas para respirar desde ayer?  
+37. Paciente: No he vomitado, pero me costaba respirar un poco al principio.  
+38. Médico: Bueno, ¿qué hay de tus músculos? ¿Dolor o algo inusual?  
+39. Paciente: Me siento muy débil en las piernas, como si no pudiera caminar bien.  
+40. Médico: Esa debilidad muscular puede ser parte del cuadro general.  
+41. Médico: Voy a revisarte los signos vitales. ¿Te sientes cómodo con que continúe?  
+42. Paciente: Sí, claro.  
+43. Médico: Vas bastante rápido de pulso, y tu piel aún está caliente. Esto confirma lo que me comentabas.  
+44. Paciente: Sí, siento que aún no estoy del todo bien.  
+45. Médico: También noto que estás un poco deshidratado. Vamos a reponer esos líquidos e investigar un poco más.  
+46. Médico: Mira, con base en lo que me has contado, parece que sufriste un golpe de calor.  
+47. Paciente: ¿Golpe de calor? ¿Eso es grave?  
+48. Médico: Puede serlo si no se trata rápidamente, pero has venido a tiempo. Necesitamos cuidar tu hidratación y enfriarte adecuadamente.  
+49. Paciente: ¿Entonces todo esto fue porque no bebí agua y hacía mucho calor?  
+50. Médico: Exactamente, el calor y la falta de líquidos llevaron a que tu cuerpo se sobrecalentara. Es importante que en el futuro tomes precauciones con el ejercicio en días calurosos.  "

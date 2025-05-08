@@ -1,0 +1,51 @@
+"1. Médico: Hola, buenos días. ¿Qué la trae por aquí hoy?  
+2. Paciente: Buenos días, doctora. He estado sintiendo palpitaciones rápidas e irregulares en el pecho, y también noto que mis manos tiemblan mucho desde hace unas tres semanas.  
+3. Médico: Entiendo. ¿Las palpitaciones suelen aparecer en algún momento en específico, como al realizar esfuerzo físico o estar en reposo?  
+4. Paciente: No, parece que suceden en cualquier momento, incluso cuando estoy tranquila, sentada en el sofá.  
+5. Médico: ¿Ha notado otros síntomas, como mareos o desmayos al sentir las palpitaciones?  
+6. Paciente: No exactamente, pero me siento agotada, como si me faltara la energía.  
+7. Médico: Dice que sus manos tiemblan. ¿Es algo constante o ocurre en ciertos momentos del día?  
+8. Paciente: Es más constante. Incluso cuando estoy relajada, mis manos siguen temblando.  
+9. Médico: ¿Ha notado algún cambio en su peso recientemente, como pérdida o aumento?  
+10. Paciente: Sí, he perdido unos 5 kilos en el último mes, pero no he cambiado lo que como. Es más, ¡hasta creo que como más de lo habitual!  
+11. Médico: Y aparte de eso, ¿cómo ha estado su apetito?  
+12. Paciente: Bastante normal, o mejor dicho, tengo más hambre de lo usual.  
+13. Médico: ¿Ha experimentado molestias digestivas, como diarrea o estreñimiento?  
+14. Paciente: Sí, he tenido diarrea ocasional, pero no le di mucha importancia.  
+15. Médico: ¿Qué me dice de su sudoración? ¿Ha notado si suda más de lo normal últimamente?  
+16. Paciente: Sí, de hecho, siento que sudo muchísimo incluso cuando no hace calor.  
+17. Médico: ¿Tiene problemas para dormir o se siente más irritable de lo normal?  
+18. Paciente: Un poco. Me cuesta dormir y me siento más ansiosa e irritable que antes.  
+19. Médico: ¿Hay algo que usted crea que haya podido iniciar estos síntomas? Algún cambio en su vida o problemas recientes.  
+20. Paciente: No, la verdad no se me ocurre nada. Todo estaba normal hasta que comenzaron los síntomas.  
+21. Médico: ¿Tiene algún antecedente familiar de enfermedades de la tiroides o cardíacas?  
+22. Paciente: No, nadie en mi familia tiene problemas médicos significativos que yo sepa.  
+23. Médico: ¿Y usted ha tenido otros problemas de salud en el pasado, como enfermedades crónicas?  
+24. Paciente: No, he sido bastante saludable hasta ahora.  
+25. Médico: Ahora voy a hacerle unas preguntas sobre su estado general. ¿Ha notado cambios en sus ojos, como hinchazón o sequedad?  
+26. Paciente: Ahora que lo menciona, creo que mis ojos están un poco más hinchados, pero pensé que era cansancio.  
+27. Médico: ¿Ha tenido visión doble o dificultad para mover los ojos?  
+28. Paciente: No, no he tenido esos problemas. Solo están un poco más secos de lo normal a veces.  
+29. Médico: Muy bien. Ahora dígame, ¿ha notado algún bulto o inflamación en su cuello?  
+30. Paciente: Bueno, sí parece que mi cuello está un poco más grande, pero no duele ni nada.  
+31. Médico: Gracias por toda esta información. Voy a examinar su cuello. ¿Me permite?  
+32. Paciente: Claro, adelante.  
+33. Médico: Al tacto, noto un agrandamiento en la glándula tiroides, pero no tiene nódulos ni áreas sensibles. Es algo importante a tomar en cuenta.  
+34. Paciente: ¿Qué significa eso, doctora?  
+35. Médico: Aún no estoy segura, pero parece que podría estar relacionado con la glándula tiroides. También revisé que su frecuencia cardíaca está más rápida de lo normal.  
+36. Paciente: Sí, eso explica las palpitaciones entonces.  
+37. Médico: Exacto. También he notado un aumento en sus reflejos y sus manos presentan un temblor fino. ¿Ha sentido que eso empeora a lo largo del día?  
+38. Paciente: Un poco, especialmente cuando estoy nerviosa.  
+39. Médico: Esto concuerda con lo que dice sobre la ansiedad. Voy a ordenar algunos análisis de sangre para medir sus niveles de hormona tiroidea.  
+40. Paciente: ¿Eso podría explicar todos mis síntomas?  
+41. Médico: Es posible, ya que la tiroides regula muchas funciones del cuerpo. Pero primero necesitamos confirmarlo.  
+42. Paciente: Está bien, ¿y esos análisis son rápidos?  
+43. Médico: Sí, le tomaremos una muestra de sangre y los resultados estarán pronto. También podemos hacer una gammagrafía para evaluar el funcionamiento de la glándula.  
+44. Paciente: De acuerdo, me parece bien.  
+45. Médico: Mientras tanto, ¿ha tomado algo para aliviar los síntomas por su cuenta?  
+46. Paciente: No, solo he estado tomando té para calmarme, pero no parece ayudar.  
+47. Médico: Entendido. Una vez tengamos los resultados, podríamos empezar un tratamiento para controlar las palpitaciones y los temblores.  
+48. Paciente: Eso sería un alivio. Este temblor me desconcierta mucho.  
+49. Médico: Lo entiendo. Basándome en lo que veo hasta ahora, es muy posible que tengamos un caso de hipertiroidismo, causado por una condición probablemente autoinmune.  
+50. Paciente: ¿Hipertiroidismo? ¿Eso es grave?  
+51. Médico: Es tratable. Confirmaré con los análisis, pero creo que tiene una condición llamada enfermedad de Graves o Basedow."

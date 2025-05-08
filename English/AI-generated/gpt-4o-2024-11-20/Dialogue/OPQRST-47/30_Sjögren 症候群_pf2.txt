@@ -1,0 +1,50 @@
+"1. Physician: What brings you in today?  
+2. Patient: I've been dealing with dry mouth and fatigue for a couple of years now. It's progressively getting worse.  
+3. Physician: Can you tell me more about the dry mouth?  
+4. Patient: My mouth always feels parched, even after drinking water. Eating dry foods has become difficult.  
+5. Physician: Do you find yourself needing to drink water frequently?  
+6. Patient: Yes, I take sips of water constantly throughout the day.  
+7. Physician: Have you noticed any other symptoms, like throat irritation or difficulty swallowing?  
+8. Patient: Yes, swallowing feels harder, especially with dry foods like bread.  
+9. Physician: You mentioned fatigue earlier. Can you describe it more?  
+10. Patient: I feel worn out almost all the time, even when I haven't done much. No amount of rest seems to help.  
+11. Physician: Any joint issues?  
+12. Patient: Yes, I've been having pain and stiffness, mostly in my knees, elbows, and the small joints of my hands.  
+13. Physician: Does the joint pain move around, or is it consistent?  
+14. Patient: It changes. One week it's in my hands, and then it’ll shift to my knees.  
+15. Physician: Are your joints swelling or turning red?  
+16. Patient: Sometimes they swell a little, but they’re never red.  
+17. Physician: Have you dealt with any vision problems or eye discomfort?  
+18. Patient: Actually, yes. My eyes feel gritty and dry, and my vision has been blurry at times over the last six months.  
+19. Physician: Are the eye symptoms consistent or do they come and go?  
+20. Patient: They tend to come and go, but they’ve been more frequent lately.  
+21. Physician: How about other symptoms, like fever, weight loss, or recent infections?  
+22. Patient: No fevers or weight loss, and I haven’t been sick recently.  
+23. Physician: Do you have any history of autoimmune diseases?  
+24. Patient: No, I’ve never been diagnosed with anything like that.  
+25. Physician: Does anyone in your family have autoimmune conditions?  
+26. Patient: No, my family history is pretty unremarkable in that regard.  
+27. Physician: How's your overall oral health? Any issues with cavities or gum problems?  
+28. Patient: I get cavities more often now, despite brushing and flossing.  
+29. Physician: Do you have any swelling or tenderness in your salivary glands?  
+30. Patient: I’ve noticed some swelling, but it doesn’t hurt.  
+31. Physician: When did you first start noticing these symptoms?  
+32. Patient: The dry mouth and fatigue started around two years ago, but the eye issues began only six months back.  
+33. Physician: What about skin symptoms—rashes, sensitivity to sunlight, anything unusual?  
+34. Patient: No, my skin seems fine.  
+35. Physician: Have you noticed any changes with your urine, like foaming or color changes?  
+36. Patient: No, it seems normal.  
+37. Physician: How’s your appetite? Any changes in weight by chance?  
+38. Patient: My appetite is normal. My weight hasn’t really changed at all.  
+39. Physician: Do you take any medications or supplements?  
+40. Patient: Just some vitamins, but nothing prescribed.  
+41. Physician: Have you traveled recently or been exposed to anyone who is sick?  
+42. Patient: No, I haven’t traveled, and everyone around me has been healthy.  
+43. Physician: On a typical day, how often do you need to use water or drops for your eyes?  
+44. Patient: I use eye drops a couple of times a day, but I sip water constantly.  
+45. Physician: Have you tried anything to improve the symptoms?  
+46. Patient: Besides staying hydrated and using eye drops, not really.  
+47. Physician: After examining you, I noticed your oral mucosa is quite dry and your salivary glands are a bit enlarged.  
+48. Patient: That makes sense—it feels like there’s no moisture at all.  
+49. Physician: Your joint symptoms and eye problems, combined with your lab findings and biopsy, suggest a condition called primary Sjögren syndrome.  
+50. Patient: Sjögren syndrome? I’ve never heard of it. What does that mean?  "

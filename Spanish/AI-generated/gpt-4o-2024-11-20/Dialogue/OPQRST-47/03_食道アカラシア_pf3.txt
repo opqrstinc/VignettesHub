@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señor, ¿qué lo trae por aquí hoy?  
+2. Paciente: Doctor, desde hace varios meses he notado dificultad para tragar ciertos alimentos.  
+3. Médico: ¿Podría describir con más detalle cuándo comenzó este problema?  
+4. Paciente: Comenzó hace como 8 meses, al principio solo con alimentos sólidos.  
+5. Médico: ¿Y esta dificultad ha empeorado con el tiempo?  
+6. Paciente: Sí, ahora también me pasa con líquidos, especialmente en las últimas semanas.  
+7. Médico: ¿Ha experimentado dolor en el pecho o sensación de quemazón al tragar?  
+8. Paciente: No, no siento dolor, pero a veces es como si la comida no bajara bien.  
+9. Médico: ¿Ha notado pérdida de peso o cambios en su apetito?  
+10. Paciente: No, mi peso se ha mantenido estable y mi apetito es normal.  
+11. Médico: ¿Ha tenido episodios de tos o algo fuera de lo normal mientras come?  
+12. Paciente: Sí, muchas veces toso cuando como, y a veces termino regurgitando lo que acabo de comer.  
+13. Médico: ¿Puede describir cómo es esa regurgitación?  
+14. Paciente: Es como si los alimentos no fueran digeridos, vuelven a salir casi como los comí.  
+15. Médico: Esto ocurre durante el día o también por la noche mientras duerme.  
+16. Paciente: También pasa por la noche. Me despierto porque siento que la comida regresa.  
+17. Médico: Eso suena bastante molesto. ¿Cuántas veces a la semana le sucede esto?  
+18. Paciente: Yo diría que al menos dos o tres veces por semana.  
+19. Médico: ¿Ha notado algún cambio en su voz o alguna sensación extraña en la garganta?  
+20. Paciente: No, mi voz no ha cambiado y no tengo molestias en la garganta.  
+21. Médico: ¿Consume tabaco, alcohol o alguna sustancia que pueda influir en sus síntomas?  
+22. Paciente: No fumo ni tomo alcohol, nunca lo he hecho.  
+23. Médico: ¿Usted tiene alguna enfermedad diagnosticada o algún antecedente familiar de problemas similares?  
+24. Paciente: Tengo diabetes tipo 2 desde hace años, pero no hay problemas digestivos en mi familia.  
+25. Médico: Entendido. En cuanto a su diabetes, ¿la tiene bien controlada con medicamentos?  
+26. Paciente: Sí, tomo mis medicamentos y sigo mi dieta, mi nivel de azúcar suele estar estable.  
+27. Médico: Muy bien. ¿Ha probado hacer algo para mejorar sus síntomas, como comer más despacio o cambiar de dieta?  
+28. Paciente: He intentado comer más despacio y tomar mucha agua, pero no mejora mucho.  
+29. Médico: ¿Algo frío o caliente empeora o mejora la situación?  
+30. Paciente: No he notado ninguna diferencia con la temperatura de las comidas.  
+31. Médico: Gracias por compartir todo esto. Vamos a enfocarnos más. ¿Siente algún ruido extraño en la garganta o en el pecho al tragar?  
+32. Paciente: No, no siento ruidos. Solo esa sensación de tener algo atorado.  
+33. Médico: ¿Suele sentirse más cansado o corto de aliento después de comer?  
+34. Paciente: No, eso no suele pasar.  
+35. Médico: ¿Sus hábitos intestinales han cambiado? ¿Ha notado estreñimiento o diarrea?  
+36. Paciente: No, todo sigue igual en ese aspecto.  
+37. Médico: Perfecto. En general, ¿cómo describiría su estado de salud en los últimos meses?  
+38. Paciente: Aparte de esto, me siento bien, no he tenido enfermedades importantes.  
+39. Médico: Es importante que confirmemos con algunos estudios lo que está pasando. Antes de planearlos, ¿hay algo más que crea relevante mencionar?  
+40. Paciente: No, creo que eso es todo lo que recuerdo.  
+41. Médico: Entendido. Realizaremos algunos estudios, como una endoscopia para ver el esófago, y posiblemente una radiografía con bario.  
+42. Paciente: Está bien, lo que sea necesario para entender esto.  
+43. Médico: Perfecto, pero antes de esto, ¿alguna otra sensación extraña que haya olvidado mencionar, aunque parece que ya mencionó lo más importante?  
+44. Paciente: No, creo que ya le conté todo.  
+45. Médico: Muy bien. Según la descripción, podría ser un problema relacionado con una dificultad en el funcionamiento del esófago, pero necesitamos confirmarlo.  
+46. Paciente: ¿Y podría empeorar si no se trata?  
+47. Médico: Es posible, por eso es importante buscar una solución temprano.  
+48. Paciente: Eso tiene sentido. Me preocupa que la regurgitación nocturna afecte mi sueño a largo plazo.  
+49. Médico: Es completamente válido. Esto podría explicarse por lo que sospecho, algo llamado acalasia, pero lo confirmaremos con los estudios.  
+50. Paciente: Gracias, doctor. Espero que podamos resolverlo pronto."

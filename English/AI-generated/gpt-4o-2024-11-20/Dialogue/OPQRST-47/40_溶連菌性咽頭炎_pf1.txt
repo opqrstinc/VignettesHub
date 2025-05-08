@@ -1,0 +1,56 @@
+"1. Doctor: Hello there! I see you're here because you've been unwell. Can you tell me a bit about what brought you in today?  
+2. Patient: My throat hurts a lot, and I’ve had a fever for two days now.  
+3. Doctor: I’m sorry to hear that. Has the throat pain been constant, or does it come and go?  
+4. Patient: It’s constant, and it gets worse when I try to swallow.  
+5. Doctor: I understand. Has the fever been high, or more like a low-grade fever?  
+6. Patient: It was really high, over 39°C.  
+7. Doctor: That does sound tough. Any cough or stuffy nose to go along with your symptoms?  
+8. Patient: No, I haven’t been coughing, and my nose is fine.  
+9. Doctor: What about any other symptoms—like a rash, stomach pain, or vomiting?  
+10. Patient: No, nothing like that.  
+11. Doctor: Have you been around anyone recently who was sick?  
+12. Patient: Not that I know of, but maybe some kids at school?  
+13. Doctor: That’s good information. Any trouble breathing or chest pain?  
+14. Patient: No, breathing is normal.  
+15. Doctor: Have you ever had similar symptoms before?  
+16. Patient: No, I don’t think so.  
+17. Doctor: Have you taken any medications for the fever or throat pain?  
+18. Patient: No, we didn’t take anything yet.  
+19. Doctor: Do you have any allergies to medications that you know of?  
+20. Patient: No, no allergies.  
+21. Doctor: Does the throat pain feel like it’s getting worse over time?  
+22. Patient: Yeah, it started really bad, and it’s still very painful.  
+23. Doctor: I see. Have you noticed if your voice sounds different or hoarse?  
+24. Patient: Maybe a little, because it hurts when I talk.  
+25. Doctor: Do you feel any lumps or swelling in your neck?  
+26. Patient: Yes, it feels swollen around here.  
+27. Doctor: Have you noticed difficulty opening your mouth or moving your neck?  
+28. Patient: No, not really.  
+29. Doctor: What about ear pain or anything unusual with your ears?  
+30. Patient: No, my ears are okay.  
+31. Doctor: Do you feel very tired or weak with this illness?  
+32. Patient: Yeah, I feel pretty tired.  
+33. Doctor: Have you been eating or drinking normally?  
+34. Patient: Drinking is hard because it hurts to swallow. Eating is also hard.  
+35. Doctor: Have you experienced chills or sweating, like with the fever?  
+36. Patient: Yes, I was sweating a lot yesterday.  
+37. Doctor: Has there been any funny taste or smell in your mouth?  
+38. Patient: No, nothing like that.  
+39. Doctor: Do you remember if anything triggered the symptoms, like cold food or drinks?  
+40. Patient: No, it just started suddenly.  
+41. Doctor: Have you been able to sleep at night with the pain and fever?  
+42. Patient: Not really. It’s hard to sleep because the pain wakes me up.  
+43. Doctor: Have you heard or noticed any wheezing or funny sounds when you breathe?  
+44. Patient: No, my breathing is fine.  
+45. Doctor: I’ll take a look in your throat soon, but one last question for now—anyone at home sick or feeling unwell?  
+46. Patient: No, just me.  
+47. Doctor: Thank you. Let’s take a look at your throat and check for anything unusual.  
+48. Doctor: I see your tonsils are very swollen and have white spots. Your neck lymph nodes also seem swollen and tender.  
+49. Patient: Is it really serious, doctor?  
+50. Doctor: Based on what I see and your symptoms, it looks like you have strep throat. I’ll confirm this with a quick test.  
+51. Patient: Oh, is that why my throat hurts so much?  
+52. Doctor: Yes, strep throat can cause severe throat pain, fever, and swollen tonsils. The good news is it’s treatable.  
+53. Patient: What’s the treatment?  
+54. Doctor: I’ll prescribe an antibiotic called amoxicillin to fight the infection. It’s important to finish all the medicine even if you feel better before it’s done.  
+55. Patient: Okay, I’ll take it. Will I feel better soon?  
+56. Doctor: Most kids start feeling better in a day or two after starting the medication. I’ll explain everything before you leave.  "

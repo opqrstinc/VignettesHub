@@ -1,0 +1,52 @@
+"1. Physician: What brings you here today?  
+2. Patient: I've been having this reddish rash on my cheeks for about two months now.  
+3. Physician: I see. Can you describe the rash a bit more? Does it itch, burn, or hurt?  
+4. Patient: It doesn’t itch or hurt, but it gets worse when I’m out in the sunlight.  
+5. Physician: Have you noticed any other skin changes or rashes elsewhere?  
+6. Patient: No, it's only on my cheeks.  
+7. Physician: You mentioned it's been two months. Did it come on suddenly or gradually?  
+8. Patient: Gradually. At first, it was barely noticeable, but now it’s darker.  
+9. Physician: Have you experienced any other symptoms during this time?  
+10. Patient: Yes, I feel tired all the time, and I’ve had some mild fevers off and on.  
+11. Physician: Just to clarify, how high have the fevers been?  
+12. Patient: Not very high, maybe around 100°F.  
+13. Physician: Have you noticed any joint pain or stiffness?  
+14. Patient: Yes, my fingers, wrists, and elbows have been hurting a lot.  
+15. Physician: Is the pain worse in the morning or at any specific time of the day?  
+16. Patient: It's worse in the morning, and it takes some time to loosen up.  
+17. Physician: Does it get better with movement or stay the same throughout the day?  
+18. Patient: It gets better as the day goes on.  
+19. Physician: Have you had any swelling or redness in the joints?  
+20. Patient: Yes, especially in my knuckles and wrists. They look puffy sometimes.  
+21. Physician: Have you had any hair loss recently?  
+22. Patient: Yes, more than usual. My hair has been shedding a lot these past two months.  
+23. Physician: Do you see bald patches, or is it more like thinning?  
+24. Patient: It's thinning all over my scalp, no bald patches though.  
+25. Physician: Have you experienced any changes in urination, like increased frequency or blood in the urine?  
+26. Patient: No, nothing unusual like that.  
+27. Physician: Do you have any history of medical conditions, especially related to your skin or joints?  
+28. Patient: No, I’ve been pretty healthy until now.  
+29. Physician: Any recent infections or illnesses before these symptoms started?  
+30. Patient: No, I can’t think of anything unusual.  
+31. Physician: Does anyone in your family have a history of autoimmune conditions?  
+32. Patient: No, not that I’m aware of.  
+33. Physician: Do you smoke or take recreational drugs?  
+34. Patient: No, I don’t smoke or use drugs.  
+35. Physician: Have you been on any medications in the past few months?  
+36. Patient: Just over-the-counter painkillers for my joint pain.  
+37. Physician: Has the pain medication helped?  
+38. Patient: Only a little. The pain keeps coming back.  
+39. Physician: I noticed your rash spares the area around your nose. Is that typical for you?  
+40. Patient: Yes, it’s always been that way.  
+41. Physician: Have you had any other symptoms like mouth sores, chest pain, or shortness of breath?  
+42. Patient: No, none of those.  
+43. Physician: How about digestive issues, nausea, or abdominal pain?  
+44. Patient: No, my stomach has been fine.  
+45. Physician: Do you have any history of anemia or blood disorders?  
+46. Patient: Not that I know of.  
+47. Physician: Have you traveled anywhere recently or had any unusual exposures?  
+48. Patient: No, I’ve just been working and staying home mostly.  
+49. Physician: Lastly, has this affected your daily routine or work?  
+50. Patient: Yes, it has. I’m too tired most of the time, and it’s hard to concentrate at work.  
+51. Physician: Based on everything you’ve described and our exam findings, I’m concerned this might be an autoimmune condition called systemic lupus erythematosus, or SLE.  
+[End of conversation.]"

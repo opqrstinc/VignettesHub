@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, ¿qué la trae a consulta hoy?  
+2. Paciente: Buenas tardes, doctor. He estado teniendo sudoración excesiva y me siento muy irritable desde hace un mes.  
+3. Médico: Entiendo. ¿Ha notado algo más fuera de lo habitual?  
+4. Paciente: Sí, también he perdido peso sin intentar hacerlo, unos 5 kilos.  
+5. Médico: ¿Cómo está siendo su apetito últimamente?  
+6. Paciente: Está normal, o quizás como un poco más de lo habitual.  
+7. Médico: ¿Ha tenido palpitaciones o sensaciones de que su corazón late muy rápido?  
+8. Paciente: Sí, varias veces al día siento que mi corazón va muy rápido.  
+9. Médico: ¿Qué hay del temblor en las manos o una fatiga general?  
+10. Paciente: Sí, mis manos tiemblan mucho, incluso cuando están en reposo, y me siento cansada todo el tiempo.  
+11. Médico: Entendido. Antes de estos síntomas, ¿tuvo alguna enfermedad o infección?  
+12. Paciente: No, nada que yo recuerde.  
+13. Médico: ¿Está tomando algún medicamento actualmente o lo ha hecho recientemente?  
+14. Paciente: No, no tomo ningún medicamento.  
+15. Médico: ¿Algún antecedente médico relevante en el pasado?  
+16. Paciente: No, siempre he sido saludable.  
+17. Médico: ¿Ha notado algún cambio en su piel, como mayor humedad o tibieza?  
+18. Paciente: Ahora que lo menciona, mi piel parece más húmeda de lo normal.  
+19. Médico: De acuerdo. ¿Se ha sentido ansiosa o más nerviosa de lo común?  
+20. Paciente: Sí, todo me hace sentir estresada últimamente.  
+21. Médico: ¿Ha tenido problemas para dormir?  
+22. Paciente: Sí, duermo mal y me despierto muchas veces en la noche.  
+23. Médico: ¿Ha sentido molestias o dolor en el cuello o notado algún cambio en esa zona?  
+24. Paciente: Ahora que lo menciona, siento que mi cuello se ve diferente, un poco más inflamado.  
+25. Médico: Gracias por comentarlo. Permítame examinar su cuello un momento.  
+26. Médico: Veo que tiene un ligero bocio. ¿Esto le genera incomodidad o dificultad para tragar?  
+27. Paciente: No, no duele ni siento dificultad para tragar.  
+28. Médico: ¿Hay alguna ocasión en la que sus síntomas, como las palpitaciones, sean peores?  
+29. Paciente: Siento que es peor cuando estoy activa o estresada.  
+30. Médico: ¿Tiene antecedentes familiares de problemas de tiroides u otras enfermedades autoinmunes?  
+31. Paciente: Mi madre tiene hipotiroidismo, pero eso es todo.  
+32. Médico: Muy bien. Voy a revisar su ritmo cardíaco, por favor relájese un momento.  
+33. Médico: Su ritmo es de 110 latidos por minuto. ¿Siempre siente el corazón acelerado o varía a lo largo del día?  
+34. Paciente: Lo siento casi todo el día, pero a veces se calma por un rato.  
+35. Médico: Durante este mes, aparte de los síntomas ya mencionados, ¿ha tenido diarrea o algún problema digestivo?  
+36. Paciente: No, mi estómago ha estado normal.  
+37. Médico: ¿Qué hay de sequedad en los ojos o visión borrosa?  
+38. Paciente: Mis ojos están algo saltones y a veces me molestan, pero no he tenido visión borrosa.  
+39. Médico: Entendido. ¿Fuma o consume alcohol frecuentemente?  
+40. Paciente: No fumo, y solo tomo alcohol de vez en cuando.  
+41. Médico: ¿Cómo describiría su nivel de actividad diaria? ¿Ha bajado recientemente debido a la fatiga?  
+42. Paciente: Sí, solía hacer ejercicio varias veces a la semana, pero ahora estoy demasiado cansada.  
+43. Médico: Vamos a realizar algunas pruebas de laboratorio y una ecografía del cuello para evaluar la función de su tiroides y otros aspectos.  
+44. Paciente: ¿Cree que esto está relacionado con mi tiroides?  
+45. Médico: Es una posibilidad que debemos investigar. ¿Cuándo perdió peso comenzó a notar también más ansiedad?  
+46. Paciente: Sí, más o menos al mismo tiempo, todo empezó a cambiar.  
+47. Médico: Gracias por su paciencia. Los análisis indican que su hormona TSH está suprimida y las hormonas tiroideas T4 y T3 están elevadas.  
+48. Paciente: ¿Y eso qué significa?  
+49. Médico: Esto, junto con los resultados de los anticuerpos y la ecografía, sugiere una condición llamada enfermedad de Graves, que afecta su tiroides.  
+50. Paciente: ¿Es grave?"

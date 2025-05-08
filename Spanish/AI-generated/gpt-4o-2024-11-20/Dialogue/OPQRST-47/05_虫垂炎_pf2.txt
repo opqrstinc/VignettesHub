@@ -1,0 +1,51 @@
+"1. Médico: Buenas tardes, ¿qué la trae por aquí hoy?  
+2. Paciente: Buenas tardes, doctor. Estoy con un fuerte dolor abdominal, comenzó ayer y ha empeorado.  
+3. Médico: Entiendo. ¿Puede describirme dónde siente el dolor?  
+4. Paciente: Ahora está en la parte baja y derecha del abdomen.  
+5. Médico: ¿Cuándo empezó el dolor y cómo fue al inicio?  
+6. Paciente: Comenzó ayer en el estómago, pero poco a poco fue moviéndose hacia la parte derecha, abajo.  
+7. Médico: ¿El dolor es constante o va y viene?  
+8. Paciente: Es constante y cada vez duele más.  
+9. Médico: ¿Podría calificar el dolor en una escala de 1 a 10, donde 10 es el peor dolor que pueda imaginar?  
+10. Paciente: Hoy diría que es un 8.  
+11. Médico: ¿Ha tenido fiebre en las últimas horas?  
+12. Paciente: Sí, anoche me medí y tenía 38.5 grados.  
+13. Médico: ¿Ha notado algún cambio en sus deposiciones o dificultad para ir al baño?  
+14. Paciente: No, todo eso ha estado normal.  
+15. Médico: ¿Ha tenido náuseas, vómitos o le molesta comer?  
+16. Paciente: No, no he tenido náuseas ni vómitos, como normal.  
+17. Médico: ¿Ha tenido algún dolor abdominal similar anteriormente?  
+18. Paciente: No, este dolor es nuevo para mí.  
+19. Médico: ¿Tiene alguna enfermedad crónica o alergias conocidas?  
+20. Paciente: Tengo rinitis alérgica, pero fuera de eso nada más.  
+21. Médico: ¿Está tomando algún medicamento actualmente?  
+22. Paciente: No, solo tomo un spray nasal para la alergia cuando lo necesito.  
+23. Médico: Perfecto. ¿Ha viajado recientemente o comido algo fuera de lo común?  
+24. Paciente: No, he estado en casa y comiendo lo de siempre.  
+25. Médico: ¿Alguien en su familia ha tenido problemas similares al dolor abdominal?  
+26. Paciente: No, al menos que yo sepa.  
+27. Médico: ¿El dolor le ha impedido dormir anoche?  
+28. Paciente: Sí, apenas pude dormir por las molestias.  
+29. Médico: ¿Ha notado si se intensifica cuando camina o se mueve?  
+30. Paciente: Sí, caminar o moverme lo empeora mucho.  
+31. Médico: ¿Al presionarse el abdomen en la parte afectada, el dolor aumenta?  
+32. Paciente: Sí, duele mucho cuando lo toco.  
+33. Médico: ¿Sabe si tiene antecedentes quirúrgicos? ¿Ha sido operada antes del abdomen?  
+34. Paciente: No, nunca me han operado.  
+35. Médico: ¿Qué come regularmente en el día?  
+36. Paciente: Normalmente como arroz, verduras y algo de carne. Nada extraño.  
+37. Médico: ¿Cuánto líquido está bebiendo al día?  
+38. Paciente: Tomo más o menos dos litros de agua al día.  
+39. Médico: ¿Además de la fiebre, siente escalofríos o sudoraciones nocturnas?  
+40. Paciente: No, solo he tenido la fiebre.  
+41. Médico: Vamos a realizar una revisión física para entender mejor lo que está ocurriendo. ¿Está bien para usted?  
+42. Paciente: Por supuesto, doctor.  
+43. Médico: Al palpar su abdomen, noto que el dolor es más fuerte en la parte inferior derecha. Esto concuerda con otros síntomas que ha mencionado.  
+44. Paciente: Sí, ahí es donde más me duele.  
+45. Médico: También parece que hay cierta sensibilidad al soltar la presión en esa área.  
+46. Paciente: Sí, eso me duele mucho.  
+47. Médico: Con base en lo que hemos discutido y mis hallazgos iniciales, me inclino hacia un problema inflamatorio en el abdomen, posiblemente apendicitis.  
+48. Paciente: ¿Eso es muy grave?  
+49. Médico: Es una inflamación del apéndice que necesita tratamiento médico, lo ideal sería confirmarlo con exámenes de sangre y una ecografía.  
+50. Paciente: Entendido, doctor, ¿podemos hacerlo ahora?  
+"

@@ -1,0 +1,51 @@
+"1. Médico: Buenos días, señora. ¿Cómo se encuentra hoy?  
+2. Paciente: Buenos días, doctor. Estoy aquí porque me duelen mucho las manos y los pies.   
+3. Médico: Entiendo. Cuénteme, ¿desde cuándo empezó el dolor?  
+4. Paciente: Hace como dos meses, pero al principio era más leve, como calambres o pequeñas sensaciones raras.  
+5. Médico: ¿Esas sensaciones raras eran hormigueos o algo parecido?  
+6. Paciente: Sí, algo así. Y a veces sentía como si se me durmieran los dedos.  
+7. Médico: ¿Ese dolor se ha hecho más constante o peor con el tiempo?  
+8. Paciente: Sí, ha ido empeorando. Ahora es más fuerte, sobre todo cuando hace frío.  
+9. Médico: ¿Nota algún cambio en la coloración de sus manos o pies?  
+10. Paciente: Sí, doctor. Muchas veces mis dedos se ponen blancos o morados, y luego tardan en volver a su color normal.  
+11. Médico: Interesante, y cuando ocurren esos cambios de color, ¿siente más dolor o alguna otra molestia?  
+12. Paciente: Sí, se me enfrían mucho y el dolor es más intenso.  
+13. Médico: ¿Ha notado si esto ocurre en algún momento específico, como al estar expuesta al frío o al estrés?  
+14. Paciente: Sí, sobre todo cuando hace frío o cuando estoy muy nerviosa.  
+15. Médico: ¿Ha intentado usar guantes o proteger sus manos del frío?  
+16. Paciente: Sí, pero no ayuda mucho.  
+17. Médico: ¿Además del dolor y los cambios de color, ha notado alguna lesión o herida en sus dedos?  
+18. Paciente: Sí, hace unas semanas me salieron unas úlceras en los dedos de las manos, y no se curan.  
+19. Médico: ¿Puede describirme esas úlceras? ¿Son muy profundas o superficiales?  
+20. Paciente: Son pequeñas, como de un centímetro, y están en los lados de los dedos. Son muy dolorosas.  
+21. Médico: ¿Ha tenido fiebre o algún signo de infección en esas heridas, como enrojecimiento o pus?  
+22. Paciente: No, nada de eso.  
+23. Médico: ¿Ha notado algo similar en los pies o solo en las manos?  
+24. Paciente: También siento dolor en los pies, pero no tengo úlceras ahí.  
+25. Médico: ¿Tiene antecedentes médicos de importancia, como problemas cardíacos o diabetes?  
+26. Paciente: No, doctor, siempre he sido saludable.  
+27. Médico: ¿Hay alguien en su familia con problemas similares o enfermedades autoinmunes?  
+28. Paciente: No, nadie que yo sepa.  
+29. Médico: ¿Suele fumar o ha fumado en el pasado?  
+30. Paciente: Sí, fumo unos 10 cigarrillos al día desde hace muchos años.  
+31. Médico: Gracias por compartirlo. Es importante saberlo porque el tabaco puede afectar los vasos sanguíneos. ¿Sabía eso?  
+32. Paciente: No, no tenía idea.  
+33. Médico: ¿Ha sido evaluada antes por estos síntomas o ha tomado algún medicamento?  
+34. Paciente: Solo he usado una crema para las heridas, pero no ha funcionado.  
+35. Médico: Gracias, esto es muy útil. Ahora, al examinarla, veo que tiene cianosis en los dedos y algunas úlceras en las manos. También noto que los pulsos en sus muñecas y pies están débiles.  
+36. Paciente: ¿Eso es algo grave?  
+37. Médico: Puede ser serio, pero antes necesitamos hacer algunas pruebas.  
+38. Paciente: Está bien, estoy dispuesta a todo.  
+39. Médico: Realizamos unos estudios y vimos alteraciones en los vasos sanguíneos de sus manos y pies. Estos muestran estenosis y oclusiones en las arterias.  
+40. Paciente: ¿Qué significa eso, doctor?  
+41. Médico: Sus arterias están más estrechas y eso reduce el flujo de sangre. También vimos algo llamado ""colaterales en corkscrew"".  
+42. Paciente: ¿Y eso qué implica?  
+43. Médico: Es algo característico de una enfermedad llamada tromboangeítis obliterante, también conocida como TAO.  
+44. Paciente: ¿Eso tiene cura?  
+45. Médico: Con el tratamiento adecuado y dejando de fumar completamente, sus síntomas pueden mejorar significativamente.  
+46. Paciente: ¿Es necesario que deje de fumar?  
+47. Médico: Sí, es esencial. El tabaco está directamente relacionado con esta enfermedad, y continuarlo puede empeorar su condición.  
+48. Paciente: Entendido, lo dejaré.  
+49. Médico: El tratamiento incluye medicamentos como iloprost para mejorar la circulación y aspirina para prevenir complicaciones.  
+50. Paciente: ¿Esto aliviará el dolor y las úlceras?  
+51. Médico: Sí, también le recomendaremos medidas para proteger del frío y manejar el dolor."

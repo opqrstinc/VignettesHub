@@ -1,0 +1,50 @@
+"1. Médico: ¿Qué lo trae hoy por aquí?  
+2. Paciente: Me siento muy cansado últimamente, y llevo meses así.  
+3. Médico: ¿Podría describir el tipo de cansancio que siente?  
+4. Paciente: Es como si no tuviera energía, incluso para cosas sencillas.  
+5. Médico: ¿Ha notado algún cambio en su rutina diaria o en su trabajo?  
+6. Paciente: Sí, me cuesta mucho más hacer mis tareas diarias, incluso levantarme.  
+7. Médico: ¿Ha sentido somnolencia durante el día?  
+8. Paciente: Bastante, a veces me quedo dormido sin querer viendo la televisión.  
+9. Médico: ¿Tiene problemas para dormir en la noche?  
+10. Paciente: No, duermo bien, pero aun así estoy muy cansado al despertar.  
+11. Médico: ¿Ha notado algún otro síntoma físico? Tal vez cambios en la piel o el cabello.  
+12. Paciente: Sí, mi piel está más seca de lo normal, y mi cabello se siente raro, como más débil.  
+13. Médico: Entendido. ¿Ha observado un aumento o pérdida de peso reciente?  
+14. Paciente: Sí, he subido de peso, como 5 kilos en los últimos meses, pero no he cambiado mi dieta.  
+15. Médico: Bien. ¿Ha sentido cambios en la tolerancia al frío o calor?  
+16. Paciente: Ahora siempre tengo frío, incluso cuando los demás dicen que hace calor.  
+17. Médico: ¿Cómo ha sido su función intestinal? ¿Algún problema como estreñimiento o diarrea?  
+18. Paciente: He estado estreñido últimamente, diría que desde hace varios meses.  
+19. Médico: ¿Ha tenido dolor en el cuello o dificultad para tragar?  
+20. Paciente: No, pero me han dicho que mi cuello parece un poco más grande.  
+21. Médico: Vamos a revisar eso. Dígame, ¿ha tenido enfermedades o condiciones previas en el pasado?  
+22. Paciente: No, en general he sido saludable, solo cosas menores como resfriados.  
+23. Médico: ¿En su familia alguien tiene problemas de tiroides u otras enfermedades autoinmunes?  
+24. Paciente: Sí, mi madre tiene hipotiroidismo, pero no sé mucho al respecto.  
+25. Médico: Muy bien. ¿Qué medicamentos toma actualmente o ha tomado recientemente?  
+26. Paciente: No tomo ningún medicamento, solo alguna vitamina ocasionalmente.  
+27. Médico: Perfecto. ¿Cómo han sido sus niveles de energía antes de este problema?  
+28. Paciente: Solía tener mucha energía, podía trabajar todo el día sin sentirme tan agotado.  
+29. Médico: Entendido. Ahora, ¿ha sentido palpitaciones, falta de aire o dolor en el pecho?  
+30. Paciente: No, mi corazón parece estar bien, aunque sí estoy más lento para moverme.  
+31. Médico: Vamos a pasar a la exploración física, pero una última pregunta: ¿consume alimentos que podrían afectar su tiroides, como altas cantidades de soya o suplementos con yodo?  
+32. Paciente: La verdad no, mi dieta es bastante normal, como de todo un poco.  
+33. Médico: Bien, durante la exploración noto que su cuello está algo más grande de lo habitual. ¿Había notado esto antes?  
+34. Paciente: Ahora que lo menciona, hace un tiempo mi esposa me dijo lo mismo.  
+35. Médico: Su piel también se siente seca al tacto, y noto que su pulso está algo lento. ¿Esto le preocupa?  
+36. Paciente: Bueno, no sabía que el pulso fuera lento, pero sí me preocupa todo lo que está pasando.  
+37. Médico: Observando estos datos, me gustaría pedirle algunos análisis de sangre para evaluar la función de su tiroides.  
+38. Paciente: Claro, todo lo que sea necesario.  
+39. Médico: Esto incluirá niveles de TSH, T4 libre y también algunos anticuerpos relacionados.  
+40. Paciente: Perfecto, quiero entender qué me está pasando.  
+41. Médico: Además, verificaremos su perfil lipídico, porque los síntomas como estos pueden estar asociados con cambios en el colesterol.  
+42. Paciente: Está bien, últimamente no me he hecho chequeos de colesterol.  
+43. Médico: Después de los resultados, podremos definir el diagnóstico y plan de tratamiento. ¿Le parece?  
+44. Paciente: Por supuesto, confío en su experiencia.  
+45. Médico: Muy bien. También quiero recordarle la importancia de tener una dieta equilibrada mientras descubrimos la causa.  
+46. Paciente: Entendido, intentaré mantenerme en lo más saludable posible.  
+47. Médico: Los resultados han llegado. Sus niveles de TSH están elevados, lo cual indica que su tiroides no está funcionando adecuadamente.  
+48. Paciente: ¿Eso es peligroso?  
+49. Médico: Es tratable. Tiene una condición llamada tiroiditis de Hashimoto, una enfermedad que causa hipotiroidismo.  
+50. Paciente: Ah, entiendo, ¿qué se hace en estos casos?  "

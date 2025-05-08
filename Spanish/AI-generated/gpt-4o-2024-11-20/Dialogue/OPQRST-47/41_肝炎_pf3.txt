@@ -1,0 +1,51 @@
+"1. Médico: Hola, buenos días. ¿Qué le trae por aquí hoy?  
+2. Paciente: Buen día, doctor. He estado sintiéndome muy mal en los últimos días.  
+3. Médico: ¿Qué síntomas ha tenido?  
+4. Paciente: Bueno, he tenido fiebre, me he sentido muy débil, con poco ánimo para comer, y mi piel está amarilla.  
+5. Médico: Entendido. ¿Cuánto tiempo lleva con estos síntomas?  
+6. Paciente: Aproximadamente cinco días.  
+7. Médico: Además de la fiebre y la coloración amarilla, ¿ha tenido náuseas o vómitos?  
+8. Paciente: Sí, también he vomitado varias veces estos días.  
+9. Médico: ¿La fiebre es constante o aparece y desaparece durante el día?  
+10. Paciente: Pues, no es muy alta, pero parece que la tengo todo el tiempo.  
+11. Médico: ¿Recuerda cuál fue la temperatura más alta que tuvo?  
+12. Paciente: No estoy seguro, pero no me pareció tan alta; quizás algo así como 38 grados.  
+13. Médico: ¿Sus ojos también han tomado ese color amarillo?  
+14. Paciente: Sí, las personas a mi alrededor me lo mencionaron.  
+15. Médico: ¿Ha sentido dolor o molestias en el abdomen?  
+16. Paciente: Sí, en la parte de arriba, como justo debajo de las costillas, es un poco doloroso al tocar.  
+17. Médico: ¿Ha notado algún cambio en la orina o en sus heces?  
+18. Paciente: Mi orina está más oscura, como si fuera té, y mis heces están algo más claras de lo normal.  
+19. Médico: Entendido. ¿Ha apagado usted algún historial médico previo o condiciones previas del hígado?  
+20. Paciente: No, nunca he tenido problemas de salud serios antes.  
+21. Médico: ¿Ha consumido alcohol de forma habitual?  
+22. Paciente: No, no bebo alcohol.  
+23. Médico: ¿Ha tomado algún medicamento en el último mes?  
+24. Paciente: No, tampoco he tomado medicamentos.  
+25. Médico: ¿Consume drogas recreativas o ha tenido algún comportamiento de riesgo reciente?  
+26. Paciente: No, no consumo drogas ni he tenido conductas de riesgo.  
+27. Médico: ¿Ha viajado recientemente o ha estado en contacto con alguien que estuvo enfermo?  
+28. Paciente: No he viajado y no conozco a nadie que esté enfermo.  
+29. Médico: ¿En qué trabaja o cómo es su entorno laboral?  
+30. Paciente: Trabajo en oficina, no tengo contacto con alimentos ni productos químicos.  
+31. Médico: Lo entiendo. ¿Ha comido fuera de casa recientemente?  
+32. Paciente: Sí, comí en un restaurante de comida rápida hace una semana, pero no recuerdo haber sentido algo extraño en la comida.  
+33. Médico: ¿Qué tipo de comida fue?  
+34. Paciente: Era una hamburguesa con papas fritas.  
+35. Médico: ¿Alguna de las personas con las que comió ha experimentado síntomas similares?  
+36. Paciente: No, solo yo, que yo sepa.  
+37. Médico: Durante estos días, además de la debilidad, ¿ha sentido mareos o confusión?  
+38. Paciente: No, no he sentido eso, doctor.  
+39. Médico: ¿Qué tal su apetito? ¿Ha estado comiendo normalmente?  
+40. Paciente: Casi no he tenido hambre. Apenas probé algo ligero.  
+41. Médico: Muy bien, entiendo. Ahora le haré un examen físico para revisar algunos aspectos, como el abdomen y la coloración de su piel, ¿de acuerdo?  
+42. Paciente: De acuerdo, doctor.  
+43. Médico: Al palpar su abdomen, parece que su hígado está algo agrandado y sensible. También noto la ictericia en su piel y ojos.  
+44. Paciente: ¿Eso es algo grave, doctor?  
+45. Médico: Todavía no puedo confirmarlo. Necesitamos analizar unos exámenes de laboratorio para entender mejor lo que está ocurriendo.  
+(Luego de recibir los resultados de exámenes de laboratorio)  
+46. Médico: De los resultados de sus exámenes, hay indicadores que señalan inflamación en el hígado. Vamos a discutir los marcadores específicos.  
+47. Paciente: ¿Es algo relacionado con mi hígado entonces?  
+48. Médico: Correcto. Los resultados son consistentes con una hepatitis aguda, más específicamente una hepatitis A.  
+49. Paciente: ¿Hepatitis A? ¿Qué significa eso?  
+50. Médico: Es una infección viral que afecta al hígado. Es autolimitada y suele relacionarse con la ingesta de alimentos contaminados."

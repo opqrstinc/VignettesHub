@@ -1,0 +1,51 @@
+"1. Physician: What brings you to the clinic today?  
+2. Patient: I've been feeling terrible for about a week now, with fever, sore throat, and extreme tiredness.  
+3. Physician: When did your symptoms start?  
+4. Patient: About seven days ago.  
+5. Physician: Can you describe the fever? How high has your temperature been?  
+6. Patient: It feels pretty high, but I haven't measured it myself. I just know I'm really hot and sweating at times.  
+7. Physician: How has the sore throat been? Is it getting worse or better?  
+8. Patient: It's been constant and is really painful when I try to swallow.  
+9. Physician: Do you have trouble eating or drinking because of the pain?  
+10. Patient: Yes, it's hard to eat anything, and I’ve lost my appetite.  
+11. Physician: Have you noticed any other symptoms, like a cough or runny nose?  
+12. Patient: No, none of that, just the fever, sore throat, and feeling really exhausted.  
+13. Physician: Any belly pain or discomfort?  
+14. Patient: A little bit of discomfort, mainly on my left side sometimes.  
+15. Physician: Have you taken any medications to help with the symptoms?  
+16. Patient: No, I haven’t taken anything.  
+17. Physician: Do you have any medical conditions or allergies?  
+18. Patient: No, I’m generally healthy and don’t have any allergies.  
+19. Physician: How have you been sleeping recently?  
+20. Patient: Not great. The throat pain and fever make it hard to stay asleep.  
+21. Physician: Have you noticed any rashes on your skin?  
+22. Patient: No, I haven’t had any rashes.  
+23. Physician: Have you been in contact with anyone who’s been sick recently?  
+24. Patient: No, not that I can think of.  
+25. Physician: Do you smoke, drink alcohol, or use any recreational drugs?  
+26. Patient: No, I don’t use any of those.  
+27. Physician: Have you recently traveled anywhere out of the country or been in a crowded place?  
+28. Patient: No, I’ve mostly been at home or college lately.  
+29. Physician: Do you usually feel this tired, or is this fatigue new and unusual for you?  
+30. Patient: This is definitely new. I’ve never felt this tired before.  
+31. Physician: Do you feel dizzy or feel like you’re going to faint?  
+32. Patient: No, I don’t feel dizzy, just very weak and tired.  
+33. Physician: Have you noticed any swelling in your neck or lumps under your jaw?  
+34. Patient: Yes, my neck feels swollen, and it’s pretty tender to touch.  
+35. Physician: Have you had any stomach upset or diarrhea?  
+36. Patient: No, nothing like that.  
+37. Physician: On a scale of 1 to 10, how bad is the throat pain?  
+38. Patient: I’d say it’s about an 8.  
+39. Physician: Have you had similar symptoms like this in the past?  
+40. Patient: No, this is the first time I’ve ever felt like this.  
+41. Physician: Do you live alone or with family?  
+42. Patient: I live at college in a dorm, so I’m around people a lot.  
+43. Physician: Have you been able to go to classes or do any activities recently?  
+44. Patient: No, I’ve been too tired, so I’ve been staying in my room.  
+45. Physician: Are you noticing swelling or pain anywhere else, like your armpits or groin?  
+46. Patient: No, just my neck.  
+47. Physician: I’ll now check your throat and your neck. Open wide for me, please. How does it feel?  
+48. Patient: Really painful when you press around my neck.  
+49. Physician: Based on your symptoms, examination, and some bloodwork we need to discuss, it appears you have infectious mononucleosis, also known as mono.  
+50. Patient: Oh, what is that? How did I get it?  
+"

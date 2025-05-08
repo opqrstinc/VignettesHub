@@ -1,0 +1,60 @@
+"1. Médico: Hola, buenos días. ¿Qué le trae por aquí hoy?  
+2. Paciente: Hola, doctor. Me he sentido muy cansado últimamente, sin energía para hacer nada.  
+3. Médico: Entiendo. ¿Cuándo comenzó a sentirse así?  
+4. Paciente: Aproximadamente hace una semana.  
+5. Médico: ¿Aparte del cansancio, ha notado otros síntomas?  
+6. Paciente: Pues sí, he perdido un poco el apetito y mi piel se ve amarilla, igual que mis ojos.  
+7. Médico: ¿Se dio cuenta de la coloración amarilla desde el principio?  
+8. Paciente: No, al principio solo era el cansancio, pero el amarillo lo noté hace unos días.  
+9. Médico: ¿Ha tenido fiebre, escalofríos o dolor en alguna parte del cuerpo?  
+10. Paciente: No, fiebre no he tenido, ni dolor tampoco.  
+11. Médico: ¿Qué hay de náuseas, vómitos o diarrea?  
+12. Paciente: He sentido un poco de náuseas, pero no he vomitado ni tenido diarrea.  
+13. Médico: Muy bien. ¿Ha viajado recientemente o salido del país en los últimos meses?  
+14. Paciente: No, no he viajado a ningún lado.  
+15. Médico: ¿Ha notado algún cambio en el color de su orina o en sus heces?  
+16. Paciente: Sí, mi orina está más oscura de lo normal, y las heces como más claras.  
+17. Médico: Eso es importante. ¿Tiene algún antecedente médico, como problemas hepáticos, o toma algún medicamento regularmente?  
+18. Paciente: No, siempre he estado sano y no tomo medicamentos.  
+19. Médico: ¿Consume alcohol frecuentemente o en grandes cantidades?  
+20. Paciente: No, solo alguna copa en reuniones sociales, pero no más que eso.  
+21. Médico: ¿Ha tenido contacto con personas enfermas recientemente, como familiares o amigos?  
+22. Paciente: No que yo sepa, aunque trabajo en una oficina y hay mucha gente.  
+23. Médico: Entendido. ¿Cómo suele ser su alimentación? ¿Ha comido algo fuera de lo común últimamente?  
+24. Paciente: Mi alimentación es normal, como en casa la mayoría del tiempo, pero la semana pasada comí en un restaurante cerca de la oficina.  
+25. Médico: ¿Recuerda qué comió ese día?  
+26. Paciente: Sí, una ensalada y pescado a la plancha.  
+27. Médico: ¿La ensalada estaba bien lavada? ¿Se veía fresca?  
+28. Paciente: La verdad, no me fijé mucho, pero creo que estaba bien.  
+29. Médico: Está claro. ¿Alguien más en su casa o en el trabajo está experimentando síntomas similares?  
+30. Paciente: No, por ahora nadie más se ha quejado de nada.  
+31. Médico: En su casa, ¿hay niños pequeños o personas con problemas de salud?  
+32. Paciente: No, vivimos mi esposa y yo. Ninguno con problemas de salud.  
+33. Médico: Bien. ¿Ha recibido vacunas recientemente, como la de hepatitis?  
+34. Paciente: No, hace años que no me vacuno.  
+35. Médico: Comprendido. Vamos a examinarlo. Dígame, ¿ha sentido dolor en el abdomen?  
+36. Paciente: No, doctor, no me duele nada.  
+37. Médico: Váyase recostando en la camilla, le palparé el abdomen.  
+38. Paciente: Está bien, doctor, como usted diga.  
+39. Médico: Su abdomen está suave y no parece haber sensibilidad al tacto, pero noto que el hígado está algo agrandado.  
+40. Paciente: ¿Eso es grave, doctor?  
+41. Médico: Todavía no lo sabemos. Vamos a realizar unos análisis de laboratorio y una ecografía para entender mejor qué está ocurriendo.  
+42. Paciente: De acuerdo, doctor. Haré lo que sea necesario.  
+43. Médico: Quiero revisar su función hepática y analizar varios marcadores serológicos. También es importante descartar infecciones comunes como hepatitis viral.  
+44. Paciente: ¿Qué tipo de hepatitis, doctor?  
+45. Médico: Hay varios tipos, como hepatitis A, B y C. La mayoría se pueden diagnosticar con exámenes de sangre.  
+46. Paciente: ¿Y eso podría explicar mis síntomas?  
+47. Médico: Sí, especialmente la ictericia y el cansancio. También quiero descartar otras causas, como problemas autoinmunes o biliares.  
+48. Paciente: Entendido, doctor. ¿Cuánto demorarán los resultados?  
+49. Médico: Generalmente en un par de días tendremos los resultados. Cuando los tenga, le daré un diagnóstico claro.  
+50. Paciente: Perfecto, doctor. Estaré pendiente.  
+(Tras recibir los resultados)  
+51. Médico: Bueno, con base en los análisis, se confirma que tiene hepatitis A, que es una infección viral autolimitada.  
+52. Paciente: ¿Hepatitis A? ¿Es grave?  
+53. Médico: No debería serlo en su caso. Su hígado está inflamado, pero con reposo, hidratación y dieta adecuada, debería mejorar en pocas semanas.  
+54. Paciente: ¿Necesitaré medicamentos?  
+55. Médico: Solo le recetaré metoclopramide en caso de náuseas, pero no necesitará antivirales ni hospitalización por ahora.  
+56. Paciente: Qué alivio, doctor. Haré todo lo que me diga.  
+57. Médico: Perfecto. Evite contagiar a otros en casa con medidas de higiene como lavar las manos y los utensilios.  
+58. Paciente: Claro, tomaré todas las precauciones. Muchas gracias, doctor.  
+"

@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, ¿en qué puedo ayudarle hoy?  
+2. Paciente: Buenas tardes, doctor. He estado teniendo un dolor muy intenso en la cara, especialmente del lado derecho.  
+3. Médico: Entiendo. ¿Puede describir más ese dolor? Por ejemplo, ¿cómo lo siente?  
+4. Paciente: Es un dolor punzante, como una descarga eléctrica.  
+5. Médico: ¿El dolor está presente todo el tiempo o viene y va?  
+6. Paciente: Solo viene en momentos, dura unos segundos, pero es muy fuerte.  
+7. Médico: ¿Desde cuándo empezó a notar este dolor?  
+8. Paciente: Hace más o menos un mes que comenzó.  
+9. Médico: ¿El dolor está limitado a una parte específica del rostro?  
+10. Paciente: Sí, está en la mandíbula inferior del lado derecho.  
+11. Médico: ¿Hay algo que parezca desencadenar el dolor?  
+12. Paciente: Sí, masticar, hablar o incluso si me da el aire frío en la cara.  
+13. Médico: ¿Ha notado otros síntomas además del dolor, como pérdida de sensibilidad o debilidad en el rostro?  
+14. Paciente: No, solo el dolor.  
+15. Médico: ¿Ha tenido problemas médicos o alguna cirugía previa que pudiera estar relacionada?  
+16. Paciente: No, nunca he tenido problemas de salud graves ni me han operado.  
+17. Médico: ¿Tiene alergias conocidas?  
+18. Paciente: No, no soy alérgico a nada que yo sepa.  
+19. Médico: ¿Qué hace normalmente cuando siente el dolor?  
+20. Paciente: Trato de no mover mucho la cara, pero no siempre funciona.  
+21. Médico: Menciona que masticar lo desencadena. ¿Le cuesta alimentarse?  
+22. Paciente: Sí, a veces prefiero no comer cosas duras para no causarme el dolor.  
+23. Médico: Y con el aire frío, ¿cómo lo maneja?  
+24. Paciente: Generalmente me cubro la cara con una bufanda o algo así.  
+25. Médico: ¿Ha tomado algo para aliviar el dolor?  
+26. Paciente: Solo ibuprofeno, pero no hace ninguna diferencia.  
+27. Médico: ¿Ha notado si el dolor afecta su descanso o su calidad de vida?  
+28. Paciente: Sí, me preocupa todo el tiempo que el dolor regrese, es frustrante.  
+29. Médico: Durante el examen, cuando toco sobre esta área cerca del foramen infraorbitario, ¿esto causa el dolor?  
+30. Paciente: Sí, justo ahí, siento esa misma punzada cuando lo toca.  
+31. Médico: Bien, haré más preguntas para descartar algunas cosas. ¿Tiene problemas de visión o audición?  
+32. Paciente: No, mi vista y audición están normales.  
+33. Médico: ¿Ha tenido episodios de mareos, pérdida de equilibrio o debilidad en otras partes del cuerpo?  
+34. Paciente: No, nada de eso.  
+35. Médico: ¿Ha sufrido algún trauma en el rostro recientemente?  
+36. Paciente: No, no he tenido golpes ni accidentes.  
+37. Médico: ¿Trabaja en un lugar con exposición al frío o corrientes de aire?  
+38. Paciente: Sí, trabajo en un taller y a veces hay corrientes de aire cuando abrimos puertas.  
+39. Médico: ¿Alguien en su familia ha tenido un problema similar al suyo?  
+40. Paciente: No, nadie que yo recuerde.  
+41. Médico: Haré algunas pruebas para analizar su sensibilidad facial. ¿Me avisa si el dolor aparece, por favor?  
+42. Paciente: Claro, doctor.  
+43. Médico: Durante estas pruebas, no parece haber pérdida de sensibilidad. ¿Eso coincide con lo que usted siente?  
+44. Paciente: Sí, solo siento ese dolor cuando lo provoca algún gatillo.  
+45. Médico: Realizaremos una resonancia magnética para descartar algún problema estructural en los nervios.  
+46. Paciente: Está bien, ¿es algo grave, doctor?  
+47. Médico: Por el momento no podemos asegurarlo, pero quiero descartar cualquier causa seria.  
+48. Paciente: Claro, entiendo.  
+49. Médico: Con base en la información hasta ahora, parece que podría tratarse de neuralgia del trigémino.  
+50. Paciente: ¿Eso explica el dolor tan fuerte?"

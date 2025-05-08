@@ -1,0 +1,51 @@
+"1. 医師：Hello, can you tell me what brings you in today?  
+2. 患者：I've been fainting a lot lately, and it scares me.  
+3. 医師：I see. How often have these episodes occurred?  
+4. 患者：It has happened about four or five times over the past two months.  
+5. 医師：When was the most recent episode?  
+6. 患者：It was two days ago.  
+7. 医師：Can you describe what happens before you faint?  
+8. 患者：I feel really dizzy, my heart starts racing, and sometimes I feel nauseous.  
+9. 医師：Do you remember what you were doing when these episodes occurred?  
+10. 患者：Usually, it happens when I stand for a long time, like during school assembly, or when I get very nervous.  
+11. 医師：What do you feel during these episodes of nervousness?  
+12. 患者：I get really tense and sometimes panicky, especially before a test at school.  
+13. 医師：How long do you stay unconscious when you faint?  
+14. 患者：Only for a few seconds.  
+15. 医師：Do you feel confused or disoriented afterward?  
+16. 患者：No, I feel fine right away.  
+17. 医師：Have you ever bitten your tongue or wet yourself when this happens?  
+18. 患者：No, that has never happened.  
+19. 医師：Have you ever felt chest pain or had trouble breathing during these episodes?  
+20. 患者：No, I don't think so.  
+21. 医師：Have you noticed any other symptoms, like headaches, vision changes, or feeling hot?  
+22. 患者：Not really, but I do feel dizzy and like I'm about to faint.  
+23. 医師：Does this happen in specific situations, like being outdoors in the heat or after exercise?  
+24. 患者：No, it mainly happens when I'm standing for a while or super stressed.  
+25. 医師：Does anyone in your family have a history of fainting, heart problems, or sudden death?  
+26. 患者：No, not that I know of.  
+27. 医師：Have you been ill recently or had any fevers or infections?  
+28. 患者：No, I’ve been pretty healthy otherwise.  
+29. 医師：Do you drink enough water during the day?  
+30. 患者：I think I could drink more. Sometimes I forget at school.  
+31. 医師：How about salt in your diet? Do you think you eat a lot of salty foods?  
+32. 患者：No, I think my meals are pretty normal—not overly salty.  
+33. 医師：When you feel faint, have you tried doing anything to prevent it?  
+34. 患者：No, I just try to sit down before it happens.  
+35. 医師：How has this affected your daily life, like school activities or sports?  
+36. 患者：It’s been hard. I’m scared it might happen anytime, so I avoid standing too long.  
+37. 医師：Has it been stressful dealing with this?  
+38. 患者：Yes, especially when my friends and teachers ask about it.  
+39. 医師：Do you recall feeling like your heart was skipping beats or slowing down during these episodes?  
+40. 患者：No, just that it’s pounding really fast.  
+41. 医師：Have you ever felt very weak or tired throughout the day aside from these episodes?  
+42. 患者：Not really, I usually have normal energy.  
+43. 医師：Did you notice if you were sweating excessively during fainting episodes?  
+44. 患者：No, I don’t think so.  
+45. 医師：Have you been evaluated for these episodes before, or is this your first visit about them?  
+46. 患者：This is my first time seeing a doctor about it.  
+47. 医師：Have you had any injuries from fainting, like hitting your head?  
+48. 患者：No, I've been lucky so far.  
+49. 医師：Based on what you’ve told me, I have a good idea of what might be happening. Do you know what vasovagal syncope is?  
+50. 患者：No, I’ve never heard of it.  
+51. 医師：It’s a condition where your body overreacts to certain triggers, like standing too long or stress, causing a drop in blood pressure and heart rate, which leads to fainting."

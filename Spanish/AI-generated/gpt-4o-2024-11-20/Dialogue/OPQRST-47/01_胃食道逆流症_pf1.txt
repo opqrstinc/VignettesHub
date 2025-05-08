@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señor. ¿Qué lo trae a consulta hoy?  
+2. Paciente: Doctor, llevo unos tres meses con una sensación de ardor en el pecho, como un fuego después de comer. También siento como si la comida me subiera.  
+3. Médico: Entiendo. ¿Puede describirme un poco más esos episodios? ¿Cuándo ocurren y qué los empeora?  
+4. Paciente: Por lo general, después de las comidas grandes, sobre todo si como algo con grasa o bebo refrescos o alcohol. También se pone peor cuando me acuesto.  
+5. Médico: ¿Ha notado algún tipo de dolor en el pecho que le preocupe o que se parezca al dolor de un infarto?  
+6. Paciente: No, nada de eso. Es más como una molestia en la boca del estómago que sube hacia la garganta.  
+7. Médico: ¿Ha tenido problemas para tragar o siente que algo se le atasca al comer?  
+8. Paciente: No, puedo comer bien, no tengo dificultades para tragar.  
+9. Médico: ¿Algún episodio de náuseas, vómitos o sangre en las evacuaciones o vómitos?  
+10. Paciente: No, doctor, nada de eso.  
+11. Médico: Bueno, y en estos meses, ¿ha perdido peso sin intención o cambios notables en su apetito?  
+12. Paciente: No, mi peso está igual, y mi apetito es normal.  
+13. Médico: ¿Hay alguna comida o bebida específica que le cause más molestias?  
+14. Paciente: Algo graso, como pizza; también el vino o la cerveza me hacen sentir peor.  
+15. Médico: ¿El ardor o la regurgitación ocurren incluso si no come cosas grasosas o si evita estas bebidas?  
+16. Paciente: Sí, pero diría que es menos frecuente y menos intenso.  
+17. Médico: ¿Ha intentado algo para aliviar los síntomas?  
+18. Paciente: Tomé antiácidos que compré en la farmacia, y ayudan, pero solo por un rato.  
+19. Médico: ¿El ardor aparece más durante el día o la noche?  
+20. Paciente: En la noche es peor, especialmente cuando me acuesto a dormir.  
+21. Médico: ¿Duerme con la cama plana o tiene algo elevado la cabecera?  
+22. Paciente: Plana, no uso almohadas altas.  
+23. Médico: Muy bien. ¿Tiene algún otro problema de salud o toma algún medicamento regularmente?  
+24. Paciente: Sí, tengo hipertensión. Tomo un medicamento, pero no recuerdo el nombre ahora.  
+25. Médico: ¿Cuánto tiempo lleva con hipertensión?  
+26. Paciente: Hace unos 5 años.  
+27. Médico: ¿La tiene bien controlada? ¿Se le ha indicado hacerse algún chequeo reciente?  
+28. Paciente: Sí, está controlada. Me reviso regularmente, y mis exámenes han salido bien.  
+29. Médico: Perfecto, y en cuanto al estrés o la ansiedad, ¿cómo han estado? ¿Algún cambio reciente en su vida?  
+30. Paciente: Bueno, algo de estrés en el trabajo, pero nada fuera de lo común.  
+31. Médico: Entendido. Ahora, en la exploración física no noto nada alarmante, pero para confirmar lo que está ocurriendo, necesitamos investigar más.  
+32. Paciente: Claro, doctor. ¿Qué tipo de pruebas?  
+33. Médico: Haremos una endoscopia para ver cómo está el esófago y el estómago, además de otras pruebas específicas del reflujo ácido.  
+34. Paciente: ¿Es doloroso?  
+35. Médico: No, se hace con sedación para su comodidad.  
+36. Paciente: Está bien, confío en usted.  
+37. Médico: Gracias. También revisamos su sangre para descartar algo más.  
+38. Paciente: De acuerdo, doctor.  
+39. Médico: Su endoscopia muestra una leve inflamación en el esófago sin signos importantes de daño.  
+40. Paciente: ¿Eso quiere decir que tengo algo malo?  
+41. Médico: Es inflamación por ácido del estómago subiendo al esófago, se llama esofagitis por reflujo.  
+42. Paciente: ¿Y qué lo causa?  
+43. Médico: El ácido sube cuando la barrera entre el esófago y el estómago no cierra bien. Eso puede empeorar con ciertas comidas o posturas.  
+44. Paciente: Ahora entiendo por qué siempre empeora cuando como grasa o me acuesto rápido.  
+45. Médico: Exacto. Además, los resultados de otra prueba confirman más exposición del esófago al ácido.  
+46. Paciente: ¿Qué puedo hacer para mejorar?  
+47. Médico: Usaremos un medicamento llamado omeprazol que bloquea la producción de ácido. Tome 20 mg dos veces al día por 8 semanas.  
+48. Paciente: ¿Y algo más que pueda hacer?  
+49. Médico: Sí, evite comidas abundantes, alimentos grasos, alcohol y acostarse después de comer. Eleve la cabecera de la cama.  
+50. Paciente: Haré todo lo que dice, gracias."

@@ -1,0 +1,52 @@
+"1. Médico: Buenas tardes, señora. ¿Qué la trae por aquí hoy?  
+2. Paciente: Hola, doctor. Llevo varios meses con dolor por todo el cuerpo y estoy muy cansada, no sé qué podría ser.  
+3. Médico: Entiendo. ¿Hace cuánto comenzó este dolor y cómo lo describiría?  
+4. Paciente: Empezó hace como seis meses, poco a poco. Es un dolor profundo, constante, y lo siento en casi todo el cuerpo, especialmente en los brazos, piernas y la espalda.  
+5. Médico: ¿El dolor es más intenso en algún momento del día?  
+6. Paciente: Sí, me siento más rígida y con más dolor por la mañana. Me cuesta mucho moverme al inicio del día.  
+7. Médico: ¿Nota que mejora con el movimiento o empeora si está mucho tiempo sin actividad?  
+8. Paciente: Creo que cuando me muevo un poco mejora, pero me siento agotada muy rápido.  
+9. Médico: Entendido. ¿Qué tan frecuente es la fatiga? ¿Es constante o varía día a día?  
+10. Paciente: Es constante, doctor, y siempre me siento muy cansada, incluso después de descansar.  
+11. Médico: Hablando de descanso, ¿ha notado dificultades para dormir o problemas con su sueño?  
+12. Paciente: Sí, me cuesta mucho quedarme dormida y siento que cuando duermo no descanso nada.  
+13. Médico: ¿Ha tenido fiebre, infecciones recientes o algún accidente que coincida con el inicio del dolor?  
+14. Paciente: No, nada de eso, todo comenzó muy despacio sin razón aparente.  
+15. Médico: ¿En su vida diaria, siente que el dolor o la fatiga le dificultan realizar actividades?  
+16. Paciente: Sí, mucho. Me toma más tiempo hacer las cosas, y a veces no puedo ni terminar lo que empiezo.  
+17. Médico: Entiendo. ¿Hay alguna posición o actividad que empeore el dolor?  
+18. Paciente: No, la verdad es que siempre está ahí, haga lo que haga.  
+19. Médico: ¿Hay momentos en que se sienta sin dolor o algún alivio temporal?  
+20. Paciente: No, el dolor sigue constante, solo cambia un poco de intensidad a veces.  
+21. Médico: ¿Alguna vez ha sentido inflamación en las articulaciones o ha notado cambios como enrojecimiento o calor en ellas?  
+22. Paciente: No, doctor, las articulaciones se ven normales, no han cambiado.  
+23. Médico: Además del dolor, ¿ha tenido otros síntomas como pérdida de peso, cambios en la piel o en el cabello?  
+24. Paciente: No, nada de eso. Mi peso y todo lo demás no han cambiado.  
+25. Médico: Muy bien. ¿Hay antecedentes de algún problema de salud en su familia como artritis, lupus u otras enfermedades autoinmunes?  
+26. Paciente: No que yo sepa, mi familia no tiene nada de eso.  
+27. Médico: De acuerdo. ¿Tiene usted alguna enfermedad diagnosticada previamente?  
+28. Paciente: Sí, tengo depresión desde hace años, pero la estoy manejando con medicamentos.  
+29. Médico: ¿Está tomando actualmente alguna medicación?  
+30. Paciente: Sí, estoy con un antidepresivo que me recetaron hace tiempo, pero no recuerdo el nombre exacto ahora.  
+31. Médico: Está bien. ¿Cómo ha estado su estado de ánimo últimamente? ¿Nota más tristeza o desmotivación?  
+32. Paciente: Me siento muy agotada y un poco desanimada, pero creo que es más por el dolor constante que tengo.  
+33. Médico: Lo siento mucho. Quiero preguntarle, ¿ha tenido problemas neurológicos como debilidad, pérdida de sensibilidad, o dificultad para coordinar movimientos?  
+34. Paciente: No, nada de eso, doctor. Mis movimientos están normales.  
+35. Médico: Perfecto. Ahora voy a examinarla, ¿puede decirme si siente dolor cuando presiono aquí?  
+36. Paciente: ¡Ay, sí! Justo ahí duele mucho.  
+37. Médico: Muy bien, voy a revisar más puntos similares en su cuerpo. ¿Y aquí?  
+38. Paciente: También duele, y en otras partes del cuerpo igual.  
+39. Médico: Entiendo. Al examinarla, he notado sensibilidad marcada en puntos específicos, lo cual será importante para el diagnóstico.  
+40. Paciente: ¿Cree que esto puede ser algo grave?  
+41. Médico: Por lo que hemos hablado y los hallazgos, no parece ser algo peligroso, pero aún necesitamos confirmar con algunos análisis.  
+42. Paciente: Bueno, eso me alivia un poco, gracias.  
+43. Médico: Vamos a realizar un análisis de sangre para descartar causas inflamatorias, autoinmunes o problemas tiroideos.  
+44. Paciente: Está bien, haga lo que sea necesario, doctor.  
+45. Médico: ¿Usted realiza algún tipo de actividad física o ejercicio regularmente?  
+46. Paciente: No, me cuesta mucho, aunque antes caminaba a diario, pero con esto ya no puedo.  
+47. Médico: Lo entiendo. ¿Tiene apoyo en casa para manejar sus actividades diarias?  
+48. Paciente: Sí, mi familia me ayuda bastante, pero no quiero depender de ellos siempre.  
+49. Médico: Eso es bueno. Basándonos en su historia y el examen físico, tengo una idea clara de lo que puede estar ocurriendo.  
+50. Paciente: ¿Y qué podría ser, doctor?  
+51. Médico: Por los síntomas y la sensibilidad en los puntos específicos, el diagnóstico más probable es fibromialgia.  
+"

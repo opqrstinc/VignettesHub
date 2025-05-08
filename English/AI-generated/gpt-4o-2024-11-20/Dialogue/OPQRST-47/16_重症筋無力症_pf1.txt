@@ -1,0 +1,51 @@
+"1. Physician: What brings you in today?  
+2. Patient: I've been having trouble with my eyelids drooping over the past two months. It's been getting worse in the evenings.  
+3. Physician: I see. Are you experiencing this on both eyelids or just one?  
+4. Patient: Both, but the left side is definitely worse.  
+5. Physician: Do you feel any pain around your eyes or eyelids?  
+6. Patient: No, there's no pain at all.  
+7. Physician: Have you noticed any changes in your vision, such as double vision or blurriness?  
+8. Patient: Yes, sometimes I see double, especially when I’ve been working on the computer for a while.  
+9. Physician: Does the double vision get better if you rest?  
+10. Patient: Yes, it gets a lot better after I take a break or sleep.  
+11. Physician: Have you experienced any difficulty swallowing food or liquids?  
+12. Patient: No, swallowing has been fine.  
+13. Physician: How about speaking? Have others noticed any slurred speech or difficulty pronouncing words?  
+14. Patient: No, my speech has been normal.  
+15. Physician: Have you had any shortness of breath or trouble breathing during these episodes?  
+16. Patient: No, my breathing feels normal.  
+17. Physician: Okay. Do you feel fatigued in general, or is it mainly your eyelids and eyes?  
+18. Patient: I feel tired all over, especially after moving around or doing work.  
+19. Physician: Is the tiredness worse in certain parts of your body, like your arms or legs?  
+20. Patient: Well, my arms and legs do feel weak when I'm really tired, mostly my upper arms and thighs.  
+21. Physician: Do you notice if the weakness is worse after a lot of activity?  
+22. Patient: Yes, it gets worse when I’ve been active for a while, but it improves after resting.  
+23. Physician: Have you had any recent infections, fevers, or illnesses?  
+24. Patient: No, nothing like that.  
+25. Physician: Any history of similar symptoms in the past, or is this the first time?  
+26. Patient: This is the first time I've had anything like this.  
+27. Physician: Do you have any medical conditions, like diabetes or high cholesterol?  
+28. Patient: I have high blood pressure. I take amlodipine for it.  
+29. Physician: Have you had any surgeries or been hospitalized for any reason?  
+30. Patient: No, I’ve never had surgery or been hospitalized.  
+31. Physician: Does anyone in your family have conditions like this or any neuromuscular disorders?  
+32. Patient: No, there's nothing like this in my family.  
+33. Physician: Let me ask about other symptoms. Have you noticed any muscle atrophy, tremors, or numbness?  
+34. Patient: No, I haven't seen anything like that.  
+35. Physician: How about your reflexes? Have you noticed if they feel weaker or different?  
+36. Patient: No, they feel normal to me.  
+37. Physician: Do your symptoms interfere with your daily activities?  
+38. Patient: Yes, it's hard to keep my eyes open, so even driving or reading is challenging.  
+39. Physician: I understand. Do you feel these symptoms are impacting your mood or causing stress?  
+40. Patient: Yes, it's frustrating because I can't do things as easily as before.  
+41. Physician: Have you tried anything to relieve the symptoms, besides resting?  
+42. Patient: No, not really. I just take breaks, and that seems to help.  
+43. Physician: When was your last routine check-up with a doctor?  
+44. Patient: About a year ago. Everything seemed fine then.  
+45. Physician: We'll do a thorough physical exam now. Could I ask you to close and open your eyes repeatedly?  
+46. Patient: Okay. (Demonstrates difficulty as the strength diminishes.)  
+47. Physician: I see that your eyelid fatigue worsens with repetition. We'll continue with further testing.  
+48. Patient: Alright, doctor.  
+49. Physician: Based on your symptoms and physical findings, I suspect this might be a neuromuscular condition called myasthenia gravis. It involves the communication between your nerves and muscles.  
+50. Patient: Myasthenia gravis? I’ve never heard of that. What does it mean?  
+(Conversation ends here as per instructions after the diagnosis is made.)"

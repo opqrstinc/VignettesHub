@@ -1,0 +1,55 @@
+"1. Médico: Hola, ¿qué lo trae hoy a consulta?  
+2. Paciente: Hola, doctor. Tengo fiebre alta desde hace unos días, y me siento muy mal en general.  
+3. Médico: Entendido. ¿Desde cuándo comenzó la fiebre y qué síntomas la acompañan?  
+4. Paciente: Hace cinco días. También tengo dolor fuerte al tragar, no tengo ganas de comer y me siento realmente cansado.  
+5. Médico: ¿La fiebre ha sido constante o va y viene?  
+6. Paciente: Es constante. No ha bajado desde que empezó.  
+7. Médico: Ya veo. ¿Ha estado en contacto con alguien enfermo recientemente?  
+8. Paciente: No, no que yo recuerde.  
+9. Médico: ¿Tiene tos, congestión o mocos?  
+10. Paciente: No, nada de eso.  
+11. Médico: ¿Dolor en el pecho, dificultad para respirar o pitidos al respirar?  
+12. Paciente: No, nada de eso, solo el dolor de garganta.  
+13. Médico: ¿Ha vomitado o tenido diarrea?  
+14. Paciente: No, mi estómago está bien.  
+15. Médico: ¿Nota algún dolor en el abdomen o lo siente inflamado?  
+16. Paciente: Ahora que lo pienso, lo siento un poco extraño, pero no duele mucho.  
+17. Médico: Entendido. ¿Algún cambio en el color de su piel o en los ojos, como si estuvieran amarillos?  
+18. Paciente: No, no he notado eso.  
+19. Médico: ¿Ha tenido algún sarpullido o manchas en la piel?  
+20. Paciente: No, mi piel está normal.  
+21. Médico: ¿Qué ha estado haciendo para la fiebre? ¿Ha tomado algún medicamento?  
+22. Paciente: Solo paracetamol, pero no ha ayudado mucho.  
+23. Médico: Perfecto. ¿Tiene alergias conocidas o ha tomado algún medicamento de forma regular?  
+24. Paciente: No, nunca he tenido alergias ni tomo medicinas regularmente.  
+25. Médico: ¿Tiene antecedentes de enfermedades graves o recientes hospitalizaciones?  
+26. Paciente: No, siempre he sido saludable.  
+27. Médico: Muy bien. ¿Fuma o consume alcohol?  
+28. Paciente: No, nunca he fumado y no tomo alcohol.  
+29. Médico: ¿Nota algún bulto o dolor en el cuello?  
+30. Paciente: Sí, me duele en los lados del cuello, y se sienten como bolitas.  
+31. Médico: Entendido. Ahora voy a examinarlo. Por favor abra la boca y diga ""Ah"".  
+32. Paciente: Ahhh.  
+33. Médico: Veo que tiene enrojecimiento y unas placas blancas en las amígdalas. También voy a palpar el cuello. Avíseme si siente dolor.  
+34. Paciente: Sí, me duele cuando presiona en los lados.  
+35. Médico: Perfecto, ya terminé. Voy a palpar el abdomen ahora, ¿está bien?  
+36. Paciente: Sí, adelante.  
+37. Médico: Siento que tiene un poco de inflamación en el lado izquierdo. ¿Le molesta?  
+38. Paciente: Un poquito, pero no mucho.  
+39. Médico: Gracias por su paciencia. Según lo que me cuenta y lo que encuentro al examinarlo, quiero hacerle unos análisis de sangre para tener una mejor idea de lo que podría estar causando su enfermedad.  
+40. Paciente: Claro, doctor. ¿Qué análisis sería?  
+41. Médico: Revisaremos su cuenta de glóbulos blancos, función hepática y haremos unas pruebas para ver si podría ser viral.  
+42. Paciente: Entendido. ¿Cuánto tiempo tardan esos resultados?  
+43. Médico: No mucho, probablemente los tendremos en unas horas. Mientras tanto, ¿ha tenido contacto cercano con niños o adolescentes?  
+44. Paciente: No, la mayoría de las personas con las que estoy en contacto son de mi edad.  
+45. Médico: Bien. ¿Ha viajado recientemente o asistido a eventos multitudinarios?  
+46. Paciente: No, he estado en casa y en la universidad.  
+47. Médico: ¿Practica algún deporte o actividad física intensa?  
+48. Paciente: Sí, juego fútbol los fines de semana.  
+49. Médico: En ese caso, dependiendo de los resultados, podríamos recomendarle que descanse un tiempo.  
+50. Paciente: Está bien, doctor. Espero los resultados para saber qué tengo.  
+[Tras analizar los resultados]  
+51. Médico: Bueno, ya tengo los resultados. Parece que tiene mononucleosis infecciosa, una infección viral causada por el virus de Epstein-Barr.  
+52. Paciente: ¿Mononucleosis? ¿Eso es grave?  
+53. Médico: No suele ser grave, pero requiere reposo y tratamiento de los síntomas. Vamos a controlarle la fiebre y el dolor.  
+Fin."

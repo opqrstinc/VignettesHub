@@ -1,0 +1,54 @@
+"1. Médico: Buenos días, ¿qué le trae por aquí hoy?  
+2. Paciente: Doctor, desde hace unos meses tengo la presión arterial muy alta y no he podido controlarla, además estoy orinando mucho por la noche.  
+3. Médico: Entiendo. ¿Cuánto tiempo lleva con estos problemas?  
+4. Paciente: Más o menos seis meses. Primero empecé a despertarme mucho por la noche para orinar, y luego me detectaron hipertensión.  
+5. Médico: ¿Ha notado algún otro síntoma, como hinchazón en las piernas, dolor de cabeza o mareos?  
+6. Paciente: No, nada de eso, solo me siento algo cansado por la falta de sueño.  
+7. Médico: ¿Ha tomado algún medicamento para la presión arterial?  
+8. Paciente: Sí, me recetaron dos medicinas, creo que se llaman enalapril y amlodipino, pero no han logrado bajarme la presión.  
+9. Médico: ¿Recuerda las dosis?  
+10. Paciente: Sí, enalapril 20 mg al día y amlodipino 10 mg al día.  
+11. Médico: ¿Ha notado algo extraño en sus hábitos alimenticios, por ejemplo, más sed o más hambre?  
+12. Paciente: Sí, siento un poco más de sed que de costumbre, pero no he comido más.  
+13. Médico: ¿Tiene antecedentes de alguna otra enfermedad o problema médico?  
+14. Paciente: Sí, hace años tuve un cálculo en el riñón, pero lo expulsé sin cirugía.  
+15. Médico: ¿Alguien en su familia tiene hipertensión u otros problemas de salud similares?  
+16. Paciente: Mi madre tiene hipertensión, pero la controla con pastillas.  
+17. Médico: ¿Cuántas veces se despierta por la noche para orinar?  
+18. Paciente: A veces tres, otras veces cuatro. Es bastante molesto.  
+19. Médico: ¿Siente alguna urgencia o dolor al orinar?  
+20. Paciente: No, solo es que siento la necesidad urgente de ir.  
+21. Médico: Durante el día, ¿también siente que orina más de lo normal?  
+22. Paciente: No, eso parece normal.  
+23. Médico: ¿Cómo ha estado manejando su alimentación y consumo de sal?  
+24. Paciente: Intento no usar mucha sal, aunque tal vez no siempre lo consigo.  
+25. Médico: Cuando le tomaron la presión arterial, ¿le dijeron cuánto estaba?  
+26. Paciente: Sí, la última vez estaba en 170/110.  
+27. Médico: ¿Ha tenido episodios de calambres musculares o debilidad?  
+28. Paciente: Sí, algunas veces me siento débil, sobre todo después de caminar un rato.  
+29. Médico: ¿Está tomando algún suplemento o medicamento adicional, como diuréticos?  
+30. Paciente: No, solo las medicinas para la presión.  
+31. Médico: Voy a revisar su presión arterial. A ver... sigue alta, 170/110 en ambos brazos.  
+32. Paciente: Sí, eso es lo que me preocupa porque no mejora.  
+33. Médico: Ahora le haré algunas preguntas más detalladas. ¿Ha notado cambios en su peso o alguna inflamación en su cuerpo?  
+34. Paciente: No, mi peso ha estado igual y no he visto hinchazón.  
+35. Médico: Cuando tuvo cálculos renales, ¿le dijeron si tenía algún problema metabólico como calcio elevado?  
+36. Paciente: No, me dijeron que era algo que podía pasar y no le dieron mucha importancia.  
+37. Médico: Revisaré algunos análisis de laboratorio. ¿Le han hecho análisis recientemente?  
+38. Paciente: Sí, el doctor anterior me pidió algunos, pero no entiendo bien los resultados.  
+39. Médico: Muy bien, voy a solicitar unas pruebas adicionales para confirmar una sospecha. ¿Le han explicado algo sobre el potasio?  
+40. Paciente: No, eso no lo mencionaron.  
+41. Médico: He visto que tiene potasio bajo en los análisis. Eso puede estar relacionado con su presión arterial y sus síntomas.  
+42. Paciente: ¿Y eso es grave?  
+43. Médico: Parece ser un desequilibrio hormonal relacionado con las glándulas suprarrenales.  
+44. Paciente: ¿Qué significan esas glándulas?  
+45. Médico: Están encima de los riñones y producen hormonas, como la aldosterona, que regula la presión y el potasio.  
+46. Paciente: ¿Entonces es por eso que no funciona la medicina?  
+47. Médico: Exacto, es posible. Un adenoma, una pequeña masa en la glándula, podría estar produciendo demasiada aldosterona.  
+48. Paciente: ¿¿Eso significa que tengo un tumor??  
+49. Médico: Es un tipo de tumor benigno que no suele ser peligroso, pero puede causar estos problemas.  
+50. Paciente: ¿Cómo se trata eso?  
+51. Médico: Primero, comenzaremos con un medicamento llamado espironolactona que bloquea la aldosterona. Luego evaluaremos si necesita cirugía.  
+52. Paciente: Entendido. ¿Eso me quitará los síntomas?  
+53. Médico: Sí, su presión debería mejorar y también la frecuencia urinaria nocturna.  
+54. Paciente: Muy bien, doctor, gracias por explicarme."

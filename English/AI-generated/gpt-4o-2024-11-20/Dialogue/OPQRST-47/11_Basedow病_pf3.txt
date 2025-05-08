@@ -1,0 +1,51 @@
+"1. 医師：Hello, how can I help you today?  
+2. 患者：Doctor, I’ve been sweating so much, feeling on edge, and my heart keeps racing.  
+3. 医師：I see. How long have these symptoms been bothering you?  
+4. 患者：It’s been about two months now, and it’s getting worse.  
+5. 医師：Have you noticed anything else unusual, like changes in weight or appetite?  
+6. 患者：Yes, I’ve lost about 5 kilograms even though I’m eating more than usual.  
+7. 医師：That’s noticeable. Do you also feel hot more often or have trouble tolerating heat?  
+8. 患者：Yes, I always feel hot, even when others are comfortable.  
+9. 医師：Have you felt shaky or experienced any trembling in your hands?  
+10. 患者：Yes, my hands tremble sometimes.  
+11. 医師：Have you had any recent sicknesses, infections, or unusual fevers?  
+12. 患者：No, I haven’t been sick recently at all.  
+13. 医師：Do you have any other medical conditions or take any medications or supplements?  
+14. 患者：No, I don’t take anything, and I don’t have any known health problems.  
+15. 医師：Does anyone in your family have thyroid problems or similar symptoms?  
+16. 患者：No, there’s no history of thyroid disease in my family.  
+17. 医師：I noticed you seem a little anxious. Have you felt more nervous or irritable lately?  
+18. 患者：Yes, I feel on edge all the time, and it’s starting to affect my mood.  
+19. 医師：I see. Let’s talk about your physical symptoms. Are you experiencing chest pain or shortness of breath when your heart races?  
+20. 患者：No chest pain, but sometimes I feel like my heart is pounding out of my chest.  
+21. 医師：Have you had trouble sleeping or any kind of fatigue during the day?  
+22. 患者：Yes, I barely sleep because I feel so restless all the time.  
+23. 医師：What about your periods? Have they changed at all?  
+24. 患者：Yes, they’ve become lighter and less frequent.  
+25. 医師：I’ll need to examine you and check for physical changes. Have you noticed any swelling or pain in your neck?  
+26. 患者：Yes, my neck feels a bit tender, particularly around here.  
+27. 医師：When you look in the mirror, have your eyes seemed more prominent, or are you experiencing vision issues like double vision?  
+28. 患者：Sometimes I think my eyes look different—like they’re bulging out. It’s strange.  
+29. 医師：Have you felt weak in your arms or legs, like having trouble getting up from a chair or climbing stairs?  
+30. 患者：Yes, my muscles feel weaker than usual, especially in my thighs.  
+31. 医師：Alright, during the examination, I noticed that your thyroid gland is enlarged and tender, and your hands have a fine tremor. I’d also like to point out that your heart rate is faster than normal.  
+32. 患者：Is it serious, doctor? What do you think it could be?  
+33. 医師：There are several things it could be, but I want to test your thyroid function. It sounds like it might be overactive.  
+34. 患者：Thyroid? What does that mean?  
+35. 医師：The thyroid is a gland in your neck that produces hormones to regulate many body functions. If it’s overactive, it could explain many of your symptoms.  
+36. 患者：Oh, I see. What kind of tests will you do?  
+37. 医師：We’ll check your blood for thyroid hormone levels, and we’ll also do imaging to look at your thyroid gland.  
+38. 患者：That sounds fine. Is it painful?  
+39. 医師：Not at all. It’s just a blood test and a simple scan. Let me ask—have you had exposure to excess iodine, like in diet or medications?  
+40. 患者：Not that I know of; my diet hasn’t changed.  
+41. 医師：Do you consume a lot of seafood or use iodized salt heavily?  
+42. 患者：I eat seafood occasionally, but nothing excessive, and I use regular table salt.  
+43. 医師：Alright. Based on the information so far, hyperthyroidism or an overactive thyroid is likely. Sometimes it’s caused by autoimmune conditions.  
+44. 患者：Autoimmune? What would that mean for me?  
+45. 医師：It means your immune system might be mistakenly over-stimulating your thyroid. But let’s confirm with the tests first.  
+46. 患者：Thank you for explaining. Will I need treatment if it’s that?  
+47. 医師：There are effective treatments like medications to regulate the thyroid or manage symptoms like the fast heartbeat.  
+48. 患者：That gives me some relief. How soon can we start?  
+49. 医師：Once the results come back. Given your symptoms and exam findings, this is most consistent with Graves’ disease, a common cause of hyperthyroidism in younger adults.  
+50. 患者：Graves’ disease? What happens next?  
+51. 医師：We’ll start you on a medication called methimazole and possibly a beta-blocker like propranolol to manage your symptoms while reducing your thyroid hormone levels."

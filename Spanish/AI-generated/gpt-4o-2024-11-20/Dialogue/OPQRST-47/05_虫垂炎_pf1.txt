@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes. ¿Qué te trae por aquí hoy?  
+2. Paciente: Doctor, tengo un dolor abdominal muy fuerte en el lado inferior derecho.  
+3. Médico: Lo siento mucho. ¿Hace cuánto empezó el dolor?  
+4. Paciente: Comenzó hace unas 24 horas.  
+5. Médico: ¿Puedes describir cómo empezó?  
+6. Paciente: Al principio era un dolor leve y estaba en la parte superior del abdomen, en el centro, pero luego se fue bajando al lado derecho y se volvió más intenso.  
+7. Médico: ¿Has sentido náuseas o vómitos?  
+8. Paciente: Sí, he tenido náuseas, pero no he vomitado.  
+9. Médico: Entiendo. ¿Has notado fiebre u otros síntomas como diarrea o estreñimiento?  
+10. Paciente: No he tenido diarrea, pero creo que anoche tuve algo de fiebre.  
+11. Médico: Según lo que recuerdas, ¿te tomaste la temperatura?  
+12. Paciente: No, pero me sentía más caliente de lo normal.  
+13. Médico: ¿Has tenido alguna cirugía en el pasado o alguna enfermedad crónica?  
+14. Paciente: No, nunca he pasado por quirófano y no tengo enfermedades.  
+15. Médico: ¿Has notado cambios en tus hábitos intestinales, como estreñimiento o sangre en las heces?  
+16. Paciente: No, todo normal en ese aspecto.  
+17. Médico: ¿El dolor se mantiene constante o tiene momentos en los que empeora o mejora?  
+18. Paciente: Es constante, pero parece que duele más cuando me muevo o cuando toco la zona.  
+19. Médico: ¿Has tomado algún medicamento para intentar aliviar el dolor?  
+20. Paciente: Solo un ibuprofeno, pero no ayudó mucho.  
+21. Médico: ¿Tienes otras molestias, como dolor al orinar o flujo vaginal anormal?  
+22. Paciente: No, nada de eso.  
+23. Médico: ¿El dolor es punzante, ardoroso o como presión?  
+24. Paciente: Es como un dolor muy fuerte y constante.  
+25. Médico: ¿Trabajo o actividades físicas recientes que puedan haber desencadenado el dolor?  
+26. Paciente: No, mi trabajo es de oficina, no hago mucho esfuerzo físico.  
+27. Médico: ¿Has tenido este dolor en el pasado?  
+28. Paciente: No, nunca me había pasado algo así.  
+29. Médico: ¿Hay alguien en tu familia que haya tenido problemas similares de dolor abdominal?  
+30. Paciente: No que yo recuerde.  
+31. Médico: Voy a examinar tu abdomen ahora, ¿de acuerdo?  
+32. Paciente: Sí, está bien.  
+33. Médico: (Explorando) ¿Duele más en este punto?  
+34. Paciente: Sí, ese es el lugar donde más duele.  
+35. Médico: ¿Sientes algo cuando suelto la presión rápidamente?  
+36. Paciente: Sí, duele más cuando suelta.  
+37. Médico: Gracias por responder. Esto nos ayuda mucho. Ahora, ¿recientemente has comido algo fuera de lo habitual?  
+38. Paciente: No, mi dieta ha sido normal.  
+39. Médico: ¿Cómo está tu nivel de energía en general últimamente?  
+40. Paciente: Me siento algo cansada, pero creo que es por el dolor.  
+41. Médico: Vamos a pedir unos análisis de sangre y una ecografía para investigar más.  
+42. Paciente: Está bien, gracias por ser tan claro, doctor.  
+43. Médico: Según los análisis de sangre, tienes una inflamación e infección importante.  
+44. Paciente: ¿Eso explica el dolor?  
+45. Médico: Sí, y la ecografía muestra un apéndice inflamado. Es probable que tengas apendicitis aguda.  
+46. Paciente: ¿Eso significa que necesito cirugía?  
+47. Médico: Sí, generalmente tratamos la apendicitis con una cirugía para extraer el apéndice.  
+48. Paciente: Entiendo, confío en lo que crea mejor.  
+49. Médico: Muy bien, coordinaremos todo para que el procedimiento se realice lo antes posible.  
+50. Paciente: Gracias, doctor. Por favor, hágalo lo más pronto posible."

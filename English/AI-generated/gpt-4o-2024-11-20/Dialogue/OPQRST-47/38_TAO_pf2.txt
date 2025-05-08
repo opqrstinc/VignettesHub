@@ -1,0 +1,50 @@
+"1. 医師：Hello, how can I help you today?  
+2. 患者：Doctor, I have been having pain in my hands and feet for months, and now there are ulcers on my fingers and toes.  
+3. 医師：I’m sorry to hear that. When did the pain first start?  
+4. 患者：About six months ago, it started gradually, mostly when I was cold.  
+5. 医師：Did the pain come and go, or was it constant?  
+6. 患者：At first, it was only sometimes, especially when my hands or feet got cold, but now it's constant.  
+7. 医師：Can you describe the pain? Is it sharp, dull, or throbbing?  
+8. 患者：It's more of a burning and throbbing pain. It’s really uncomfortable.  
+9. 医師：I see. When did the ulcers start developing?  
+10. 患者：About three months ago, I noticed small sores at first, but they haven’t healed, and some of them are bleeding.  
+11. 医師：I understand. Have you noticed any changes in color or sensation in your fingers and toes?  
+12. 患者：Yes, they sometimes turn white or bluish when it’s cold and then red when they warm up.  
+13. 医師：Have you had any fever, weight loss, or other symptoms affecting your whole body?  
+14. 患者：No, I feel fine otherwise, just the pain and ulcers.  
+15. 医師：Do you have any medical conditions or take any medications regularly?  
+16. 患者：No, I’m generally healthy.  
+17. 医師：Do you have any history of smoking?  
+18. 患者：Yes, I’ve been smoking one pack a day since I was 18.  
+19. 医師：Have you tried to quit smoking before?  
+20. 患者：No, I haven’t really thought about it seriously.  
+21. 医師：Do you drink alcohol or use recreational drugs?  
+22. 患者：No, I don’t drink, and I’ve never used drugs.  
+23. 医師：Does anyone in your family have similar symptoms or autoimmune conditions?  
+24. 患者：No, my family’s health is pretty normal as far as I know.  
+25. 医師：I’d like to know, have you experienced any changes in temperature or sensation in your arms or legs?  
+26. 患者：Not that I recall, except for my fingers and toes feeling cold all the time.  
+27. 医師：Do the ulcers have any drainage or unusual smell?  
+28. 患者：No smell, but sometimes they bleed a little.  
+29. 医師：Have you noticed any swelling in your hands or feet?  
+30. 患者：Just around the ulcers, it’s a bit swollen.  
+31. 医師：Have your daily activities been affected by the pain or the ulcers?  
+32. 患者：A lot, I can’t do basic things like writing or walking long distances.  
+33. 医師：Have you tried any treatments or medications for this pain?  
+34. 患者：No, I’ve just been using bandages for the ulcers.  
+35. 医師：Do you recall any injuries or trauma to your fingers or toes?  
+36. 患者：No, nothing like that.  
+37. 医師：Do the ulcers seem to be getting worse over time?  
+38. 患者：Yes, they are not healing and seem larger than when they started.  
+39. 医師：When you are not exposed to cold, does the pain get better?  
+40. 患者：Not anymore, it’s always there now.  
+41. 医師：Do you notice anything that makes the pain worse?  
+42. 患者：Cold air or touching the ulcers makes it worse.  
+43. 医師：Have you noticed any difficulty in feeling pulses in your hands or feet?  
+44. 患者：No, I didn’t notice, but my hands and feet just feel weak and cold all the time.  
+45. 医師：Do you experience this pain on both sides or just one side?  
+46. 患者：It’s on both sides, but my right side is worse.  
+47. 医師：Have you worked in an environment with extreme temperatures before?  
+48. 患者：No, I mostly work indoors.  
+49. 医師：Based on what you’ve told me and the findings from your examination and tests, it seems you have a condition called thromboangiitis obliterans, also known as Buerger’s disease.  
+50. 患者：What is that? How serious is it?  "

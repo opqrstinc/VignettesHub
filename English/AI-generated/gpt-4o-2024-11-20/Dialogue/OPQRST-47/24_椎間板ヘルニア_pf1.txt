@@ -1,0 +1,50 @@
+"1. Physician: What brings you to the clinic today?  
+2. Patient: I've been having terrible lower back pain that shoots down my right leg.  
+3. Physician: How long have you been experiencing this pain?  
+4. Patient: It started about four weeks ago, after a day of heavy lifting at work.  
+5. Physician: Was the pain immediate, or did it come on gradually?  
+6. Patient: It started gradually, but it’s gotten worse over the weeks.  
+7. Physician: Can you describe the pain for me? Is it sharp, dull, or burning?  
+8. Patient: It’s mostly sharp and burning, especially in my right leg.  
+9. Physician: Does the pain radiate, and if so, where?  
+10. Patient: Yes, it starts from my lower back and goes all the way down the outside of my right leg.  
+11. Physician: Do you experience any numbness or weakness in your leg?  
+12. Patient: Yes, my leg feels kind of numb, and I’ve also noticed some weakness when I try to walk.  
+13. Physician: How severe would you say the pain is on a scale of 0 to 10?  
+14. Patient: When it’s bad, I’d say it's an 8 or 9.  
+15. Physician: Have you noticed anything that makes the pain better or worse?  
+16. Patient: Resting helps a little, but standing, walking, or bending makes it much worse.  
+17. Physician: Have you had any issues with bowel or bladder control?  
+18. Patient: No, I haven’t noticed any problems like that.  
+19. Physician: Any fever, recent weight loss, or trauma to your back?  
+20. Patient: No, none of those.  
+21. Physician: Have you ever experienced similar back pain in the past?  
+22. Patient: I’ve had some back pain off and on for years, but this is much worse.  
+23. Physician: Do you remember how you managed your previous episodes of back pain?  
+24. Patient: I usually just rested and took over-the-counter painkillers, but this time it’s not helping.  
+25. Physician: Do you have any other medical conditions or take any regular medications?  
+26. Patient: No, I don’t have any illnesses, and I’m not on any regular medications.  
+27. Physician: What kind of work do you do?  
+28. Patient: I work in warehousing, so there’s a lot of heavy lifting and moving around.  
+29. Physician: Does your job require any specific repetitive movements or postures?  
+30. Patient: Yes, I have to lift heavy boxes and bend a lot throughout the day.  
+31. Physician: Has this pain affected your ability to work or carry out daily activities?  
+32. Patient: Yes, I can barely walk without pain, and it’s been tough doing anything around the house or at work.  
+33. Physician: Does the pain wake you up at night?  
+34. Patient: Yes, some nights it’s so bad that I can’t sleep.  
+35. Physician: Do you feel the pain is steadily worsening or staying about the same?  
+36. Patient: It’s definitely been getting worse.  
+37. Physician: Have you tried any treatments or medications for this episode?  
+38. Patient: I’ve tried ibuprofen, but it doesn’t help much.  
+39. Physician: Has anyone in your family experienced similar back or leg issues?  
+40. Patient: Not that I’m aware of.  
+41. Physician: I’d like to better understand your symptoms. Do you feel any tingling or pins and needles?  
+42. Patient: Yes, in my right leg, especially when I sit for too long.  
+43. Physician: When you try standing or walking, do you feel your leg giving out?  
+44. Patient: Yes, it feels weak and unsteady sometimes.  
+45. Physician: I’ll be performing an exam now; please let me know if anything feels uncomfortable.  
+46. Patient: Sure, go ahead.  
+47. Physician: On examination, I can see some tenderness and limited movement in your lower back. Can you raise your right leg while lying down?  
+48. Patient: (on raising leg) Ouch! That really hurts down my leg.  
+49. Physician: Thank you for letting me know. From your symptoms and examination, I suspect a nerve in your lower spine might be compressed, possibly due to a herniated disc. I’ll arrange further tests, such as an MRI, to confirm this.  
+50. Patient: A herniated disc? That sounds serious. What does that mean?  "

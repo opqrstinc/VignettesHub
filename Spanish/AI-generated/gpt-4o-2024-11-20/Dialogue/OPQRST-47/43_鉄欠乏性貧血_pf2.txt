@@ -1,0 +1,50 @@
+"1. Médico: Hola, señora. ¿Qué la trae por aquí hoy?  
+2. Paciente: Doctor, llevo unos meses sintiéndome muy cansada, me falta el aire cuando camino y a veces siento que el corazón se me acelera mucho.  
+3. Médico: Entiendo. ¿Desde cuándo comenzó a notar estos síntomas?  
+4. Paciente: Pues, hace como tres meses, pero al principio no le di mucha importancia.  
+5. Médico: ¿Ha notado si estos síntomas han ido empeorando con el tiempo?  
+6. Paciente: Sí, cada vez me siento más cansada y me cuesta hacer cosas que antes hacía sin problema, como subir escaleras o caminar largas distancias.  
+7. Médico: ¿Ha tenido algún dolor en el pecho o mareos acompañando estos episodios?  
+8. Paciente: No, ninguno de esos síntomas, doctor.  
+9. Médico: ¿Ha notado alguna pérdida de peso involuntaria o algún cambio en su apetito?  
+10. Paciente: No he perdido peso ni he tenido problemas con el apetito.  
+11. Médico: ¿Alguna vez ha tenido problemas de salud similares en el pasado?  
+12. Paciente: No, siempre he sido bastante saludable.  
+13. Médico: ¿Y en su familia, alguien ha tenido problemas de salud que crea que sean relevantes? Enfermedades del corazón, pulmones o anemia, por ejemplo.  
+14. Paciente: No que yo sepa, mi familia está bastante sana.  
+15. Médico: ¿Consume algún medicamento regularmente o algún suplemento?  
+16. Paciente: No, no tomo nada.  
+17. Médico: ¿Fuma, consume alcohol o alguna otra sustancia?  
+18. Paciente: No, nunca he fumado ni tomo alcohol.  
+19. Médico: Cuando siente que el corazón late rápido, ¿es en reposo o cuando está haciendo esfuerzo?  
+20. Paciente: Normalmente sucede cuando estoy en movimiento, como al caminar rápido.  
+21. Médico: ¿Ha notado algún brillo inusual en la piel o una sensación de frío constante?  
+22. Paciente: A decir verdad, me he notado bastante pálida, y siempre tengo las manos frías.  
+23. Médico: Entendido. ¿Cómo han sido sus hábitos alimenticios durante los últimos meses?  
+24. Paciente: Pues, no creo que sean malos, pero sí suelo comer rápido y a veces me salto comidas.  
+25. Médico: ¿Diría que incluye suficientes alimentos ricos en hierro, como carnes rojas, legumbres o espinacas?  
+26. Paciente: Ahora que lo menciona, no mucho. No soy muy fanática de las carnes y prefiero alimentos más ligeros.  
+27. Médico: ¿Ha notado algún sangrado, ya sea por la nariz, en las encías o en las heces?  
+28. Paciente: No, no he tenido eso.  
+29. Médico: ¿Qué me puede decir sobre su menstruación? ¿Algún cambio reciente o sangrados muy abundantes?  
+30. Paciente: Bueno, mis periodos son regulares, pero creo que el sangrado a veces es un poco abundante.  
+31. Médico: Eso podría darnos pistas. Voy a preguntarle por otros síntomas, aunque diferentes, para descartar otras cosas. ¿Dolores en las articulaciones, por ejemplo?  
+32. Paciente: No, nada de eso.  
+33. Médico: ¿Su digestión está normal o ha tenido cambios como estreñimiento o diarrea frecuentes?  
+34. Paciente: No, todo bien en ese aspecto.  
+35. Médico: Perfecto. Voy a revisarla ahora. ¿Le molesta si comienzo?  
+36. Paciente: Claro, adelante.  
+37. Médico: He notado algo de palidez en su piel y mucosas, pero por lo demás, parece todo en orden. Su corazón y pulmones suenan normales.  
+38. Paciente: Bueno, eso me alivia.  
+39. Médico: Vamos a hacer unos análisis de sangre para entender mejor lo que está pasando, ¿le parece bien?  
+40. Paciente: Sí, lo que sea necesario.  
+41. Médico: Bien. Espero que los resultados nos den más claridad. Mientras tanto, ¿hay algo más que le preocupe?  
+42. Paciente: No, solo quiero recuperar mi energía.  
+43. Médico: Entendido. Los resultados muestran que tiene anemia, con niveles bajos de hemoglobina y ferritina. Esto indica que puede tratarse de una falta de hierro en la sangre.  
+44. Paciente: ¿Y eso es grave, doctor?  
+45. Médico: No necesariamente, pero necesitamos tratarlo para que se sienta mejor.  
+46. Paciente: ¿Y cómo se trata esto?  
+47. Médico: Vamos a darle hierro en pastillas, junto con vitamina C para que lo absorba mejor. También deberá incluir más alimentos ricos en hierro en su dieta.  
+48. Paciente: Está bien, haré lo que sea necesario.  
+49. Médico: También evite consumir lácteos o té cerca de las comidas principales, ya que pueden dificultar la absorción del hierro.  
+50. Paciente: Lo voy a tener en cuenta. Muchas gracias, doctor."

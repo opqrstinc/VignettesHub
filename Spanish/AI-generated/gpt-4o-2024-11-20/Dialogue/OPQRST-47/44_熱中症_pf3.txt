@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señor. ¿Qué lo trae hoy al hospital?  
+2. Paciente: Doctor, hoy he estado sintiéndome muy mal, con mareos fuertes y dolor de cabeza.  
+3. Médico: Entiendo. ¿Desde cuándo comenzó a sentirse de esta manera?  
+4. Paciente: Empezó hace como unas cinco horas, mientras estaba haciendo jardinería en mi casa.  
+5. Médico: ¿Podría describir un poco más qué hacía exactamente cuando comenzaron los síntomas?  
+6. Paciente: Sí, estaba todo el día trabajando en el jardín, desmalezando y arreglando las plantas. Me sentí muy acalorado y de repente me mareé.  
+7. Médico: ¿Recuerda si tomó suficiente agua mientras hacía estas actividades al aire libre?  
+8. Paciente: No, para ser honesto, creo que casi no bebí agua, y hacía mucho calor hoy.  
+9. Médico: Entonces, además del mareo y la cefalea, ¿qué otros síntomas ha notado?  
+10. Paciente: He tenido calambres en las piernas y me siento muy débil.  
+11. Médico: ¿Cómo describiría esos calambres? ¿Son constantes o van y vienen?  
+12. Paciente: Son intermitentes, pero bastante dolorosos.  
+13. Médico: ¿Ha sentido que suda menos de lo usual o tiene la piel más seca de lo normal?  
+14. Paciente: Sí, estaba sudando mucho al principio, pero luego mi piel se quedó seca y muy caliente.  
+15. Médico: ¿Ha tenido fiebre o ha sentido que su temperatura corporal está más alta de lo normal?  
+16. Paciente: No he podido medir mi temperatura, pero siento que todo mi cuerpo está ardiendo por dentro.  
+17. Médico: ¿Le duele algún músculo en especial o siente rigidez en las extremidades?  
+18. Paciente: Estoy un poco rígido, sobre todo en las piernas, y los calambres no ayudan.  
+19. Médico: ¿Alguna vez ha tenido algo parecido después de trabajar en el jardín u otra actividad física?  
+20. Paciente: No, es la primera vez que me pasa algo así. Siempre trabajé en el jardín sin problemas.  
+21. Médico: ¿Tiene algún antecedente médico como hipertensión, diabetes o problemas del corazón?  
+22. Paciente: No, doctor, siempre he gozado de buena salud.  
+23. Médico: ¿Toma algún medicamento regularmente?  
+24. Paciente: No, ninguno.  
+25. Médico: ¿Sabe si es alérgico a algún medicamento o sustancia?  
+26. Paciente: No, no tengo alergias conocidas.  
+27. Médico: ¿Algún familiar está aquí con usted o puede confirmar esto por si acaso olvida algo?  
+28. Paciente: No, vine solo. Pero estoy seguro de lo que le he contado.  
+29. Médico: Muy bien. ¿Ha notado si su orina ha disminuido hoy o si su color ha cambiado?  
+30. Paciente: Ahora que lo menciona, he orinado mucho menos de lo normal y se ve más oscura.  
+31. Médico: Gracias. Por último, antes de que empecemos con su examen físico, ¿recuerda haber tenido algún desmayo o pérdida de la conciencia?  
+32. Paciente: No, no he tenido desmayos. Solo mucho mareo, pero estuve consciente todo el tiempo.  
+33. Médico: Perfecto. Ahora, voy a examinarlo, pero quiero saber, ¿cómo se siente emocionalmente? ¿Está preocupado por algo que le haya ocurrido recientemente?  
+34. Paciente: La verdad estoy preocupado por esta sensación de no poder moverme bien y el calor intenso. No sé si es algo grave.  
+35. Médico: Comprendo su inquietud, lo evaluaremos a fondo para asegurarnos de entender la causa. ¿Cómo describiría su nivel de energía últimamente?  
+36. Paciente: Bueno, hoy está muy bajo. Me siento agotado y débil.  
+37. Médico: Cuando trabajaba en el jardín, ¿estuvo expuesto directamente al sol por mucho tiempo?  
+38. Paciente: Sí, estuve trabajando en un área sin sombra casi toda la mañana.  
+39. Médico: ¿Utilizó gorra, protector solar o algo para protegerse del calor?  
+40. Paciente: No, no usé nada, sólo una camisa de manga corta.  
+41. Médico: De acuerdo. En la exploración veo que su piel está caliente, seca y con enrojecimiento. ¿Esto empezó junto con los otros síntomas?  
+42. Paciente: Sí, todo al mismo tiempo.  
+43. Médico: Voy a revisar su presión arterial, pulso y temperatura corporal ahora.  
+44. Paciente: Está bien, doctor, hágalo sin problemas.  
+45. Médico: Su presión está baja y su temperatura es muy elevada. Esto podría ser un golpe de calor.  
+46. Paciente: ¡Golpe de calor! ¿Eso es peligroso, doctor?  
+47. Médico: Puede ser grave, pero vamos a manejarlo inmediatamente para estabilizarle.  
+48. Paciente: Gracias, doctor. Estoy listo para hacer lo que sea necesario.  
+49. Médico: Para comenzar, vamos a enfriarlo y administrarle líquidos por vía intravenosa.  
+50. Paciente: Está bien. Confío en usted, doctor."

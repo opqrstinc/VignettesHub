@@ -1,0 +1,50 @@
+"1. Médico: Hola, señora. Me llamo Dr. Martínez. ¿Qué la trae al hospital hoy?  
+2. Paciente: Doctor, hace unos 30 minutos sentí algo muy extraño. Se me durmieron la mano y el pie derechos, y no podía hablar bien.  
+3. Médico: Entiendo. ¿Puede describir exactamente cómo empezó?  
+4. Paciente: Estaba sentada, tranquila, y de repente noté como un hormigueo en mi mano derecha, luego en el pie. También las palabras no me salían bien.  
+5. Médico: ¿Cuánto tiempo duraron esos síntomas?  
+6. Paciente: Creo que como unos 15 o 20 minutos, después se quitaron solos.  
+7. Médico: ¿Ha tenido algo similar antes?  
+8. Paciente: No, nunca me había pasado algo así.  
+9. Médico: ¿Perdió el conocimiento en algún momento?  
+10. Paciente: No, doctor, me mantuve despierta todo el tiempo.  
+11. Médico: ¿Sintió debilidad en alguna parte del cuerpo?  
+12. Paciente: No, solo ese hormigueo y la dificultad para hablar.  
+13. Médico: ¿Tuvo algún dolor de cabeza, náuseas o vómitos?  
+14. Paciente: No, nada de dolor de cabeza ni malestar.  
+15. Médico: ¿Tiene antecedentes médicos como presión alta, diabetes o colesterol elevado?  
+16. Paciente: Sí, tengo presión alta desde hace varios años.  
+17. Médico: ¿Está tomando medicamentos para controlarla?  
+18. Paciente: Sí, tomo una pastilla al día, creo que se llama enalapril.  
+19. Médico: ¿Cuándo fue la última vez que se chequeó la presión arterial?  
+20. Paciente: Hace unas dos semanas, estaba algo alta, pero no recuerdo el número exacto.  
+21. Médico: ¿Fuma o consume alcohol?  
+22. Paciente: No fumo y solo tomo algo de vino en ocasiones especiales.  
+23. Médico: ¿Hubo algo que pudiera haber desencadenado los síntomas, como un esfuerzo físico o estrés?  
+24. Paciente: No, estaba tranquila, viendo televisión antes de que ocurriera.  
+25. Médico: ¿Alguien más notó que tenía dificultad para hablar?  
+26. Paciente: Sí, mi esposo lo notó. Él estaba preocupado porque no podía entenderme bien.  
+27. Médico: ¿Qué le dijo su esposo sobre cómo reaccionó usted en ese momento?  
+28. Paciente: Dijo que intenté hablar, pero sonaban palabras raras, como si estuviera confundida, pero yo entendía todo lo que él decía.  
+29. Médico: ¿Ha tenido algún dolor en el pecho o palpitaciones recientemente?  
+30. Paciente: No, nada de eso.  
+31. Médico: Ahora la voy a examinar. ¿Me puede decir su nombre y la fecha de hoy?  
+32. Paciente: Soy María García y hoy es 10 de octubre.  
+33. Médico: Muy bien. ¿Puede levantar ambos brazos al mismo tiempo y mantenerlos así?  
+34. Paciente: Claro, no hay problema.  
+35. Médico: Perfecto. Voy a revisar su presión arterial. ¿Está bien?  
+36. Paciente: Sí, adelante.  
+37. Médico: Su presión está un poco elevada, 160 sobre 95. ¿Cómo suele estar?  
+38. Paciente: A veces alta, pero hay días que está bien.  
+39. Médico: Voy a escuchar su corazón y sus arterias. ¿Ha tenido algún soplo o problema cardíaco antes?  
+40. Paciente: No, nunca me han dicho que tenga problemas del corazón.  
+41. Médico: ¿Ha tenido estudios previos, como análisis de colesterol o azúcar en sangre?  
+42. Paciente: Sí, mi médico mencionó que tenía el colesterol un poco alto.  
+43. Médico: ¿Le recomendaron tratamiento para el colesterol?  
+44. Paciente: Sí, pero creo que nunca lo tomé porque me sentía bien.  
+45. Médico: Vamos a realizarle algunos estudios. ¿Está de acuerdo, señora García?  
+46. Paciente: Sí, doctor, lo que sea necesario.  
+47. Médico: Después de revisar sus síntomas y estudios, parece que tuvo un ataque isquémico transitorio, probablemente debido a factores de riesgo como la hipertensión y el colesterol elevado.  
+48. Paciente: ¿Eso es algo grave, doctor?  
+49. Médico: Es una advertencia. No hubo daño permanente, pero necesitamos trabajar en sus factores de riesgo para prevenir algo más serio como un derrame cerebral.  
+50. Paciente: Entiendo, doctor. Haré lo que sea necesario.  "

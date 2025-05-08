@@ -1,0 +1,60 @@
+"1. 医師：Hello, what brings you in today?  
+2. 患者：I’ve been having trouble swallowing food, especially solids.  
+3. 医師：When did this problem with swallowing start?  
+4. 患者：About three months ago, and it’s slowly getting worse.  
+5. 医師：Do you choke or cough when trying to swallow?  
+6. 患者：Yes, I’ve had a few choking episodes, mainly with solid foods.  
+7. 医師：Have you noticed difficulty with liquids as well?  
+8. 患者：Not as much as with solid food, but yes, sometimes.  
+9. 医師：Have you noticed any changes in your voice or speech?  
+10. 患者：Yes, my voice sometimes sounds nasal or weird, especially when I’m tired.  
+11. 医師：Have you been feeling weak or tired in general?  
+12. 患者：Yes, I feel weak, especially later in the day or after doing something physical.  
+13. 医師：Can you describe the weakness? Is it more in the arms, legs, or both?  
+14. 患者：It’s in both. I have trouble lifting my arms and climbing stairs.  
+15. 医師：Does the weakness get better with rest?  
+16. 患者：Yes, I feel better after resting, but it comes back.  
+17. 医師：Have you noticed droopy eyelids or any changes in your vision?  
+18. 患者：Yes, my eyelids seem droopy, especially when I look up for a while.  
+19. 医師：Do you experience double vision or trouble focusing?  
+20. 患者：Sometimes, especially when I’m really tired.  
+21. 医師：Have you had any fever, recent illness, or infections?  
+22. 患者：No, none of those.  
+23. 医師：Any history of joint pain or swelling?  
+24. 患者：No, my joints have been fine.  
+25. 医師：Do you have any other medical conditions?  
+26. 患者：I have diabetes, but it’s been controlled with my medications.  
+27. 医師：What medication are you taking for diabetes?  
+28. 患者：I’m on metformin, 500 mg, twice a day.  
+29. 医師：Any family history of muscle problems or autoimmune diseases?  
+30. 患者：Not that I know of.  
+31. 医師：Are there any activities that make your symptoms worse?  
+32. 患者：Yes, anything physical, like exercising or even carrying groceries.  
+33. 医師：And do you feel your symptoms are getting progressively worse?  
+34. 患者：Yes, they’ve been slowly worsening over the past few months.  
+35. 医師：Are you able to work or perform daily activities like before?  
+36. 患者：No, I’ve been struggling to keep up with my job and housework.  
+37. 医師：How are you feeling emotionally? These symptoms must be quite challenging.  
+38. 患者：It’s been really frustrating and stressful not knowing what’s wrong.  
+39. 医師：We’ll do our best to figure this out. Have you had any difficulty breathing?  
+40. 患者：Not really, but sometimes it feels hard to take a deep breath.  
+41. 医師：I noticed your eyelids seem droopy. Does it get worse throughout the day?  
+42. 患者：Yes, it starts off okay in the morning and gets worse by evening.  
+43. 医師：Have you ever had any surgeries or significant illnesses in the past?  
+44. 患者：No, just the diabetes diagnosis five years ago.  
+45. 医師：Do you smoke or drink alcohol?  
+46. 患者：No, I don’t smoke, and I only drink occasionally.  
+47. 医師：Have you noticed any sensations like numbness or tingling in your arms or legs?  
+48. 患者：No, my sensation seems normal.  
+49. 医師：Do your symptoms ever fluctuate day to day, or are they mostly constant?  
+50. 患者：They seem worse later in the day or after doing something tiring.  
+51. 医師：Based on what you’ve shared and our findings, I suspect you may have myasthenia gravis, a condition that affects the communication between your nerves and muscles.  
+52. 患者：Myasthenia gravis? What is it?  
+53. 医師：It’s an autoimmune condition where your immune system produces antibodies that interfere with the signals from nerves to muscles, causing weakness.  
+54. 患者：Is it treatable?  
+55. 医師：Yes, there are medications like pyridostigmine and sometimes steroids that can help improve muscle strength. We’ll also check for any underlying involvement, like a thymoma.  
+56. 患者：What’s a thymoma?  
+57. 医師：It’s a growth in the thymus gland that can sometimes trigger myasthenia gravis. We’ll do imaging to check for it.  
+58. 患者：Okay. What’s the plan now?  
+59. 医師：We’ll order some tests to confirm the diagnosis and check for antibodies related to this condition. Once we have more information, we’ll start the appropriate treatment.  
+60. 患者：Thank you, doctor. I just want to feel better."

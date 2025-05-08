@@ -1,0 +1,102 @@
+"1.  
+Médico: Hola, señora. ¿En qué puedo ayudarle hoy?  
+2.  
+Paciente: Hola, doctor. Desde hace dos semanas tengo un dolor muy fuerte en la cara, en el lado izquierdo.  
+3.  
+Médico: Lo siento. ¿Cómo describiría ese dolor?  
+4.  
+Paciente: Es como un latigazo o una punzada muy intensa.  
+5.  
+Médico: ¿El dolor es constante o viene y va?  
+6.  
+Paciente: Son episodios cortos, duran unos segundos, pero se repiten muchas veces al día.  
+7.  
+Médico: ¿Qué suele desencadenar estos episodios de dolor?  
+8.  
+Paciente: A veces al comer, hablar o incluso si me toco la piel ligeramente.  
+9.  
+Médico: Entiendo. ¿Recuerda si el dolor empezó de una forma específica o repentina?  
+10.  
+Paciente: Fue de repente, no entendí por qué comenzó.  
+11.  
+Médico: ¿Ha tenido algún golpe en la cara o algún trauma reciente?  
+12.  
+Paciente: No, nada de eso.  
+13.  
+Médico: ¿Ha tenido fiebre, pérdida de peso o algún otro síntoma reciente?  
+14.  
+Paciente: No, me siento bien en general, excepto por el dolor.  
+15.  
+Médico: ¿El dolor se queda en un solo lugar o se mueve a otras áreas de la cara?  
+16.  
+Paciente: Siempre está en el mismo lado, desde la mejilla hasta la mandíbula.  
+17.  
+Médico: ¿Le cuesta realizar algunas actividades por el dolor?  
+18.  
+Paciente: Sí, a veces hasta hablar o comer es difícil.  
+19.  
+Médico: ¿Ha notado debilidad o parálisis en alguno de los músculos de su cara?  
+20.  
+Paciente: No, mis músculos están normales.  
+21.  
+Médico: ¿Algún problema con la visión, como visión borrosa o dolor ocular?  
+22.  
+Paciente: No, con mis ojos todo está bien.  
+23.  
+Médico: ¿Tiene antecedentes médicos, como diabetes, hipertensión o problemas neurológicos?  
+24.  
+Paciente: No, nunca he tenido problemas de salud importantes.  
+25.  
+Médico: ¿Ha notado alguna erupción o cambio en la piel del área afectada?  
+26.  
+Paciente: No, mi piel se ve normal.  
+27.  
+Médico: ¿Qué tan intensa es el dolor en una escala de 1 a 10?  
+28.  
+Paciente: Cuando me da el episodio, diría que es un 9 o hasta un 10.  
+29.  
+Médico: ¿El dolor le despierta durante la noche?  
+30.  
+Paciente: No, solo aparece durante el día.  
+31.  
+Médico: ¿Algún miembro de su familia tiene algo similar?  
+32.  
+Paciente: No, nadie tiene estos problemas.  
+33.  
+Médico: Voy a examinarle ahora. Aviseme si siente dolor o sensibilidad.  
+34.  
+Paciente: De acuerdo, doctor.  
+35.  
+Médico: ¿Siente esta área más sensible al tocarla?  
+36.  
+Paciente: Sí, justo ahí duele más cuando lo toca.  
+37.  
+Médico: Bien. ¿El dolor se siente en esta misma área durante los episodios?  
+38.  
+Paciente: Sí, exactamente ahí es donde duele.  
+39.  
+Médico: Los reflejos faciales parecen estar intactos. ¿Alguna vez ha tenido problemas con el movimiento de los ojos o reflejos?  
+40.  
+Paciente: No, todo sigue igual con mis ojos y los reflejos.  
+41.  
+Médico: Necesitamos realizar una resonancia magnética para verificar la anatomía de su nervio facial y descartar otras posibles causas.  
+42.  
+Paciente: Claro, lo que sea necesario, doctor.  
+43.  
+Médico: También haremos análisis de sangre para descartar otras condiciones.  
+44.  
+Paciente: Perfecto, doctor, estoy preocupada por este dolor.  
+45.  
+Médico: Es comprensible. Mientras tanto, trataré de pensar en las posibles causas y opciones de tratamiento.  
+46.  
+Paciente: Gracias por explicarme, doctor. Espero que encontremos una solución.  
+47.  
+Médico: Según sus síntomas y resultados normales de los estudios, parece ser una neuralgia del trigémino idiopática.  
+48.  
+Paciente: Eso suena serio. ¿Qué significa exactamente?  
+49.  
+Médico: Es una condición que afecta el nervio trigémino, causando el dolor que describe.  
+50.  
+Paciente: ¿Tiene tratamiento?  
+51.  
+Médico: Sí, comenzaremos con un medicamento llamado carbamazepina, que es efectivo para controlar este tipo de dolor.  "

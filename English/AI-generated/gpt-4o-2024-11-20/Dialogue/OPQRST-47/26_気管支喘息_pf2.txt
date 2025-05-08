@@ -1,0 +1,52 @@
+"1. Physician: Can you tell me what brings you in today?  
+2. Patient: I've been having trouble breathing for the past two weeks.  
+3. Physician: Can you describe your breathing trouble in more detail?  
+4. Patient: It feels like I can't catch my breath, and I have this persistent coughing.  
+5. Physician: When do you notice these symptoms the most?  
+6. Patient: Mostly at night, or when I'm doing something active.  
+7. Physician: Does the cold air or early morning make it worse?  
+8. Patient: Yes, it’s definitely worse in the morning and when it’s cold.  
+9. Physician: Have you experienced chest tightness or wheezing?  
+10. Patient: Yes, my chest feels tight, and sometimes I hear myself wheezing.  
+11. Physician: Have these symptoms happened before?  
+12. Patient: A few times over the last year, but not this bad.  
+13. Physician: Were they worse during certain seasons?  
+14. Patient: Yes, usually in the spring and fall.  
+15. Physician: Have you noticed any triggers for your symptoms, like allergies or dust exposure?  
+16. Patient: I think dust and pollen might make it worse.  
+17. Physician: Have you had any other symptoms like fever, weight loss, or fatigue?  
+18. Patient: No, none of those.  
+19. Physician: Any history of similar breathing problems in the past?  
+20. Patient: I’ve had allergic rhinitis since I was a kid, but no one mentioned asthma.  
+21. Physician: Are you taking any regular medications?  
+22. Patient: No, I don’t take anything regularly.  
+23. Physician: Do you smoke or have you been around smokers?  
+24. Patient: No, I’ve never smoked, and there’s no one smoking around me.  
+25. Physician: Any recent colds or respiratory infections?  
+26. Patient: No, I haven’t been sick recently.  
+27. Physician: Any issues with your work or school environment, like dust or fumes?  
+28. Patient: No, just the usual stuff at school.  
+29. Physician: How is your general energy level during the day?  
+30. Patient: Pretty normal, I think.  
+31. Physician: On a typical day, how much physical activity are you able to do?  
+32. Patient: Not much lately because my breathing gets worse when I exercise.  
+33. Physician: Do you wake up at night because of your symptoms?  
+34. Patient: Yes, sometimes.  
+35. Physician: Have you noticed any other symptoms, like nausea or dizziness?  
+36. Patient: No, just the trouble breathing and coughing.  
+37. Physician: Do you feel like your symptoms are getting worse over time?  
+38. Patient: Yes, they seem more frequent and harder to manage now.  
+39. Physician: How often do you hear wheezing sounds?  
+40. Patient: Almost every time I have trouble breathing.  
+41. Physician: Do these symptoms improve at all with rest?  
+42. Patient: A little, but not completely.  
+43. Physician: Does taking deep breaths help or hurt?  
+44. Patient: It sometimes feels like I can’t take a full deep breath.  
+45. Physician: Have your symptoms ever felt life-threatening or scary?  
+46. Patient: It’s been scary, but I haven't felt like I was going to pass out.  
+47. Physician: Do you have a family history of asthma or allergies?  
+48. Patient: My mom and brother have hay fever, but that’s all I know of.  
+49. Physician: Have you noticed any strange smells or exposures causing this?  
+50. Patient: No, it seems more related to dust or changes in weather.  
+51. Physician: Based on what you’ve told me and my evaluation, this is likely asthma, specifically triggered by allergies and activity.  
+52. Patient: Oh, I didn’t think of asthma, but it does make sense."

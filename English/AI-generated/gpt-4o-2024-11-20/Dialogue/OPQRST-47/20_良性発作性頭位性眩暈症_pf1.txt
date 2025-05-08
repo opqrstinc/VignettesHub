@@ -1,0 +1,58 @@
+"1. 医師：Good morning, sir. What brings you to the clinic today?  
+2. 患者：Good morning, doctor. I've been feeling this spinning sensation when I move my head, especially in the morning.  
+3. 医師：How long have you been experiencing this spinning sensation?  
+4. 患者：It started about two days ago and has been happening on and off since then.  
+5. 医師：Can you describe the spinning sensation in more detail? How does it feel?  
+6. 患者：It feels like the whole room is spinning around me. It lasts less than a minute, but it’s very unsettling.  
+7. 医師：Does it happen every time you move your head in a certain direction?  
+8. 患者：Yes, particularly when I get out of bed or look up quickly.  
+9. 医師：Have you noticed any hearing loss, ringing in the ears, or ear pain accompanying the dizziness?  
+10. 患者：No, none of those. My ears feel fine.  
+11. 医師：What about vision problems like double vision or trouble focusing?  
+12. 患者：No, I haven’t had any issues with my vision.  
+13. 医師：Have you experienced any difficulty speaking, swallowing, or weakness in your arms or legs?  
+14. 患者：No, not at all. Everything feels normal except for the vertigo.  
+15. 医師：Have you ever fainted or felt like you were going to pass out?  
+16. 患者：No, I’ve never lost consciousness.  
+17. 医師：Do you have any medical conditions I should know about?  
+18. 患者：Yes, I have high blood pressure and diabetes, but they’re under control with medication.  
+19. 医師：Have you started any new medications recently, or have you had any recent illnesses or injuries?  
+20. 患者：No new medications, and I haven’t been sick or injured lately.  
+21. 医師：Do you remember if anything triggered the first episode of vertigo?  
+22. 患者：Not exactly, but it happened after I got out of bed in the morning.  
+23. 医師：Have you noticed that your symptoms are worse at any particular time of day?  
+24. 患者：Yes, mornings are the worst, especially when I try to get up.  
+25. 医師：Does anything make the spinning sensation go away or make it worse?  
+26. 患者：It usually stops if I stay still, but moving my head makes it worse.  
+27. 医師：Have you experienced anything like this before?  
+28. 患者：No, this is the first time this has ever happened.  
+29. 医師：How is this affecting your daily life?  
+30. 患者：It’s making it hard to get out of bed and start my day, but once I’m upright and careful, I can manage.  
+31. 医師：Do you feel anxious or stressed about these episodes?  
+32. 患者：A little, yes. It’s scary when it happens, but I’m managing.  
+33. 医師：Do you live alone, or do you have someone at home to help if needed?  
+34. 患者：I live with my wife, and she’s been supportive.  
+35. 医師：Thank you. I’d like to do a physical exam now to understand your symptoms better. May I proceed?  
+36. 患者：Of course, go ahead.  
+37. 医師：I’m going to check your eyes and perform a test called the Dix-Hallpike maneuver. You might feel some spinning during this. Is that okay?  
+38. 患者：Sure, doctor. Let’s do it.  
+39. 医師：I’ll start by turning your head to the right and quickly lowering you backwards. Try to relax.  
+40. 患者：Alright, I’m ready.  
+(The Dix-Hallpike maneuver is performed, and vertigo is reproduced with nystagmus.)  
+41. 医師：It looks like the spinning sensation is triggered with this maneuver, and I see nystagmus in your eyes. How are you feeling now?  
+42. 患者：It’s a little unsettling, but I’m okay.  
+43. 医師：This result is consistent with a condition called benign paroxysmal positional vertigo, or BPPV. It’s caused by tiny crystals in your inner ear shifting out of place.  
+44. 患者：BPPV? I’ve never heard of that. Is it serious?  
+45. 医師：It’s not serious or life-threatening, and it’s usually fixable with proper maneuvers. Would you like me to explain the next steps?  
+46. 患者：Yes, please.  
+47. 医師：I’ll perform a procedure called the Epley maneuver right now. It helps reposition the crystals in your inner ear.  
+48. 患者：Okay, let’s do it.  
+49. 医師：Great, just follow my instructions as I help guide your head through the positions.  
+50. 患者：Alright, I trust you, doctor.  
+(The Epley maneuver is performed successfully.)  
+51. 医師：That’s it. How do you feel now?  
+52. 患者：Actually, I feel much better! The spinning seems to be gone.  
+53. 医師：That’s excellent. It can take some time for full recovery, so avoid quick head movements for now.  
+54. 患者：Thank you so much, doctor. I’ll be careful.  
+55. 医師：You’re welcome. If the symptoms return, we can repeat the maneuver. Take care!  
+"

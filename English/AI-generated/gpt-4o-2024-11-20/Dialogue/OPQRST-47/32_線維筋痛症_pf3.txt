@@ -1,0 +1,51 @@
+"1. Physician: Good morning, how are you feeling today?  
+2. Patient: I've been feeling pretty exhausted and sore all over for months now, honestly.  
+3. Physician: I understand. Where exactly do you feel the pain?  
+4. Patient: It's hard to pinpoint; it's pretty much everywhere—my neck, shoulders, back, and even my thighs.  
+5. Physician: Is the pain sharp or dull? Does it come and go?  
+6. Patient: It's more of a dull, constant ache. It’s there all the time.  
+7. Physician: When did this pain begin?  
+8. Patient: About six or seven months ago, maybe longer.  
+9. Physician: Was there any specific event or injury before the pain started?  
+10. Patient: No, nothing like that. It just seemed to gradually appear.  
+11. Physician: Have you noticed any particular triggers that make the pain worse?  
+12. Patient: Stress definitely makes it worse, and so does cold weather.  
+13. Physician: How has the pain affected your daily activities or work?  
+14. Patient: It’s hard to concentrate at work, and I feel too tired to do much at home.  
+15. Physician: Speaking of fatigue, how would you describe your energy levels recently?  
+16. Patient: I feel drained all the time, no matter how much I sleep.  
+17. Physician: Do you feel refreshed when you wake up in the morning?  
+18. Patient: Not at all. I wake up feeling just as tired as when I went to bed.  
+19. Physician: Do you also experience stiffness in the mornings?  
+20. Patient: Yes, my whole body feels stiff, especially in the morning—it lasts for over an hour.  
+21. Physician: Any other symptoms you’ve noticed?  
+22. Patient: Sometimes I get these really bad headaches, and my memory feels foggy.  
+23. Physician: How often do you have these headaches?  
+24. Patient: Maybe once or twice a week, but they're not my biggest concern.  
+25. Physician: Are you able to pinpoint anything that helps with the pain or fatigue?  
+26. Patient: Not really. I just manage to get through the day somehow.  
+27. Physician: Have you tried any medications or therapies for the pain?  
+28. Patient: I’ve taken over-the-counter painkillers, but they don’t really help.  
+29. Physician: Has your mood been affected by how you’re feeling physically?  
+30. Patient: I feel really down some days, like everything is just too much to handle.  
+31. Physician: I’m sorry to hear that. Have you felt this way consistently or only during flare-ups?  
+32. Patient: Mostly during bad days when the pain and fatigue are overwhelming.  
+33. Physician: Do you have any difficulty with tasks that require focus or memory?  
+34. Patient: Yes, it’s hard to stay focused. At work, I keep forgetting things, which frustrates me.  
+35. Physician: Aside from work, how are things at home? Does the pain impact your family life?  
+36. Patient: I can’t keep up with chores, and my partner has to do a lot more, which makes me feel guilty.  
+37. Physician: Have you spoken with anyone else about these feelings?  
+38. Patient: No, I didn’t think there was much anyone could do to help.  
+39. Physician: I can understand why it feels that way, but we’ll try to get to the bottom of this. Do you have any history of autoimmune conditions in your family?  
+40. Patient: Not that I know of, but my mother has arthritis.  
+41. Physician: Have you experienced any swelling or redness in your joints?  
+42. Patient: No, my joints don’t look swollen, just achy all over.  
+43. Physician: How’s your sleep overall? Do you wake up frequently at night?  
+44. Patient: Yes, I wake up several times a night, and I never feel well-rested.  
+45. Physician: Do you snore or gasp for air while sleeping, as others have mentioned?  
+46. Patient: No, no one’s ever told me that.  
+47. Physician: Are you currently taking any vitamins or supplements?  
+48. Patient: I used to take multivitamins, but I’ve stopped recently.  
+49. Physician: Have you noticed any changes in your weight, appetite, or digestion?  
+50. Patient: Not really, my weight and appetite are about the same.  
+51. Physician: Based on what you’ve described and the findings from your exams and tests, it seems like you may have a condition called fibromyalgia."

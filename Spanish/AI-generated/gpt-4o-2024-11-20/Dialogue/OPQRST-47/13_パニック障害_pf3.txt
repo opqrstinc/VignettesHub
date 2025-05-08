@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes. ¿Qué lo trae por aquí hoy?  
+2. Paciente: Buenas tardes, doctor. Últimamente he tenido episodios de palpitaciones muy fuertes, me cuesta respirar, siento el pecho apretado y pienso que algo malo me va a pasar.  
+3. Médico: Entiendo. ¿Desde cuándo comenzó a sentir estos síntomas?  
+4. Paciente: Hace unos tres meses más o menos.  
+5. Médico: ¿Con qué frecuencia suceden estos episodios?  
+6. Paciente: Aproximadamente dos o tres veces por semana.  
+7. Médico: ¿Nota si ocurre en momentos específicos o en ciertas situaciones?  
+8. Paciente: No, usualmente pasan cuando estoy en reposo o hasta en la noche, cuando estoy tranquilo.  
+9. Médico: ¿Estos episodios aparecen de repente o hay algo que los desencadene?  
+10. Paciente: No hay nada en particular, simplemente comienzan de la nada y en poco tiempo se ponen muy intensos.  
+11. Médico: ¿Cuánto tiempo suelen durar estos episodios?  
+12. Paciente: Usualmente entre 20 y 30 minutos, y luego desaparecen solos.  
+13. Médico: Durante estos episodios, además de las palpitaciones, ¿qué otros síntomas experimenta?  
+14. Paciente: Además de las palpitaciones y la opresión en el pecho, siento como si fuera a perder el control, como si algo terrible fuera a suceder.  
+15. Médico: ¿Ha sentido mareo, sudoración o temblores durante estos episodios?  
+16. Paciente: Sí, algunas veces sudo mucho y tiemblo, y también me siento muy mareado.  
+17. Médico: ¿Ha experimentado dolor en el pecho que se irradia al brazo o al cuello?  
+18. Paciente: No, solo siento una presión en el pecho, pero no se extiende hacia otras partes del cuerpo.  
+19. Médico: ¿Ha tenido náuseas, sensación de ahogo o miedo a morir durante los episodios?  
+20. Paciente: Sí, siento como que me falta el aire y pienso que podría morir en ese momento.  
+21. Médico: Entendido. ¿Pasa mucho tiempo preocupado por la posibilidad de tener otro episodio?  
+22. Paciente: Sí, a veces estoy nervioso pensando que me va a pasar otra vez, y eso me genera mucho estrés.  
+23. Médico: ¿Ha notado algún cambio en su vida diaria, como evitar ciertas actividades o lugares por miedo a estos episodios?  
+24. Paciente: Más o menos, trato de no estar solo y evito salir de casa por si me ocurre en público.  
+25. Médico: ¿Tiene antecedentes médicos o alguna enfermedad diagnosticada previamente?  
+26. Paciente: No, hasta ahora siempre he estado sano.  
+27. Médico: ¿Consume alcohol, tabaco, cafeína u otras sustancias?  
+28. Paciente: No, no fumo, bebo muy poco y no tomo mucho café.  
+29. Médico: ¿Algún miembro de su familia tiene problemas similares o de ansiedad?  
+30. Paciente: No que yo sepa, mis padres y hermanos no tienen esos problemas.  
+31. Médico: ¿Cómo ha estado su estado de ánimo en general? ¿Se siente triste, desmotivado o ansioso con frecuencia?  
+32. Paciente: No, en general me siento bien, pero estos episodios me mantienen preocupado.  
+33. Médico: ¿Ha notado dificultades para dormir o cambios en su apetito?  
+34. Paciente: A veces me cuesta quedarme dormido después de un episodio, pero mi apetito está normal.  
+35. Médico: ¿Ha tenido dolores de cabeza, pérdida de memoria u otros síntomas neurológicos?  
+36. Paciente: No, nada de eso.  
+37. Médico: Antes de que estos episodios comenzaran, ¿hubo algún evento importante o estresante en su vida?  
+38. Paciente: No, nada fuera de lo normal, mi vida ha sido tranquila.  
+39. Médico: ¿Ha consultado previamente con otro médico o psicólogo por estos síntomas?  
+40. Paciente: No, esta es la primera vez que busco ayuda.  
+41. Médico: Entiendo. Vamos a revisar algunos aspectos físicos. ¿Alguna vez ha tenido problemas de tiroides o palpitaciones antes?  
+42. Paciente: No, nunca he tenido problemas de ese tipo.  
+43. Médico: ¿Ha tenido algún episodio de desmayo o pérdida de conciencia con estos síntomas?  
+44. Paciente: No, por suerte nunca me he desmayado.  
+45. Médico: ¿Alguna vez ha experimentado síntomas similares durante el ejercicio o esfuerzo físico?  
+46. Paciente: No, solo suceden cuando estoy tranquilo.  
+47. Médico: Muy bien, voy a realizar un examen físico breve. ¿Le parece bien?  
+48. Paciente: Claro, doctor.  
+49. Médico: Su exploración física parece estar en parámetros normales. Basándome en sus síntomas, sospecho que podría tratarse de un trastorno de pánico.  
+50. Paciente: ¿Qué significa eso, doctor? ¿Es algo grave?"

@@ -1,0 +1,50 @@
+"1. Physician: What brings you in today?  
+2. Patient: I've been dealing with joint pain and swelling for about six months.  
+3. Physician: Can you describe which joints are affected?  
+4. Patient: It's mainly in my fingers and wrists on both sides.  
+5. Physician: Do you feel stiffness in the morning?  
+6. Patient: Yes, it lasts over an hour before it starts to get better.  
+7. Physician: Does the stiffness or pain improve as the day progresses?  
+8. Patient: Yes, it gets better as I move around.  
+9. Physician: Have you noticed any symptoms like fatigue?  
+10. Patient: Yes, I'm always tired, and it makes daily tasks tough.  
+11. Physician: Have you had a fever, weight loss, or recent infections?  
+12. Patient: No, none of those.  
+13. Physician: Any history of significant injuries or trauma to your joints?  
+14. Patient: No, I haven't hurt them.  
+15. Physician: Do you have a personal or family history of autoimmune diseases?  
+16. Patient: No, not that I'm aware of.  
+17. Physician: How severe is the pain on a scale of 1 to 10?  
+18. Patient: It's about a 6 most of the time, but worse when I wake up.  
+19. Physician: Do you notice any redness or warmth in the swollen joints?  
+20. Patient: No redness, but they feel warm sometimes.  
+21. Physician: Has this affected your ability to do daily tasks?  
+22. Patient: Yes, even cooking or typing is difficult.  
+23. Physician: Do you have any other medical conditions?  
+24. Patient: No, I'm generally healthy.  
+25. Physician: Have you tried any medications for the pain?  
+26. Patient: Just some over-the-counter painkillers, but they don't help much.  
+27. Physician: Have you noticed any changes in your skin or nails?  
+28. Patient: No, my skin and nails seem fine.  
+29. Physician: Have you experienced eye problems like pain or redness?  
+30. Patient: No, my eyes are okay.  
+31. Physician: On physical exam, I noticed swelling in your finger and wrist joints. Are you aware of this?  
+32. Patient: Yes, it's been getting more noticeable lately.  
+33. Physician: I'll need to examine your joint motion. Could you show me how far you can move your wrists?  
+34. Patient: Sure, but it hurts when I try to bend them a lot.  
+35. Physician: It seems the motion is restricted. Does it worsen with activity?  
+36. Patient: Not really, it actually feels a bit better when I move gently.  
+37. Physician: Have you lost weight recently without trying?  
+38. Patient: No, my weight’s been stable.  
+39. Physician: Have you noticed any hard lumps under your skin near the joints?  
+40. Patient: No, nothing like that.  
+41. Physician: I’ll review your lab results. Do you know if you’ve had blood tests showing inflammation in the past?  
+42. Patient: I’ve had some blood work before, but I don’t remember the details.  
+43. Physician: Your tests show markers of inflammation and antibodies associated with certain joint conditions. Do you know what rheumatoid factor is?  
+44. Patient: No, what is it?  
+45. Physician: It's a protein your body may make if your immune system is overactive, often seen in joint problems.  
+46. Patient: Oh, is that related to my pain?  
+47. Physician: Yes, it points to an autoimmune issue. Your X-rays also show changes in your joints consistent with inflammation.  
+48. Patient: What does that mean?  
+49. Physician: Based on your symptoms, exam findings, and tests, I believe you have rheumatoid arthritis, a condition where the immune system wrongly attacks the joints.  
+50. Patient: I see. Can it be managed?  "

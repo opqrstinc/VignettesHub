@@ -1,0 +1,56 @@
+"1. Physician: What brings you in today?  
+2. Patient: I've been having these terrible headaches on the left side near my eye for the past two weeks.  
+3. Physician: Can you describe the pain for me?  
+4. Patient: It's really severe, like a stabbing or burning pain, and it happens every day.  
+5. Physician: How long does each episode of pain last?  
+6. Patient: Usually around an hour or two, maybe a little longer sometimes.  
+7. Physician: Do you notice if the pain happens at specific times?  
+8. Patient: Yes, it usually starts in the evening, sometimes even waking me up from sleep.  
+9. Physician: Have you noticed any other symptoms when this happens?  
+10. Patient: My eye gets really watery, and my nose feels stuffed up on the same side as the pain.  
+11. Physician: Is there anything that makes the pain better or worse?  
+12. Patient: It just comes and goes on its own; nothing seems to help much.  
+13. Physician: Have you had any similar headaches in the past?  
+14. Patient: No, this is completely new for me.  
+15. Physician: Do you have any nausea or vomiting with the pain?  
+16. Patient: No, none at all.  
+17. Physician: What about any vision changes, like seeing flashing lights or zigzags before the pain starts?  
+18. Patient: No, none of that.  
+19. Physician: Have you had any fevers, chills, or recent infections?  
+20. Patient: No, I've been healthy otherwise.  
+21. Physician: Do you have any history of migraines or other headache conditions?  
+22. Patient: No, not at all.  
+23. Physician: Has anyone in your family had headaches or similar conditions?  
+24. Patient: No, I don’t think so.  
+25. Physician: Are you currently taking any medications?  
+26. Patient: No, I don’t take anything regularly.  
+27. Physician: What about over-the-counter pain medications—have you tried them for this?  
+28. Patient: Yes, but they don’t seem to help.  
+29. Physician: Do you use alcohol or recreational drugs?  
+30. Patient: No, I don't drink or use drugs.  
+31. Physician: Do you have any medical conditions or past surgeries?  
+32. Patient: No, my health has been good up until now.  
+33. Physician: Have you noticed any weakness, numbness, or other neurological symptoms?  
+34. Patient: No, none of that.  
+35. Physician: How has this been affecting your daily life?  
+36. Patient: It’s been tough. I’m tired all the time because it’s waking me up at night.  
+37. Physician: Do the headaches ever occur during the day?  
+38. Patient: Sometimes, but they’re mostly in the evening or at night.  
+39. Physician: Have you noticed any triggers for the pain?  
+40. Patient: Not really, it just seems to happen out of nowhere.  
+41. Physician: During the episodes, does your face feel swollen or flushed?  
+42. Patient: Yeah, the left side feels kind of puffy sometimes.  
+43. Physician: Does physical activity, like exercising or moving around, make it worse?  
+44. Patient: I haven't noticed any difference with that.  
+45. Physician: Have you had any recent head injuries?  
+46. Patient: No, nothing like that.  
+47. Physician: What about eye problems, like redness or changes in vision?  
+48. Patient: Well, my left eye gets red during the headaches, but my vision’s fine.  
+49. Physician: I see. Let me summarize; you’re having severe left-sided headaches with tearing, congestion, and no other neurological symptoms, correct?  
+50. Patient: That’s exactly right.  
+51. Physician: Based on your symptoms, this sounds like cluster headache. Cluster headaches can cause this pattern of one-sided pain, tearing, and nasal congestion.  
+52. Patient: Cluster headache? I’ve never heard of that before.  
+53. Physician: It’s a type of headache disorder that occurs in clusters, meaning multiple attacks over weeks. The good news is there are treatments to help.  
+54. Patient: That’s a relief to hear. It’s been unbearable.  
+55. Physician: For acute attacks, we can use oxygen therapy or medication like sumatriptan to relieve the pain. Verapamil is a preventive option we can start as well.  
+56. Patient: Okay, if it works, I’m willing to try anything."

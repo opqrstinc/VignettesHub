@@ -1,0 +1,51 @@
+"1. 医師：Hello, I’m Dr. Smith. I understand you came to the ER because of chest discomfort and difficulty breathing. Can you tell me when this all started?  
+2. 患者：Hi, doctor. It started about four hours ago. I was at home resting when I suddenly felt this sharp pain in my chest.  
+3. 医師：Was the pain on one side of your chest or all over?  
+4. 患者：It was on the left side.  
+5. 医師：How would you describe the pain? Was it dull, sharp, or something else?  
+6. 患者：It was sharp, like a stabbing pain, but it didn’t spread to anywhere else.  
+7. 医師：Did anything make the pain worse or better?  
+8. 患者：No, it just stayed the same.  
+9. 医師：Have you had any recent injuries or trauma to your chest?  
+10. 患者：No, nothing at all.  
+11. 医師：How about other symptoms? Have you had a cough, fever, or noticed any blood when you cough?  
+12. 患者：No, none of that.  
+13. 医師：Do you feel short of breath right now, or has it improved since you got here?  
+14. 患者：I still feel breathless, but maybe it’s a little better now.  
+15. 医師：Do you have any medical conditions, like asthma or allergies?  
+16. 患者：Yes, I have asthma, but it’s usually under control with my inhaler.  
+17. 医師：Have you had any recent flare-ups of your asthma?  
+18. 患者：No, it’s been fine recently.  
+19. 医師：Do you smoke or have you ever smoked?  
+20. 患者：No, I’ve never smoked.  
+21. 医師：Has anyone in your family ever had lung problems, like asthma, emphysema, or conditions like this?  
+22. 患者：No, not that I’m aware of.  
+23. 医師：Have you experienced chest discomfort like this before?  
+24. 患者：No, this is the first time.  
+25. 医師：Do you take any medications other than your asthma inhaler?  
+26. 患者：Just my albuterol and another inhaler with steroids.  
+27. 医師：Have you been on any recent flights or traveled somewhere at a high altitude?  
+28. 患者：No, I haven’t traveled anywhere recently.  
+29. 医師：What about scuba diving or other activities that involve a lot of pressure changes?  
+30. 患者：No, nothing like that.  
+31. 医師：When the chest discomfort started, did you notice any dizziness or fainting?  
+32. 患者：No, I didn’t feel dizzy or faint.  
+33. 医師：Can you point exactly to where the pain is right now? Is it still as sharp as before?  
+34. 患者：It’s still on the left side, right here, but it’s not as sharp anymore.  
+35. 医師：Did the pain make it hard to take a deep breath when it started?  
+36. 患者：Yes, definitely. It was really uncomfortable to breathe deeply.  
+37. 医師：Have you noticed any swelling in your legs or had any pain when walking recently?  
+38. 患者：No, my legs are fine.  
+39. 医師：Do you have any history of blood clots in your family or recent surgeries?  
+40. 患者：No to both.  
+41. 医師：Were you doing anything strenuous before this happened, like lifting heavy objects?  
+42. 患者：No, I was just sitting on the couch.  
+43. 医師：During your asthma episodes in the past, did you ever feel anything like this?  
+44. 患者：No, this is completely different. My asthma feels more like wheezing and tightness in the chest.  
+45. 医師：Have you been feeling stressed or anxious lately?  
+46. 患者：Not really; everything's been normal.  
+47. 医師：You mentioned you felt breathless—are you still having trouble breathing deeply?  
+48. 患者：Yes, it feels like I’m not getting enough air.  
+49. 医師：Thank you for sharing all of this information. I’ve looked at your chest X-ray and CT scan, and it confirms you have a medium-sized left-sided pneumothorax. Do you know what that is?  
+50. 患者：No, I don’t. What does that mean?  
+(医師が診断を伝えたためここで終了)"

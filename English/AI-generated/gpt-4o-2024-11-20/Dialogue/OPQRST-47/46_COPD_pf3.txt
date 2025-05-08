@@ -1,0 +1,44 @@
+"1. 医師：Hello, thank you for coming in today. Can you tell me more about the symptoms you've been experiencing?
+2. 患者：Well, I've had a cough for years now, and it’s gotten worse. I also bring up a fair amount of sputum every day.
+3. 医師：How long have you had this cough and sputum production?
+4. 患者：About five years, I’d say, maybe longer.
+5. 医師：When did you notice it becoming worse?
+6. 患者：Over the last couple of years, it’s been harder. I can’t even walk for long without getting out of breath.
+7. 医師：Can you describe how your breathing has changed in detail?
+8. 患者：It used to only bother me if I walked fast or uphill. Now, even just walking around the house leaves me short of breath.
+9. 医師：Do you find that it’s worse at any particular time of day or night?
+10. 患者：At night, sometimes I wake up feeling like I can’t breathe right.
+11. 医師：Have you ever noticed wheezing when you breathe?
+12. 患者：Occasionally, yes, especially when I’m struggling to catch my breath.
+13. 医師：Have you ever coughed up blood?
+14. 患者：No, never.
+15. 医師：Do you experience any chest pain or tightness?
+16. 患者：No chest pain. Just the shortness of breath.
+17. 医師：Any fevers, chills, or recent weight loss?
+18. 患者：No, none of those.
+19. 医師：Have you had similar episodes in the past, or any lung infections?
+20. 患者：No, I haven’t had lung infections or anything like that.
+21. 医師：Do you or anyone in your family have a history of asthma or breathing problems?
+22. 患者：No asthma, no lung problems in my family that I know of.
+23. 医師：Can you tell me about your smoking history?
+24. 患者：I smoked for many years—about 40 years—but I quit five years ago.
+25. 医師：That’s admirable that you quit smoking. How much did you typically smoke?
+26. 患者：Usually around a pack a day.
+27. 医師：Do you currently use any inhalers or other respiratory treatments?
+28. 患者：No, I’ve never used an inhaler before.
+29. 医師：Have you been exposed to any occupational hazards like dust or chemicals?
+30. 患者：No, I worked in an office most of my career.
+31. 医師：Do you notice anything specific that triggers your symptoms?
+32. 患者：Not really, it just feels like it’s there all the time.
+33. 医師：How is this affecting your daily life? Are there activities you struggle with?
+34. 患者：I can barely do simple chores around the house, like vacuuming or climbing the stairs.
+35. 医師：Do you ever feel anxious or worried about your breathing?
+36. 患者：Sometimes, especially at night when I wake up short of breath.
+37. 医師：Have you received any vaccinations recently, like for the flu or pneumonia?
+38. 患者：No, it’s been a while since I had any vaccines.
+39. 医師：During our examination, I noticed some wheezing. Have you heard it yourself before?
+40. 患者：Yes, on bad days it’s more noticeable.
+41. 医師：I’d like to confirm your oxygen levels and lung function. Did they check your lung function with a breathing test yet?
+42. 患者：Yes, they said I had trouble pushing the air out.
+43. 医師：I see, based on your test results and history, you likely have chronic obstructive pulmonary disease, or COPD. This explains your chronic cough, sputum, and shortness of breath.
+"

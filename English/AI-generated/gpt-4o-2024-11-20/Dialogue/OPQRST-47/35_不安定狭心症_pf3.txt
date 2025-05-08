@@ -1,0 +1,100 @@
+"1.  
+Doctor: Hello, sir. I understand you're here because of chest pain. Could you tell me more about what you've been experiencing?  
+2.  
+Patient: Yes, I started having chest pain about a week ago, mostly when I was walking upstairs or doing something active.  
+3.  
+Doctor: Could you describe the pain? Was it sharp, dull, or something else?  
+4.  
+Patient: It felt like a tightness or pressure in my chest, right in the middle, and it sometimes went to my left shoulder and jaw.  
+5.  
+Doctor: I see. How long did the pain last when it happened?  
+6.  
+Patient: A few minutes, and it would go away if I stopped and rested.  
+7.  
+Doctor: Is it still happening only with activity, or has it started occurring at rest too?  
+8.  
+Patient: It used to just happen with activity, but yesterday I had it while sitting and doing nothing.  
+9.  
+Doctor: That sounds concerning. When you had this pain, did you notice any other symptoms, like trouble breathing or your heart racing?  
+10.  
+Patient: Yes, I sometimes felt short of breath, and my heart would pound a bit.  
+11.  
+Doctor: Have you had any fever, cough, or other cold-like symptoms recently?  
+12.  
+Patient: No, none of that.  
+13.  
+Doctor: Any nausea, vomiting, or stomach pain associated with the chest discomfort?  
+14.  
+Patient: No, my stomach's been completely fine.  
+15.  
+Doctor: Before this started, had you ever experienced similar chest pain in your life?  
+16.  
+Patient: No, this is the first time anything like this has happened.  
+17.  
+Doctor: Do you have any medical conditions, like high blood pressure, diabetes, or cholesterol problems?  
+18.  
+Patient: I do have high cholesterol, but I’ve been trying to manage it by eating better.  
+19.  
+Doctor: Have you ever been diagnosed with heart problems or had any heart procedures in the past?  
+20.  
+Patient: No, never.  
+21.  
+Doctor: Any history of smoking or drinking alcohol?  
+22.  
+Patient: I don’t smoke, but I do drink a glass of wine occasionally.  
+23.  
+Doctor: I see. Does anyone in your family have heart disease or cardiovascular problems?  
+24.  
+Patient: No, my family has been pretty healthy in that regard.  
+25.  
+Doctor: What medications are you currently taking?  
+26.  
+Patient: Just some multivitamins. That’s it.  
+27.  
+Doctor: Okay, and any drug allergies we should know about?  
+28.  
+Patient: No, I don’t have any allergies that I know of.  
+29.  
+Doctor: When the chest pain occurs, does it get worse with deep breathing or changing position?  
+30.  
+Patient: No, it doesn’t seem to change with breathing or moving around.  
+31.  
+Doctor: Does the pain always feel the same, or has it changed over time?  
+32.  
+Patient: It’s definitely gotten worse over the past few days.  
+33.  
+Doctor: That’s helpful to know. Now, during your episode of chest pain yesterday, how severe would you rate it on a scale from 1 to 10?  
+34.  
+Patient: I'd say it was about an 8.  
+35.  
+Doctor: Did the pain go away on its own, or did you take something for it?  
+36.  
+Patient: It went away on its own after several minutes.  
+37.  
+Doctor: Has the pain ever lasted longer than 10 or 15 minutes?  
+38.  
+Patient: No, I think the longest was maybe 5 or 6 minutes.  
+39.  
+Doctor: Good to know. Have you been feeling more tired or weaker than usual lately?  
+40.  
+Patient: Maybe a little, but I assumed it was just normal aging.  
+41.  
+Doctor: How about swelling in your legs or difficulty lying flat at night?  
+42.  
+Patient: No swelling, and I don’t have trouble lying down.  
+43.  
+Doctor: Have you noticed any irregular or skipped heartbeats?  
+44.  
+Patient: I did feel like my heart was skipping a beat once or twice, but it went away quickly.  
+45.  
+Doctor: Can you still do your usual activities, or do the symptoms limit you now?  
+46.  
+Patient: I’ve slowed down a bit because I’m worried the pain might come back.  
+47.  
+Doctor: That’s understandable. When you feel the pain, do you ever get light-headed or feel like you might faint?  
+48.  
+Patient: No, I don’t feel faint.  
+49.  
+Doctor: Thank you for answering all of my questions. Based on what you've described, along with some tests we've done, it seems like your chest pain might be due to unstable angina.  
+50.  
+Patient: I see. What does that mean exactly?  "

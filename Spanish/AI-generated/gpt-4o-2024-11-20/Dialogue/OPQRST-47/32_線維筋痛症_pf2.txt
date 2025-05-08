@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señor. Dígame, ¿qué lo trae hoy a la consulta?  
+2. Paciente: Doctor, tengo un dolor generalizado que no me deja vivir tranquilo desde hace más de seis meses.  
+3. Médico: Lo siento mucho. ¿Dónde siente más ese dolor?  
+4. Paciente: Principalmente en los músculos y las articulaciones. Un día duele más en los hombros, otro día en las piernas... pero siempre está ahí.  
+5. Médico: Entiendo. ¿El dolor es constante o va y viene?  
+6. Paciente: Es constante, aunque a veces es más intenso que otras veces.  
+7. Médico: ¿Alguna actividad o algo en particular parece empeorar o aliviar el dolor?  
+8. Paciente: No he encontrado nada que realmente lo alivie. Tal vez descansar un poco ayuda, pero no mucho.  
+9. Médico: ¿Este dolor afecta su vida diaria o su capacidad para trabajar?  
+10. Paciente: Sí, mucho. Me cuesta hacer mis cosas del día a día y hasta dormir bien.  
+11. Médico: ¿Ha notado otros síntomas, como fiebre, inflamación o enrojecimiento en alguna zona?  
+12. Paciente: No, nada de eso. Solo el dolor, la fatiga y que mi cabeza a veces parece que está nublada.  
+13. Médico: ¿Se refiere a problemas para concentrarse o recordar cosas?  
+14. Paciente: Sí, exactamente. Hay días en que no puedo pensar claramente.  
+15. Médico: Además del dolor, ¿cómo describiría esa fatiga que menciona?  
+16. Paciente: Es como si nunca descansara, aunque duerma. Me siento cansado todo el tiempo.  
+17. Médico: ¿Cuántas horas suele dormir por las noches?  
+18. Paciente: Duermo unas siete horas, pero me despierto muchas veces, no descanso bien.  
+19. Médico: ¿Ha cambiado su ánimo durante los últimos meses?  
+20. Paciente: Pues... me siento frustrado y un poco ansioso. Esto me afecta mucho.  
+21. Médico: ¿Tiene antecedentes de ansiedad o algún otro problema emocional?  
+22. Paciente: Sí, llevo años con ansiedad, pero lo tengo más o menos controlado.  
+23. Médico: Comprendo. ¿Ha tenido alguna cirugía o enfermedades importantes en el pasado?  
+24. Paciente: No, nada serio aparte de la ansiedad.  
+25. Médico: ¿Toma algún medicamento actualmente?  
+26. Paciente: Solo los que me dieron para la ansiedad, pero no han cambiado en varios años.  
+27. Médico: Muy bien. Durante estos meses, ¿ha notado pérdida de peso o apetito?  
+28. Paciente: No, mi peso sigue igual y como normal.  
+29. Médico: ¿Hay antecedentes en su familia de enfermedades reumáticas o autoinmunes?  
+30. Paciente: Que yo sepa, no. Nadie en mi familia tiene algo parecido a esto.  
+31. Médico: Perfecto, ahora voy a realizar un examen físico. Dígame si le duele cuando presiono aquí.  
+32. Paciente: Sí, ahí duele mucho, sobre todo en el cuello.  
+33. Médico: ¿Y aquí, en los hombros y la espalda baja?  
+34. Paciente: También, me duele bastante en esas zonas.  
+35. Médico: Muy bien. Hasta ahora, no veo signos visibles de inflamación o deformidades articulares.  
+36. Paciente: ¿Eso es bueno, verdad?  
+37. Médico: Sí. Intento reunir toda la información para entender mejor lo que puede estar ocurriendo.  
+38. Médico: Por lo pronto, voy a solicitar unos análisis de sangre para descartar algunas causas posibles.  
+39. Paciente: ¿Qué tipo de análisis, doctor?  
+40. Médico: Revisaremos inflamación, función tiroidea, autoinmunidad y otras pruebas básicas.  
+41. Paciente: Está bien, lo que sea necesario para entender esto.  
+42. Médico: Perfecto. Mientras tanto, siga observando si hay algo más que note en sus síntomas.  
+43. Paciente: Claro, prestaré más atención.  
+44. Médico: Una última pregunta: ¿hace ejercicio o actividad física con frecuencia?  
+45. Paciente: No mucho, últimamente no tengo energía para eso.  
+46. Médico: Entendido. El ejercicio puede ser útil más adelante, pero lo discutiremos en su momento.  
+47. Paciente: De acuerdo, doctor. Solo quiero mejorar pronto.  
+48. Médico: Lo entiendo, trabajaremos juntos en eso. Los resultados de sus análisis estarán listos en unos días.  
+49. Paciente: Gracias. ¿Cuándo debería venir para revisarlos?  
+50. Médico: Programe una cita la próxima semana. Una vez llegue el reporte, discutiremos los pasos a seguir.  "

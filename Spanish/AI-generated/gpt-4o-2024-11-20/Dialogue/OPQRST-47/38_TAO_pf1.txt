@@ -1,0 +1,51 @@
+"1. Médico: Buenos días, señor. ¿Qué lo trae a consulta hoy?  
+2. Paciente: Buenos días, doctor. Tengo un dolor constante en la pierna derecha desde hace un tiempo, y he notado que me cuesta caminar.  
+3. Médico: Entendido. ¿Desde cuándo ha estado experimentando este dolor?  
+4. Paciente: Creo que hace unos tres meses que comenzó, pero últimamente ha empeorado.  
+5. Médico: ¿Cómo describiría el dolor? ¿Es punzante, ardoroso, o de alguna otra manera?  
+6. Paciente: Es como una presión constante, y a veces siento como si la pierna estuviera fría.  
+7. Médico: ¿Nota si el dolor mejora o empeora con ciertas actividades?  
+8. Paciente: Sí, empeora al caminar o cuando levanto la pierna. Mejora un poco si la dejo colgando.  
+9. Médico: ¿Ha sufrido algún golpe o lesión en la pierna recientemente?  
+10. Paciente: No, nada de eso. No tuve ningún accidente ni traumatismo.  
+11. Médico: ¿Ha notado algún otro cambio en su pierna o pie? Hinchazón, cambio de coloración, heridas...  
+12. Paciente: Sí, tengo unas úlceras en el pie derecho, sobre todo en la planta y en el dedo gordo.  
+13. Médico: ¿Hace cuánto aparecieron estas úlceras?  
+14. Paciente: También hace como tres meses, más o menos al mismo tiempo del dolor.  
+15. Médico: ¿Ha observado si las úlceras supuran o tienen mal olor?  
+16. Paciente: No, no he visto pus ni huelen mal, pero son dolorosas.  
+17. Médico: ¿Qué ha intentado hacer para aliviar el dolor o tratar las úlceras?  
+18. Paciente: Principalmente las he lavado con agua y jabón, pero no mejoran mucho.  
+19. Médico: ¿Ha tenido fiebre u otros síntomas como escalofríos en este tiempo?  
+20. Paciente: No, no he tenido fiebre ni otros problemas, solo el dolor y las heridas.  
+21. Médico: ¿Tiene enfermedades como diabetes, hipertensión o problemas cardíacos?  
+22. Paciente: No, hasta donde sé, estoy sano de eso.  
+23. Médico: ¿Tiene algún antecedente familiar de problemas en las arterias o en el corazón?  
+24. Paciente: No, en mi familia no hay casos de ese tipo.  
+25. Médico: ¿Ha sido fumador o fuma actualmente?  
+26. Paciente: Sí, fumo desde los 18 años. Ahora consumo unos 20 cigarrillos al día.  
+27. Médico: ¿Le ha pasado algo similar en la otra pierna o en otra parte del cuerpo?  
+28. Paciente: No, la pierna izquierda está normal, no he tenido ningún problema con ella.  
+29. Médico: ¿Nota algún cambio en la temperatura del pie derecho en comparación con el izquierdo?  
+30. Paciente: Sí, parece que el derecho siempre está más frío que el otro.  
+31. Médico: Entendido. Ahora dígame, ¿cuánto tiempo lleva sin notar los pulsos del pie derecho, como si estuviera débil o ausente?  
+32. Paciente: No sabría decir exactamente, pero al tocar el pie no siento mucho movimiento o pulsación.  
+33. Médico: ¿Ha notado algún cambio en el color de la piel del pie o de la pierna?  
+34. Paciente: La piel a veces está más pálida que la otra pierna, sobre todo cuando la levanto.  
+35. Médico: ¿Alguna vez ha sentido hormigueo o pérdida de sensibilidad en el pie derecho?  
+36. Paciente: Hormigueo ocasionalmente, pero no diría que tengo pérdida de sensibilidad.  
+37. Médico: ¿Qué tipo de calzado usa? ¿Es cómodo o pudiera estar generando presión en el pie?  
+38. Paciente: Uso zapatos normales, pero he intentado usar sandalias últimamente por el dolor.  
+39. Médico: ¿Tiene algún trabajo o actividad donde esté mucho tiempo de pie o expuesto al frío?  
+40. Paciente: Trabajo en una oficina, paso la mayor parte del día sentado.  
+41. Médico: Vamos a hablar de su dieta. ¿Come muchos alimentos grasos o procesados?  
+42. Paciente: Diría que mi dieta es normal, no demasiado grasa, pero quizás podría mejorar.  
+43. Médico: Comprendo. Ahora quisiera saber, ¿siente algún dolor en reposo, incluso cuando no está caminando?  
+44. Paciente: Sí, el dolor está presente incluso en reposo, aunque es más intenso al caminar.  
+45. Médico: Cuando camina, ¿cuánto tiempo puede hacerlo antes de que aparezca el dolor?  
+46. Paciente: No mucho, quizás unos 200 o 300 metros, y necesito parar.  
+47. Médico: ¿Ha observado que las uñas del pie derecho crecen más lentamente o tienen algún cambio?  
+48. Paciente: Ahora que lo menciona, sí, creo que crecen más lento y se ven algo débiles.  
+49. Médico: Le voy a realizar una exploración detallada de la pierna y el pie. Ahora vuelva a describir brevemente cómo empezó todo este cuadro.  
+50. Paciente: Al principio era un dolor leve al caminar, pero luego empezó a empeorar y aparecieron las úlceras con esta sensación de frío en el pie.  
+51. Médico: Gracias por su paciencia y las explicaciones. A partir de la historia, los hallazgos en la exploración y las pruebas realizadas, parece que su problema está relacionado con algo conocido como tromboangeítis obliterante o enfermedad de Buerger, una afección de los vasos sanguíneos que afecta más a personas fumadoras como usted."

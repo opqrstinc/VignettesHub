@@ -1,0 +1,51 @@
+"1. Médico: Hola, buenos días. ¿Cómo te llamas y qué edad tienes?  
+2. Paciente: Hola, me llamo Andrés y tengo 10 años.  
+3. Médico: Andrés, ¿qué te trae por aquí hoy?  
+4. Paciente: Me duele mucho la garganta, desde hace unos días.  
+5. Médico: ¿Recuerdas cuántos días llevas así?  
+6. Paciente: Desde hace como tres días.  
+7. Médico: ¿Sientes algo más aparte del dolor de garganta?  
+8. Paciente: Sí, he tenido fiebre alta, pero no me ha dado escalofríos ni he sudado mucho por las noches.  
+9. Médico: Entiendo. ¿Te cuesta mucho tragar?  
+10. Paciente: Sí, tragar me duele bastante.  
+11. Médico: ¿Has notado que cuando hablas, algo te molesta o suena diferente tu voz?  
+12. Paciente: No, creo que mi voz suena igual.  
+13. Médico: ¿Has tenido tos, congestión nasal o dificultad para respirar?  
+14. Paciente: No, no he tenido nada de eso.  
+15. Médico: ¿Alguien en casa o en tu escuela ha estado enfermo últimamente?  
+16. Paciente: No, que yo sepa nadie más está enfermo.  
+17. Médico: ¿Has viajado recientemente a algún lugar?  
+18. Paciente: No, no hemos viajado a ningún lado.  
+19. Médico: ¿Alguien en tu familia tiene problemas de alergias u otras enfermedades?  
+20. Paciente: No, nadie tiene nada raro.  
+21. Médico: ¿A ti te ha pasado algo así antes, dolores de garganta o infecciones?  
+22. Paciente: No, nunca me había pasado algo como esto.  
+23. Médico: Vamos a revisar un poco. ¿En algún momento te revisaste la garganta en casa, con un espejo?  
+24. Paciente: Sí, mi mamá miró con una linterna y dijo que se veía como blanco.  
+25. Médico: Perfecto, ahora voy a mirar yo. (Examina la garganta) Veo que tus amígdalas están grandes y tienen como un pus blanco-amarillo.  
+26. Médico: También voy a palpar esta parte de tu cuello. ¿Esto te duele?  
+27. Paciente: Sí, me duele donde estás tocando.  
+28. Médico: Está bien. Ahora dime, aparte del dolor y la fiebre, ¿has notado puntitos rojos en el paladar o cosas raras?  
+29. Paciente: No, no he visto nada raro.  
+30. Médico: Andrés, ¿qué has estado tomando para manejar la fiebre?  
+31. Paciente: Mi mamá me dio paracetamol, pero solo para la fiebre.  
+32. Médico: Bien, y has podido comer normalmente o te cuesta por el dolor de la garganta?  
+33. Paciente: Me cuesta comer porque me duele mucho, pero tomo sopas y cosas suaves.  
+34. Médico: ¿Alguien más en tu casa tiene fiebre o dolor de garganta como tú?  
+35. Paciente: No, soy el único que está así.  
+36. Médico: Gracias por responder. Andrés, ¿cómo dirías que te sientes en general? ¿Estás muy cansado?  
+37. Paciente: Sí, me siento como débil, pero creo que es por la fiebre.  
+38. Médico: Vamos a revisar unas cositas de tus análisis que hemos hecho. Tienes unas defensas altas, lo que significa que tu cuerpo está luchando contra una infección.  
+39. Médico: Además, tu prueba rápida para estreptococo salió positiva. Esto nos indica qué bacteria está causando el problema.  
+40. Paciente: ¿Eso es malo?  
+41. Médico: No te preocupes, esto se puede tratar muy bien con antibióticos. Así que vamos a iniciar tratamiento para que te sientas mejor pronto.  
+42. Paciente: ¿Tengo que tomar medicinas?  
+43. Médico: Sí, te recetaremos amoxicilina, la cual es muy efectiva para tratar este tipo de bacteria.  
+44. Paciente: ¿Y cuánto tiempo tengo que tomarla?  
+45. Médico: Serán 10 días, así aseguramos que se elimine por completo la infección.  
+46. Paciente: ¿Podré ir a la escuela mientras tanto?  
+47. Médico: Necesitarás unos días de reposo en casa, especialmente mientras desaparece la fiebre.  
+48. Paciente: Está bien. ¿Hay algo más que deba hacer?  
+49. Médico: Es importante que bebas muchos líquidos, comas cosas suaves y uses paracetamol si la fiebre o el dolor son muy fuertes.  
+50. Paciente: Gracias, doctor. ¿Con esto ya me voy a sentir mejor?  
+51. Médico: Con el tratamiento adecuado, en un par de días deberías empezar a notar mejoría. Échale ganas y descansa bien en casa."

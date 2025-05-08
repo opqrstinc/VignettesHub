@@ -1,0 +1,149 @@
+"1.  
+Doctor: What brings you to the hospital today?  
+Patient: I started having really bad pain in my upper right abdomen about 8 hours ago.  
+2.  
+Doctor: Can you describe the pain? Is it sharp, dull, or something else?  
+Patient: It’s a sharp pain, and it hasn’t gone away at all.  
+3.  
+Doctor: Does the pain stay in one place, or does it travel anywhere?  
+Patient: It shoots up to my right shoulder.  
+4.  
+Doctor: Have you noticed anything that makes the pain better or worse?  
+Patient: Nothing seems to help or make it worse; it’s just constant.  
+5.  
+Doctor: Have you been experiencing nausea or vomiting?  
+Patient: Yes, I’ve been feeling nauseous, and I’ve thrown up several times.  
+6.  
+Doctor: Have you had a fever, chills, or sweats?  
+Patient: Yes, I’ve had chills and I feel like I’ve been running a fever.  
+7.  
+Doctor: Have you noticed any changes in your bowel movements?  
+Patient: No, my bowel habits have been normal.  
+8.  
+Doctor: What about your urine? Has it changed color?  
+Patient: Yes, my urine has been darker than usual.  
+9.  
+Doctor: When did you first notice the dark urine?  
+Patient: About two days ago.  
+10.  
+Doctor: Have you noticed any yellowing in your eyes or skin?  
+Patient: Yes, my eyes started looking yellow recently.  
+11.  
+Doctor: Have you ever had similar pain or symptoms in the past?  
+Patient: No, this is the first time I’ve experienced anything like this.  
+12.  
+Doctor: Do you have any medical conditions or take any regular medications?  
+Patient: No, I’ve been pretty healthy and I don’t take any medications.  
+13.  
+Doctor: Have you ever had any surgeries or hospitalizations in the past?  
+Patient: No, I’ve never had surgery or been in the hospital.  
+14.  
+Doctor: Do you drink alcohol or use any recreational drugs?  
+Patient: No, I don’t drink or use drugs.  
+15.  
+Doctor: Any allergies to medication or foods that we should know about?  
+Patient: No, I don’t have any allergies.  
+16.  
+Doctor: Does anyone in your family have a history of liver, gallbladder, or similar problems?  
+Patient: No, not that I’m aware of.  
+17.  
+Doctor: How would you rate your pain on a scale of 1 to 10, with 10 being the worst pain imaginable?  
+Patient: It’s definitely a 9 or 10—it’s really severe.  
+18.  
+Doctor: Do you feel any shortness of breath or chest pain?  
+Patient: No, breathing and my chest feel fine.  
+19.  
+Doctor: Have you eaten anything unusual recently?  
+Patient: No, just my regular meals.  
+20.  
+Doctor: Have you noticed any recent weight loss or loss of appetite?  
+Patient: My appetite has been okay until today, but I haven’t wanted to eat because of the pain.  
+21.  
+Doctor: Do you feel the pain more after eating certain types of food, like fatty or greasy meals?  
+Patient: No, it doesn’t seem related to eating.  
+22.  
+Doctor: Have you been traveling recently or exposed to anyone who’s been ill?  
+Patient: No, I haven’t traveled or been around anyone sick.  
+23.  
+Doctor: Have you had any issues with heartburn or acid reflux in the past?  
+Patient: No, I’ve never had problems like that before.  
+24.  
+Doctor: How have you been sleeping despite the pain?  
+Patient: I couldn’t sleep at all last night because of the pain.  
+25.  
+Doctor: When the pain started, was it sudden or gradual?  
+Patient: It came on very suddenly, all at once.  
+26.  
+Doctor: Can you point to exactly where the pain is located?  
+Patient: It’s here, near the top right corner of my abdomen.  
+27.  
+Doctor: Are you able to stand up straight, or does the pain make you bend over?  
+Patient: It’s hard to stand up straight because the pain gets worse when I move.  
+28.  
+Doctor: Have you taken any medications for the pain, like acetaminophen or ibuprofen?  
+Patient: No, I didn’t take anything; I wasn’t sure if it would help.  
+29.  
+Doctor: Does anything like deep breathing or coughing affect the pain?  
+Patient: Deep breathing makes it hurt more.  
+30.  
+Doctor: Are you able to eat or drink right now, or does the nausea make it impossible?  
+Patient: I can’t eat or drink; the nausea is too much.  
+31.  
+Doctor: Have there been any unusual changes in your skin, like rashes or itching?  
+Patient: No, no changes in my skin besides the yellowing.  
+32.  
+Doctor: Have you had any injuries or trauma to your abdomen recently?  
+Patient: No, I haven’t injured myself.  
+33.  
+Doctor: Let’s go back to the fever—when did it start?  
+Patient: I think it started earlier today, a few hours after the pain began.  
+34.  
+Doctor: Are the chills so bad that you’re shaking?  
+Patient: Yes, I’ve been shaking quite a bit.  
+35.  
+Doctor: Do you feel weaker than usual or more tired overall?  
+Patient: Yes, I feel really weak and exhausted.  
+36.  
+Doctor: Do you remember the last time you ate a full meal?  
+Patient: I ate dinner last night, but nothing since.  
+37.  
+Doctor: When you vomited, what did it look like?  
+Patient: It was mostly food, but then it turned kind of yellow and watery.  
+38.  
+Doctor: Could you tell me about your recent daily activities?  
+Patient: Nothing unusual; just my usual routine at home.  
+39.  
+Doctor: You mentioned yellow eyes—did anyone else notice it or point it out to you?  
+Patient: Yes, my wife mentioned that my eyes looked yellow yesterday.  
+40.  
+Doctor: Have you noticed any swelling in your legs or ankles?  
+Patient: No, no swelling anywhere.  
+41.  
+Doctor: Do you think stress might be contributing to this at all?  
+Patient: I don’t think so; nothing stressful has been going on.  
+42.  
+Doctor: Before this pain began, were you feeling completely fine?  
+Patient: Yes, I was feeling perfectly normal before it started.  
+43.  
+Doctor: During your chills, do you sweat a lot after?  
+Patient: Yes, I sometimes get drenched in sweat after the chills.  
+44.  
+Doctor: While moving around, does it make the shoulder pain worse?  
+Patient: Yes, moving definitely makes the pain worse.  
+45.  
+Doctor: Have you been drinking enough fluids recently?  
+Patient: Not really; I’ve been too nauseous to drink much.  
+46.  
+Doctor: If you had to guess, how long have you been feeling sick in total?  
+Patient: Just these last two days, but it got much worse this morning.  
+47.  
+Doctor: Which symptom bothers you the most right now?  
+Patient: The pain, for sure. The nausea and chills are bad too, but the pain is the worst.  
+48.  
+Doctor: Have you tried anything like a warm compress on your abdomen for relief?  
+Patient: No, I haven’t tried that.  
+49.  
+Doctor: Have you experienced dizziness or lightheadedness today?  
+Patient: No dizziness or lightheadedness so far.  
+50.  
+Doctor: Based on what you’ve told me and the examination, I suspect you have an infection in the bile ducts caused by gallstones. We call this acute cholangitis.  "

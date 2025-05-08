@@ -1,0 +1,50 @@
+"1. Doctor: Hello, I’m Dr. Smith. What brings you to the hospital today?  
+2. Patient: I felt really dizzy, tired, and started sweating a lot after practice today.  
+3. Doctor: I see. Can you tell me more about what happened during practice?  
+4. Patient: At first, I was just a little tired, but then I started feeling light-headed and couldn’t keep going.  
+5. Doctor: Did anyone notice anything unusual about you during practice?  
+6. Patient: Yeah, my coach said I looked confused and wasn’t acting normal. He brought me here.  
+7. Doctor: Were you able to drink water or take breaks while practicing?  
+8. Patient: I drank some water, but it didn’t seem to help.  
+9. Doctor: Have you ever felt this way before during physical activity?  
+10. Patient: No, this has never happened to me before.  
+11. Doctor: Did you experience any nausea, vomiting, or cramps during this episode?  
+12. Patient: No vomiting, but I did have a headache that felt like it was throbbing.  
+13. Doctor: Did you notice any rash or skin changes like redness?  
+14. Patient: My skin felt really warm and flushed, but no rash.  
+15. Doctor: Have you had any fever or chills recently?  
+16. Patient: No, just this hot feeling today.  
+17. Doctor: Can you describe the weather conditions during practice?  
+18. Patient: It was really hot outside, probably in the 90s, and sunny.  
+19. Doctor: How long were you outside practicing before the symptoms started?  
+20. Patient: About two hours, I think.  
+21. Doctor: Did you have any recent illnesses or injuries before this incident?  
+22. Patient: No, I’ve been fine until today.  
+23. Doctor: Have you been sleeping well and eating properly this week?  
+24. Patient: Yeah, I’ve been eating and sleeping like normal.  
+25. Doctor: Have you had any issues with dehydration in the past?  
+26. Patient: Not that I can think of.  
+27. Doctor: What’s your daily activity level usually like?  
+28. Patient: I play sports pretty often, so I’m used to being active.  
+29. Doctor: Do you take any medications or supplements?  
+30. Patient: No, I don’t take anything regularly.  
+31. Doctor: Did your coach or teammates mention if you seemed more out of breath than usual?  
+32. Patient: Yeah, my coach said I looked like I was struggling and slowed down a lot.  
+33. Doctor: Besides the dizziness and headache, did you have any chest pain?  
+34. Patient: No, I didn’t feel any chest pain.  
+35. Doctor: Did you lose consciousness at any point?  
+36. Patient: No, but I felt like I might at one point.  
+37. Doctor: Were you able to urinate today, and was it normal in color?  
+38. Patient: Not much, and it was really dark when I did.  
+39. Doctor: Did you have any muscle pain or weakness?  
+40. Patient: My legs felt really weak, but no pain.  
+41. Doctor: Did you notice any swelling in your hands or feet?  
+42. Patient: No, I didn’t notice any swelling.  
+43. Doctor: Have you been feeling stressed or anxious about anything lately?  
+44. Patient: No, everything’s been fine in that regard.  
+45. Doctor: Have you had any recent travels or been exposed to any infections?  
+46. Patient: No, I’ve been here the whole time.  
+47. Doctor: Were you wearing any heavy equipment during practice?  
+48. Patient: Yes, we were fully geared up for football practice.  
+49. Doctor: Thank you for sharing all this. Based on your symptoms and what you described, it sounds like you had heatstroke.  
+50. Patient: Heatstroke? What does that mean?  "

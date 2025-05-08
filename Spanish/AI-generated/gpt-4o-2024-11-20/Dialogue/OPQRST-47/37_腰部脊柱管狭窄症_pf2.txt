@@ -1,0 +1,50 @@
+"1. Médico: ¿Qué le trae por aquí hoy?  
+2. Paciente: Últimamente tengo mucho dolor en la parte baja de la espalda, y baja hasta las piernas.  
+3. Médico: ¿Desde cuándo ha notado este dolor?  
+4. Paciente: Más o menos desde hace unos seis meses, pero ha ido empeorando poco a poco.  
+5. Médico: ¿El dolor aparece en algún momento específico o con ciertas actividades?  
+6. Paciente: Sí, cuando camino distancias más largas, como más de 100 metros, el dolor empeora.  
+7. Médico: ¿Y qué hace para aliviarlo?  
+8. Paciente: Me siento o me inclino hacia adelante, y eso parece ayudar.  
+9. Médico: ¿Ha notado algún síntoma como fiebre o pérdida de peso?  
+10. Paciente: No, nada de eso.  
+11. Médico: ¿Tiene problemas de control con la orina o el intestino?  
+12. Paciente: No, todo está normal en ese sentido.  
+13. Médico: ¿Siente debilidad en las piernas o dificultad para moverse?  
+14. Paciente: Caminar se ha vuelto más difícil, pero no diría que tengo debilidad como tal.  
+15. Médico: ¿Cómo describiría el dolor? ¿Es más como ardor, pinchazos o algo diferente?  
+16. Paciente: Es como un dolor profundo, y a veces siento que me quema un poco en las piernas.  
+17. Médico: ¿Hay algo más que empeore el dolor, como ciertos movimientos o posiciones?  
+18. Paciente: Cuando trato de hacer ejercicio o cualquier actividad física prolongada, empeora.  
+19. Médico: ¿El dolor afecta a ambas piernas por igual o es una peor que la otra?  
+20. Paciente: Es en ambas, aunque a veces lo siento más en la pierna izquierda.  
+21. Médico: ¿Tiene antecedentes de problemas en la columna o algún accidente?  
+22. Paciente: No, nunca he tenido problemas graves en la espalda antes de esto.  
+23. Médico: ¿Alguien en su familia tiene problemas similares en la espalda?  
+24. Paciente: No que yo sepa.  
+25. Médico: ¿Siente entumecimiento u hormigueo en las piernas o en los pies?  
+26. Paciente: Sí, a veces siento como si tuviera menos sensación en los pies, especialmente en el izquierdo.  
+27. Médico: ¿Ha probado algún medicamento o tratamiento para el dolor?  
+28. Paciente: Sí, he tomado paracetamol, pero no me ayuda mucho.  
+29. Médico: Al examinarle, noté que está caminando con una marcha algo inusual, como antálgica. ¿Es algo que ha notado usted misma?  
+30. Paciente: Sí, trato de evitar caminar demasiado por el dolor.  
+31. Médico: Al tocar su espalda, parece que siente sensibilidad en la parte baja. ¿Esto ocurre en su vida diaria?  
+32. Paciente: Sí, si alguien me toca la parte baja de la espalda, duele.  
+33. Médico: Notamos también que los reflejos de las piernas están ligeramente disminuidos. ¿Sabe si esto ha pasado antes?  
+34. Paciente: No, no sabía nada de eso antes.  
+35. Médico: ¿Qué tal la fuerza en sus piernas? ¿Puede hacer actividades como subir escaleras o levantarse fácilmente?  
+36. Paciente: Subir escaleras es más difícil de lo normal, pero puedo hacerlo.  
+37. Médico: He revisado su sensibilidad y parece haber una disminución leve en un área específica. ¿Ha notado algo similar?  
+38. Paciente: Sí, como mencioné, siento menos en algunas partes de los pies.  
+39. Médico: ¿Tiene algún otro problema médico como diabetes o hipertensión?  
+40. Paciente: No, estoy saludable aparte de este problema.  
+41. Médico: Dado que el dolor disminuye al sentarse o inclinarse hacia adelante, podría estar relacionado con la compresión en su columna. ¿Qué opina?  
+42. Paciente: Sí, todo parece estar conectado con mi espalda.  
+43. Médico: Basándonos en su examen físico y la descripción de los síntomas, vamos a realizar estudios de imagen. ¿Está de acuerdo?  
+44. Paciente: Claro, lo que sea necesario.  
+45. Médico: Tras su resonancia magnética, se ve una estenosis del canal espinal a nivel lumbar. Esto coincide con sus síntomas.  
+46. Paciente: ¿Qué significa eso?  
+47. Médico: Es un estrechamiento del canal donde pasa la médula espinal, que puede causar sus molestias.  
+48. Paciente: ¿Es grave?  
+49. Médico: En su caso, no parece haber necesidad de cirugía urgente. Lo manejaremos con medicamentos y fisioterapia inicialmente.  
+50. Paciente: Gracias, confío en su indicación."

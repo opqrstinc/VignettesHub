@@ -1,0 +1,51 @@
+"1. 医師: What brings you in today?  
+2. 患者: I've been having these episodes of my heart racing, feeling out of breath, and just really uncomfortable.  
+3. 医師: How long has this been going on?  
+4. 患者: It started about three months ago, and it keeps happening.  
+5. 医師: Can you describe what happens during these episodes?  
+6. 患者: My heart starts pounding suddenly, I feel like I can't breathe, and sometimes there's pain or pressure in my chest.  
+7. 医師: How long do these episodes usually last?  
+8. 患者: Around 10 or 15 minutes, then it slowly gets better.  
+9. 医師: Is there anything that seems to trigger them?  
+10. 患者: Not really, they just happen out of nowhere.  
+11. 医師: How often do you get these episodes?  
+12. 患者: Lately, it’s been 2 to 3 times a week.  
+13. 医師: Do you feel dizzy or lightheaded during these episodes?  
+14. 患者: Yes, I feel like I might faint sometimes.  
+15. 医師: Have you ever actually passed out?  
+16. 患者: No, I've never fainted, but it feels close.  
+17. 医師: Any feelings of nausea or other symptoms?  
+18. 患者: Yeah, I sometimes feel nauseous, and I also get this overwhelming fear, like something terrible is going to happen.  
+19. 医師: Do you worry about having another episode?  
+20. 患者: Definitely, I’m constantly afraid of it happening again, especially in public.  
+21. 医師: Has this affected your daily life or routine?  
+22. 患者: Absolutely, I avoid crowded places and social events because I'm scared it’ll happen.  
+23. 医師: Have you had any chest pain outside of these episodes?  
+24. 患者: No, not at all.  
+25. 医師: How about fever, weight changes, or breathing issues like coughing?  
+26. 患者: No, none of those.  
+27. 医師: Do you have any other medical problems?  
+28. 患者: No, I’m generally healthy.  
+29. 医師: Any history of mental health issues, like anxiety or depression?  
+30. 患者: No, nothing like that.  
+31. 医師: Do you drink alcohol, smoke, or use any drugs?  
+32. 患者: I drink occasionally, but I don’t smoke or use drugs.  
+33. 医師: Does anyone in your family have similar symptoms or a history of heart problems?  
+34. 患者: No, my family is healthy.  
+35. 医師: Have you noticed anything else that might be connected to these episodes, like difficulty sleeping or mood changes?  
+36. 患者: Sleep has been okay, but I feel on edge a lot of the time now.  
+37. 医師: During these episodes, do you sweat or shake excessively?  
+38. 患者: Yes, I sometimes feel really sweaty, and my hands shake.  
+39. 医師: Have you seen any other doctors or tried any treatments for this?  
+40. 患者: No, this is the first time I’ve talked to someone about it.  
+41. 医師: Was there a particular reason you waited this long to seek help?  
+42. 患者: I wasn’t sure if it was serious enough, but it’s gotten worse over time.  
+43. 医師: I understand. Did you notice these episodes happening more in any specific situation, like at work or after exercise?  
+44. 患者: Not really, they can happen anywhere, even when I’m just relaxing at home.  
+45. 医師: Have you had your thyroid checked before, or any bloodwork done?  
+46. 患者: Not recently, but I think everything was normal the last time I had a check-up.  
+47. 医師: All right, I’d like to ask a few more questions. Have you recently felt afraid of losing control or going crazy during these episodes?  
+48. 患者: Yes, I feel like I’m about to completely lose it.  
+49. 医師: Thank you for sharing that. Based on what you’ve described, we can explore what might be causing these symptoms.  
+50. 患者: Is it something serious, like my heart or lungs?  
+51. 医師: Based on your symptoms and the tests we've done, this does not seem to be a heart or lung issue. It fits more with something called panic disorder."

@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, ¿cuál es la razón de su visita hoy?  
+2. Paciente: Hola, doctor. Llevo tres días con tos, fiebre y me cuesta bastante respirar.  
+3. Médico: Entiendo. ¿La tos es seca o ha estado expulsando algo?  
+4. Paciente: Al principio era seca, pero ahora estoy sacando algo de flema.  
+5. Médico: ¿De qué color es la flema que expulsa?  
+6. Paciente: Es como blanca o un poco amarilla.  
+7. Médico: ¿La fiebre la ha medido o solo lo percibe?  
+8. Paciente: No la he medido, pero he sentido el cuerpo caliente y algunos escalofríos.  
+9. Médico: ¿Ha tenido dolor en el pecho o sensación de presión cuando respira?  
+10. Paciente: Sí, siento como un peso en el pecho, especialmente cuando trato de respirar profundo.  
+11. Médico: ¿Tiene algún antecedente de asma, alergias o problemas respiratorios?  
+12. Paciente: No, nunca he tenido problemas de este tipo.  
+13. Médico: ¿Es usted fumador o ha estado expuesto a algún tipo de humo o sustancias tóxicas recientemente?  
+14. Paciente: No, no fumo y no he estado en contacto con nada raro.  
+15. Médico: ¿Alguna vez ha tenido síntomas similares o episodios de dificultad respiratoria en el pasado?  
+16. Paciente: No, nunca me había pasado esto antes.  
+17. Médico: ¿Ha viajado a algún lugar fuera de su ciudad o país recientemente?  
+18. Paciente: No, no he salido de mi ciudad últimamente.  
+19. Médico: ¿Sabe si alguien más en su casa o entorno presenta síntomas parecidos?  
+20. Paciente: No, solo yo estoy así.  
+21. Médico: ¿Cómo describiría la dificultad respiratoria? ¿La tiene también en reposo o solo al hacer esfuerzos?  
+22. Paciente: La siento incluso estando sentado o acostado, no solo al moverme.  
+23. Médico: ¿Ha tenido algún dolor muscular, de cabeza, articulaciones o diarrea en estos días?  
+24. Paciente: Solo algo de malestar general, pero no dolor específico ni diarrea.  
+25. Médico: ¿Ha notado sudores nocturnos o pérdida de peso reciente?  
+26. Paciente: No, no he tenido nada de eso.  
+27. Médico: En su familia, ¿hay antecedentes de enfermedades respiratorias como asma o enfermedades autoinmunes?  
+28. Paciente: No que yo sepa, en mi familia nadie tiene nada raro con los pulmones.  
+29. Médico: ¿Por qué diría usted que esto comenzó? ¿Hubo algo diferente esos días?  
+30. Paciente: No sé realmente, estaba todo tranquilo antes de que me empezaran estos síntomas.  
+31. Médico: Durante estos días, ¿ha notado un color más azulado en sus labios o uñas?  
+32. Paciente: Sí, mi pareja notó que mis labios parecían algo morados esta mañana.  
+33. Médico: ¿Ha sentido palpitaciones o su corazón latiendo muy rápido cuando está en reposo?  
+34. Paciente: Sí, lo siento más acelerado de lo normal.  
+35. Médico: Cuando tiene fiebre o en general, ¿cómo ha estado su apetito?  
+36. Paciente: No tengo mucho hambre, no me dan ganas de comer.  
+37. Médico: ¿Ha tenido dolores abdominales, vómitos o náuseas en este período?  
+38. Paciente: No, nada de eso.  
+39. Médico: ¿Alguna vez ha tomado algún medicamento recientemente o justo antes de que comenzaran los síntomas?  
+40. Paciente: No, no he tomado nada últimamente.  
+41. Médico: ¿Tiene alguna mascota en casa o ha estado en contacto con animales?  
+42. Paciente: Sí, tengo un perro, pero siempre ha estado conmigo.  
+43. Médico: ¿A qué se dedica? ¿Hay algo en su trabajo que crea que pueda estar relacionado con sus síntomas?  
+44. Paciente: Estudio en la universidad y trabajo medio tiempo en una cafetería, pero no creo que eso tenga relación.  
+45. Médico: ¿Alguna vez ha necesitado hospitalización o tratamiento intensivo por algún problema de salud?  
+46. Paciente: No, siempre he estado muy sano.  
+47. Médico: Comprendo. Por los síntomas que menciona, vamos a hacer unos estudios para entender mejor qué está pasando.  
+48. Paciente: Está bien, doctor, lo que sea necesario.  
+49. Médico: Según lo que veo, habrá que realizar algunos análisis de sangre, radiografías y quizás una tomografía para evaluar los pulmones.  
+50. Paciente: De acuerdo, solo quiero sentirme mejor pronto, porque esto está empeorando cada día."

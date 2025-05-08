@@ -1,0 +1,50 @@
+"1. Physician: What brings you to the clinic today?  
+2. Patient: I've noticed my face has become rounder and I've gained weight without trying, especially around my abdomen.  
+3. Physician: When did these changes start?  
+4. Patient: About eight months ago.  
+5. Physician: Have you experienced any changes in your strength or ability to do daily activities?  
+6. Patient: Yes, my muscles feel weaker, especially in my arms and legs. It's hard to climb stairs or lift things.  
+7. Physician: Do you have any other unusual symptoms, such as changes in your skin?  
+8. Patient: I bruise easily, and I noticed these purple marks on my stomach.  
+9. Physician: Can you describe these marks more specifically?  
+10. Patient: They’re wide, purplish lines across my belly.  
+11. Physician: Do you recall any recent injuries that might explain the bruising?  
+12. Patient: No, I don't remember hitting myself recently.  
+13. Physician: Has your medical history changed recently? Any new diagnoses, medications, or lifestyle changes?  
+14. Patient: No, everything has been the same.  
+15. Physician: I see you have a history of diabetes and high blood pressure. How well-controlled are those conditions?  
+16. Patient: Pretty well. I take my medications regularly.  
+17. Physician: Have you noticed changes in your blood sugar or blood pressure lately?  
+18. Patient: My sugars have been a little higher than usual, but my blood pressure seems about the same.  
+19. Physician: Do you have any problems with your sleep, such as changes in your sleep-wake routine?  
+20. Patient: I’ve been feeling more tired, but I don’t think my sleep habits have changed much.  
+21. Physician: Does anyone in your family have similar symptoms or an endocrine condition?  
+22. Patient: No, my family is healthy as far as I know.  
+23. Physician: Have you experienced headaches or any vision changes recently?  
+24. Patient: No, nothing like that.  
+25. Physician: How about feelings of anxiety, depression, or mood swings?  
+26. Patient: I’ve been feeling more stressed lately, but I don’t know if it’s related.  
+27. Physician: Have you had any issues with excessive hair growth or acne?  
+28. Patient: No, nothing like that.  
+29. Physician: Are you noticing any changes in muscle or joint pain?  
+30. Patient: Just the weakness in my muscles, no joint pain.  
+31. Physician: Tell me more about your daily activities. Do you work?  
+32. Patient: Yes, I work in an office, mostly at a desk.  
+33. Physician: Do you exercise or maintain a specific diet?  
+34. Patient: Not much exercise recently because of my weakness, and I try to eat healthy.  
+35. Physician: Have you ever used any supplements, steroids, or other medications recently?  
+36. Patient: No, none at all.  
+37. Physician: Do you notice swelling in your legs or difficulty breathing?  
+38. Patient: No, I've not had those issues.  
+39. Physician: Do you feel like your symptoms worsen at a specific time during the day?  
+40. Patient: Not that I’ve noticed.  
+41. Physician: I’d like to know more about your physical appearance. Has your neck or upper back changed in any way?  
+42. Patient: Yes, I’ve noticed more fat around the back of my neck.  
+43. Physician: How about sweating or feeling hot or cold lately?  
+44. Patient: I sweat more easily now, even without much activity.  
+45. Physician: Have you ever experienced abdominal pain or noticed any changes in your bowel habits?  
+46. Patient: No abdominal pain or changes, just the stretch marks.  
+47. Physician: We’re going to run some tests, but based on your symptoms, I suspect this could be related to a hormonal imbalance.  
+48. Patient: A hormonal imbalance? That makes sense, I guess.  
+49. Physician: Your symptoms, like weight gain, muscle weakness, round face, and purple marks, suggest something like Cushing syndrome, which involves excess cortisol.  
+50. Patient: I see. What happens next?"

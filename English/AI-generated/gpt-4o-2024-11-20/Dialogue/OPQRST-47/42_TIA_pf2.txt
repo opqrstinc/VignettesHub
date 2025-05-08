@@ -1,0 +1,50 @@
+"1. 医師：Good morning, sir. I understand you had an episode of weakness on one side of your body and trouble with vision in one eye. Can you tell me more about what happened?  
+2. 患者：Yes, Doctor. A few days ago, I suddenly felt weakness on my right side, in my arm and leg, and my vision in my left eye went blurry. It lasted about 20 minutes and then went back to normal.  
+3. 医師：Was there anything specific you were doing when it started, like standing, exercising, or working?  
+4. 患者：No, I wasn’t doing anything unusual. I was just sitting at home, maybe reading or watching TV.  
+5. 医師：Understood. Did you feel any pain, like a headache, chest pain, or any dizziness during the episode?  
+6. 患者：No, none of that. It just came out of nowhere.  
+7. 医師：Have you ever had symptoms like this before?  
+8. 患者：No, this was the first time.  
+9. 医師：How about feeling lightheaded or confused? Did you lose consciousness at any point?  
+10. 患者：No, I was fully awake and aware the whole time.  
+11. 医師：When your vision became blurry, was it in one eye or both? And could you see anything at all from the left eye?  
+12. 患者：It was just my left eye, Doctor. I could barely see, but I think it was like a shadow or darkness over my eye.  
+13. 医師：How about after the episode? Did you notice any weakness or blurry vision lingering?  
+14. 患者：No, after 20 minutes everything went back to normal, like nothing happened.  
+15. 医師：I see. Do you remember if the weakness affected your ability to grip objects or walk properly during those 20 minutes?  
+16. 患者：Yes, my grip on the right side was weak, and walking felt unsteady, too.  
+17. 医師：Have you had any chest pain, skipped heartbeats, or strong palpitations before or after the episode?  
+18. 患者：No, my chest felt fine, and my heart didn’t race.  
+19. 医師：Alright. Do you have a history of any health conditions, such as heart disease, high blood pressure, or high cholesterol?  
+20. 患者：No, but I’ve had type 2 diabetes for 10 years. I take metformin for it.  
+21. 医師：How about smoking or alcohol use?  
+22. 患者：I’ve never smoked, and I drink occasionally, maybe a glass of wine once a month.  
+23. 医師：That’s good to hear. Are you physically active or do you follow any specific diet for your diabetes?  
+24. 患者：I try to walk daily, but I’m not always consistent. My diet is okay, but I do eat out sometimes.  
+25. 医師：Understood. Has anyone in your family had similar symptoms, strokes, or heart issues?  
+26. 患者：Not really. My mother had diabetes, but that’s all I know of.  
+27. 医師：Thanks for the information. During the episode, did anyone else, like a family member, notice anything unusual in your speech or movements?  
+28. 患者：No, I was alone at the time.  
+29. 医師：Have you noticed any changes in your memory, ability to think clearly, or anything unusual with your coordination or balance otherwise?  
+30. 患者：Not really. I feel like I’m thinking and moving fine normally.  
+31. 医師：Did you injure yourself recently, maybe a fall or a hit to the head?  
+32. 患者：No, nothing like that.  
+33. 医師：Thanks. Let’s shift focus a bit. Do you ever hear a swishing sound in your ears or have trouble turning your head without discomfort?  
+34. 患者：No, none of those things.  
+35. 医師：Fair enough. Have you been keeping your routine diabetes checkups, and do you know your most recent blood sugar control or HbA1c level?  
+36. 患者：I go for checkups every few months. My last HbA1c was a bit high, around 7.5, I think.  
+37. 医師：Alright. Just one more thing—do you recall symptoms like numbness, tingling, or a sensation of pins and needles anywhere during that episode?  
+38. 患者：No, it was just the weakness and blurry vision I mentioned earlier.  
+39. 医師：Thanks for sharing all this detail. Have you noticed any significant loss of weight recently without trying or any other unusual changes in your body?  
+40. 患者：No, no weight loss or strange changes.  
+41. 医師：Okay. Let me ask about medications other than metformin. Are you taking anything for blood pressure, cholesterol, or any other medical problems?  
+42. 患者：No, I only take metformin.  
+43. 医師：Good to know. Has anyone in your family ever had surgery for blood vessels, like in the neck or anywhere else?  
+44. 患者：Not that I’m aware of.  
+45. 医師：Great. I’ll summarize everything you’ve told me so far to be sure I understand: sudden weakness on your right side and blurry vision in your left eye, lasting about 20 minutes, then resolving entirely. You have diabetes but no history of strokes, heart disease, or other vascular issues. Is this about right?  
+46. 患者：Yes, that sums it up.  
+47. 医師：From what you’re describing, these symptoms align with something called a transient ischemic attack or TIA. It’s often caused by a momentary blockage in the blood flow to important parts of the brain.  
+48. 患者：A TIA? So it’s not a stroke?  
+49. 医師：Correct. While it’s not a stroke, it signals that there’s a risk of it happening unless we address the underlying causes, like diabetes and possibly narrowed blood vessels.  
+50. 患者：I see. What’s the next step?"

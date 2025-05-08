@@ -1,0 +1,51 @@
+"1. 医師: What brings you in today?  
+2. 患者: I've been having stomach pain for the past few months, on and off.  
+3. 医師: Can you describe the pain?  
+4. 患者: It's a dull, uncomfortable feeling in the upper part of my stomach.  
+5. 医師: How often does the pain occur?  
+6. 患者: Several times a week, and it lasts for a few hours each time.  
+7. 医師: Do you notice if the pain gets better or worse with eating?  
+8. 患者: No, it doesn't seem to be related to meals.  
+9. 医師: Does the pain radiate to your back or anywhere else?  
+10. 患者: No, it stays in the same spot, right in the upper stomach.  
+11. 医師: Have you had any nausea or vomiting associated with the pain?  
+12. 患者: No, none of that.  
+13. 医師: Have you noticed any blood in your stool or when you vomit?  
+14. 患者: No, nothing like that.  
+15. 医師: Have you lost any weight recently?  
+16. 患者: Not really, my weight has stayed about the same.  
+17. 医師: How has your appetite been?  
+18. 患者: It's reduced. I don't feel like eating as much as I used to.  
+19. 医師: Have you had any fevers or recent infections?  
+20. 患者: No, I haven't.  
+21. 医師: Do you drink alcohol or smoke?  
+22. 患者: No, I don't do either.  
+23. 医師: Have you been taking any medications, like painkillers or NSAIDs?  
+24. 患者: No, the only medicine I use occasionally is loratadine for my allergies.  
+25. 医師: When did this stomach pain start?  
+26. 患者: About three months ago.  
+27. 医師: Have you experienced anything like this in the past?  
+28. 患者: No, this is the first time I've had this kind of problem.  
+29. 医師: Have you had any diarrhea or constipation?  
+30. 患者: No, my bowel movements have been normal.  
+31. 医師: Do you notice the pain getting worse with stress?  
+32. 患者: I haven't paid much attention, but I don't think stress affects it.  
+33. 医師: Does food like coffee, spicy, or fatty meals make it worse?  
+34. 患者: I’m not sure if those foods affect it specifically.  
+35. 医師: Did you travel or eat anything unusual before this started?  
+36. 患者: No, my routine has been pretty normal.  
+37. 医師: Have you been feeling overly tired or fatigued?  
+38. 患者: A little more than usual, but I think it's because I haven’t been eating much.  
+39. 医師: Any family history of digestive problems or serious illnesses?  
+40. 患者: Not that I know of. My family is generally healthy.  
+41. 医師: Let me ask about your job and lifestyle. Are you exposed to anything unusual, like stress or irregular meal patterns?  
+42. 患者: My job is pretty standard. I do skip meals sometimes when I'm busy, though.  
+43. 医師: Let's talk about your symptoms some more—have you had heartburn or acid reflux?  
+44. 患者: No, I haven't noticed those issues.  
+45. 医師: I see. We'll need to perform an exam to better understand what's happening. Do you feel pain when I press on your stomach?  
+46. 患者: A little bit when you press here in the upper center.  
+47. 医師: Based on our conversation and examination, nothing serious stands out, but I’ll order some tests to make sure. Does that sound okay?  
+48. 患者: Yes, that sounds good.  
+49. 医師: Your tests came back normal, and the endoscopy didn't show any structural issues. I suspect your symptoms are functional dyspepsia, where the digestive system is hypersensitive.  
+50. 患者: Oh, I see. What can we do about it?  
+"

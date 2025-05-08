@@ -1,0 +1,50 @@
+"1. 医師：Hello, I understand you’ve been experiencing some distressing symptoms. Can you tell me what brought you in today?  
+2. 患者：I’ve been having episodes where I suddenly can’t catch my breath, and my chest feels tight and painful.  
+3. 医師：When did these symptoms first start, and how often have they been occurring?  
+4. 患者：They started about six months ago, but they’ve been happening more often recently, maybe a few times a week now.  
+5. 医師：What was the most recent episode like? Can you describe it in detail?  
+6. 患者：It happened at work. Out of nowhere, I felt like I couldn’t breathe, my chest hurt, my stomach cramped, and I thought something terrible was about to happen.  
+7. 医師：How long did this recent episode last?  
+8. 患者：Maybe 20 minutes, but it felt much longer at the time.  
+9. 医師：The sense of something terrible about to happen—was that a strong feeling during the episode?  
+10. 患者：Yes, I felt completely panicked, like I was about to die or something awful was going to happen.  
+11. 医師：What about the chest pain—can you describe it?  
+12. 患者：It’s sharp, right in the center of my chest, but it doesn’t spread anywhere else.  
+13. 医師：And the abdominal discomfort? Can you tell me more about that?  
+14. 患者：It’s like a cramping pain, but I can’t really pinpoint exactly where it’s coming from.  
+15. 医師：Have you noticed any specific triggers for these episodes, like physical activity or certain foods?  
+16. 患者：I’m not sure. They happen randomly, though they seem to occur more when I’m stressed.  
+17. 医師：Have you seen any other doctors for these symptoms?  
+18. 患者：Yes, I went to the ER twice in the last few months, but they couldn’t find anything wrong.  
+19. 医師：Did they do any tests at the ER?  
+20. 患者：Yes, they ran a bunch of tests, like heart and stomach checks, but they said everything was normal.  
+21. 医師：How is your overall health otherwise? Any other medical conditions?  
+22. 患者：I was diagnosed with depression a while ago and used to take medication for it, but I stopped about a year ago.  
+23. 医師：What medication were you taking for depression?  
+24. 患者：It was called sertraline, 50 mg a day.  
+25. 医師：Why did you stop taking it?  
+26. 患者：I just felt better at the time and thought I didn’t need it anymore.  
+27. 医師：Since stopping the medication, have you noticed any changes in your mood or energy levels?  
+28. 患者：I’ve been more anxious, especially with these episodes happening.  
+29. 医師：Have you ever experienced similar episodes before these last six months?  
+30. 患者：No, nothing like this before.  
+31. 医師：Are there any specific times or situations where you feel more at risk of these episodes happening?  
+32. 患者：Mostly when I’m at work or thinking about stressful things.  
+33. 医師：What do you do to try to relieve the symptoms when they happen?  
+34. 患者：I sit down, try to take deep breaths, but it’s hard because it feels like I’m suffocating.  
+35. 医師：Do you ever feel dizzy or lightheaded during these episodes?  
+36. 患者：Sometimes, yes.  
+37. 医師：Have you noticed sweating or shaking during these attacks?  
+38. 患者：Yes, I sweat a lot and my hands shake.  
+39. 医師：Do you have any family history of anxiety, depression, or other mental health issues?  
+40. 患者：My mom has anxiety, and my brother used to see a therapist for depression.  
+41. 医師：What about heart disease or gastrointestinal issues in the family?  
+42. 患者：No, nothing like that in my family.  
+43. 医師：Are you currently taking any medications or supplements?  
+44. 患者：No, nothing right now.  
+45. 医師：Have you been to therapy or counseling for your anxiety or depression before?  
+46. 患者：I did some therapy a few years ago, but not recently.  
+47. 医師：When you think back over the past few months, how much of your life have these episodes disrupted?  
+48. 患者：A lot. It’s hard to focus at work, and I feel scared to go out sometimes, worrying it might happen again.  
+49. 医師：Based on what you’ve described, I believe your symptoms are consistent with a condition called panic disorder. It’s caused by recurrent panic attacks like the ones you’ve been experiencing.  
+50. 患者：Panic disorder? That makes sense now... I thought something was seriously wrong with my heart or stomach."

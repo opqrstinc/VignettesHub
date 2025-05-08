@@ -1,0 +1,50 @@
+"1. Médico: Hola, ¿cómo estás hoy? ¿Qué te trae al consultorio?  
+2. Paciente: Hola, doctor. Tengo fiebre desde hace cinco días, me duele la garganta y no tengo ganas de comer.  
+3. Médico: Entendido. ¿Has notado si la fiebre es constante o sube y baja?  
+4. Paciente: Es constante, por lo general estaba alrededor de 39 grados.  
+5. Médico: ¿Has tenido otros síntomas como tos, congestión nasal o molestia en el pecho?  
+6. Paciente: No, solamente la garganta inflamada y que me cuesta tragar.  
+7. Médico: ¿Has notado cansancio más de lo usual últimamente?  
+8. Paciente: Sí, muchísimo. Me siento muy débil todo el tiempo.  
+9. Médico: Además de la fiebre, ¿has tenido sudoraciones nocturnas o pérdida de peso?  
+10. Paciente: No, ni sudoraciones ni he perdido peso, solo no tengo hambre estos días.  
+11. Médico: ¿Has notado cambios en el color de tu piel, como palidez, amarillamiento o alguna erupción?  
+12. Paciente: No, mi piel se ve igual que siempre.  
+13. Médico: ¿Has tenido problemas estomacales como náuseas, vómitos o diarrea?  
+14. Paciente: Tampoco, todo parece normal con mi estómago.  
+15. Médico: ¿Algún dolor, especialmente en el abdomen?  
+16. Paciente: Ahora que lo menciona, tengo un poco de molestia en el lado izquierdo del abdomen.  
+17. Médico: ¿Has tenido contacto reciente con personas enfermas o viajado últimamente?  
+18. Paciente: No, no he viajado ni estado cerca de alguien enfermo.  
+19. Médico: ¿Has tomado medicamentos, alcohol u otras sustancias en los últimos días?  
+20. Paciente: No, no he tomado nada.  
+21. Médico: Muy bien. ¿Has tenido problemas de salud similares antes?  
+22. Paciente: No, esta es la primera vez que me pasa algo así.  
+23. Médico: ¿Algún antecedente médico o enfermedad en la familia que debamos tener en cuenta?  
+24. Paciente: No, mi familia está sana y yo nunca he tenido enfermedades importantes.  
+25. Médico: Voy a revisarte ahora. ¿Puedes abrir la boca y decir ""ah""?  
+26. Paciente: Claro.  
+27. Médico: Veo que tus amígdalas están agrandadas con un exudado blanco. ¿Es doloroso al tragar saliva o comida?  
+28. Paciente: Sí, me duele tragar, especialmente alimentos sólidos.  
+29. Médico: También noto ganglios inflamados en tu cuello. ¿Te duelen al tocarlos?  
+30. Paciente: No, no me causan dolor, solo los siento algo hinchados.  
+31. Médico: Voy a palparte el abdomen. Avísame si sientes dolor.  
+32. Paciente: Está bien.  
+33. Médico: Siento que tu bazo está algo aumentado de tamaño. ¿Habías notado esta molestia antes?  
+34. Paciente: No, esto es algo nuevo para mí.  
+35. Médico: Bien, parece que tienes algunos signos de infección. ¿Has estado extremadamente cansado al punto de no poder realizar tus actividades normales?  
+36. Paciente: Sí, me canso incluso estando en la cama.  
+37. Médico: ¿Has tenido dificultad para respirar o latidos del corazón acelerados?  
+38. Paciente: No, no he tenido problemas para respirar ni siento el corazón raro.  
+39. Médico: Perfecto. Vamos a solicitar unos análisis de sangre para confirmar lo que sospecho. En general, ¿sientes que ha mejorado, empeorado o sigues igual desde que empezaron los síntomas?  
+40. Paciente: Creo que he empeorado. Al principio era solo fatiga, pero ahora tengo más molestias.  
+41. Médico: ¿Hay algo más que te preocupe o te haya parecido extraño en los últimos días?  
+42. Paciente: No, creo que ya le conté todo lo que he notado.  
+43. Médico: Según la exploración, veo fiebre, ganglios inflamados y molestias en el bazo, entre otros síntomas, lo que podría estar relacionado con una infección viral.  
+44. Paciente: ¿Una infección? ¿Es algo grave?  
+45. Médico: Parece ser mononucleosis infecciosa, causada comúnmente por el virus de Epstein-Barr. Vamos a confirmarlo con los análisis.  
+46. Paciente: ¿Mononucleosis? ¿Es contagiosa o peligrosa?  
+47. Médico: Es contagiosa a través de la saliva, pero no suele ser grave. Necesitarás reposo y cuidado.  
+48. Paciente: Entendido. ¿Cuánto tiempo tardaré en mejorar?  
+49. Médico: Generalmente, los síntomas principales mejoran entre 2 a 4 semanas, aunque la fatiga puede durar más tiempo.  
+50. Paciente: Está bien. Haré todo lo que sea necesario para recuperarme."

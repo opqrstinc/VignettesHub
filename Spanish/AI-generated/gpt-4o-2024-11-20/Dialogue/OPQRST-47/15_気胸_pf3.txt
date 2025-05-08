@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, señor. ¿Qué lo trae hoy por aquí?  
+2. Paciente: Hola, doctor. Desde esta mañana tengo dificultad para respirar y un dolor raro en el lado derecho del pecho.  
+3. Médico: ¿Puede describirme cómo es ese dolor?  
+4. Paciente: Es como una presión, molesta más en la parte posterior del pecho.  
+5. Médico: ¿Cuándo empezó exactamente? ¿Estaba haciendo algo en particular?  
+6. Paciente: Empezó de golpe mientras estaba caminando a ritmo rápido. No estaba haciendo nada exagerado, solo ejercicio moderado.  
+7. Médico: ¿Ha tenido alguna caída, golpe o accidente recientemente?  
+8. Paciente: No, nada de eso.  
+9. Médico: ¿El dolor ha sido constante desde que comenzó o ha ido cambiando?  
+10. Paciente: Ha sido constante, no empeora ni mejora mucho.  
+11. Médico: ¿Tiene dificultad para respirar constantemente o en ciertos momentos?  
+12. Paciente: Es más cuando intento moverme o hablar mucho.  
+13. Médico: ¿Ha tenido fiebre, tos o ha escupido sangre?  
+14. Paciente: No, nada de eso.  
+15. Médico: ¿Alguna vez le ha pasado algo similar antes?  
+16. Paciente: No, nunca me había pasado algo así.  
+17. Médico: ¿Tiene o ha tenido algún problema de salud conocido como hipertensión, diabetes o algo en los pulmones?  
+18. Paciente: Bueno, tengo hipertensión, pero está controlada con pastillas.  
+19. Médico: ¿Está tomando algún medicamento actualmente?  
+20. Paciente: Sí, tomo enalapril para la presión alta.  
+21. Médico: ¿Fuma o ha fumado en el pasado?  
+22. Paciente: Fumé cuando era más joven, pero lo dejé hace unos 20 años.  
+23. Médico: ¿Su familia tiene antecedentes de enfermedades pulmonares o cardíacas?  
+24. Paciente: Mi papá tuvo problemas cardíacos, pero no recuerdo nada de los pulmones.  
+25. Médico: ¿Ha notado si el dolor se siente peor al respirar profundamente?  
+26. Paciente: Sí, parece que duele más cuando intento respirar hondo.  
+27. Médico: ¿Ha sentido cansancio extremo o palpitaciones?  
+28. Paciente: Cansancio un poco, pero no palpitaciones.  
+29. Médico: ¿Trabaja en algo que implique exposición a sustancias o riesgos respiratorios?  
+30. Paciente: No, trabajo en una oficina.  
+31. Médico: ¿Tiene alergias conocidas o alguna otra enfermedad crónica?  
+32. Paciente: No, nada más que la presión alta.  
+33. Médico: Durante la exploración, noto que hay menos sonido respiratorio en el lado derecho del tórax. Esto me lleva a pensar que podamos estar enfrentando algo relacionado con el pulmón.  
+34. Paciente: ¿Eso es grave, doctor?  
+35. Médico: Podría serlo si no lo tratamos. Para esto, haremos una radiografía de tórax para entender mejor la causa.  
+36. Paciente: Está bien, doctor.  
+37. Médico: Si bien aún no tenemos el resultado, algunos de sus síntomas coinciden con un posible neumotórax. ¿Ha oído hablar de eso?  
+38. Paciente: No, la verdad no sé lo que es.  
+39. Médico: Es cuando hay aire dentro del espacio que rodea el pulmón, lo que puede hacer que colapse parcialmente.  
+40. Paciente: ¿Y eso cómo se solucionaría?  
+41. Médico: Si se confirma que es neumotórax, necesitaríamos insertar un pequeño tubo para liberar ese aire y permitir que el pulmón se expanda nuevamente.  
+42. Paciente: Entendido, doctor. ¿Es algo común?  
+43. Médico: No es muy frecuente, pero puede ocurrir más en hombres y personas con antecedentes como fumar o enfermedades pulmonares.  
+44. Paciente: Pero yo ya no fumo.  
+45. Médico: Claro, dejó de fumar hace tiempo, pero su historial puede jugar un pequeño rol.  
+46. Paciente: ¿Cuánto tiempo duraría el tratamiento?  
+47. Médico: Generalmente mejora en pocos días con el tratamiento adecuado.  
+48. Paciente: Perfecto, doctor. Estoy listo para lo que sea necesario.  
+49. Médico: Bueno, ahora confirmemos con la radiografía.  
+50. Paciente: Gracias, doctor. Espero mejores noticias pronto.  "

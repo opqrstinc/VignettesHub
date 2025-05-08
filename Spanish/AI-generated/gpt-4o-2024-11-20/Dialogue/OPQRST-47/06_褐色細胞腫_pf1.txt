@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, ¿qué lo trae hoy a consulta?  
+2. Paciente: Hola, doctor. Últimamente he estado teniendo episodios de palpitaciones, dolor de cabeza fuerte y sudoración abundante.  
+3. Médico: Entiendo. ¿Desde cuándo empezó con estos síntomas?  
+4. Paciente: Hace como tres meses, más o menos.  
+5. Médico: ¿Con qué frecuencia ocurren esos episodios?  
+6. Paciente: Diría que unas dos o tres veces por semana.  
+7. Médico: ¿Cuánto tiempo suelen durar?  
+8. Paciente: Normalmente entre 20 y 30 minutos, luego desaparecen solos.  
+9. Médico: ¿Hay algo que desencadene estos episodios, como ejercicio físico o estrés?  
+10. Paciente: No, no he notado nada en particular, suceden sin aviso.  
+11. Médico: ¿Cómo se siente durante los episodios?  
+12. Paciente: Me siento muy ansioso, mi cara se pone roja y a veces siento un poco de molestia en el abdomen.  
+13. Médico: ¿Ha perdido peso recientemente o ha tenido fiebre?  
+14. Paciente: No, mi peso ha estado igual y no he tenido fiebre.  
+15. Médico: ¿Tiene antecedentes de hipertensión u otros problemas médicos?  
+16. Paciente: No, la verdad es que no tengo antecedentes de enfermedades importantes.  
+17. Médico: ¿Alguien en su familia tiene hipertensión o enfermedades endocrinas?  
+18. Paciente: No, que yo sepa, mi familia está saludable.  
+19. Médico: ¿Toma algún medicamento o consume sustancias como cafeína o alcohol regularmente?  
+20. Paciente: No, no tomo medicamentos ni consumo sustancias.  
+21. Médico: Durante estos episodios, ¿ha notado alguna palidez o piel húmeda?  
+22. Paciente: Sí, mi piel está húmeda y como que sudo mucho.  
+23. Médico: ¿Tiene otros síntomas, como temblores, náuseas o mareos?  
+24. Paciente: No, solo la sudoración, el dolor de cabeza y las palpitaciones.  
+25. Médico: Quiero preguntarle, ¿cómo ha estado su presión arterial últimamente?  
+26. Paciente: Hace poco me dijeron que tengo la presión alta, pero no me dieron más detalles.  
+27. Médico: ¿Ha medido sus pulsaciones durante los episodios?  
+28. Paciente: No las he medido, pero siento que el corazón se me acelera mucho.  
+29. Médico: ¿Cómo describiría el dolor de cabeza? ¿Es constante o punzante?  
+30. Paciente: Es más bien punzante y muy incómodo, pero se pasa rápido.  
+31. Médico: Muy bien. Durante el examen físico, he notado que tiene la presión arterial bastante elevada y su ritmo cardíaco es acelerado.  
+32. Paciente: Es cierto, parece que siempre estoy nervioso, pero no sé por qué.  
+33. Médico: ¿Trabaja bajo mucho estrés o tiene problemas emocionales recientes?  
+34. Paciente: Mi trabajo puede ser algo demandante, pero nada nuevo.  
+35. Médico: Haré unas pruebas específicas para medir ciertas hormonas en su sangre y orina. ¿Le parece bien?  
+36. Paciente: Claro, doctor, estoy de acuerdo.  
+37. Médico: También vamos a realizar un estudio de imágenes para observar las glándulas encima de sus riñones.  
+38. Paciente: Muy bien, lo que sea necesario para entender qué está pasando.  
+39. Médico: Le adelanto que quiero descartar un problema llamado feocromocitoma, una condición que puede causar estos síntomas.  
+40. Paciente: No había escuchado eso antes, ¿es grave?  
+41. Médico: Es tratable, pero es importante identificarlo a tiempo para manejarlo adecuadamente.  
+42. Paciente: De acuerdo, confío en su experiencia, doctor.  
+43. Médico: El análisis de laboratorio muestra niveles elevados de sustancias llamadas metanefrinas, relacionadas con ese diagnóstico que mencioné.  
+44. Paciente: ¿Eso confirma lo que sospecha?  
+45. Médico: Vamos a confirmar con una tomografía de su abdomen.  
+46. Paciente: Muy bien, ¿cuándo se haría eso?  
+47. Médico: Lo programaremos pronto; en las imágenes se buscará alguna masa anormal en las glándulas suprarrenales.  
+48. Paciente: ¿Y si hay algo ahí, qué tratamiento hay?  
+49. Médico: Primero se controla su presión y latidos del corazón con medicamentos, y luego consideraríamos cirugía si es necesario.  
+50. Paciente: Comprendo, doctor. Confío en que me ayudará a resolver esto."

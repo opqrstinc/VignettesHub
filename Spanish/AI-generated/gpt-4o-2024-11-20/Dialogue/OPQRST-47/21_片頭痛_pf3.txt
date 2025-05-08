@@ -1,0 +1,50 @@
+"1. Médico: Hola, encantada de conocerte. ¿Qué te trae hoy a la consulta?  
+2. Paciente: Hola doctora. He tenido un dolor de cabeza muy fuerte desde hace unas horas.  
+3. Médico: Entiendo. ¿Podrías describirme el dolor? ¿Dónde lo sientes exactamente?  
+4. Paciente: Es un dolor pulsátil, en la parte derecha de mi cabeza, cerca de la sien.  
+5. Médico: ¿Desde cuándo comenzó este dolor?  
+6. Paciente: Comenzó hace como unas ocho horas, pero fue empeorando poco a poco.  
+7. Médico: ¿Es la primera vez que tienes este tipo de dolor de cabeza?  
+8. Paciente: No, ya he tenido dolores similares antes, pero este es más fuerte de lo usual.  
+9. Médico: ¿Con qué frecuencia experimentas estos dolores?  
+10. Paciente: Me pasan como una o dos veces al mes, más o menos.  
+11. Médico: ¿Sabes si algo los desencadena?  
+12. Paciente: Sí, creo que el estrés, cuando no duermo bien y, a veces, en mi periodo.  
+13. Médico: ¿Hay algo más que acompaña este dolor, como náuseas, vómitos o sensibilidad a la luz o ruidos?  
+14. Paciente: Sí, tengo muchas náuseas y los olores me molestan mucho. No puedo soportar perfumes ahora mismo.  
+15. Médico: ¿Qué tan intenso dirías que es este dolor de cabeza del 1 al 10?  
+16. Paciente: Creo que un 9. Es bastante incapacitante.  
+17. Médico: ¿Has intentado tomar algún medicamento para aliviar el dolor?  
+18. Paciente: Sí, tomé paracetamol, pero no me ayudó esta vez.  
+19. Médico: ¿Y en episodios anteriores? ¿El paracetamol te ayudaba en esos casos?  
+20. Paciente: Sí, usualmente aliviaba un poco el dolor, pero no lo quitaba por completo.  
+21. Médico: De los episodios previos, ¿podrías decirme cuánto tiempo suelen durar estos dolores?  
+22. Paciente: Normalmente duran entre uno y tres días.  
+23. Médico: ¿Qué haces durante esos episodios? ¿Hay algo que te haga sentir mejor?  
+24. Paciente: Me encierro en mi cuarto, apago las luces y trato de dormir. A veces, eso ayuda un poco.  
+25. Médico: ¿Has notado algo diferente en tus episodios actuales comparados con los anteriores?  
+26. Paciente: Sólo que este es mucho más intenso.  
+27. Médico: Perfecto. Ahora, te haré algunas preguntas generales. ¿Tienes otros problemas de salud o estás tomando algún medicamento regularmente?  
+28. Paciente: No, en general estoy sana, pero siempre he tenido migrañas desde que era adolescente.  
+29. Médico: ¿Y hay historia de migraña o dolores de cabeza similares en tu familia?  
+30. Paciente: Mi mamá también sufre de migrañas desde joven.  
+31. Médico: Entendido. ¿Alguien más en casa o en tu entorno ha notado algo diferente en ti durante estos episodios?  
+32. Paciente: Mi novio dice que me pongo muy irritable y me aparto de todos cuando tengo estos dolores.  
+33. Médico: Gracias. ¿Has notado cambios en tu visión o problemas para hablar, pensar o moverte durante tus dolores?  
+34. Paciente: No, sólo el dolor y la sensibilidad.  
+35. Médico: ¿Has tenido fiebre, rigidez en el cuello o algún otro síntoma extraño además del dolor?  
+36. Paciente: No, nada de eso.  
+37. Médico: Muy bien, ahora hablemos de tus hábitos de sueño. ¿Cuántas horas duermes normalmente, y cómo es tu calidad de sueño?  
+38. Paciente: Generalmente duermo unas 5 o 6 horas, pero muchas veces me despierto durante la noche.  
+39. Médico: Entendido. ¿Y qué tal tu alimentación, comes regularmente?  
+40. Paciente: A veces salto comidas, especialmente cuando estoy ocupada en la universidad.  
+41. Médico: ¿Cómo te sientes emocionalmente? ¿Has estado más estresada últimamente?  
+42. Paciente: Sí. Están las clases, los exámenes y problemas personales que me tienen algo ansiosa.  
+43. Médico: Veo que el estrés podría ser un factor importante aquí. ¿Has intentado alguna técnica de relajación o terapia para manejarlo?  
+44. Paciente: No realmente, pero he pensado en hacerlo.  
+45. Médico: Te lo recomendaré más adelante. Por ahora, tengo una imagen más clara de tus síntomas y tus antecedentes. ¿Tienes alguna otra preocupación?  
+46. Paciente: No, sólo quiero que este dolor desaparezca.  
+47. Médico: En base a lo que me cuentas y después de los estudios que realizamos, parece que estamos frente a un episodio de migraña.  
+48. Paciente: ¿Una migraña? ¿Eso se puede tratar?  
+49. Médico: Sí, hay varias opciones, por ejemplo, el sumatriptán puede aliviar estos episodios. También trabajaremos en medidas preventivas como mejorar el sueño y manejar el estrés.  
+50. Paciente: Perfecto. Muchas gracias por su ayuda."

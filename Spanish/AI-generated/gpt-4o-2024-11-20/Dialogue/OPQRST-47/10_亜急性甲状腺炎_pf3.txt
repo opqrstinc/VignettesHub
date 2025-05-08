@@ -1,0 +1,50 @@
+"1. Médico: Hola, buenas tardes. Soy el Dr. García. ¿Cómo se encuentra hoy?  
+2. Paciente: Hola doctor, pues no muy bien, he estado teniendo molestias en el cuello.  
+3. Médico: Entiendo. ¿Qué tipo de molestias ha tenido en el cuello?  
+4. Paciente: Es un dolor en la parte delantera del cuello, como si estuviera inflamado.  
+5. Médico: ¿El dolor se mantiene en un solo lugar o se irradia a otra parte?  
+6. Paciente: Se extiende hacia la mandíbula y los oídos, y a veces es muy incómodo.  
+7. Médico: ¿Desde hace cuánto tiempo empezó este dolor?  
+8. Paciente: Hace como tres semanas. Al principio era leve, pero ha empeorado con el tiempo.  
+9. Médico: Además del dolor, ¿ha notado algún otro síntoma?  
+10. Paciente: Sí, he tenido algo de fiebre y me siento muy cansado todo el tiempo.  
+11. Médico: ¿Ha medido su temperatura?  
+12. Paciente: Sí, me llegó a 37.8°C. No es muy alta, pero no estoy acostumbrado a esto.  
+13. Médico: ¿Ha notado algún cambio en su peso recientemente?  
+14. Paciente: Sí, he bajado como 5 kilos en estas semanas, pero no he cambiado mi dieta ni aumentado ejercicio.  
+15. Médico: ¿Ha tenido dificultad para tragar o problemas para respirar?  
+16. Paciente: No, para nada.  
+17. Médico: ¿Y algún enrojecimiento o hinchazón visible en el cuello?  
+18. Paciente: No he notado nada visible, pero lo siento un poco inflamado al tacto.  
+19. Médico: ¿Tiene antecedentes de problemas tiroideos o enfermedades autoinmunes en su familia?  
+20. Paciente: No, mi familia no tiene historial de esas enfermedades.  
+21. Médico: ¿En el pasado ha tenido algún problema de salud importante?  
+22. Paciente: No, siempre he sido sano.  
+23. Médico: ¿Ha sentido palpitaciones, temblores o sudoración excesiva últimamente?  
+24. Paciente: Un poco de palpitaciones, pero creí que era por el estrés.  
+25. Médico: ¿Cómo describiría su nivel de energía en estos días?  
+26. Paciente: Muy bajo, me siento agotado hasta con cosas simples.  
+27. Médico: Entendido. Cuando se toca el cuello, ¿le duele más en algún lado en particular?  
+28. Paciente: Sí, creo que un poco más en el lado derecho que en el izquierdo.  
+29. Médico: Cuando dice que el dolor ha aumentado, ¿se ha vuelto constante o hay momentos en el día donde es peor?  
+30. Paciente: Es casi constante, pero parece empeorar por la tarde.  
+31. Médico: En relación al apetito, ¿ha tenido cambios recientes?  
+32. Paciente: No, mi apetito sigue siendo el mismo.  
+33. Médico: ¿Ha tenido episodios de resfriado o infecciones recientemente?  
+34. Paciente: Sí, hace como un mes tuve un resfriado fuerte, pero ya me sentía mejor antes de que comenzara el dolor de cuello.  
+35. Médico: Eso es importante. ¿Ha estado tomando algún medicamento por su cuenta para manejar estos síntomas?  
+36. Paciente: Solo he tomado paracetamol para el dolor y la fiebre.  
+37. Médico: ¿Le ha ayudado en algo el paracetamol?  
+38. Paciente: Solo un poco, pero el dolor regresa pronto.  
+39. Médico: Comprendido. Ahora voy a tocar su cuello para revisarlo. ¿Está bien?  
+40. Paciente: Sí, adelante.  
+41. Médico: Al palpar, noto que su tiroides está sensible y un poco agrandada, especialmente del lado derecho. ¿Le duele mucho cuando presiono aquí?  
+42. Paciente: Sí, bastante.  
+43. Médico: No noto nódulos o cambios en la piel. ¿Ha tenido dolor en otras articulaciones o músculos?  
+44. Paciente: No, solo este dolor en el cuello.  
+45. Médico: Muy bien. Según lo que me cuenta y lo que observo, parece que estamos ante un problema inflamatorio de la glándula tiroides.  
+46. Paciente: ¿Inflamación en la tiroides? ¿Qué significa eso?  
+47. Médico: Puede ser un cuadro llamado tiroiditis subaguda, causado generalmente por una inflamación después de infecciones virales.  
+48. Paciente: ¿Es algo peligroso?  
+49. Médico: No en su mayoría, pero puede causar molestias importantes. Vamos a confirmarlo con algunos análisis y pruebas.  
+50. Paciente: Entendido, doctor. ¿Qué debo hacer ahora?"

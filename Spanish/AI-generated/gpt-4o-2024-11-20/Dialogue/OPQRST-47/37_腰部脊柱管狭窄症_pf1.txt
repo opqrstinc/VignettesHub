@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señor. ¿Qué lo trae hoy a la consulta?  
+2. Paciente: Buenos días, doctor. He tenido dolor en la parte baja de la espalda desde hace meses, y ahora también me afecta las piernas.  
+3. Médico: Entendido. ¿Puede describirme este dolor? ¿Cómo comenzó?  
+4. Paciente: Comenzó de a poco, hace unos 8 meses. Al principio era soportable, pero ahora es más fuerte y baja por ambas piernas, sobre todo la izquierda.  
+5. Médico: ¿El dolor es constante o aparece en momentos específicos?  
+6. Paciente: Aparece sobre todo cuando camino o estoy mucho tiempo de pie. Mejora si me siento o me inclino hacia adelante.  
+7. Médico: ¿Qué distancia puede caminar ahora antes de que el dolor aparezca?  
+8. Paciente: Aproximadamente 100 metros, luego tengo que pararme o sentarme por el dolor.  
+9. Médico: Entiendo. ¿Cuándo dice que afecta más la pierna izquierda, nota algún otro síntoma, como debilidad o pérdida de sensibilidad?  
+10. Paciente: Sí, la pierna izquierda se siente más débil, y a veces siento como hormigueo.  
+11. Médico: ¿En qué parte de la pierna siente el hormigueo?  
+12. Paciente: Principalmente en la parte externa e inferior de la pierna.  
+13. Médico: ¿Ha notado cambios en el control de esfínteres o problemas al orinar?  
+14. Paciente: No, no he tenido problemas con eso.  
+15. Médico: De acuerdo. ¿Tiene antecedentes de problemas en la espalda o alguna cirugía previa en la columna?  
+16. Paciente: Sí, hace años me diagnosticaron una hernia lumbar, pero nunca necesité cirugía.  
+17. Médico: ¿Algún trauma o accidente reciente relacionado con su espalda?  
+18. Paciente: No, nada que recuerde.  
+19. Médico: ¿El dolor empeora durante la noche o al hacer ciertos movimientos?  
+20. Paciente: No noto que empeore en la noche, pero se siente peor cuando estoy mucho tiempo de pie o camino mucho.  
+21. Médico: ¿Ha intentado tomar algo para el dolor?  
+22. Paciente: Sí, he tomado paracetamol y un antiinflamatorio que me recetaron, pero no ayudan mucho.  
+23. Médico: ¿Qué tal el sueño? ¿Le afecta el dolor para dormir?  
+24. Paciente: Al principio no me afectaba, pero últimamente me despierto con incomodidad en la espalda.  
+25. Médico: ¿Alguna otra enfermedad que le hayan diagnosticado o tratamientos actuales?  
+26. Paciente: No, aparte de la hernia lumbar, estoy generalmente saludable.  
+27. Médico: ¿En su familia alguien ha tenido problemas similares?  
+28. Paciente: No, que yo sepa.  
+29. Médico: ¿Qué actividades de la vida diaria se ven más afectadas por este dolor?  
+30. Paciente: Principalmente caminar, pero también me cuesta estar de pie mucho rato, incluso en casa.  
+31. Médico: ¿Trabaja actualmente? Si es así, ¿cómo afecta el dolor en el desempeño de su trabajo?  
+32. Paciente: Estoy jubilado, pero el dolor me limita para salir de casa o disfrutar de actividades como antes.  
+33. Médico: ¿Qué postura alivia más el dolor?  
+34. Paciente: Sentarme o inclinarme hacia adelante me ayuda a sentir menos dolor.  
+35. Médico: ¿Alguna vez tuvo fiebre o pérdida de peso reciente?  
+36. Paciente: No, nada de eso.  
+37. Médico: ¿Experimenta calambres o espasmos musculares en las piernas?  
+38. Paciente: Sí, más que todo en la pierna izquierda.  
+39. Médico: Durante la exploración noté cierta debilidad en el pie izquierdo. ¿Le cuesta moverlo o levantarlo?  
+40. Paciente: Sí, levantarlo requiere más esfuerzo últimamente.  
+41. Médico: Observé también cierta pérdida de sensibilidad en una parte específica de la pierna. ¿Ha sentido algún entumecimiento además del hormigueo?  
+42. Paciente: Sí, a veces siento como si esa zona estuviera dormida.  
+43. Médico: Ya que el dolor se alivia al inclinarse o sentarse, esto sugiere algo a nivel de la columna lumbar. ¿Le resulta familiar el término estenosis lumbar?  
+44. Paciente: No exactamente, ¿qué significa?  
+45. Médico: Es un estrechamiento del canal por donde pasan los nervios en la columna, lo que puede causar la mayoría de sus síntomas.  
+46. Paciente: ¿Es grave?  
+47. Médico: Depende de la progresión y del impacto en su calidad de vida. En su caso, parece ser significativo. Le explico por qué.  
+48. Paciente: Está bien, siga por favor.  
+49. Médico: Su resonancia mostró una estrechez importante en un nivel de su columna, y el examen físico confirma una radiculopatía en la pierna izquierda. Estos resultados coinciden con estenosis lumbar en L4-L5 debido a cambios degenerativos.  
+50. Paciente: ¿Esto tiene tratamiento?"

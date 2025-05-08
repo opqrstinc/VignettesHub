@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, señor. ¿Qué lo trae hoy a consulta?  
+2. Paciente: Buenas tardes, doctor. Tengo un dolor en la parte baja de la espalda que ya lleva como seis meses molestándome.  
+3. Médico: Entiendo. ¿Puede describirme ese dolor? ¿Es constante, se irradia hacia alguna zona?  
+4. Paciente: Es un dolor constante, pero se pone peor cuando camino. Se va hacia las piernas, sobre todo cuando camino mucho.  
+5. Médico: ¿Ha notado si se siente diferente en ambas piernas o si el dolor afecta más una pierna que la otra?  
+6. Paciente: No, es en las dos piernas, como si me pesaran o estuvieran entumecidas.  
+7. Médico: ¿Ese entumecimiento o sensación extraña en las piernas ocurrió al mismo tiempo que comenzó el dolor de espalda?  
+8. Paciente: No, primero era solo dolor en la espalda, pero al pasar los meses, empezó lo de las piernas.  
+9. Médico: ¿Ha notado si este dolor o esas molestias cambian con ciertas posturas o movimientos?  
+10. Paciente: Sí, cuando camino mucho o estoy de pie por un rato, empeora. Tengo que detenerme porque siento las piernas débiles.  
+11. Médico: ¿Cuánto tiempo o cuántos metros puede caminar antes de que el dolor lo obligue a parar?  
+12. Paciente: Ahora no puedo caminar más de 50 metros, más o menos. Antes podía caminar bastante más.  
+13. Médico: Cuando se detiene, ¿mejora el dolor o la sensación en las piernas?  
+14. Paciente: Sí, con descansar un momento mejora un poco, pero vuelve cuando sigo caminando.  
+15. Médico: ¿Ha tenido algún accidente en la espalda o cirugía previa?  
+16. Paciente: No, nunca he tenido accidentes ni me he operado de la espalda.  
+17. Médico: ¿Tiene algún otro problema de salud, como diabetes o hipertensión?  
+18. Paciente: No, nada de eso, mi salud siempre ha sido buena.  
+19. Médico: ¿Y hay antecedentes de problemas similares en familiares cercanos?  
+20. Paciente: No, que yo sepa, nadie en mi familia ha tenido problemas de espalda o de piernas.  
+21. Médico: ¿Cómo es su actividad diaria? ¿Tiene un trabajo o alguna actividad que implique esfuerzos físicos?  
+22. Paciente: Estoy jubilado, pero antes trabajaba en una oficina. No hago mucho ejercicio ahora.  
+23. Médico: Comprendo. ¿Alguna vez ha sentido un dolor tan fuerte que le impida dormir o realizar sus actividades normales?  
+24. Paciente: El dolor no me deja caminar como antes y, a veces, me cuesta dormir, pero no es tanto por el dolor, sino porque me preocupo por esto.  
+25. Médico: Entendido. ¿Ha tomado medicamentos para aliviar el dolor o ha hecho algo para intentar mejorarlo?  
+26. Paciente: He tomado ibuprofeno, pero ya no me hace tanto efecto como al principio.  
+27. Médico: En la noche, ¿siente alguna diferencia en el dolor o las molestias?  
+28. Paciente: Sí, en la noche no siento tanto dolor porque no camino, es más fuerte durante el día.  
+29. Médico: Ahora dígame, ¿ha tenido cambios en el control de sus esfínteres, como perder orina o heces sin querer?  
+30. Paciente: No, eso no me ha pasado, todo sigue normal en ese aspecto.  
+31. Médico: ¿Ha sentido debilidad como para que le cueste mover las piernas o realizar fuerza con ellas?  
+32. Paciente: Sí, siento que no tengo la misma fuerza de antes, como que me fallan un poco.  
+33. Médico: Bien. En la exploración he notado que su fuerza en ciertas partes de las piernas está algo reducida. ¿Ha notado si esa falta de fuerza afecta actividades como subir escaleras o levantarse de una silla?  
+34. Paciente: Sí, me cuesta un poco más subir escaleras, siento menos fuerza en los muslos.  
+35. Médico: ¿Ha tenido calambres o espasmos en las piernas?  
+36. Paciente: No, dolores como calambres no he tenido.  
+37. Médico: Durante este tiempo, ¿ha bajado de peso sin razón aparente?  
+38. Paciente: No, mi peso se ha mantenido igual.  
+39. Médico: Gracias por la información. Vamos a realizar unas pruebas básicas para evaluar su sensibilidad y reflejos en las piernas.  
+40. Paciente: Claro, doctor, haga lo que sea necesario para saber qué tengo.  
+41. Médico: Sus reflejos en las piernas están algo disminuidos, y la punta de sus dedos parece tener menor sensibilidad. ¿Ha notado eso antes?  
+42. Paciente: Un poco, pero pensé que era porque ya no camino tanto.  
+43. Médico: Bien. Según su historia y los hallazgos, pueden existir cambios estructurales en su columna lumbar. ¿Le han realizado alguna vez una resonancia magnética de la espalda baja?  
+44. Paciente: No, nunca me han hecho una resonancia, pero estoy dispuesto a hacerla.  
+45. Médico: De acuerdo. También evaluaremos sus nervios con un estudio llamado electromiografía para medir su función.  
+46. Paciente: Muy bien, doctor, quiero saber por qué me pasa esto.  
+47. Médico: Los estudios muestran una estenosis lumbar en el nivel L4-L5, lo que significa que hay un estrechamiento del canal donde pasan los nervios, causando sus síntomas.  
+48. Paciente: ¿Eso es grave? ¿Se puede tratar?  
+49. Médico: Es tratable, comenzaremos con tratamiento conservador, incluyendo medicamentos y fisioterapia, para aliviar el dolor y mejorar su funcionalidad.  
+50. Paciente: Muchas gracias, doctor, haré lo que sea necesario."

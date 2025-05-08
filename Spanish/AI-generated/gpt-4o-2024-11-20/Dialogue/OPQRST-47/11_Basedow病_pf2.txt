@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señor. ¿En qué puedo ayudarle hoy?  
+2. Paciente: Buenos días, doctor. He estado sintiéndome muy extraño últimamente y no sé qué me está pasando.  
+3. Médico: Entendido. ¿Podría decirme más sobre sus síntomas?  
+4. Paciente: Bueno, he perdido mucho peso, sin cambiar lo que como ni hacer más ejercicio.  
+5. Médico: ¿Cuánto peso ha perdido y en cuánto tiempo?  
+6. Paciente: He perdido unos 7 kilos en los últimos dos meses.  
+7. Médico: ¿Ha notado algún otro síntoma junto con la pérdida de peso?  
+8. Paciente: Sí, estoy muy cansado, tengo palpitaciones y no tolero el calor, me siento sofocado incluso cuando los demás están cómodos.  
+9. Médico: ¿Hace cuánto tiempo comenzaron estos síntomas?  
+10. Paciente: Creo que empezó hace unos tres meses, pero se ha puesto peor últimamente.  
+11. Médico: ¿Ha tenido dificultad para dormir?  
+12. Paciente: Sí, me cuesta mucho dormir, estoy muy nervioso y tengo insomnio.  
+13. Médico: ¿Cómo están sus hábitos intestinales? ¿Algún cambio reciente?  
+14. Paciente: Sí, voy al baño más veces de lo normal, como unas cuatro o cinco veces al día.  
+15. Médico: Entiendo. ¿Alguna dificultad para concentrarse o cambios en su estado de ánimo?  
+16. Paciente: Sí, me siento muy ansioso y a veces me enojo por cosas pequeñas.  
+17. Médico: ¿Tiene antecedentes personales de algún problema de salud?  
+18. Paciente: Bueno, tengo diabetes tipo 2, pero nada más.  
+19. Médico: ¿Está en tratamiento para su diabetes?  
+20. Paciente: Sí, tomo mis medicamentos, pero últimamente es más difícil controlar mis niveles de azúcar.  
+21. Médico: ¿Algún miembro de su familia tiene problemas de tiroides?  
+22. Paciente: Creo que sí, mi madre tuvo algo relacionado con la tiroides, pero no recuerdo bien qué.  
+23. Médico: Muy bien. He notado que tiene una mirada un poco prominente. ¿Alguien más le ha mencionado esto?  
+24. Paciente: Sí, mi esposa me dijo lo mismo hace unas semanas.  
+25. Médico: ¿Ha notado que sus manos tiemblan o están más inquietas?  
+26. Paciente: Sí, mis manos tiemblan muchísimo, sobre todo cuando estoy descansando.  
+27. Médico: Voy a tomar sus signos vitales. Su frecuencia cardiaca es de 112 latidos por minuto. ¿Siente su corazón latiendo rápido usualmente?  
+28. Paciente: Sí, siento como si mi corazón estuviera latiendo demasiado rápido casi todo el tiempo.  
+29. Médico: Su presión arterial está dentro del límite normal. ¿Su piel se siente más caliente de lo habitual?  
+30. Paciente: Sí, y también sudo mucho, incluso cuando no hace tanto calor.  
+31. Médico: Voy a tocar el área de su cuello. Siento un bocio, lo que significa que su tiroides está aumentada de tamaño. ¿Ha notado esta inflamación?  
+32. Paciente: No, doctor, no me había dado cuenta.  
+33. Médico: ¿Ha tenido dolor en el cuello o alguna molestia al tragar?  
+34. Paciente: No, nada de eso.  
+35. Médico: Gracias. Vamos a realizar algunos estudios de laboratorio, incluyendo niveles de hormonas tiroideas. ¿Le parece bien?  
+36. Paciente: Claro, doctor, lo que sea necesario para saber qué me está pasando.  
+37. Médico: Perfecto. También haré una ecografía de su tiroides para confirmar algunos hallazgos.  
+38. Paciente: ¿Esto es muy grave, doctor?  
+39. Médico: Aún necesitamos ciertos resultados, pero parece que tiene un problema con su tiroides que está afectando muchas funciones en su cuerpo.  
+40. Paciente: Entendido. Haré los estudios tan pronto como sea posible.  
+41. Médico: Le avisaremos una vez que tengamos los resultados. Mientras tanto, trate de descansar y evite cualquier situación estresante.  
+42. Paciente: Está bien, lo intentaré.  
+43. Médico: Revisando sus resultados, veo que tiene niveles muy bajos de TSH y niveles elevados de T4 y T3. ¿Ha oído hablar de las hormonas tiroideas?  
+44. Paciente: No mucho, pero sé que tienen que ver con la energía.  
+45. Médico: Así es, y sus resultados nos indican que su tiroides está produciendo demasiadas hormonas, lo que podría explicar su pérdida de peso, las palpitaciones y otros síntomas.  
+46. Paciente: ¿Entonces esto es lo que me está causando todo esto?  
+47. Médico: Sí, parece ser la causa. Además, sus estudios muestran anticuerpos elevados y una gammagrafía confirma que su tiroides está demasiado activa. Esto sugiere una condición llamada Enfermedad de Graves-Basedow.  
+48. Paciente: ¿Es algo grave?  
+49. Médico: Puede manejarse con tratamiento, como un medicamento llamado tiamazol, para disminuir la función tiroidea, y un betabloqueante como el propranolol para controlar sus síntomas.  
+50. Paciente: Gracias, doctor. Me siento aliviado de que haya tratamiento."

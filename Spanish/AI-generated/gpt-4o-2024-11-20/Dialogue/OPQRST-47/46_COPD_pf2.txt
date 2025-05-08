@@ -1,0 +1,50 @@
+"1. Médico: ¿Qué la trae por aquí hoy?  
+2. Paciente: He tenido mucha dificultad para respirar últimamente, incluso con actividades sencillas.  
+3. Médico: ¿Desde cuándo ha sentido esta dificultad para respirar?  
+4. Paciente: Creo que comenzó hace como 5 años, pero se ha empeorado últimamente.  
+5. Médico: ¿Estos síntomas empeoran en algún momento específico del día o con alguna actividad?  
+6. Paciente: Es peor por la noche, y apenas puedo subir unas escaleras sin sentir que me falta el aire.  
+7. Médico: ¿Ha notado alguna tos o flema?  
+8. Paciente: Sí, tengo una tos persistente, con flema, pero es como moco, sin sangre.  
+9. Médico: ¿Ha tenido fiebre o dolor en el pecho últimamente?  
+10. Paciente: No, no he tenido fiebre ni dolor en el pecho.  
+11. Médico: ¿Alguna vez ha sentido que tose sangre?  
+12. Paciente: No, nunca he tosido sangre.  
+13. Médico: ¿Tiene algún problema de salud diagnosticado previamente?  
+14. Paciente: Soy hipertensa desde hace años.  
+15. Médico: Entiendo. ¿Tiene algún hábito como fumar o haber fumado en el pasado?  
+16. Paciente: Sí, fumé durante 40 años, pero lo dejé hace dos años.  
+17. Médico: ¿Cuánto fumaba por día?  
+18. Paciente: Aproximadamente una cajetilla diaria, a veces un poco más.  
+19. Médico: ¿Ha sentido hinchazón en las piernas o molestias en los pies?  
+20. Paciente: No, mis piernas están bien.  
+21. Médico: ¿Siente que el problema ha afectado su calidad de vida en general?  
+22. Paciente: Sí, no puedo caminar ni disfrutar como antes, me siento agotada.  
+23. Médico: ¿Tiene problemas para dormir por la falta de aire?  
+24. Paciente: Sí, tengo que dormir con varias almohadas para no sentir que me ahogo.  
+25. Médico: ¿Hace cuánto tiempo comenzó a dormir con almohadas adicionales?  
+26. Paciente: Quizás hace unos meses, cuando comencé a sentirme peor por la noche.  
+27. Médico: ¿Ha notado algún otro síntoma como mareos o dolores de cabeza?  
+28. Paciente: A veces me da un poco de dolor de cabeza, pero no es frecuente.  
+29. Médico: Entendido, ha consultado antes con algún médico por estos síntomas?  
+30. Paciente: No, pensé que era algo que se le pasaría con el tiempo.  
+31. Médico: Permítame hacerle unas preguntas sobre su rutina diaria. ¿Tiene dificultad con tareas simples como cocinar o vestirse?  
+32. Paciente: Sí, me canso mucho solo con lavar los platos.  
+33. Médico: ¿Siente que ha perdido peso o ha ganado recientemente?  
+34. Paciente: Me mantengo igual, pero me cuesta mantener mi energía.  
+35. Médico: ¿Cómo está su alimentación últimamente?  
+36. Paciente: Como bien, aunque a veces pierdo el apetito por la incomodidad de mi respiración.  
+37. Médico: ¿Cuál es su relación actual con su círculo familiar y cómo le apoyan?  
+38. Paciente: Vivo con mi hija, ella me ayuda mucho porque las cosas me resultan difíciles.  
+39. Médico: ¿Alguna vez le han dado oxígeno suplementario o le han hecho exámenes de la función pulmonar?  
+40. Paciente: No, nunca me han hablado de oxígeno ni de esas pruebas.  
+41. Médico: ¿Toma algún medicamento para la hipertensión o para otro problema médico?  
+42. Paciente: Sí, tomo una pastilla diaria para la presión alta.  
+43. Médico: Durante largos periodos de su vida, ¿ha trabajado en ambientes con polvo, humo o químicos?  
+44. Paciente: No, siempre fui ama de casa, pero fumé mucho tiempo.  
+45. Médico: ¿Qué le motivó a dejar de fumar hace dos años?  
+46. Paciente: Mi hija me convenció, porque me decía que no podía respirar bien.  
+47. Médico: Muy bien. ¿En este momento percibe algún silbido al respirar?  
+48. Paciente: Sí, especialmente cuando trato de inhalar profundamente.  
+49. Médico: Por lo que describe, parece que podríamos estar ante un problema respiratorio crónico. Quiero informarle que sospecho que podría tratarse de una enfermedad pulmonar obstructiva crónica, EPOC.  
+50. Paciente: ¿Es grave? ¿Qué significa eso para mí, doctor?"

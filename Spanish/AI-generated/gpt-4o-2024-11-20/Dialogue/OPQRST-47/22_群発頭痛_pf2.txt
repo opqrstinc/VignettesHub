@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señor. ¿Qué lo trae a consulta hoy?  
+2. Paciente: Doctor, desde hace dos semanas tengo unos dolores de cabeza terribles por la noche.  
+3. Médico: Entiendo, ¿puede describirme cómo es ese dolor?  
+4. Paciente: Es un dolor muy fuerte, como si me estuvieran clavando algo en el ojo izquierdo.  
+5. Médico: ¿Ese dolor es constante o aparece y desaparece?  
+6. Paciente: Aparece, me da unas dos o tres veces al día, y dura más o menos una hora y media cada vez.  
+7. Médico: ¿Cómo calificaría ese dolor de 1 a 10, siendo 10 el peor dolor que ha sentido en su vida?  
+8. Paciente: Es un 10, doctor, no puedo soportarlo.  
+9. Médico: ¿El dolor se localiza solamente en el ojo izquierdo o se extiende a otras áreas?  
+10. Paciente: Solo en el lado izquierdo, como si fuera detrás y alrededor del ojo.  
+11. Médico: ¿Ha notado algo más acompañado de este dolor, como lagrimeo, enrojecimiento del ojo o congestión nasal?  
+12. Paciente: Sí, me llora mucho el ojo, se pone rojo y la nariz parece congestionada, pero solo de ese lado.  
+13. Médico: ¿Ha tenido visión borrosa, pérdida de visión o sensibilidad a la luz durante estos episodios?  
+14. Paciente: La luz me molesta un poco cuando tengo el dolor, pero no he perdido visión.  
+15. Médico: ¿Hay algún momento específico del día en el que estos dolores sean más frecuentes?  
+16. Paciente: Sí, casi siempre me dan por la noche.  
+17. Médico: ¿Recuerda haber hecho algo que pueda desencadenar estos episodios?  
+18. Paciente: No, no he notado nada en especial.  
+19. Médico: ¿Ha tenido alguna vez un dolor parecido antes de estas dos semanas?  
+20. Paciente: Nunca, esto es completamente nuevo para mí.  
+21. Médico: ¿Ha tomado algún medicamento para aliviar los episodios?  
+22. Paciente: Sí, intenté con analgésicos comunes, pero no me ayudan en nada.  
+23. Médico: ¿Tiene otros síntomas como náuseas, vómitos o debilidad?  
+24. Paciente: No, nada de eso.  
+25. Médico: ¿Tiene antecedentes médicos de problemas como migraña, problemas de sinusitis o algo similar?  
+26. Paciente: No, pero tengo presión alta, me la diagnosticaron hace algunos años.  
+27. Médico: Entendido. ¿El dolor interfiere con su sueño o actividades diarias?  
+28. Paciente: Sí, me despierta por la noche y no puedo dormir bien ni concentrarme al día siguiente.  
+29. Médico: ¿Ha notado algo diferente en sus párpados o alrededor de los ojos?  
+30. Paciente: Mi párpado izquierdo se siente un poco caído cuando tengo dolor, eso no es normal.  
+31. Médico: ¿Alguien en casa ha notado algo más durante esas crisis?  
+32. Paciente: Mi esposa dice que mi ojo izquierdo se ve más hinchado y rojo en esos momentos.  
+33. Médico: Gracias por compartir eso. ¿Qué tan frecuente ha notado estos episodios en una semana?  
+34. Paciente: Me están dando casi todos los días, en promedio dos o tres veces.  
+35. Médico: ¿Qué tipo de trabajos o actividades realiza diariamente?  
+36. Paciente: Soy oficinista, estoy frente a la computadora todo el día.  
+37. Médico: ¿Consume alcohol, fuma o tiene alguna otra adicción?  
+38. Paciente: Tomo cerveza los fines de semana, pero no fumo ni nada más.  
+39. Médico: ¿En algún momento de estos episodios ha sentido debilidad o parálisis en algún lado del cuerpo?  
+40. Paciente: No, doctor, nada de eso.  
+41. Médico: ¿Su presión arterial está bien controlada?  
+42. Paciente: Creo que sí, tomo mi medicamento todos los días, pero no la mido con frecuencia.  
+43. Médico: Entendido. Recientemente, ¿ha tenido alguna infección o resfriado?  
+44. Paciente: No, me he sentido bien en general, solo estos dolores.  
+45. Médico: Le realizaré un examen físico. Durante el dolor, ¿la rinorrea es clara o tiene otro color?  
+46. Paciente: Es clara, como agua, y solo de la nariz izquierda.  
+47. Médico: Gracias por su paciencia. Según lo que me comenta y tras las exploraciones, sospecho que puede tratarse de un tipo de cefalea específica.  
+48. Paciente: ¿Eso es algo grave, doctor?  
+49. Médico: No necesariamente, señor. Esto parece concordar con una cefalea en racimos, una condición dolorosa pero tratable.  
+50. Paciente: ¿Y tiene tratamiento, doctor?"

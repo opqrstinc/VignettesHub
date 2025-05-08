@@ -1,0 +1,50 @@
+"1. 医師: What brings you to the clinic today?  
+2. 患者: I’ve been having sharp pain in my upper right abdomen that started yesterday.  
+3. 医師: Can you describe the pain?  
+4. 患者: It’s constant, very sharp, and seems to radiate to my right shoulder blade.  
+5. 医師: When did the pain start, and has it been getting worse?  
+6. 患者: It started about 24 hours ago, and yes, it’s been getting worse since then.  
+7. 医師: Have you had any nausea or vomiting?  
+8. 患者: I’ve felt quite nauseous, but I haven’t actually thrown up.  
+9. 医師: Have you had a fever?  
+10. 患者: Yes, I felt feverish, and when I checked, it was 38.5°C.  
+11. 医師: Do you have any history of gallbladder problems?  
+12. 患者: Yes, I was told I had gallstones two years ago, but it never caused any problems until now.  
+13. 医師: Have you noticed any yellowing of your skin or eyes?  
+14. 患者: No, I haven’t seen anything like that.  
+15. 医師: Have your stools changed in color or your urine become darker?  
+16. 患者: No, my stools and urine seem normal.  
+17. 医師: Have you experienced any itching of your skin?  
+18. 患者: No, none at all.  
+19. 医師: Do you currently take any medications?  
+20. 患者: Just medications for my high blood pressure, nothing else.  
+21. 医師: Have you eaten anything unusual recently?  
+22. 患者: No, just my regular meals.  
+23. 医師: What’s the intensity of your pain on a scale from 1 to 10?  
+24. 患者: It’s about an 8 or 9—it’s really severe.  
+25. 医師: Have you had similar pain in the past, before this episode?  
+26. 患者: No, this is the first time.  
+27. 医師: How has this pain affected your ability to do daily activities?  
+28. 患者: I can’t do anything; the pain is too much to even move around.  
+29. 医師: Have you eaten or drunk anything that worsened the pain?  
+30. 患者: No, it hurts regardless of what I eat or drink.  
+31. 医師: Have you had any recent infections, like a cold or flu?  
+32. 患者: No, not that I can think of.  
+33. 医師: Have you noticed any swelling or tenderness in the abdomen before this?  
+34. 患者: No, that’s never happened before.  
+35. 医師: Does anything make your pain feel better?  
+36. 患者: No, nothing provides relief—it’s constant.  
+37. 医師: Have you noticed any pain in other areas besides your abdomen or shoulder blade?  
+38. 患者: No, it’s just in the upper right part of my abdomen and my shoulder blade.  
+39. 医師: Does the pain get worse when you take deep breaths?  
+40. 患者: Yes, it does.  
+41. 医師: Have you had any issues with your appetite?  
+42. 患者: I don’t feel like eating because of the nausea and pain.  
+43. 医師: Have you lost any weight unintentionally recently?  
+44. 患者: No, I haven’t lost any weight.  
+45. 医師: Are you experiencing any chills or sweating with the fever?  
+46. 患者: Yes, I’ve been having chills and sweating quite a bit.  
+47. 医師: Has anyone in your family had similar issues with their gallbladder?  
+48. 患者: Not that I know of.  
+49. 医師: Based on your symptoms, I suspect you may have inflammation of the gallbladder, called acute cholecystitis.  
+50. 患者: Oh, I see. What causes that?  "

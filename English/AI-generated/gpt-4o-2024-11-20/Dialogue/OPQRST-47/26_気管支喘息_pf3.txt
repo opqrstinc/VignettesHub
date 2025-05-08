@@ -1,0 +1,100 @@
+"1.  
+Physician: Hello, I’m Dr. [Your Name]. What brings you here today?  
+2.  
+Patient: I’ve been having trouble breathing, especially at night and when I’m playing soccer.  
+3.  
+Physician: I see. Can you describe your breathing trouble?  
+4.  
+Patient: It feels like I can’t get enough air, and I hear a wheezing sound when I breathe.  
+5.  
+Physician: How long has this been happening?  
+6.  
+Patient: For about three weeks now.  
+7.  
+Physician: Is the wheezing accompanied by a cough?  
+8.  
+Patient: Yes, I’ve had a dry cough that just doesn’t go away.  
+9.  
+Physician: Does anything seem to trigger the breathing difficulty or the cough?  
+10.  
+Patient: Dust or cold air makes it worse.  
+11.  
+Physician: Are these symptoms worse during any particular time of day?  
+12.  
+Patient: Yes, it’s much worse at night.  
+13.  
+Physician: And you said it’s worse when you’re playing soccer?  
+14.  
+Patient: Yeah, running around during soccer practice makes it hard for me to breathe.  
+15.  
+Physician: Have you had any fevers, recent colds, or upper respiratory infections?  
+16.  
+Patient: No, I haven’t been sick recently.  
+17.  
+Physician: Have you ever experienced something like this before?  
+18.  
+Patient: No, this is the first time.  
+19.  
+Physician: Do you have any other medical conditions?  
+20.  
+Patient: I had eczema when I was little, but I think it’s gone now.  
+21.  
+Physician: Your mother mentioned before that you have some skin patches. Could they be from your old eczema?  
+22.  
+Patient's Mother: Yes, the doctor said it was atopic dermatitis when he was just a baby.  
+23.  
+Physician: Thank you. Do you have any known allergies?  
+24.  
+Patient: Not really, but I sneeze a lot when there’s dust around.  
+25.  
+Physician: Is there any family history of asthma or breathing problems?  
+26.  
+Patient: My dad has hay fever, but that’s it.  
+27.  
+Physician: Have you or anyone in your household been exposed to cigarette smoke?  
+28.  
+Patient: No, nobody smokes at home.  
+29.  
+Physician: When you have difficulty breathing, do you feel any chest pain or tightness?  
+30.  
+Patient: Sometimes it feels tight, but it doesn’t hurt.  
+31.  
+Physician: Have you noticed if certain seasons make it worse?  
+32.  
+Patient: Not really, it’s just been bad for the past three weeks.  
+33.  
+Physician: Have you ever used a rescue inhaler or asthma medication before?  
+34.  
+Patient: No, I haven’t used anything for this.  
+35.  
+Physician: Do you ever wake up gasping for air?  
+36.  
+Patient: Yes, I wake up coughing and feeling like I can’t breathe.  
+37.  
+Physician: Thank you. Have you noticed any changes in your stamina during physical activities?  
+38.  
+Patient: Definitely. I’m out of breath way quicker than usual, and I can’t keep up on the field.  
+39.  
+Physician: Let’s talk about your day-to-day life. Has this been affecting your school or social activities?  
+40.  
+Patient: It’s harder to focus in class because I’m so tired from waking up at night.  
+41.  
+Physician: I’m sorry to hear that. Let me ask about some other symptoms. Have you had any fevers?  
+42.  
+Patient: No fevers.  
+43.  
+Physician: Any swelling in your legs or feet?  
+44.  
+Patient: No, nothing like that.  
+45.  
+Physician: Any nausea, vomiting, or weight loss?  
+46.  
+Patient: Nope, I feel fine otherwise.  
+47.  
+Physician: Let’s focus on your breathing. When you wheeze, is it during exhaling, inhaling, or both?  
+48.  
+Patient: I think it’s mostly when I’m breathing out.  
+49.  
+Physician: Thank you for sharing all of this. Based on everything you’ve told me and the tests we’ve done, it looks like you have moderate persistent asthma.  
+50.  
+Patient: Oh, wow. What does that mean?  "

@@ -1,0 +1,50 @@
+"1. Doctor: What brings you to the clinic today?  
+2. Patient: I've been feeling extremely tired for the past week and noticed my eyes and skin turning yellow.  
+3. Doctor: I see. Have you felt like this before or is this your first time experiencing these symptoms?  
+4. Patient: This is the first time I've ever had anything like this.  
+5. Doctor: Did this start suddenly or has it been gradually getting worse?  
+6. Patient: It started gradually, but it’s been getting worse each day.  
+7. Doctor: Other than feeling tired and noticing the yellowing, have you had any other symptoms?  
+8. Patient: Yes, my appetite has been terrible, and I've had dark urine and pale stool for a few days now.  
+9. Doctor: Have you noticed any fever, chills, or abdominal pain?  
+10. Patient: No, I haven’t had any of those.  
+11. Doctor: Have you lost any weight recently or unintentionally?  
+12. Patient: No, my weight hasn’t changed.  
+13. Doctor: Have you recently traveled anywhere, either domestically or internationally?  
+14. Patient: No, I haven’t traveled recently.  
+15. Doctor: Do you use any medications, either over-the-counter or prescribed?  
+16. Patient: No, I’m not taking any medications at the moment.  
+17. Doctor: Have you ever been diagnosed with liver disease or had similar symptoms in the past?  
+18. Patient: No, never.  
+19. Doctor: How about your family? Is there any history of liver disease in your family?  
+20. Patient: No, my family doesn’t have any liver problems that I know of.  
+21. Doctor: Do you drink alcohol frequently or in large amounts?  
+22. Patient: No, I rarely drink alcohol.  
+23. Doctor: Have you ever used intravenous drugs or had multiple sexual partners?  
+24. Patient: No, I don’t use drugs, and I’m in a monogamous relationship.  
+25. Doctor: Have you been involved in any activities that could expose you to someone else's blood?  
+26. Patient: No, nothing like that.  
+27. Doctor: Do you have pets or any potential risks of zoonotic infections?  
+28. Patient: No, I don’t have any pets.  
+29. Doctor: How has your appetite been? You mentioned it's been terrible. Can you describe what you mean by that?  
+30. Patient: I’ve hardly been eating; I just don’t feel hungry at all.  
+31. Doctor: How's your hydration? Have you been drinking enough fluids?  
+32. Patient: I think so, but it’s hard to tell because my energy is so low.  
+33. Doctor: Is there any specific food or drink that makes your symptoms better or worse?  
+34. Patient: No, I haven’t noticed anything like that.  
+35. Doctor: Have you had any nausea or vomiting?  
+36. Patient: No, I haven’t felt nauseous.  
+37. Doctor: How about itching? Has your skin been itchy?  
+38. Patient: No, I haven’t had any itching.  
+39. Doctor: Have you noticed any swelling in your legs or abdomen?  
+40. Patient: No, nothing like that.  
+41. Doctor: How has your sleep been during this time?  
+42. Patient: It’s been hard to sleep because I’m just so uncomfortable with my energy levels.  
+43. Doctor: Do you live alone or with others?  
+44. Patient: I live with my partner.  
+45. Doctor: Has your partner mentioned anything unusual about your condition recently?  
+46. Patient: They were the first to notice my eyes turning yellow, which is why I came in.  
+47. Doctor: Based on everything you’ve told me, we’ll need some blood work and imaging to figure out what’s causing these symptoms.  
+48. Patient: That sounds okay to me. I just want to know what’s wrong.  
+49. Doctor: Your blood tests show some liver enzymes and bilirubin are elevated, suggesting a liver issue. Further testing shows markers of acute hepatitis B virus infection.  
+50. Patient: Hepatitis B? What does that mean for me?"

@@ -1,0 +1,148 @@
+"1.  
+Médico: Hola, ¿qué le trae por aquí el día de hoy?  
+Paciente: Hola, doctor. He tenido dificultad para respirar que empeoró en los últimos meses y también una tos que no se quita.  
+2.  
+Médico: ¿Cuánto tiempo lleva con estos síntomas?  
+Paciente: La tos empezó hace varios meses, pero al principio era leve. La dificultad para respirar comenzó después y ha ido aumentando poco a poco.  
+3.  
+Médico: ¿Estos síntomas han aparecido de manera repentina o han sido progresivos?  
+Paciente: Han sido progresivos. No me he sentido peor de golpe, pero van empeorando lentamente.  
+4.  
+Médico: ¿Ha tenido fiebre o algún episodio de infección respiratoria antes de que comenzaran los síntomas?  
+Paciente: No, no he tenido fiebre ni infecciones respiratorias.  
+5.  
+Médico: ¿Ha notado pérdida de peso sin razón aparente?  
+Paciente: No, mi peso ha estado más o menos igual.  
+6.  
+Médico: ¿Ha tosido sangre o ha tenido dolor en el pecho?  
+Paciente: No, no he notado sangre en la tos ni dolor en el pecho.  
+7.  
+Médico: ¿Tiene o ha tenido antecedentes de tabaquismo?  
+Paciente: No, nunca he fumado.  
+8.  
+Médico: ¿Alguna enfermedad previa en los pulmones o antecedentes médicos relevantes?  
+Paciente: No, nunca he tenido problemas de salud graves.  
+9.  
+Médico: ¿Hay algo en su trabajo o en su casa que pudiera exponerla a polvo, químicos o algo similar?  
+Paciente: No, soy ama de casa, no estoy expuesta a nada que parezca peligroso.  
+10.  
+Médico: ¿Cuándo nota que la falta de aire es peor? ¿En reposo o al hacer esfuerzos?  
+Paciente: Es más cuando camino o subo escaleras.  
+11.  
+Médico: ¿Qué tan severa es la dificultad para respirar ahora mismo?  
+Paciente: Ahora estoy tranquila, no es tan mala, pero al moverme la siento mucho más.  
+12.  
+Médico: ¿Ha tratado esta tos con algún medicamento o remedio?  
+Paciente: Sí, he tomado jarabes, pero no me han ayudado mucho.  
+13.  
+Médico: ¿La tos tiene flema? Si es así, ¿de qué color?  
+Paciente: No, no tiene flema.  
+14.  
+Médico: ¿Es alérgica a algo que sepa?  
+Paciente: No, que yo sepa no tengo alergias.  
+15.  
+Médico: ¿Hay algún antecedente de enfermedades pulmonares en su familia?  
+Paciente: No, nadie en mi familia ha tenido problemas pulmonares.  
+16.  
+Médico: ¿Cómo describiría el impacto de estos síntomas en su día a día?  
+Paciente: Bueno, me canso rápido, pero trato de hacer mis actividades normales.  
+17.  
+Médico: ¿Ha notado que su respiración empeore al acostarse o durante la noche?  
+Paciente: No, eso no me pasa.  
+18.  
+Médico: ¿Se siente más fatigada últimamente?  
+Paciente: Sí, me canso más de lo normal.  
+19.  
+Médico: ¿Ha tenido sudores nocturnos o sensación de calor excesivo?  
+Paciente: No, no he tenido esas sensaciones.  
+20.  
+Médico: Cuando tose, ¿produzca alguna sensación rara en el pecho o garganta?  
+Paciente: No, realmente no. Es más como una tos seca.  
+21.  
+Médico: Hoy revisaremos sus pulmones. ¿Alguna vez ha tenido infecciones graves en el pasado?  
+Paciente: No que yo recuerde.  
+22.  
+Médico: ¿Ha notado algún cambio en su voz, como ronquera o algo similar?  
+Paciente: No, mi voz está normal.  
+23.  
+Médico: Menciona que la tos y disnea son persistentes, ¿tuvo episodios breves de mejora?  
+Paciente: No, los síntomas solo han ido aumentando.  
+24.  
+Médico: Escucharé sus pulmones. Respire profundo, por favor. (Pausa para la exploración)  
+25.  
+Médico: La auscultación encuentra algo en su pulmón derecho, parece haber algo diferente en la base.  
+Paciente: ¿A qué se refiere, doctor?  
+26.  
+Médico: Siento que podría haber líquido o algún cambio ahí. ¿Ha tenido sensaciones de presión en esa área?  
+Paciente: No específicamente, pero creo que quizá siento algo raro al respirar profundo.  
+27.  
+Médico: ¿Nota que el problema ha afectado su apetito de alguna manera?  
+Paciente: No realmente, como lo de siempre.  
+28.  
+Médico: ¿Ha sentido mareos o algún desfallecimiento?  
+Paciente: No, nada de eso.  
+29.  
+Médico: Vamos a hacer más estudios de diagnóstico, empezando con una radiografía de tórax. ¿Necesita algo antes de continuar?  
+Paciente: No, estoy bien, sigamos.  
+30.  
+Médico: Según la radiografía inicial, vemos una zona ocupada en el pulmón derecho y algo de líquido.  
+Paciente: ¿Y eso qué significa, doctor?  
+31.  
+Médico: Puede ser causado por varias razones, como infecciones, inflamación o incluso un tumor. Realizaremos un TAC.  
+Paciente: Está bien. Haré lo necesario.  
+32.  
+Médico: En el TAC hay una masa y también adenopatías, que son ganglios linfáticos más grandes de lo normal.  
+Paciente: ¿Eso es malo, doctor?  
+33.  
+Médico: Es algo anormal, pero debemos estudiar más. Vamos a hacer una toracocentesis para analizar ese líquido.  
+Paciente: ¿Duele mucho ese procedimiento?  
+34.  
+Médico: Es un poco incómodo pero rápido. Es importante para saber qué está causando el problema.  
+Paciente: Lo entiendo, hágalo.  
+35.  
+Médico: Los resultados del líquido pleural tienen células malignas. Esto sugiere en su caso un posible cáncer.  
+Paciente: Cáncer... ¿qué tipo?  
+36.  
+Médico: Aún necesitamos especificar. Vamos a hacer una biopsia con broncoscopio. Confíamos en que nos dará más detalles.  
+Paciente: Por favor, quiero saber lo antes posible.  
+37.  
+Médico: Los resultados confirman un tipo de cáncer pulmonar llamado adenocarcinoma.  
+Paciente: ¿Qué tan grave es eso, doctor?  
+38.  
+Médico: Es un tipo de cáncer no microcítico. La buena noticia es que tenemos opciones de tratamiento específicas.  
+Paciente: ¿Hay tratamiento que me cure?  
+39.  
+Médico: Actualmente, su cáncer tiene una mutación del EGFR, lo que permite un tratamiento dirigido eficaz.  
+Paciente: ¿Eso significa que tengo esperanza?  
+40.  
+Médico: Sí, absolutamente. Iniciaremos con un medicamento llamado gefitinib. Es oral y suele ser bien tolerado.  
+Paciente: Muchas gracias por explicarme todo.  
+41.  
+Médico: ¿Alguna pregunta antes de iniciar el tratamiento?  
+Paciente: ¿Cuánto tiempo tomará ver resultados?  
+42.  
+Médico: Normalmente, en unas semanas empezamos a notar mejoría en los síntomas y reducción en el tamaño del tumor.  
+Paciente: Entendido, seguiré todo al pie de la letra.  
+43.  
+Médico: Me alegra escuchar eso. Mantendremos un seguimiento cercano con imágenes cada tres meses.  
+Paciente: Sí, confío en usted, doctor.  
+44.  
+Médico: Recuerde mencionar cualquier efecto secundario, aunque suelen ser leves con este medicamento.  
+Paciente: Por supuesto, estaré atenta.  
+45.  
+Médico: ¿Tiene alguien que pueda ayudarla en casa mientras comienza el tratamiento?  
+Paciente: Sí, mi esposo es muy atento conmigo.  
+46.  
+Médico: Eso es importante. El apoyo emocional también hace la diferencia.  
+Paciente: Sí, estoy tratando de mantenerme positiva.  
+47.  
+Médico: Está haciendo muy bien. Su actitud ayudará mucho durante este proceso.  
+Paciente: Gracias. Es difícil, pero quiero salir adelante.  
+48.  
+Médico: Lo conseguiremos. Revisaremos todo regularmente para asegurarnos de que el tratamiento funcione.  
+Paciente: Sí, estoy lista para lo que venga.  
+49.  
+Médico: Entonces, confiemos en el tratamiento y avancemos juntos en este camino.  
+Paciente: Muchas gracias por su apoyo, doctor.  
+50.  
+Médico: Vamos a programar los próximos pasos y, si necesita algo, no dude en llamarnos."

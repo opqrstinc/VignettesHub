@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señor. ¿Qué lo trae por aquí hoy?  
+2. Paciente: Buen día, doctor. Tengo tos desde hace unos tres meses y no mejora.  
+3. Médico: Entendido. ¿Cómo describiría esa tos? ¿Es seca o con mucosidad?  
+4. Paciente: Es mayormente seca, aunque a veces siento algo de flema.  
+5. Médico: ¿De qué color es esa flema cuando aparece?  
+6. Paciente: Es clara, no he visto nada raro.  
+7. Médico: ¿Ha notado si la tos empeora en algún momento del día o con algo en particular?  
+8. Paciente: Parece que empeora durante la noche, y cuando trato de hacer algún esfuerzo físico.  
+9. Médico: ¿Le resulta difícil respirar o siente que le falta el aire?  
+10. Paciente: Sí, últimamente noto que me canso mucho más rápido de lo normal.  
+11. Médico: Además de la tos y la dificultad al respirar, ¿ha tenido fiebre recientemente?  
+12. Paciente: No, no he tenido fiebre.  
+13. Médico: ¿Ha notado algún dolor en el pecho?  
+14. Paciente: A veces siento una presión leve, pero no es constante.  
+15. Médico: ¿Ha tenido pérdida de peso sin intención en los últimos meses?  
+16. Paciente: Sí, he perdido unos 7 kilos en este tiempo.  
+17. Médico: ¿Tiene o ha tenido molestias al tragar o cambios en su voz?  
+18. Paciente: No, nada de eso.  
+19. Médico: ¿Ha tosido sangre en algún momento?  
+20. Paciente: No, nunca he visto sangre.  
+21. Médico: Entendido. ¿Desde hace cuánto tiempo usted tiene la condición pulmonar crónica que mencionó?  
+22. Paciente: Me diagnosticaron la EPOC hace unos 10 años.  
+23. Médico: ¿Está tomando algún tratamiento para la EPOC actualmente?  
+24. Paciente: Uso inhaladores todos los días, y me ayudan algo.  
+25. Médico: ¿Tiene algún antecedente de exposición prolongada a humo, químicos o trabajo en áreas con mucho polvo?  
+26. Paciente: Trabajé muchos años en la construcción y también fui fumador por más de 30 años, aunque lo dejé hace 5 años.  
+27. Médico: Es bueno saber que dejó el tabaco. ¿Cómo diría que esta tos y la fatiga han afectado su vida diaria?  
+28. Paciente: Pues me cuesta hacer muchas cosas que antes hacía sin problema, como salir a caminar o incluso subir escaleras.  
+29. Médico: ¿Tiene algún otro síntoma nuevo que note estos últimos meses?  
+30. Paciente: Creo que no, solo lo de la tos, el cansancio y la pérdida de peso.  
+31. Médico: Muy bien. Ahora sobre su historia familiar, ¿hay antecedentes de enfermedades pulmonares o cáncer en su familia?  
+32. Paciente: Mi padre tuvo cáncer de pulmón, pero fue hace muchos años.  
+33. Médico: Comprendido. Pasemos ahora a otros aspectos. ¿Cómo se siente anímicamente con estos cambios?  
+34. Paciente: Me siento preocupado, doctor. Estoy cansado todo el tiempo y no sé por qué me está pasando esto.  
+35. Médico: Entiendo su preocupación. Vamos a hacer todo lo posible para entender su situación. ¿Le molesta si converso brevemente con alguien de su familia?  
+36. Paciente: Claro, aquí está mi esposa, puede hablar con ella.  
+37. Médico: Señora, ¿ha notado algún cambio importante en la salud o comportamiento de su esposo últimamente?  
+38. Esposa: Pues sí, ha estado mucho más delgado y parece que le cuesta más respirar. También se le nota más cansado todo el tiempo.  
+39. Médico: Gracias por compartir eso. ¿Ha tenido algún problema para comer o tragar los últimos meses?  
+40. Esposa: No, come bien, pero simplemente no parece ganar peso.  
+41. Médico: Muy bien, señor. Usted mencionó una presión en el pecho ocasional. ¿Esa presión aparece con el esfuerzo o en reposo?  
+42. Paciente: A veces la siento más cuando camino o me esfuerzo un poco.  
+43. Médico: Gracias por la aclaración. Ahora voy a revisarlo físicamente, por favor respire profundamente cuando le indique.  
+44. Paciente: Claro, doctor.  
+45. Médico: Escucho algunos ruidos anormales en su pulmón derecho. Necesitamos hacer estudios adicionales. Comenzaremos con una radiografía de tórax.  
+46. Paciente: Está bien, lo que sea necesario.  
+47. Médico: Después también le solicitaremos una tomografía y, si se requiere, un estudio con broncoscopio para investigar más sobre lo que hallamos.  
+48. Paciente: ¿Cree que sea algo grave?  
+49. Médico: Aún es temprano para decirlo, pero es importante investigar la causa de estos síntomas.  
+50. Paciente: Confío en usted, doctor."

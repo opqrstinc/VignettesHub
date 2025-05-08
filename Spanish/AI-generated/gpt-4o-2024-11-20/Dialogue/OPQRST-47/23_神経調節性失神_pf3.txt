@@ -1,0 +1,50 @@
+"1. Médico: Hola, buenas tardes. Cuéntame, ¿qué te trae por aquí hoy?  
+2. Paciente: Hola doctor, me he estado sintiendo rara últimamente, a veces me mareo y me desmayo.  
+3. Médico: Entiendo. ¿Cuándo empezaron esos episodios?  
+4. Paciente: Hace unas dos semanas, más o menos.  
+5. Médico: ¿Qué estabas haciendo la primera vez que ocurrió?  
+6. Paciente: Estaba de pie mucho rato, esperando en una fila, hacía mucho calor.  
+7. Médico: ¿Qué sientes justo antes de desmayarte?  
+8. Paciente: Me da un mareo fuerte, me siento como con náuseas, y el corazón me late más rápido.  
+9. Médico: ¿Después de desmayarte, cómo te sientes?  
+10. Paciente: Me recupero rápido, como si nada hubiera pasado.  
+11. Médico: ¿Te duele algo después, como la cabeza o el cuerpo?  
+12. Paciente: No, nada.  
+13. Médico: ¿Alguien de tu familia ha notado cómo son estos episodios?  
+14. Paciente: Sí, mi mamá estaba una vez conmigo, le puede contar.  
+15. Médico: Bien, me gustaría escucharla. Señora, ¿qué ha notado usted?  
+16. Paciente Familia: Bueno, vi que se desmayó después de estar de pie mucho tiempo, pero siempre se recupera rápido.  
+17. Médico: ¿Ha notado convulsiones o movimientos extraños durante los episodios?  
+18. Paciente Familia: No, nada. Solo se pone pálida y cae.  
+19. Médico: Gracias. Ahora dime, ¿has tenido más desmayos en otras situaciones?  
+20. Paciente: Creo que sí, otra vez en un lugar muy caliente, había mucha gente.  
+21. Médico: ¿Tomas algún medicamento o sufres de alguna enfermedad?  
+22. Paciente: No, nunca he tomado medicinas ni tengo nada.  
+23. Médico: ¿Alguien en tu familia tiene problemas del corazón, desmayos o algo parecido?  
+24. Paciente Familia: No, nadie en la familia tiene algo así.  
+25. Médico: ¿Qué sueles hacer cuando empiezas a sentirte mareada?  
+26. Paciente: Me siento en el suelo o me agarro de algo, pero a veces sucede muy rápido.  
+27. Médico: Perfecto. Ahora, ¿has notado si sucede más en algún momento del día o alguna actividad?  
+28. Paciente: Creo que pasa más cuando hace calor o estoy de pie por mucho tiempo.  
+29. Médico: ¿Tu alimentación y consumo de agua son normales?  
+30. Paciente: La verdad, creo que no tomo mucha agua.  
+31. Médico: Es importante, ¿cuánto dirías que bebes al día?  
+32. Paciente: Tal vez tres vasos... no sé si es poco.  
+33. Médico: Es algo bajo. Al menos ocho vasos al día serían ideales. ¿Sabes si has bajado de peso o tenido algún cambio en tu energía?  
+34. Paciente: No he bajado de peso, pero sí me canso un poquito más.  
+35. Médico: Muy bien, ¿alguna vez te pasa el mareo estando sentada o acostada?  
+36. Paciente: No, solo cuando estoy de pie.  
+37. Médico: Gracias. Ahora voy a tomar tus signos vitales. Quédate tranquila por favor.  
+38. Médico: Todo parece en orden, pero vamos a hacer una pequeña prueba. ¿Te sientes bien si te pones de pie por unos minutos?  
+39. Paciente: Sí, lo intento.  
+40. Médico: Si comienzas a sentirte mareada, avísame de inmediato.  
+41. Paciente: Vale, doctor.  
+42. Médico: ¿Cómo te sientes después de unos minutos?  
+43. Paciente: Me empieza a dar un poco de mareo.  
+44. Médico: Muy bien, siéntate. Voy a anotar esto. También haremos algunos exámenes para confirmar lo que está ocurriendo.  
+45. Paciente: ¿Es algo grave?  
+46. Médico: No parece grave, pero quiero descartar otras causas. El electrocardiograma y el test que vamos a realizar nos ayudarán.  
+47. Paciente: Está bien, doctor.  
+48. Médico: Los resultados confirman que no tienes problemas del corazón, pero parece que lo que tienes es llamado síncope neurocardiogénico o vasovagal.  
+49. Paciente: ¿Es peligroso?  
+50. Médico: Es bastante común y no es grave, pero con algunos cambios en tus hábitos y medidas preventivas, podemos controlarlo."

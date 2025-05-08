@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, señor. ¿Qué le trae hoy a la consulta?  
+2. Paciente: Buenas tardes, doctor. He estado teniendo problemas con los párpados, se me caen constantemente y me siento muy cansado.  
+3. Médico: Entiendo. ¿Desde cuándo empezó a notar estos síntomas?  
+4. Paciente: Creo que empezó hace unos meses, al principio sólo me sentía cansado cuando leía o usaba la computadora.  
+5. Médico: ¿Ha notado que estos síntomas han ido empeorando en el tiempo?  
+6. Paciente: Sí, ahora es más difícil, incluso para actividades normales como manejar o cocinar.  
+7. Médico: ¿Además de la caída de los párpados, tiene dificultad para mover alguna parte del cuerpo?  
+8. Paciente: A veces me cuesta levantar los brazos o subir escaleras, siento que tengo menos fuerza.  
+9. Médico: ¿Su cansancio mejora después de descansar?  
+10. Paciente: Sí, es raro, pero después de dormir un poco me siento un poco mejor por un tiempo.  
+11. Médico: ¿Ha notado algún otro síntoma, como dificultad para tragar o hablar?  
+12. Paciente: No, tragar y hablar lo hago normal, no he tenido problemas.  
+13. Médico: ¿Alguna vez ha tenido fiebre o pérdida de peso recientemente?  
+14. Paciente: No, no he tenido fiebre y peso lo mismo de siempre.  
+15. Médico: ¿Hay algo que empeore sus síntomas?  
+16. Paciente: Creo que cuando estoy en ambientes muy calurosos o al final del día mis párpados están peor.  
+17. Médico: Entendido. ¿Tiene antecedentes de alguna enfermedad importante?  
+18. Paciente: Me diagnosticaron hipertensión hace años, pero está controlada con la medicación.  
+19. Médico: ¿Toma sus medicamentos para la hipertensión regularmente?  
+20. Paciente: Sí, tomo mis pastillas como me indicaron.  
+21. Médico: ¿En su familia hay antecedentes de enfermedades parecidas o neuromusculares?  
+22. Paciente: No, que yo sepa nadie en mi familia tiene algo así.  
+23. Médico: ¿Ha estado expuesto a químicos o toxinas en su trabajo o en casa?  
+24. Paciente: No, trabajo en una oficina con computadoras, no manejo cosas peligrosas.  
+25. Médico: ¿Tiene dolor en los brazos, piernas o cualquier parte del cuerpo?  
+26. Paciente: No, no tengo dolor, sólo esta sensación de debilidad y cansancio.  
+27. Médico: ¿Cómo es su rutina diaria? ¿Ha tenido que cambiar algo por estos síntomas?  
+28. Paciente: He tenido que reducir mi tiempo en la computadora y descansar más, también delego algunas tareas en casa.  
+29. Médico: ¿Siente que esto está afectando significativamente su vida diaria?  
+30. Paciente: Sí, es frustrante no poder hacer cosas normales como antes.  
+31. Médico: En la exploración física veo que sus párpados están caídos. ¿Nota si esto empeora al intentar mantener la mirada hacia arriba por un rato?  
+32. Paciente: Sí, después de unos segundos es como si pesaran más.  
+33. Médico: Ahora voy a hacer unas pruebas, dígame si siente alguna mejoría.  
+34. Paciente: De acuerdo, doctor.  
+35. Médico: Le voy a colocar un poco de hielo sobre sus párpados. ¿Nota algún cambio?  
+36. Paciente: Sí, es extraño, parece que mis párpados se levantan un poco más.  
+37. Médico: Muy bien. Esto nos da algunas pistas. ¿Ha notado temblores o movimientos extraños en los músculos?  
+38. Paciente: No, no he tenido nada de eso.  
+39. Médico: ¿Tiene alguna dificultad para mantener el equilibrio o caminar?  
+40. Paciente: No, puedo caminar normalmente, pero me canso si tengo que hacerlo mucho rato.  
+41. Médico: ¿Cómo se siente al final del día?  
+42. Paciente: Siempre estoy mucho más cansado al final del día que en la mañana.  
+43. Médico: Ahora quiero explorar la fuerza de sus brazos y piernas. Por favor, resista mientras presiono. ¿Le duele o es difícil?  
+44. Paciente: No duele, pero me cuesta un poco resistir especialmente en los brazos.  
+45. Médico: Veo que la debilidad es más pronunciada en los músculos cercanos al tronco. ¿Ha notado algo similar anteriormente?  
+46. Paciente: No, todo esto es nuevo para mí.  
+47. Médico: Esto es útil. Por último, quiero hacerle algunas pruebas de laboratorio y una electromiografía para entender mejor lo que está sucediendo.  
+48. Paciente: Entendido, haré las pruebas.  
+49. Médico: Basándome en los datos clínicos y estas pruebas iniciales, creo que podemos estar tratando con una condición neuromuscular. Me gustaría confirmar el diagnóstico con los estudios.  
+50. Paciente: Muchas gracias, doctor. Espero saber lo que tengo pronto.  "

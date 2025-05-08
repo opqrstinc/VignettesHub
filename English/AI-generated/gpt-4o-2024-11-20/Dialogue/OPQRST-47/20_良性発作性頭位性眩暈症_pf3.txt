@@ -1,0 +1,51 @@
+"1. Physician: What brings you in today?  
+2. Patient: I've been having these episodes of dizziness whenever I move my head a certain way.  
+3. Physician: Can you describe these dizzy spells in more detail?  
+4. Patient: It's like the room is spinning around me. It happens when I look up or roll over in bed.  
+5. Physician: How long do these episodes last?  
+6. Patient: Just a few seconds, maybe less than a minute.  
+7. Physician: Have these episodes been occurring for a long time?  
+8. Patient: For about two weeks now.  
+9. Physician: Do you notice any other symptoms, like nausea or vomiting, when this happens?  
+10. Patient: No, no nausea or vomiting.  
+11. Physician: Have you had any changes in your hearing or problems like ringing in your ears?  
+12. Patient: I’ve had occasional ringing in my ears, but that's something I’ve had for years.  
+13. Physician: Do you have any history of ear infections or surgeries?  
+14. Patient: No, nothing like that.  
+15. Physician: What about headaches or weakness in your arms or legs?  
+16. Patient: No, I don’t have those issues.  
+17. Physician: Have you noticed anything that makes the dizziness go away?  
+18. Patient: If I close my eyes and stay still, it goes away pretty quickly.  
+19. Physician: Do you feel dizzy when you're sitting or standing still?  
+20. Patient: No, only when I'm moving my head.  
+21. Physician: Have these symptoms affected your daily activities?  
+22. Patient: Yeah, turning over in bed has been a challenge, and I’m afraid to look up.  
+23. Physician: Have you noticed if one side is worse than the other when you move your head?  
+24. Patient: It seems worse when I turn to the right.  
+25. Physician: Do you feel the dizziness when climbing stairs or bending forward?  
+26. Patient: No, not usually.  
+27. Physician: Have you had any recent injuries to your head or neck?  
+28. Patient: No, I haven’t injured myself.  
+29. Physician: How’s your overall balance? Have you had any falls?  
+30. Patient: My balance is fine, and I haven’t fallen.  
+31. Physician: What about your vision—any double vision or difficulty focusing?  
+32. Patient: No, my vision is normal.  
+33. Physician: Do you have a history of heart disease, stroke, or high blood pressure?  
+34. Patient: No, I’ve been pretty healthy overall.  
+35. Physician: Are you taking any medications or supplements?  
+36. Patient: Just a multivitamin, nothing else.  
+37. Physician: Does anything in particular seem to trigger these episodes besides moving your head?  
+38. Patient: No, it's really just head movement.  
+39. Physician: What about stress or lack of sleep—could that be making it worse?  
+40. Patient: Maybe a little, but I’m sleeping okay and not overly stressed.  
+41. Physician: I’m going to examine you now. I'll also perform a specific test where I move your head and body in certain positions to see if it reproduces your symptoms.  
+42. Patient: Okay, sounds good.  
+43. Physician: I’ll start with a quick look at your ears. Everything looks normal here.  
+44. Patient: That’s good to hear.  
+45. Physician: Now we’ll do a test called the Dix-Hallpike maneuver. I’m going to lie you back with your head turned to the right. Let me know if this brings on your dizziness.  
+46. Patient: Sure. Oh, there it is—the spinning just started.  
+47. Physician: I see a specific eye movement called nystagmus. Let me hold this position for a few seconds—it should stop soon.  
+48. Patient: It’s already fading now.  
+49. Physician: When we test the left side, it seems less pronounced. That’s helpful information. Everything else from your physical exam looks normal.  
+50. Patient: So, what do you think it is?  
+51. Physician: Based on your symptoms and the results of this positional test, it seems like you have a condition called benign paroxysmal positional vertigo, or BPPV."

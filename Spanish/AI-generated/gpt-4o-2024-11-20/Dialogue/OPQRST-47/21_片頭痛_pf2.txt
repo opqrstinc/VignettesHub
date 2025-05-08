@@ -1,0 +1,50 @@
+"1. Médico: Hola, buenos días. ¿Qué te trae a la consulta hoy?  
+2. Paciente: Hola, doctor. Tengo un fuerte dolor de cabeza desde hace unas horas.  
+3. Médico: ¿Podrías describir cómo es ese dolor?  
+4. Paciente: Es un dolor pulsátil, muy intenso, y está en esta parte de mi cabeza, en la frente y el lado derecho.  
+5. Médico: ¿Cuándo comenzó el dolor?  
+6. Paciente: Empezó hace como unas seis horas, pero fue aumentando poco a poco hasta volverse muy fuerte.  
+7. Médico: ¿Este tipo de dolor te ha ocurrido antes?  
+8. Paciente: Sí, he tenido dolores parecidos antes, pero este es el peor que he sentido.  
+9. Médico: ¿Qué estabas haciendo cuando el dolor comenzó?  
+10. Paciente: No estaba haciendo nada fuera de lo común, estaba en casa leyendo.  
+11. Médico: ¿El dolor empeora con algún tipo de actividad?  
+12. Paciente: Sí, si me muevo o hago algo físico parece empeorar mucho más.  
+13. Médico: ¿Has notado otros síntomas junto con el dolor de cabeza?  
+14. Paciente: Me molesta mucho la luz y el ruido, además me siento con náuseas, pero no he vomitado.  
+15. Médico: Antes de que apareciera el dolor, ¿notaste algo extraño?  
+16. Paciente: Sí, unos 30 minutos antes empecé a ver luces como destellos en mi ojo derecho.  
+17. Médico: ¿Cuánto duraron esos destellos?  
+18. Paciente: Duraron como 10 o 15 minutos, luego desaparecieron y empezó el dolor.  
+19. Médico: ¿Tienes algún problema de visión normalmente?  
+20. Paciente: No, mi visión es normal, no uso lentes ni nada.  
+21. Médico: ¿Algún miembro de tu familia tiene antecedentes de migrañas o dolores de cabeza fuertes?  
+22. Paciente: Mi madre sufre de migrañas con frecuencia.  
+23. Médico: ¿Has notado si algo en particular desencadena tus dolores de cabeza?  
+24. Paciente: No estoy seguro, pero a veces pasa cuando no duermo bien o tomo mucho café.  
+25. Médico: ¿Cuántas veces en el último mes has tenido estos dolores de cabeza?  
+26. Paciente: Creo que solo un par de veces, pero no tan fuertes como este.  
+27. Médico: ¿Has utilizado algún medicamento para aliviar el dolor?  
+28. Paciente: Hoy no tomé nada, pero en ocasiones anteriores tomé paracetamol y ayudó un poco.  
+29. Médico: ¿Has tenido fiebre o algún otro síntoma como debilidad o problemas para hablar?  
+30. Paciente: No, nada de eso.  
+31. Médico: ¿Cómo está tu estado general hoy aparte del dolor de cabeza?  
+32. Paciente: Aparte del dolor, me siento normal, solo muy cansado por el malestar.  
+33. Médico: Voy a revisar tu presión arterial y realizar un examen físico neurológico para asegurarnos de que todo esté en orden.  
+34. Paciente: Claro, doctor, adelante.  
+35. Médico: Tu presión arterial, frecuencia cardíaca y temperatura están normales. También tu examen neurológico no muestra nada anormal.  
+36. Paciente: Eso es bueno saberlo.  
+37. Médico: Vamos a realizar algunos análisis de sangre y una imagen del cráneo para descartar otras posibles causas.  
+38. Paciente: Está bien, doctor, lo que considere necesario.  
+39. Médico: No te preocupes, los resultados iniciales de los estudios son normales. No hay signos de algo grave como hemorragias o infecciones.  
+40. Paciente: Me tranquiliza escuchar eso.  
+41. Médico: Por los síntomas que describes, parece que estás teniendo una migraña con aura. Esto encaja con cómo empezó, tus síntomas visuales y el dolor de cabeza.  
+42. Paciente: ¿Migraña? ¿Es algo grave?  
+43. Médico: No es grave, pero puede ser muy molesto. Es un tipo de dolor de cabeza que algunas personas experimentan con ciertos síntomas como los tuyos.  
+44. Paciente: Entonces, ¿qué puedo hacer ahora?  
+45. Médico: Te voy a recetar un medicamento, sumatriptán, para tomar cuando el dolor sea muy intenso. También, paracetamol para ayudar con el malestar general.  
+46. Paciente: ¿Se puede prevenir de alguna forma este dolor?  
+47. Médico: Es importante identificar los factores que lo desencadenan, como la falta de sueño o la cafeína. Puedes llevar un diario para anotar cuándo ocurre y qué lo provoca.  
+48. Paciente: Me parece una buena idea. Lo voy a intentar.  
+49. Médico: También te recetaré metoclopramida para las náuseas que mencionaste. Si el dolor no mejora con el tratamiento, por favor vuelve a venir.  
+50. Paciente: Gracias, doctor, lo haré si empeora o no mejora.  "

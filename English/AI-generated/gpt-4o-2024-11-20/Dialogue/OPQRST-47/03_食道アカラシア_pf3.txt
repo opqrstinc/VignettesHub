@@ -1,0 +1,56 @@
+"1. Doctor: What brings you in today?  
+2. Patient: I've been having trouble swallowing food for the past six months.  
+3. Doctor: Could you tell me more about when this issue started and how it progressed?  
+4. Patient: It started out mild, just feeling like food was getting stuck occasionally, but it's gotten worse over time.  
+5. Doctor: Is it difficult to swallow liquids as well, or just solid foods?  
+6. Patient: Mostly solids. Liquids don’t seem to be a big problem.  
+7. Doctor: Have you noticed any discomfort or pain when swallowing?  
+8. Patient: Yes, sometimes I get this discomfort in my chest after eating, especially with bigger meals.  
+9. Doctor: Do you ever feel like food is coming back up or regurgitates into your mouth?  
+10. Patient: No, that hasn’t happened to me.  
+11. Doctor: Have you experienced any weight loss recently?  
+12. Patient: No, my weight’s stayed pretty much the same.  
+13. Doctor: Do you ever cough during or after eating?  
+14. Patient: Yes, that happens occasionally.  
+15. Doctor: Do you cough at night or wake up choking?  
+16. Patient: No, just sometimes when I eat.  
+17. Doctor: Do you smoke or consume alcohol?  
+18. Patient: No, I don’t smoke or drink.  
+19. Doctor: Have you been using any medications, like NSAIDs or others?  
+20. Patient: No, just my diabetes medications.  
+21. Doctor: How has your diabetes been? Is it well-controlled?  
+22. Patient: It’s been pretty good, I think. My doctor said my sugar levels are under control.  
+23. Doctor: Do you have any family history of swallowing problems or other digestive issues?  
+24. Patient: No, not that I know of.  
+25. Doctor: Have you noticed any blood when you cough or vomit?  
+26. Patient: No, I haven’t seen any blood.  
+27. Doctor: Do you feel like the food sometimes gets stuck low down, near your chest, or closer to your throat?  
+28. Patient: It feels like it gets stuck in my chest area.  
+29. Doctor: Have you had any heartburn or acid reflux?  
+30. Patient: Not really, no.  
+31. Doctor: How are your meals lately? Are you avoiding certain foods because of this?  
+32. Patient: Yes, I tend to stick to softer foods now. Harder stuff is just too difficult to swallow.  
+33. Doctor: Do you often find yourself drinking water to help get food down?  
+34. Patient: Yes, a lot of the time I need water to wash food down.  
+35. Doctor: Does the discomfort happen during every meal or just larger ones?  
+36. Patient: Mostly with bigger meals.  
+37. Doctor: Has this impacted your daily life or caused you stress?  
+38. Patient: Yeah, it’s frustrating and makes eating less enjoyable.  
+39. Doctor: Have you tried any over-the-counter medications or remedies to help with this?  
+40. Patient: No, I wasn’t sure what would help.  
+41. Doctor: Based on what you’ve described, it sounds like there might be an issue with how your esophagus is working.  
+42. Patient: Really? I didn’t think it was that serious.  
+43. Doctor: Have you noticed anything unusual, like changes in your voice or difficulty speaking?  
+44. Patient: No, my voice seems fine.  
+45. Doctor: On closer examination, your symptoms and history suggest a problem with the lower esophagus.  
+46. Patient: Is it something that can be fixed?  
+47. Doctor: We’ll need to do some specific tests, like manometry and imaging studies, to figure out what’s going on.  
+48. Patient: Okay, what do those tests involve?  
+49. Doctor: Manometry measures how well your esophagus muscles work, and imaging like a barium swallow looks at how food moves through your esophagus.  
+50. Patient: Alright, I’ll do whatever is needed to figure this out.  
+51. Doctor: After reviewing your test results, I can confirm that you have a condition called achalasia.  
+52. Patient: Achalasia? What does that mean?  
+53. Doctor: It’s when the lower esophageal sphincter doesn’t relax properly, making it hard for food to pass into your stomach.  
+54. Patient: Is it dangerous?  
+55. Doctor: It’s not life-threatening, and there are effective treatments, like dilation or medication, to help you.  
+56. Patient: That’s a relief. Thank you for explaining.  "

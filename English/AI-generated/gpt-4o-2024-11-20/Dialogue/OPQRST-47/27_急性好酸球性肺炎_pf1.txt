@@ -1,0 +1,52 @@
+"1. Doctor: Hello, I’m Dr. Smith. What brings you here today?  
+2. Patient: I've been feeling short of breath for the past three days.  
+3. Doctor: I see. Are you feeling breathless all the time, or does it come and go?  
+4. Patient: It’s there most of the time, but it gets worse when I move around.  
+5. Doctor: Have you noticed any other symptoms, such as a cough or fever?  
+6. Patient: Yes, I have a mild cough, but it’s dry. Also, I’ve had a fever.  
+7. Doctor: When did the fever start?  
+8. Patient: Three days ago, at the same time the shortness of breath started.  
+9. Doctor: How high has your fever been, do you know?  
+10. Patient: I haven’t measured it, but I’ve been feeling really hot and sweaty.  
+11. Doctor: Have you been exposed to anyone who is sick recently?  
+12. Patient: No, not that I’m aware of.  
+13. Doctor: Have you traveled anywhere in the past month?  
+14. Patient: No, I’ve been at home and school mostly.  
+15. Doctor: Do you have any allergies or a history of asthma?  
+16. Patient: No, I’ve never had any issues with allergies or asthma.  
+17. Doctor: Do you or your family have any history of lung diseases?  
+18. Patient: No, not that I know of.  
+19. Doctor: Do you smoke or use any tobacco products?  
+20. Patient: I recently started smoking cigarettes, about two weeks ago.  
+21. Doctor: How many cigarettes do you smoke per day?  
+22. Patient: Around five a day.  
+23. Doctor: Do you use e-cigarettes, vapes, or recreational drugs?  
+24. Patient: No, I only smoke cigarettes.  
+25. Doctor: Have you had any chest pain or palpitations?  
+26. Patient: No, just the shortness of breath and fever.  
+27. Doctor: Have you noticed any rashes, swelling, or joint pain?  
+28. Patient: No, none of that.  
+29. Doctor: Are you experiencing any trouble swallowing or changes in your voice?  
+30. Patient: No, my throat is fine.  
+31. Doctor: Do you feel tired or weak more than usual?  
+32. Patient: A little, but I think it’s because of the fever and breathing.  
+33. Doctor: Have you lost weight recently without trying?  
+34. Patient: No, my weight’s been steady.  
+35. Doctor: On a typical day, how physically active are you?  
+36. Patient: I walk to school and hang out with friends, nothing too strenuous.  
+37. Doctor: Have you been working in any environments with dust, fumes, or chemicals?  
+38. Patient: No, nothing like that.  
+39. Doctor: When did your breathing difficulty first start? Was it sudden?  
+40. Patient: It started gradually three days ago and has been getting worse since.  
+41. Doctor: Do you feel anxious or stressed about anything right now?  
+42. Patient: I’m mostly worried about my breathing. It’s scary to feel like this.  
+43. Doctor: Have you noticed any changes in your appetite?  
+44. Patient: Not really, but eating makes me feel a bit breathless.  
+45. Doctor: How well are you sleeping?  
+46. Patient: Not great. I wake up a lot because I feel like I can’t breathe.  
+47. Doctor: Have you had any blood in your sputum when you cough?  
+48. Patient: No, there’s no blood, just the dry cough.  
+49. Doctor: Were you in your usual health before these symptoms began?  
+50. Patient: Yes, I was completely fine, besides starting smoking recently.  
+51. Doctor: Based on your symptoms and evaluation, it seems that your recent smoking may have contributed to your current condition. I'll conduct some tests like a chest X-ray and blood work to confirm what’s going on. Your symptoms and findings point toward acute eosinophilic pneumonia, which can happen after starting smoking.  
+"

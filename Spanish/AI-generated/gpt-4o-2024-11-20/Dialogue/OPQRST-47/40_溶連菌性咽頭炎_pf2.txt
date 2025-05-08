@@ -1,0 +1,50 @@
+"1. Médico: Hola, ¿cómo te encuentras hoy?  
+2. Paciente: Me siento mal, me duele mucho la garganta.  
+3. Médico: Entiendo, ¿desde cuándo empezó el dolor en la garganta?  
+4. Paciente: Hace unos tres días.  
+5. Médico: ¿Has tenido fiebre en estos días?  
+6. Paciente: Sí, mucha fiebre, me siento muy cansada.  
+7. Médico: ¿La fiebre ha sido medida con termómetro en casa?  
+8. Madre: Sí, ayer tenía 39 grados.  
+9. Médico: ¿Tu hija ha tenido tos o nariz tapada?  
+10. Madre: No, no ha tenido ninguno de esos síntomas.  
+11. Médico: ¿Otras molestias como dolor de cabeza o dolor de oído?  
+12. Paciente: Solo me duele la cabeza a veces, pero más la garganta.  
+13. Médico: ¿Ha tenido problemas para comer o beber debido al dolor?  
+14. Madre: Sí, casi no quiere comer porque dice que le duele al tragar.  
+15. Médico: ¿Has notado cambios en la voz, como si estuviera más ronca?  
+16. Madre: No, su voz está igual.  
+17. Médico: ¿Qué tal las energías? ¿Ha estado jugando o más apagada?  
+18. Madre: Muy apagada, solo quiere estar acostada.  
+19. Médico: ¿Has notado algún sarpullido en su piel?  
+20. Madre: No, no he visto nada en la piel.  
+21. Médico: ¿Hemos tenido casos similares en la familia o escuela últimamente?  
+22. Madre: No, nadie más está enfermo en casa o en su escuela.  
+23. Médico: ¿Qué medicamentos le han dado en casa?  
+24. Madre: Solo paracetamol para la fiebre, pero no le hace mucho.  
+25. Médico: ¿Le ha pasado algo parecido antes, como infecciones de garganta frecuentes?  
+26. Madre: No, es la primera vez que le pasa algo así.  
+27. Médico: Te examinaré la garganta ahora, abre grande por favor.  
+28. Paciente: (Abre la boca)  
+29. Médico: Veo que tus amígdalas están muy rojas y tienen un poco de pus. ¿Te duele aquí? (Toca el cuello).  
+30. Paciente: Sí, duele mucho.  
+31. Médico: Noto que tienes algunos ganglios en el cuello inflamados. ¿Sientes dolor al voltearte?  
+32. Paciente: Un poco, pero más cuando me los tocan.  
+33. Médico: ¿Has notado paladar reseco o dificultad para mover la lengua?  
+34. Paciente: No, no está reseco.  
+35. Médico: ¿Te has vacunado este año contra la gripe?  
+36. Madre: Sí, se vacunó hace unos meses.  
+37. Médico: Muy bien. Ahora, vamos a hacerte una prueba rápida en la garganta, será un poquito incómodo pero rápido, ¿está bien?  
+38. Paciente: Está bien...  
+39. Médico: Perfecto, abre grande otra vez.  
+40. (Realiza la prueba)  
+41. Médico: Ya está, muy bien. Ahora esperaremos el resultado unos minutos.  
+42. Paciente: ¿Va a doler más después?  
+43. Médico: No, tranquila, la prueba solo fue un poco molesta, pero no empeorará las molestias.  
+44. Madre: Doctor, ¿cree que sea algo grave?  
+45. Médico: Por ahora parece una infección en las amígdalas, pero confirmaremos con la prueba.  
+46. Madre: Bien, esperaremos.  
+47. (Pasan unos minutos)  
+48. Médico: El resultado ha salido positivo para una bacteria llamada estreptococo. Esto confirma que tiene una infección en la garganta.  
+49. Madre: ¿Qué significa eso?  
+50. Médico: Que tiene faringoamigdalitis estreptocócica aguda. Es una infección que trataremos con antibióticos para que mejore rápidamente. "

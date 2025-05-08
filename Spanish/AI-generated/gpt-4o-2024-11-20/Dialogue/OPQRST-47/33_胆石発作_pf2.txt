@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, señor. ¿Qué lo trae hoy a consulta?  
+2. Paciente: Doctor, me empezó un dolor muy fuerte en la parte derecha del abdomen desde hace unas horas.  
+3. Médico: Entiendo. ¿Puede describirme cómo es el dolor? ¿Es constante o va y viene?  
+4. Paciente: Es un dolor constante, allí fijo, pero también lo siento como si se fuera hacia la espalda.  
+5. Médico: ¿Cuánto tiempo lleva con este dolor?  
+6. Paciente: Desde hace como 12 horas.  
+7. Médico: ¿Recuerda si algo lo desencadenó? ¿Comió algo diferente o hizo algún esfuerzo?  
+8. Paciente: No, nada especial que yo recuerde.  
+9. Médico: ¿Ha notado otros síntomas, como fiebre, náuseas o vómitos?  
+10. Paciente: Sí, he tenido fiebre, creo que llegó como a 38 grados, y también náuseas, aunque no he vomitado.  
+11. Médico: ¿Ha notado algún cambio en el color de su piel o sus ojos?  
+12. Paciente: Mi esposa dice que me ve amarillo, pero yo no me he dado cuenta mucho.  
+13. Médico: ¿Qué tal su apetito? ¿Ha podido comer algo?  
+14. Paciente: No, no tengo ganas de comer nada.  
+15. Médico: ¿Ha tenido diarrea o cambios en las heces o la orina?  
+16. Paciente: Mis heces estaban como más claras de lo normal y la orina un poco más oscura.  
+17. Médico: ¿Ha tenido síntomas similares en el pasado o problemas digestivos?  
+18. Paciente: No, nunca había sentido algo así antes.  
+19. Médico: ¿Tiene antecedentes de alguna enfermedad, problema de salud o cirugía?  
+20. Paciente: Ninguna enfermedad ni me han operado antes.  
+21. Médico: ¿Toma algún medicamento regularmente?  
+22. Paciente: No, no tomo ningún medicamento.  
+23. Médico: ¿En su familia hay antecedentes de enfermedades del hígado, cálculos biliares o algo similar?  
+24. Paciente: Mi madre tenía cálculos en la vesícula, pero no sé si eso importe.  
+25. Médico: Sí, puede ser relevante. ¿Ha notado hinchazón o gas en el abdomen?  
+26. Paciente: Sí, estoy un poco hinchado.  
+27. Médico: ¿Ha podido descansar bien desde que comenzó con este dolor?  
+28. Paciente: No, no puedo ni estar acostado cómodo.  
+29. Médico: ¿Hay alguna posición que alivie el dolor?  
+30. Paciente: No, ninguna. Solo está ahí, persistente.  
+31. Médico: ¿Qué tal su consumo de alcohol?  
+32. Paciente: Tomo una copa de vino de vez en cuando, pero muy ocasional.  
+33. Médico: ¿Alguna vez ha tenido ictericia antes?  
+34. Paciente: No, es la primera vez que alguien me dice que estoy amarillo.  
+35. Médico: ¿Qué tal sus hábitos alimenticios? ¿Suele comer alimentos grasosos o fritos?  
+36. Paciente: No mucho, cuido mi dieta, aunque los fines de semana como algunos antojitos fritos.  
+37. Médico: ¿Ha viajado recientemente o estado expuesto a alimentos o agua de dudosa procedencia?  
+38. Paciente: No, no he viajado ni comido fuera.  
+39. Médico: ¿Algo le ha ayudado a disminuir la intensidad del dolor, como tomar analgésicos?  
+40. Paciente: Me tomé un paracetamol, pero el dolor sigue igual.  
+41. Médico: Muy bien, necesito examinar su abdomen ahora. Avíseme si siente dolor cuando palpo esta área.  
+42. Paciente: Ahí, sí, justo ahí me duele.  
+43. Médico: Parece haber mucha sensibilidad en el lado derecho. ¿Le duele cuando dejo de presionar?  
+44. Paciente: No, solo al presionar.  
+45. Médico: También noto que tiene los ojos y la piel amarillentos. ¿Siente algún malestar general además del dolor?  
+46. Paciente: Solo estoy cansado por el dolor y la fiebre.  
+47. Médico: Basado en los síntomas y la exploración, pienso que puede estar relacionado con su vesícula biliar.  
+48. Paciente: ¿Es algo grave, doctor?  
+49. Médico: Probablemente sea una inflamación de la vesícula, pero necesitamos hacer algunos análisis y un ultrasonido para confirmar.  
+50. Paciente: De acuerdo, doctor, confío en su criterio."

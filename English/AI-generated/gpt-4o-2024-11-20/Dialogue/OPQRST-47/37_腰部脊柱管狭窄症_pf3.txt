@@ -1,0 +1,53 @@
+"1. 医師：Hello, Mr. Smith. What brings you in today?  
+2. 患者：Doctor, I've been having really bad lower back pain and numbness in my legs for the past few months.  
+3. 医師：I see. Can you tell me when this started and how it has progressed over time?  
+4. 患者：It started about six months ago. It’s gradually gotten worse, especially in the last couple of months.  
+5. 医師：How would you describe the pain—sharp, dull, or something else?  
+6. 患者：It’s a dull ache most of the time, but sometimes it gets more intense, especially when I stand or walk.  
+7. 医師：Does the pain stay in your lower back, or does it radiate anywhere else?  
+8. 患者：It mostly stays in my lower back, but I also feel numbness in the back of my thighs and calves.  
+9. 医師：How far can you walk before the pain or numbness becomes unbearable?  
+10. 患者：Not very far—maybe 50 meters—before I have to stop because it gets too uncomfortable.  
+11. 医師：What about sitting or leaning forward, does that help with the pain?  
+12. 患者：Yes, sitting or bending forward seems to relieve it quite a bit.  
+13. 医師：Have you noticed any weakness in your legs or trouble moving your feet?  
+14. 患者：Well, I feel like my feet are a bit weaker, but I’m not sure.  
+15. 医師：Have you experienced any difficulty with bowel or bladder control?  
+16. 患者：No, none at all.  
+17. 医師：Any history of injury to your back or recent trauma that might explain this?  
+18. 患者：No, I haven’t hurt my back or anything like that.  
+19. 医師：What about fever, weight loss, or any other unusual symptoms?  
+20. 患者：No, I’ve been feeling normal otherwise.  
+21. 医師：Have you tried any treatments or medications for the pain?  
+22. 患者：I’ve taken over-the-counter painkillers like ibuprofen, but they don’t help much.  
+23. 医師：Do you have any medical conditions or past surgeries I should know about?  
+24. 患者：No, I’ve been pretty healthy until now.  
+25. 医師：Have you noticed any changes in your posture or the way you walk recently?  
+26. 患者：Yes, I feel like I bend forward a little bit when I walk to try and ease the pain.  
+27. 医師：Has anyone in your family had similar back issues?  
+28. 患者：Not that I know of.  
+29. 医師：Do you have any hobbies or activities that involve heavy physical work?  
+30. 患者：No, I’m mostly retired now, and my daily activities aren’t too strenuous.  
+31. 医師：Alright, let me ask a few more specific questions. Do you feel any tingling or pins and needles in your legs?  
+32. 患者：Yes, especially in the lower part of my legs around the calves.  
+33. 医師：When the pain or numbness gets worse, does it happen more at a certain time of day?  
+34. 患者：It seems worse towards the end of the day, especially if I’ve been on my feet a lot.  
+35. 医師：What about lying down at night? Does it bother you then?  
+36. 患者：Not really. It’s much better when I’m lying down.  
+37. 医師：Good to know. Have you ever had any physical therapy or back treatments in the past?  
+38. 患者：No, this is my first time dealing with serious back issues.  
+39. 医師：Have you noticed any coldness or changes in the color of your legs or feet?  
+40. 患者：No, my legs seem fine otherwise.  
+41. 医師：Do you smoke, drink alcohol, or have any other routine habits I should know about?  
+42. 患者：I don’t smoke, and I have an occasional drink.  
+43. 医師：Do you feel like the pain is more on one side, or is it equal on both sides?  
+44. 患者：It’s pretty much the same on both sides.  
+45. 医師：Thank you for all this information. I’ll examine you now. We’ll check how your back and nerves are functioning.  
+46. 患者：Alright, sounds good.  
+47. 医師：During the exam, I noticed you have some weakness in your ankle movement and decreased reflexes in your knees and ankles. Does that sound like what you've felt?  
+48. 患者：Yes, it matches how I feel, like my feet aren't as strong as they should be.  
+49. 医師：Based on your symptoms and examination, I’d like to get imaging of your lower back, like an MRI. This will help us see if there’s any pressure on your nerves.  
+50. 患者：Okay, whatever helps figure this out.  
+51. 医師：From the results of your MRI, it looks like you have lumbar spinal stenosis, specifically narrowing in the L4-L5 area.  
+52. 患者：What does that mean?  
+53. 医師：It means that the space around your spinal cord and nerves is too tight, which is causing your pain and numbness. "

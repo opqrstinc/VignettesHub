@@ -1,0 +1,51 @@
+"1. Physician: What brings you in today?  
+2. Patient: I've been having terrible headaches on the right side of my head, around my eye and temple.  
+3. Physician: How severe is the pain on a scale of 0 to 10?  
+4. Patient: It's a 10 out of 10. It's the worst pain I've ever felt.  
+5. Physician: When did these headaches start?  
+6. Patient: They started about 10 days ago.  
+7. Physician: How often are you getting these headaches?  
+8. Patient: They happen in clusters—about eight times a day.  
+9. Physician: How long does each headache last?  
+10. Patient: Each one lasts around 45 minutes.  
+11. Physician: Are there specific times of day when these headaches occur?  
+12. Patient: Yes, they seem to happen at the same time every day and often wake me up at night.  
+13. Physician: Can you describe the character of the pain?  
+14. Patient: It's sharp and stabbing, like someone is drilling into my head.  
+15. Physician: Do you notice any other symptoms during the headaches?  
+16. Patient: Yes, my right eye gets red and teary, my nose gets stuffy and runs on that side, and my eyelid swells up.  
+17. Physician: Have you noticed any sensitivity to light or sound during these attacks?  
+18. Patient: No, I don't have any problems with light or noise.  
+19. Physician: Do you feel nauseous or see an aura before the headache starts?  
+20. Patient: No, nothing like that.  
+21. Physician: Have you had headaches like this in the past?  
+22. Patient: No, this is the first time I've ever experienced anything like this.  
+23. Physician: Do you have any significant medical conditions?  
+24. Patient: I have high blood pressure, but it's well-controlled with medication.  
+25. Physician: Have you had any recent infections or injuries?  
+26. Patient: No, none that I can think of.  
+27. Physician: Does anyone in your family have a history of headaches?  
+28. Patient: No one in my family has headaches.  
+29. Physician: Have you noticed if anything triggers these headaches?  
+30. Patient: Not really, but I've been avoiding alcohol just in case.  
+31. Physician: How are you sleeping lately?  
+32. Patient: Not well—the headaches wake me up at night.  
+33. Physician: Have you experienced any vision changes or weakness in your arms or legs?  
+34. Patient: No, nothing like that.  
+35. Physician: Do you notice any fever, chills, or weight loss?  
+36. Patient: No, I feel fine otherwise.  
+37. Physician: What do you usually do to try to relieve the pain?  
+38. Patient: Nothing seems to work. I've tried over-the-counter painkillers, but they don't help at all.  
+39. Physician: Are you under a lot of stress recently?  
+40. Patient: Not really, my life is pretty normal.  
+41. Physician: Has anyone noticed anything unusual about you during an attack?  
+42. Patient: My wife says my right eye looks droopy when the headache starts.  
+43. Physician: How about between the headache attacks? Do you feel normal?  
+44. Patient: Yes, I feel completely fine in between.  
+45. Physician: Have you traveled recently or been exposed to anyone sick?  
+46. Patient: No, I haven't traveled or been around anyone unwell.  
+47. Physician: Do you smoke or drink alcohol regularly?  
+48. Patient: I don't smoke, and I rarely drink, but I've avoided alcohol since these headaches started.  
+49. Physician: Have you ever had a brain scan or other imaging done?  
+50. Patient: No, this is the first time I'm seeing a doctor about headaches.  
+51. Physician: Based on what you've described, I believe you have a condition called cluster headache. It explains your symptoms and pattern of attacks."

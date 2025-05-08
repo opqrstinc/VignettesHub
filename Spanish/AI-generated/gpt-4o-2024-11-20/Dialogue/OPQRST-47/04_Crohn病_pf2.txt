@@ -1,0 +1,50 @@
+"1. Médico: ¿Hola, cómo está usted hoy? ¿Qué la trae por aquí?  
+2. Paciente: Hola, doctor. Me he sentido muy cansada últimamente y he bajado de peso sin razón.  
+3. Médico: Entiendo. ¿Puede decirme desde cuándo comenzó a notar estos síntomas?  
+4. Paciente: Llevo así varios meses, quizá unos seis o siete.  
+5. Médico: ¿Cuánto peso ha perdido exactamente?  
+6. Paciente: Aproximadamente seis kilos.  
+7. Médico: ¿Esta pérdida de peso ha sido intencional o ha ocurrido sin que lo busque?  
+8. Paciente: Ha sido sin querer. No he cambiado mi dieta ni hago ejercicio de más.  
+9. Médico: ¿Además de la fatiga y pérdida de peso, ha notado algún síntoma más?  
+10. Paciente: Sí, algunas veces tengo diarrea, y me duele el abdomen, sobre todo del lado derecho abajo.  
+11. Médico: ¿La diarrea es constante o aparece de forma ocasional?  
+12. Paciente: Es intermitente, pero cuando pasa dura un par de días.  
+13. Médico: ¿Cómo es la diarrea? ¿Es acuosa, con moco o sangre?  
+14. Paciente: Es acuosa, no he visto sangre.  
+15. Médico: ¿El dolor abdominal cómo es? ¿Es constante o aparece en momentos específicos?  
+16. Paciente: No es constante, pero noto que a veces empeora después de comer.  
+17. Médico: ¿Ha presentado fiebre, escalofríos o sudores nocturnos?  
+18. Paciente: No, nada de eso.  
+19. Médico: ¿Ha tenido episodios de náuseas o vómitos?  
+20. Paciente: No, pero sí tengo una sensación general de malestar.  
+21. Médico: Entiendo. ¿Ha tenido alguna enfermedad reciente o ha viajado a algún lugar en los últimos meses?  
+22. Paciente: No, no he salido de la ciudad.  
+23. Médico: ¿Recuerda haber comido algo en mal estado antes de que comenzaran los síntomas?  
+24. Paciente: No, no creo.  
+25. Médico: ¿Tiene algún problema médico previo o alguna enfermedad diagnosticada?  
+26. Paciente: De niña tuve asma, pero hace años que no me afecta.  
+27. Médico: ¿Alguien en su familia padece alguna enfermedad crónica o digestiva?  
+28. Paciente: No que yo sepa. Mi familia está bastante sana.  
+29. Médico: ¿Cómo está su apetito últimamente?  
+30. Paciente: No tengo mucho apetito, como menos que antes.  
+31. Médico: ¿Está tomando algún medicamento o suplemento actualmente?  
+32. Paciente: No, nada.  
+33. Médico: Voy a examinar su abdomen, ¿le parece bien?  
+34. Paciente: Sí, claro.  
+35. Médico: Veo que hay dolor al presionar en la parte inferior derecha del abdomen. ¿Esto es lo que siente normalmente?  
+36. Paciente: Sí, ese es el lugar donde siempre duele.  
+37. Médico: ¿El dolor cambia con el tiempo o siempre es igual?  
+38. Paciente: Varía, pero hay días peores.  
+39. Médico: ¿Ha notado algún cambio en su piel, ojos o en las articulaciones?  
+40. Paciente: No, todo se ve normal.  
+41. Médico: ¿Cómo están sus hábitos de sueño? ¿Está descansando bien?  
+42. Paciente: Duermo, pero siempre me siento cansada.  
+43. Médico: Según lo que me describe, parece que podría haber un problema en el sistema digestivo. Vamos a solicitar algunos análisis.  
+44. Paciente: De acuerdo, lo que sea necesario.  
+45. Médico: Los resultados muestran inflamación y anemia. Vamos a hacer un examen más detallado de su intestino.  
+46. Paciente: Está bien. ¿Qué puede ser?  
+47. Médico: Es temprano para decirlo, pero hay signos de inflamación. La colonoscopia nos ayudará a entender mejor.  
+48. Paciente: ¿Eso es seguro?  
+49. Médico: Sí, completamente seguro. Los hallazgos nos aclararán mucho. Ya le contaré los resultados.  
+50. Médico: Hemos encontrado inflamación en el íleon y granulomas en la biopsia. Parece ser una enfermedad inflamatoria del intestino llamada Enfermedad de Crohn. "

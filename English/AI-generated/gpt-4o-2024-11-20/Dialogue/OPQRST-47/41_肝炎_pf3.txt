@@ -1,0 +1,50 @@
+"1. 医師：Hello, I understand you're not feeling well. Can you tell me more about what's been troubling you?  
+2. 患者：Sure, I've had a fever for the past three days, and I've been feeling really nauseous and vomiting.  
+3. 医師：I see. Have you noticed any changes in your skin or eyes?  
+4. 患者：Yes, they’ve turned yellow. It got worse over the last couple of days.  
+5. 医師：How long have you noticed the yellow discoloration?  
+6. 患者：It started about a week ago and has gotten more obvious.  
+7. 医師：Have you experienced any other symptoms, like fatigue or a change in appetite?  
+8. 患者：Yes, I feel tired all the time, and I’ve had little interest in eating.  
+9. 医師：Has your urine or stool changed color recently?  
+10. 患者：Yes, my urine has been really dark, but I didn’t notice anything strange about my stool.  
+11. 医師：Got it. Did you have any recent travel or exposure to anyone who’s been sick?  
+12. 患者：No, I haven’t traveled, and I don’t know anyone who’s been sick.  
+13. 医師：Do you drink alcohol or use any recreational drugs?  
+14. 患者：No, I don’t drink alcohol much, and I don’t use drugs.  
+15. 医師：What about medications? Are you on any regular medications or supplements?  
+16. 患者：No, I don’t take anything regularly.  
+17. 医師：Do you have any medical conditions or a history of liver problems?  
+18. 患者：No, I’ve been healthy and haven’t had any liver issues before.  
+19. 医師：What do you do for a living?  
+20. 患者：I’m a software engineer. I work long hours in front of a computer.  
+21. 医師：Have you been feeling stressed or overworked lately?  
+22. 患者：A little bit, but nothing unusual for me.  
+23. 医師：Do you remember eating out or consuming any uncooked food recently?  
+24. 患者：I eat out occasionally, but I usually stick to cooked meals.  
+25. 医師：Have you been vaccinated for hepatitis?  
+26. 患者：I don’t think I’ve had any recent vaccines for that.  
+27. 医師：Are you sexually active, and do you practice safe sex?  
+28. 患者：Yes, I am, and I always use protection.  
+29. 医師：That’s good to hear. Have you been exposed to blood or undergone any medical procedures recently?  
+30. 患者：No, nothing like that.  
+31. 医師：You mentioned you’re fatigued a lot. Does that disrupt your daily activities?  
+32. 患者：Yes, I’ve been feeling too tired to work or do much around the house.  
+33. 医師：How severe is the nausea and vomiting?  
+34. 患者：It’s pretty bad. Sometimes I can’t even keep water down.  
+35. 医師：Have you tried anything to relieve the symptoms, like over-the-counter medications?  
+36. 患者：Not really. I’ve just been resting and trying to drink fluids.  
+37. 医師：That’s sensible. Did you notice any recent weight loss?  
+38. 患者：Yes, I’ve lost a few pounds this week because I’m not eating much.  
+39. 医師：How are your bowel movements? Any diarrhea or constipation?  
+40. 患者：They’ve been fine, no changes there.  
+41. 医師：Do you have any abdominal pain or cramps?  
+42. 患者：Just some mild discomfort on the right side of my belly.  
+43. 医師：Has the pain been constant, or does it come and go?  
+44. 患者：It comes and goes, but it’s not unbearable.  
+45. 医師：Have you had any skin rashes or swelling anywhere?  
+46. 患者：No, my skin seems normal except for the yellow color.  
+47. 医師：I’m going to examine you now. Any tenderness when I press here on your right side?  
+48. 患者：Yes, it’s a little sore when you press there.  
+49. 医師：Based on your symptoms, physical exam, and initial tests, you have acute hepatitis A infection.  
+50. 患者：Oh, is it serious? How did I get it?  "

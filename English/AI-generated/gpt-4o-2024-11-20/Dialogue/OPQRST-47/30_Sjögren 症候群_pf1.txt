@@ -1,0 +1,51 @@
+"1. Physician: What brings you in today?  
+2. Patient: I've had dry mouth and dry eyes for about six months, and it's been getting worse.  
+3. Physician: Can you describe how it's affecting you day-to-day?  
+4. Patient: My mouth feels so dry I struggle to swallow dry foods, and I have to drink water constantly.  
+5. Physician: What about your eyes—are they itchy, red, or painful?  
+6. Patient: They're not red, but they feel gritty and burn sometimes. I have to use eye drops multiple times a day.  
+7. Physician: Have you noticed any other symptoms?  
+8. Patient: My knees hurt a lot and are stiff, especially in the morning.  
+9. Physician: How long have you been having the joint pain?  
+10. Patient: About the same time as the dryness started, maybe a little after.  
+11. Physician: You mentioned morning stiffness. How long does it usually last?  
+12. Patient: At least 30 minutes, sometimes up to an hour.  
+13. Physician: Have your knees ever gotten red, swollen, or warm to the touch?  
+14. Patient: They've been swollen and tender, but they’re not red or warm.  
+15. Physician: Have you had any fever, weight loss, or unusual fatigue?  
+16. Patient: No fever or weight loss. I am tired, but I think that's from sleeping poorly.  
+17. Physician: Any rashes or skin changes?  
+18. Patient: No, my skin seems fine.  
+19. Physician: Have you ever had anything like this before?  
+20. Patient: No, this is the first time I've dealt with anything like this.  
+21. Physician: Do you have any other health problems or take any medications?  
+22. Patient: No, I'm generally healthy and not on any medications.  
+23. Physician: What about dental health—any new issues there?  
+24. Patient: I've had a lot of cavities lately, even though I brush and floss regularly.  
+25. Physician: Has anyone in your family had similar symptoms or autoimmune diseases?  
+26. Patient: No, no one in my family has anything like this.  
+27. Physician: Have you noticed issues with swallowing or difficulty talking?  
+28. Patient: I sometimes find it hard to swallow dry foods like crackers, but I can talk fine.  
+29. Physician: Have you been to an eye doctor about your symptoms?  
+30. Patient: Yes, they said my eyes are very dry, and I needed to use artificial tears often.  
+31. Physician: Have you noticed symptoms in any other joints besides your knees?  
+32. Patient: No, just my knees so far.  
+33. Physician: Have you changed your diet or had any new exposures that may have triggered these symptoms?  
+34. Patient: Nothing that I can think of—I’ve been eating and living the same as usual.  
+35. Physician: How has all of this been affecting your daily life?  
+36. Patient: It’s been frustrating. Eating and working with dry eyes and mouth is exhausting.  
+37. Physician: Did you notice if anything makes your symptoms better or worse?  
+38. Patient: Drinking water helps a little with the dry mouth, but not much else helps.  
+39. Physician: When you wake up in the morning, are your eyes stuck shut at all?  
+40. Patient: No, they don’t stick shut, but they feel very uncomfortable.  
+41. Physician: Have you experienced any other unusual symptoms, like numbness, tingling, or changes in your voice?  
+42. Patient: No, nothing like that.  
+43. Physician: You mentioned fatigue—how would you describe your energy levels?  
+44. Patient: I feel more tired than usual, but not so bad that I can't get through the day.  
+45. Physician: Any issues with your breathing, like feeling short of breath or coughing?  
+46. Patient: No, my breathing is fine.  
+47. Physician: Have you had any urinary issues, like frequent urination or infections?  
+48. Patient: No, none of that.  
+49. Physician: Have you had any tests so far for these symptoms?  
+50. Patient: Just the eye exam—no other tests yet.  
+51. Physician: Based on what you've told me, I suspect your symptoms might be related to an autoimmune condition called Sjögren's syndrome. We’ll need to confirm with some lab tests and possibly a salivary gland biopsy."

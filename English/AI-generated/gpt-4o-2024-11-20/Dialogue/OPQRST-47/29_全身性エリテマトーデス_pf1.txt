@@ -1,0 +1,50 @@
+"1. 医師：Hello, what brings you in today?  
+2. 患者：I’ve been feeling really tired for the past four weeks, and my joints hurt a lot, especially in my hands and knees.  
+3. 医師：I see. Have you noticed anything else out of the ordinary?  
+4. 患者：Yes, I’ve also had this strange rash on my face. It gets worse when I’m out in the sun.  
+5. 医師：Can you describe the rash in a bit more detail?  
+6. 患者：It’s red and kind of spreads across my cheeks, but it doesn’t go into the folds next to my nose.  
+7. 医師：Alright. Have you been experiencing any other symptoms, like fever or changes in your hair?  
+8. 患者：I’ve had low fevers off and on, and my hair is falling out a little more than usual.  
+9. 医師：What about stiffness in your joints? Does it feel worse at certain times of the day?  
+10. 患者：Yes, in the mornings, it’s really bad. It takes about an hour to loosen up.  
+11. 医師：Are you having any trouble with your eyes? Dryness or irritation?  
+12. 患者：Now that you mention it, my eyes have been very dry lately.  
+13. 医師：Have you lost weight recently, or do you feel like your appetite has changed?  
+14. 患者：No, my weight’s been pretty stable, and my appetite is normal.  
+15. 医師：Have you noticed any unusual sores in your mouth or nose?  
+16. 患者：No, nothing like that.  
+17. 医師：Do you have any issues with your breathing, chest pain, or swelling in your legs?  
+18. 患者：No, my breathing has been fine, and I haven’t had chest pain or swelling.  
+19. 医師：What about your urine? Any changes in color, volume, or discomfort while urinating?  
+20. 患者：It looks a little darker sometimes, but I didn’t think much about it.  
+21. 医師：Do you have any personal or family history of autoimmune diseases, like lupus or rheumatoid arthritis?  
+22. 患者：No, not really. Everyone in my family is pretty healthy.  
+23. 医師：What about any recent infections or new medications?  
+24. 患者：No infections. I haven’t started any new medications recently, either.  
+25. 医師：Okay, let’s talk a little more about your joint pain. Which joints are affected the most?  
+26. 患者：My fingers and knuckles hurt the most, and occasionally my knees too.  
+27. 医師：Have you noticed any swelling, heat, or redness in the joints?  
+28. 患者：Yes, they feel a bit swollen and tender, especially in the mornings.  
+29. 医師：Does anything make the fatigue or joint pain better or worse?  
+30. 患者：Rest helps with the fatigue. For the pain, heat seems to help a little.  
+31. 医師：What about your energy levels? Do you feel exhausted after minimal activity?  
+32. 患者：Yes, even small tasks tire me out so quickly lately.  
+33. 医師：How is your sleep? Are you sleeping through the night?  
+34. 患者：I sleep okay, though sometimes the pain keeps me awake.  
+35. 医師：Is there any skin rash or irritation on other parts of your body?  
+36. 患者：No, just my face.  
+37. 医師：What about sun exposure? Does it affect the rash or make you feel worse?  
+38. 患者：Yes, the rash definitely flares up after I spend time in the sun.  
+39. 医師：Have you noticed any unusual bleeding, like easy bruising or gum bleeding?  
+40. 患者：Not really, no.  
+41. 医師：Do you have any numbness or tingling sensations in your hands or feet?  
+42. 患者：No, I haven’t noticed anything like that.  
+43. 医師：Given your symptoms, I’d like to take a closer look at your joints and skin. Is that alright?  
+44. 患者：Of course.  
+45. 医師：Your facial rash is well demarcated and spares the folds near your nose. I also see some mild joint swelling.  
+46. 患者：Does that mean something serious?  
+47. 医師：We’ll need some blood and urine tests to understand what’s going on. Some imaging may also help.  
+48. 患者：Okay, I’ll do whatever tests are needed.  
+49. 医師：Based on your symptoms and initial findings, it seems important to rule out conditions like lupus.  
+50. 患者：Lupus? What is that?"

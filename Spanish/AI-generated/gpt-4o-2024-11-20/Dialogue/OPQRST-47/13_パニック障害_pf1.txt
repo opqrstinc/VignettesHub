@@ -1,0 +1,52 @@
+"1. Médico: ¿Qué tal, cómo te encuentras hoy?  
+2. Paciente: Bien, gracias, aunque sigo teniendo esos episodios de mareo y sudor.  
+3. Médico: Entiendo. Cuéntame un poco más sobre esos episodios. ¿Desde cuándo comenzaron?  
+4. Paciente: Hace unos seis meses. Al principio me pasaban como una vez a la semana, pero ahora son más frecuentes.  
+5. Médico: ¿Con qué frecuencia ocurren últimamente?  
+6. Paciente: Varias veces por semana, tal vez cuatro o cinco.  
+7. Médico: ¿Son episodios que suceden de repente, sin previo aviso?  
+8. Paciente: Sí, no sé qué los provoca, pasan de repente.  
+9. Médico: ¿Qué sientes exactamente durante esos episodios?  
+10. Paciente: Pues, me mareo, empiezo a sudar mucho, mi corazón late muy rápido y siento como si no pudiera respirar.  
+11. Médico: ¿Has sentido dolor o presión en el pecho durante estos episodios?  
+12. Paciente: Sí, como una opresión en el pecho.  
+13. Médico: ¿Experimentas algún tipo de miedo o preocupación mientras ocurre?  
+14. Paciente: Sí, me entra un miedo horrible, siento que voy a perder el control o incluso morir.  
+15. Médico: ¿Cuánto suelen durar estos episodios?  
+16. Paciente: Normalmente entre 10 y 20 minutos, después se van solos.  
+17. Médico: ¿Hay algo en particular que te ayude a calmarlos más rápido?  
+18. Paciente: No, solo espero a que pasen; no sé cómo controlarlos.  
+19. Médico: ¿Tus episodios ocurren en un lugar específico o en ciertas circunstancias?  
+20. Paciente: No, pueden ocurrir en cualquier momento, incluso cuando no estoy haciendo nada especial.  
+21. Médico: ¿Qué haces después de que termina el episodio? ¿Cómo te sientes?  
+22. Paciente: Me siento muy cansada y como si algo malo pudiera pasar otra vez.  
+23. Médico: ¿Has notado si hay algo que los desencadene, como estrés, alimentos o estar en espacios cerrados?  
+24. Paciente: No, pero es verdad que últimamente he estado más estresada con mis estudios.  
+25. Médico: ¿Este estrés comenzó cuando comenzaron los episodios?  
+26. Paciente: Más o menos, ha sido un año complicado, pero no sé si tiene algo que ver.  
+27. Médico: ¿Tienes problemas de sueño, insomnio o dificultad para relajarte?  
+28. Paciente: A veces cuesta dormir, especialmente después de un episodio.  
+29. Médico: ¿Alguna vez has tenido un episodio en frente de alguien que pueda describir cómo te veía?  
+30. Paciente: Mi hermana me vio una vez. Dice que me veía muy pálida y que temblaba.  
+31. Médico: ¿Han pasado estos episodios mientras haces ejercicio o actividad física?  
+32. Paciente: No, nunca. Siempre pasan cuando estoy tranquila, no haciendo nada.  
+33. Médico: Mencionaste que tu corazón late rápido durante los episodios. ¿Tienes antecedentes de problemas cardíacos?  
+34. Paciente: No, nada de eso.  
+35. Médico: ¿Y en tu familia, hay antecedentes de enfermedades del corazón?  
+36. Paciente: No, mi familia está sana en general.  
+37. Médico: ¿Usas algún tipo de medicamento, drogas o suplementos?  
+38. Paciente: No, no uso nada.  
+39. Médico: ¿Cuál ha sido tu alimentación últimamente? ¿Has hecho cambios en tu dieta?  
+40. Paciente: Como lo de siempre, no he cambiado nada.  
+41. Médico: Antes de que comenzara todo esto, ¿tenías algún problema médico significativo?  
+42. Paciente: No, estaba bien de salud.  
+43. Médico: ¿Has ido previamente al médico por estos episodios?  
+44. Paciente: No, esta es la primera vez.  
+45. Médico: ¿Has tenido algún desmayo o pérdida de conciencia últimamente?  
+46. Paciente: No, nunca.  
+47. Médico: ¿Actualmente estudias, trabajas o ambas cosas?  
+48. Paciente: Estudio, estoy en la universidad.  
+49. Médico: ¿Sientes que los episodios afectan tu vida diaria o tus estudios?  
+50. Paciente: Sí, mucho. Me preocupa que vuelvan a pasar, y eso me distrae.  
+51. Médico: Basándome en lo que hemos hablado y en los síntomas que describes, creo que podrías estar experimentando un trastorno llamado trastorno de pánico.  
+"

@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señor, ¿en qué puedo ayudarle hoy?  
+2. Paciente: Buenos días, doctor. Últimamente he tenido mucha tos y falta de aire, especialmente al caminar o subir escaleras.  
+3. Médico: Entiendo. ¿Desde cuándo tiene esa tos y esa dificultad para respirar?  
+4. Paciente: La tos y el esputo los tengo como desde hace unos cinco años, pero la falta de aire ha empeorado en los últimos dos meses.  
+5. Médico: ¿La tos es seca o produce algo?  
+6. Paciente: Siempre sale algo. Parece como si fuera flema, y ocurre todos los días.  
+7. Médico: ¿De qué color es el esputo que expulsa?  
+8. Paciente: Normalmente es blancuzco, no he visto nada raro en el color.  
+9. Médico: ¿Ha tenido fiebre, pérdida de peso, dolor en el pecho o sangre en el esputo recientemente?  
+10. Paciente: No, no he tenido nada de eso.  
+11. Médico: ¿Trabaja o ha trabajado en algún lugar donde esté expuesto a polvo, humo o químicos?  
+12. Paciente: No, doctor, pero siempre he fumado desde joven.  
+13. Médico: ¿Cuánto fuma o ha fumado, y por cuánto tiempo?  
+14. Paciente: Creo que he fumado unos 30 paquetes al año desde la adolescencia. No he dejado de fumar.  
+15. Médico: ¿Algún familiar o amigo cercano le ha comentado algo sobre los síntomas que usted presenta?  
+16. Paciente: Mi esposa me dice que me escucho muy agitado cuando hablo o camino rápido.  
+17. Médico: ¿Ha notado que sus labios o dedos se pongan morados cuando tiene dificultad para respirar?  
+18. Paciente: No, nunca me he dado cuenta de algo así.  
+19. Médico: Bien, ¿hay algo que mejore o empeore los síntomas?  
+20. Paciente: Si descanso un rato, puedo recuperar el aliento, pero si sigo fumando, me siento peor.  
+21. Médico: ¿Tiene antecedentes de alguna enfermedad respiratoria o sabe si ha tenido neumonía o bronquitis en el pasado?  
+22. Paciente: No que yo recuerde, doctor, nunca me lo han dicho.  
+23. Médico: ¿Alguna de estas molestias le despierta por la noche?  
+24. Paciente: A veces la tos, pero no muy seguido.  
+25. Médico: Cuando tiene dificultad para respirar, ¿usa los músculos del cuello o el pecho más de lo normal?  
+26. Paciente: Sí, siento como si tuviera que hacer un esfuerzo para tomar aire.  
+27. Médico: En casa, ¿ha notado problemas con la temperatura del ambiente o sensación de humedad que puedan afectarle?  
+28. Paciente: No, mi casa está bien ventilada.  
+29. Médico: ¿Tiene familiares con problemas pulmonares o de corazón?  
+30. Paciente: No, al menos que yo sepa, no hay problemas de esos en la familia.  
+31. Médico: ¿Alguna vez se ha hecho pruebas de función pulmonar o radiografías del tórax antes de este problema?  
+32. Paciente: No, nunca me las han hecho.  
+33. Médico: ¿Ha notado que pierda resistencia o energía en actividades cotidianas?  
+34. Paciente: Sí, ya no puedo hacer tantas cosas como antes; me canso fácilmente.  
+35. Médico: ¿Tiene dificultad para respirar incluso estando en reposo?  
+36. Paciente: Por lo general no, es más cuando camino o hago algo físico.  
+37. Médico: ¿Qué tan seguido fuma al día?  
+38. Paciente: Fumo unas 15 a 20 veces al día, para ser honesto.  
+39. Médico: ¿Ha intentado dejar de fumar alguna vez?  
+40. Paciente: Lo intenté hace años, pero no lo logré.  
+41. Médico: ¿Cómo describiría su alimentación y su nivel de actividad diaria?  
+42. Paciente: Como bien, pero mi actividad ha sido limitada estos últimos meses.  
+43. Médico: Voy a escuchar sus pulmones. Respire profundo, por favor. (Pausa para simulación)  
+44. Paciente: ¿Qué cree, doctor?  
+45. Médico: Hay algunos ruidos como sibilancias y el aire parece quedar atrapado al exhalar. Esto indica que hay una obstrucción del flujo de aire.  
+46. Paciente: ¿Es grave?  
+47. Médico: Vamos a realizar algunas pruebas, como una espirometría, para medir cómo funciona su respiración y confirmar lo que está ocurriendo.  
+48. Paciente: Está bien, doctor, ¿esto se puede tratar?  
+49. Médico: Por los datos que me ha dado y los resultados que revisemos, es probable que se trate de una enfermedad pulmonar obstructiva crónica, conocida como EPOC.  
+50. Paciente: Entiendo, doctor. ¿Qué puedo hacer para mejorar?  "

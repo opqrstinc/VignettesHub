@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señora. ¿Qué la trae por aquí hoy?  
+2. Paciente: Buenos días, doctor. He tenido mucho dolor y rigidez en las manos, especialmente en las mañanas.  
+3. Médico: Entiendo. ¿Hace cuánto tiempo empezaron esos síntomas?  
+4. Paciente: Hace unos tres meses, pero al principio era más leve.  
+5. Médico: ¿Y ha notado si los síntomas han empeorado con el tiempo?  
+6. Paciente: Sí, al principio era solo en las manos, pero ahora también me duelen las muñecas, las rodillas y los pies.  
+7. Médico: ¿La rigidez matutina cuánto tiempo le dura aproximadamente?  
+8. Paciente: Más de una hora en la mañana, todos los días.  
+9. Médico: ¿Hay algún momento del día en que los síntomas sean menos intensos?  
+10. Paciente: Sí, después de moverme un poco o en la tarde me siento algo mejor.  
+11. Médico: ¿Ha tenido algún golpe o lesión recientemente en esas áreas?  
+12. Paciente: No, nada de eso.  
+13. Médico: ¿Alguna infección reciente, como gripe o dolor de garganta?  
+14. Paciente: No, no recuerdo haber tenido ninguna infección.  
+15. Médico: ¿Sufre de alguna otra enfermedad o condición médica?  
+16. Paciente: No, nunca he tenido problemas de salud graves.  
+17. Médico: ¿Alguien en su familia tiene problemas en las articulaciones o alguna enfermedad reumática?  
+18. Paciente: Mi madre tenía artritis, pero no estoy segura del tipo que tenía.  
+19. Médico: Interesante. ¿El dolor es constante o varía?  
+20. Paciente: Varía un poco, pero siempre está ahí en algún nivel.  
+21. Médico: ¿Ha notado inflamación o hinchazón en alguna articulación?  
+22. Paciente: Sí, mis dedos a veces se ven hinchados.  
+23. Médico: ¿Y siente calor en las áreas inflamadas?  
+24. Paciente: Sí, a menudo se sienten calientes.  
+25. Médico: ¿Tiene alguna limitación para mover las articulaciones afectadas?  
+26. Paciente: Sí, a veces me resulta difícil abrir una botella o incluso peinarme.  
+27. Médico: ¿El dolor la despierta por la noche?  
+28. Paciente: No, pero en la mañana es cuando más lo siento.  
+29. Médico: Además de las articulaciones, ¿ha tenido fiebre o pérdida de peso recientemente?  
+30. Paciente: No, nada de eso.  
+31. Médico: ¿Ha tomado algún medicamento para el dolor o la inflamación?  
+32. Paciente: Solo algún ibuprofeno, pero no me ayuda mucho.  
+33. Médico: ¿Algún otro síntoma, como cansancio o sensación de debilidad?  
+34. Paciente: Sí, últimamente me siento más cansada de lo normal.  
+35. Médico: ¿Y ha notado algún cambio en la piel, como enrojecimiento o nódulos?  
+36. Paciente: No, nada diferente en la piel.  
+37. Médico: Perfecto. Ahora voy a examinar sus manos y otras articulaciones. ¿Puede decirme si algo le duele al tocarlo?  
+38. Paciente: Sí, se siente sensible, especialmente alrededor de los nudillos.  
+39. Médico: Veo que hay algo de hinchazón e inflamación aquí, en las muñecas también.  
+40. Paciente: Sí, es bastante molesto.  
+41. Médico: ¿Por casualidad ha notado alguna deformidad en sus dedos o manos?  
+42. Paciente: No, todavía no he visto nada raro que parezca una deformidad.  
+43. Médico: Muy bien. En este momento, parece que podría tratarse de un problema inflamatorio en las articulaciones. Quiero realizar algunos análisis de sangre y radiografías para entender mejor.  
+44. Paciente: Está bien, lo que sea necesario.  
+45. Médico: Los análisis incluirán pruebas para medir la inflamación y buscar ciertos anticuerpos específicos relacionados con enfermedades autoinmunes.  
+46. Paciente: Entiendo, ¿tardará mucho en obtener los resultados?  
+47. Médico: En unos pocos días deberíamos tener información suficiente. ¿Tiene alguna pregunta o preocupación mientras tanto?  
+48. Paciente: No, solo quiero saber qué es exactamente lo que tengo.  
+49. Médico: Con base en su historia y los signos clínicos, hay sospecha de una enfermedad inflamatoria como la artritis reumatoide, pero confirmaremos con los análisis.  
+50. Paciente: Gracias, doctor. Me tranquiliza saber que estamos investigando."

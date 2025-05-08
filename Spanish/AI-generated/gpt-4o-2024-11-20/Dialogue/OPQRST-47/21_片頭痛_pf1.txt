@@ -1,0 +1,51 @@
+"1. Médico: Buenas tardes, ¿qué la trae hoy por aquí?  
+2. Paciente: Buenas tardes, doctor. Tengo un dolor de cabeza muy fuerte en un lado, especialmente en la frente y la sien izquierda.  
+3. Médico: Entiendo. ¿Desde cuándo comenzó el dolor?  
+4. Paciente: Hace unas seis horas.  
+5. Médico: ¿Podría describirme cómo es el dolor?  
+6. Paciente: Es como si palpitara, me duele mucho, diría que un 8 de 10 en intensidad.  
+7. Médico: ¿Este tipo de dolor de cabeza lo ha tenido antes?  
+8. Paciente: Sí, me pasa unas dos o tres veces al mes.  
+9. Médico: ¿Recuerda desde cuándo ha tenido estos episodios?  
+10. Paciente: Desde que era adolescente, pero últimamente han sido más frecuentes.  
+11. Médico: ¿Qué siente además del dolor?  
+12. Paciente: Me siento muy mareada y con ganas de vomitar. Las luces me molestan mucho, igual que los ruidos fuertes.  
+13. Médico: ¿Cuando comienza el dolor siente algún síntoma antes? Tal vez luces o manchas en la visión.  
+14. Paciente: No, nunca noto nada antes, el dolor aparece de repente.  
+15. Médico: ¿Ha tenido fiebre o algo más fuera de lo común últimamente?  
+16. Paciente: No, doctor, nada de eso.  
+17. Médico: ¿Y ha notado cambios en su fuerza, en cómo camina o siente alguna parte del cuerpo?  
+18. Paciente: No, todo normal en ese sentido.  
+19. Médico: Antes de este episodio, ¿ha tenido estrés, falta de sueño o algo que le parezca que lo pueda desencadenar?  
+20. Paciente: Sí, he tenido mucho trabajo y estos días no he dormido bien.  
+21. Médico: ¿Toma algo para estos dolores cuando aparecen?  
+22. Paciente: A veces ibuprofeno, pero no siempre me ayuda.  
+23. Médico: Esto es importante. ¿El dolor siempre se siente en el mismo lado?  
+24. Paciente: Sí, siempre es más o menos en el mismo lado izquierdo.  
+25. Médico: ¿Le ha impedido trabajar o realizar sus actividades diarias?  
+26. Paciente: Sí, hoy tuve que salir del trabajo porque no podía concentrarme por el dolor.  
+27. Médico: ¿Hay alguien más en su familia que padezca dolores de cabeza como estos?  
+28. Paciente: Mi madre también tenía algo parecido, pero no tan frecuente como yo.  
+29. Médico: ¿Últimamente ha notado que los episodios sean más intensos o diferentes en algo?  
+30. Paciente: Son similares de intensidad, pero sí me parece que están siendo más seguidos.  
+31. Médico: Viendo su historial, me menciona que le diagnosticaron migraña, ¿esto fue confirmado por algún médico?  
+32. Paciente: Sí, cuando era más joven, me dijeron que eran migrañas.  
+33. Médico: ¿Le realizaron estudios en ese momento?  
+34. Paciente: Creo que sólo unos análisis, pero no lo recuerdo bien.  
+35. Médico: Ahora que estamos aquí, ¿estaría dispuesta a realizar algunos estudios para confirmar que no hay otra causa para sus dolores?  
+36. Paciente: Sí, claro, lo que sea necesario.  
+37. Médico: Muy bien, ¿ha tenido algún desmayo o pérdida de conciencia relacionada con estos episodios?  
+38. Paciente: No, nunca.  
+39. Médico: Cuando aparece el dolor, ¿nota si mejora al acostarse en un lugar oscuro y tranquilo?  
+40. Paciente: Sí, así es, eso me ayuda bastante.  
+41. Médico: ¿Le han dicho que tiene algún problema con su presión arterial o alguna otra condición médica?  
+42. Paciente: No, doctor, siempre me dicen que es normal.  
+43. Médico: ¿Cómo está su alimentación últimamente?  
+44. Paciente: Regular, con el trabajo a veces me salto comidas.  
+45. Médico: Lo entiendo. ¿Recuerda si los episodios son más frecuentes o fuertes en ciertas fechas?  
+46. Paciente: Sí, creo que es cuando estoy muy estresada o no he dormido bien.  
+47. Médico: Vamos a realizar algunos estudios para descartar otras causas y verificar cómo están sus parámetros generales.  
+48. Paciente: De acuerdo, ¿cree que pueda ser algo grave?  
+49. Médico: No parece grave, pero debemos estar seguros. Le voy a indicar un tratamiento para aliviar este dolor actual.  
+50. Paciente: Muchas gracias, doctor. Confío en lo que me diga.
+"

@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, señor. ¿En qué puedo ayudarle hoy?  
+2. Paciente: Buenas tardes, doctor. Vengo porque he notado varios cambios en mi cuerpo estos últimos meses.  
+3. Médico: Entendido. ¿Qué tipo de cambios ha notado?  
+4. Paciente: Pues, mi cara se ha vuelto más redonda y he subido de peso bastante, sobre todo en el tronco.  
+5. Médico: ¿Cuánto tiempo lleva experimentando estos cambios?  
+6. Paciente: Más o menos unos seis meses.  
+7. Médico: Además del aumento de peso, ¿ha tenido otros síntomas?  
+8. Paciente: Sí, me siento muy cansado y me cuesta mover los brazos y las piernas, como si no tuviera fuerza.  
+9. Médico: ¿La debilidad es más notable al subir escaleras o al levantarse de una silla?  
+10. Paciente: Sí, justo eso. Subir escaleras es muy difícil para mí.  
+11. Médico: ¿Ha notado algún cambio en su piel?  
+12. Paciente: Sí, me aparecen moretones fácilmente, aunque no me golpee.  
+13. Médico: ¿Algo más con respecto a la piel? ¿Estrías, manchas?  
+14. Paciente: Tengo unas líneas grandes y moradas en el abdomen y los muslos.  
+15. Médico: ¿Y su presión arterial? ¿Le han dicho recientemente que esté más alta de lo habitual?  
+16. Paciente: Pues, hace tiempo me dijeron que tenía hipertensión, pero últimamente no me la he medido.  
+17. Médico: ¿Está tomando algún medicamento para la hipertensión?  
+18. Paciente: Sí, tomo enalapril, 20 mg al día.  
+19. Médico: ¿Algo más? ¿Algún otro medicamento o suplemento?  
+20. Paciente: Solo metformina, porque también tengo diabetes.  
+21. Médico: ¿Cómo ha estado manejando su azúcar en sangre?  
+22. Paciente: Pues intento cuidarme, pero admito que no siempre sigo la dieta al pie de la letra.  
+23. Médico: Muy bien, ¿ha tenido dolores de cabeza o problemas de visión?  
+24. Paciente: No, nada de eso.  
+25. Médico: ¿Y cambios en su estado de ánimo, como ansiedad o depresión?  
+26. Paciente: Me siento un poco estresado últimamente, pero más que nada por todo esto que está pasando.  
+27. Médico: ¿El estrés es algo nuevo o siempre se ha sentido así?  
+28. Paciente: Creo que empeoró con estos cambios físicos.  
+29. Médico: Entendido. Hablando de su alimentación, ¿ha notado algún aumento en su apetito o antojos específicos?  
+30. Paciente: Creo que como más dulces de lo que debería últimamente.  
+31. Médico: Perfecto, gracias por compartir. ¿Hay antecedentes familiares de enfermedades hormonales o algo similar?  
+32. Paciente: No que yo sepa.  
+33. Médico: Hablando específicamente de su abdomen, ¿ha notado si tiene más grasa acumulada allí que en otras partes del cuerpo?  
+34. Paciente: Sí, mi abdomen está mucho más grande.  
+35. Médico: ¿Y sus brazos o piernas? ¿Han cambiado también?  
+36. Paciente: Sí, se ven más delgados en comparación con antes.  
+37. Médico: Interesante. ¿Ha tenido infecciones más frecuentes o heridas que tarden en sanar?  
+38. Paciente: Ahora que lo menciona, tuve una cortada pequeña en la mano que tardó semanas en sanar.  
+39. Médico: Gracias por informarme. ¿Qué tal sus niveles de energía durante el día?  
+40. Paciente: Muy bajos, siempre estoy cansado.  
+41. Médico: Entendido. ¿Ha notado alguna sensibilidad al frío o al calor?  
+42. Paciente: No, nada en particular.  
+43. Médico: ¿Qué tal su sueño? ¿Está durmiendo bien?  
+44. Paciente: No muy bien, la verdad. Me cuesta dormir a veces.  
+45. Médico: ¿Toma algún medicamento o suplemento para dormir?  
+46. Paciente: No, nada.  
+47. Médico: Gracias por toda esta información, señor. Voy a ordenar algunos exámenes de sangre y una imagen diagnóstico para entender mejor estos síntomas.  
+48. Paciente: Está bien, doctor. ¿Cree que sea algo grave?  
+49. Médico: Todavía no puedo decirlo con seguridad, pero hay indicios que sugieren que podríamos estar lidiando con un problema hormonal.  
+50. Paciente: De acuerdo, seguiré sus indicaciones.  "

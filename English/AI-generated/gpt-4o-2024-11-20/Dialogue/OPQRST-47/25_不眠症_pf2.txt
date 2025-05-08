@@ -1,0 +1,50 @@
+"1. Physician: What brings you in today?  
+2. Patient: I've been having a lot of trouble sleeping, both falling asleep and staying asleep.  
+3. Physician: How long has this been going on?  
+4. Patient: It's been about three months now, and it's getting worse.  
+5. Physician: Can you describe your sleep problems in more detail?  
+6. Patient: I wake up several times during the night, and when I wake up in the morning, I feel exhausted, like I haven’t really slept.  
+7. Physician: On average, how many hours of sleep are you getting each night?  
+8. Patient: Probably around 4 to 5 hours, even though I try to sleep more.  
+9. Physician: Do you feel like your sleep environment is comfortable and quiet enough?  
+10. Patient: Yes, I think so. I don’t think it’s the environment causing this.  
+11. Physician: How has this affected your daily life?  
+12. Patient: I’m tired all the time, and it’s hard to concentrate at work. I’ve also been really irritable.  
+13. Physician: Have you had any sleep issues like this in the past?  
+14. Patient: No, this is the first time I’ve experienced anything like this.  
+15. Physician: Are you going through any major stress or life changes recently?  
+16. Patient: Not really. My life has been pretty stable.  
+17. Physician: Do you feel anxious about anything in particular?  
+18. Patient: Honestly, I think I’m just anxious about not being able to sleep.  
+19. Physician: Do you consume caffeine or alcohol, or use any substances that might affect your sleep?  
+20. Patient: No, I don’t drink coffee, energy drinks, or alcohol, and I don’t use any drugs.  
+21. Physician: Do you take any medications or supplements?  
+22. Patient: No, nothing regularly.  
+23. Physician: Do you nap during the day or feel the need to?  
+24. Patient: No, I avoid naps because I’m worried they’ll mess up my sleep further.  
+25. Physician: Have you experienced any changes in appetite, energy, or mood apart from the irritability?  
+26. Patient: My appetite is normal, and as for my mood, it’s just the irritability and frustration about sleep.  
+27. Physician: Do you ever wake up feeling like you stopped breathing or gasping for air?  
+28. Patient: No, that doesn’t happen.  
+29. Physician: Does anyone in your family have sleep disorders or any similar issues?  
+30. Patient: Not that I know of.  
+31. Physician: Have you had any issues like nightmares or unusual movements during sleep?  
+32. Patient: No, nothing like that.  
+33. Physician: Do you experience restlessness in your legs before bed or feel the need to move them?  
+34. Patient: Not at all. My legs feel fine.  
+35. Physician: What’s your usual bedtime routine?  
+36. Patient: I try to go to bed around 10 PM, but I end up tossing and turning. I don’t look at screens right before bed or anything like that.  
+37. Physician: Do you wake up at the same time each morning, even on weekends?  
+38. Patient: Yes, roughly around 6 AM, whether I’ve had enough sleep or not.  
+39. Physician: Have you gained or lost weight recently?  
+40. Patient: No, my weight has been pretty steady.  
+41. Physician: I’ll ask a few additional questions to rule some things out. Have you had any changes in bowel habits, thyroid issues, or tremors?  
+42. Patient: No, none of that.  
+43. Physician: Do you ever hear or see things when you’re falling asleep or waking up?  
+44. Patient: No, never.  
+45. Physician: Have you ever experienced an increased heart rate, excessive sweating, or shakiness at night?  
+46. Patient: No, my nights are just restless, nothing like that.  
+47. Physician: It sounds like your sleeping difficulties are really affecting your life. I’d like to confirm a few details from the physical exam and lab results I have.  
+48. Patient: Sure, anything to figure this out.  
+49. Physician: The exam and tests we ran don’t show any underlying physical or medical causes for these symptoms. This leads me to think you may have a condition called primary insomnia, or chronic insomnia disorder.  
+50. Patient: I see. I was worried something serious was going on. What can I do about this?  "

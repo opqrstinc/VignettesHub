@@ -1,0 +1,53 @@
+"1. Doctor: Good morning, how are you feeling today?  
+2. Patient: Not great, I’ve been feeling really tired and feverish for the past few days.  
+3. Doctor: I’m sorry to hear that. How long exactly have you had the fever?  
+4. Patient: It’s been about five days now.  
+5. Doctor: Has the fever been constant or does it come and go?  
+6. Patient: It comes and goes, but it feels pretty high when it’s there.  
+7. Doctor: Have you noticed any other symptoms along with the fever?  
+8. Patient: Yes, I have a really sore throat and it's hard to swallow.  
+9. Doctor: Does the sore throat feel like it’s getting worse?  
+10. Patient: Definitely worse. My neck also feels swollen.  
+11. Doctor: I see. Have you had any recent cough, runny nose, or nasal congestion?  
+12. Patient: No, none of those.  
+13. Doctor: Have you noticed any rashes or skin changes?  
+14. Patient: No, my skin looks normal.  
+15. Doctor: Do you have any trouble breathing or any wheezing?  
+16. Patient: No, my breathing has been fine so far.  
+17. Doctor: How about chills or sweating at night?  
+18. Patient: Yes, I’ve been sweating quite a bit at night.  
+19. Doctor: Do you have any previous history of these types of symptoms?  
+20. Patient: No, this is the first time something like this has happened.  
+21. Doctor: Have you recently traveled or been in contact with anyone who’s been sick?  
+22. Patient: No, I haven’t traveled, and I don’t know anyone who’s been sick.  
+23. Doctor: Any pets or contact with animals recently?  
+24. Patient: No, I don’t have pets and haven’t been around animals.  
+25. Doctor: Have you been taking any medications or supplements?  
+26. Patient: No, I don’t take anything regularly.  
+27. Doctor: Do you smoke or drink alcohol?  
+28. Patient: I don’t smoke, but I drink occasionally, maybe one or two drinks a week.  
+29. Doctor: Any allergies to medications or foods that you’re aware of?  
+30. Patient: No, I don’t have any known allergies.  
+31. Doctor: Let’s talk about your daily life. Have you been able to work or attend school during this time?  
+32. Patient: No, I’ve been too tired to do much of anything. I’ve been staying home.  
+33. Doctor: I see. How bad is the fatigue? Is it preventing you from daily activities?  
+34. Patient: Yeah, it’s pretty bad. I just want to sleep all the time.  
+35. Doctor: When you try to eat or drink, is swallowing very painful, or just uncomfortable?  
+36. Patient: It’s painful, especially when I try solid food.  
+37. Doctor: Have you felt any lumps or swelling in your neck?  
+38. Patient: Yes, my neck feels swollen, and it’s tender when I touch it.  
+39. Doctor: Does the swelling feel soft or firm?  
+40. Patient: It feels firm, I think.  
+41. Doctor: Have you noticed any swelling or pain in other areas, like your abdomen?  
+42. Patient: Now that you mention it, I’ve noticed some discomfort in my stomach area, but I thought it was just from lying down so much.  
+43. Doctor: That’s helpful to know. Did you feel like your abdomen felt bigger than usual?  
+44. Patient: I haven’t really checked, but maybe. It’s not very obvious.  
+45. Doctor: Let me ask about your appetite. Have you been able to eat and drink normally?  
+46. Patient: Not really, I’ve barely eaten the past couple of days because of the pain in my throat.  
+47. Doctor: How about fever medication? Have you tried anything like acetaminophen or ibuprofen?  
+48. Patient: I’ve taken acetaminophen a couple of times, and that seems to help a little.  
+49. Doctor: Has anyone else in your household been feeling unwell?  
+50. Patient: No, it’s just me.  
+51. Doctor: Based on what you’ve told me and what I’ve observed, I suspect you might have infectious mononucleosis, caused by the Epstein-Barr virus. Does that sound familiar?  
+52. Patient: Not really. What is that?  
+53. Doctor: It’s a viral infection often called “mono” or the “kissing disease.” It explains your fever, sore throat, fatigue, and swollen lymph nodes. Further testing and supportive care can help manage it. Let's confirm this diagnosis with some lab work.  "

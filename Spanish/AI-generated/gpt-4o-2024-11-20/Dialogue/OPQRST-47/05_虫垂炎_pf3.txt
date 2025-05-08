@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, señor. ¿Qué lo trae por aquí hoy?  
+2. Paciente: Buenas tardes, doctor. Tengo un dolor en el lado derecho del abdomen que comenzó ayer y ha ido empeorando.  
+3. Médico: Entiendo. ¿Puede señalarme exactamente dónde siente el dolor?  
+4. Paciente: Sí, es aquí, en la parte baja del lado derecho.  
+5. Médico: ¿Cómo describiría el dolor? ¿Es agudo, sordo o punzante?  
+6. Paciente: Es un dolor constante, más bien agudo.  
+7. Médico: ¿Cuánto diría que le duele, si tuviera que calificarlo del 1 al 10?  
+8. Paciente: Diría que tal vez un 7 ahora mismo.  
+9. Médico: ¿Ha notado si el dolor empeora o mejora en ciertas posiciones o al moverse?  
+10. Paciente: Sí, parece que empeora cuando intento moverme o al levantarme.  
+11. Médico: ¿Ha tenido algún otro síntoma, como fiebre, náuseas, vómitos o diarrea?  
+12. Paciente: Fiebre no creo, pero desde que empezó el dolor no he tenido apetito. No he vomitado ni he tenido diarrea.  
+13. Médico: ¿Alguna vez ha tenido un dolor similar antes?  
+14. Paciente: No, nunca he sentido algo como esto.  
+15. Médico: ¿Ha tenido alguna cirugía o problema médico importante en el pasado?  
+16. Paciente: No, solo tomo un medicamento para la presión, enalapril.  
+17. Médico: ¿Algún problema con ese medicamento o con su presión arterial últimamente?  
+18. Paciente: No, todo ha estado bajo control con la pastilla diaria.  
+19. Médico: ¿Algún antecedente de enfermedades digestivas o problemas renales?  
+20. Paciente: No, nada de eso.  
+21. Médico: ¿Ha estado en contacto con alguien enfermo recientemente o viajado a algún lado?  
+22. Paciente: No, he estado en casa y trabajando como siempre.  
+23. Médico: ¿El dolor comenzó de repente o fue aumentando poco a poco?  
+24. Paciente: Al principio era leve, pero fue haciéndose más fuerte con las horas.  
+25. Médico: Importante. ¿El dolor se ha movido o siempre ha estado en el mismo lugar?  
+26. Paciente: Comenzó más difuso, pero ahora es solo en este punto.  
+27. Médico: Muy bien. Permítame hacerle unas preguntas más. ¿Ha tenido problemas para orinar, como dolor o sangre en la orina?  
+28. Paciente: No, no he tenido ningún problema al orinar.  
+29. Médico: ¿Ha tenido relaciones sexuales recientemente o algún problema en esa área?  
+30. Paciente: No, ninguna dificultad ni cambios.  
+31. Médico: Bueno, vamos a revisarlo más a fondo. Me permite hacer un examen físico. ¿Le molesta cuando toco en esta área del abdomen?  
+32. Paciente: Sí, eso duele bastante. Justo ahí.  
+33. Médico: Ahora intentaré presionar suavemente y soltar rápido. Avíseme si siente algo distinto...  
+34. Paciente: Sí, eso también duele, pero más al presionar que al soltar.  
+35. Médico: Gracias. No parece haber rebote significativo fuera de esta área. ¿El dolor se irradia hacia algún otro lado?  
+36. Paciente: No, es solo en ese punto.  
+37. Médico: Está bien. Según lo que me dice, vamos a hacer unos análisis de laboratorio y probablemente una imagen del abdomen para confirmar la causa del dolor. ¿Está de acuerdo?  
+38. Paciente: Claro, lo que sea necesario, doctor.  
+39. Médico: Perfecto. ¿Hay algo más que crea que deba saber?  
+40. Paciente: No, creo que ya le conté todo.  
+41. Médico: Muy bien. Con base en los análisis y la ecografía, parece que tiene una apendicitis. Su apéndice está inflamado.  
+42. Paciente: ¿Y eso qué implica, doctor?  
+43. Médico: Es una inflamación que usualmente requiere cirugía para remover el apéndice. Es un procedimiento común y bastante seguro.  
+44. Paciente: ¿Cirugía? ¿Es urgente?  
+45. Médico: Sí, porque no tratarlo podría llevar a complicaciones, como una perforación del apéndice.  
+46. Paciente: Entiendo. ¿Cuánto tiempo tardará la recuperación?  
+47. Médico: Generalmente, es rápido. Unos días en el hospital para observar que todo evolucione bien.  
+48. Paciente: Bueno, confío en usted.  
+49. Médico: Gracias. Vamos a comenzar con los antibióticos y coordinar la cirugía de inmediato.  
+50. Paciente: De acuerdo, doctor. Espero que todo salga bien."

@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, ¿cómo estás hoy?  
+2. Paciente: Hola doctor, he estado teniendo problemas para respirar últimamente.  
+3. Médico: Cuéntame un poco más, ¿desde cuándo estás sintiendo estas dificultades?  
+4. Paciente: Desde hace unos 3 meses.  
+5. Médico: ¿Cómo describirías las dificultades para respirar?  
+6. Paciente: A veces siento que no puedo llenar mis pulmones bien, sobre todo por las noches.  
+7. Médico: Entiendo. ¿Has notado algo que empeore estos síntomas?  
+8. Paciente: Sí, cuando estoy en lugares con polvo o polen, o cuando hace mucho frío.  
+9. Médico: ¿Tienes tos o escuchas algún sonido extraño al respirar?  
+10. Paciente: Sí, tengo mucha tos y suenan unos silbidos cuando respiro fuerte.  
+11. Médico: ¿La tos es más frecuente en algún momento del día?  
+12. Paciente: Sí, sobre todo por las noches.  
+13. Médico: ¿Te despiertas debido a estos síntomas?  
+14. Paciente: Sí, varias veces me he despertado porque no puedo respirar bien.  
+15. Médico: ¿Has sentido algo parecido antes?  
+16. Paciente: Cuando era niño, me dijeron que tenía asma, pero pensé que ya se me había quitado.  
+17. Médico: Ya veo. ¿Tienes alguna otra enfermedad o estás tomando algún medicamento actualmente?  
+18. Paciente: No, no tomo nada.  
+19. Médico: ¿Hay alguien en tu familia con problemas respiratorios?  
+20. Paciente: Sí, mi mamá tiene asma.  
+21. Médico: ¿En casa hay alguien que fume?  
+22. Paciente: No, nadie fuma.  
+23. Médico: Muy bien. Aparte del polvo, los pólenes y el frío, ¿algo más que te haga sentir peor?  
+24. Paciente: No, creo que solo eso.  
+25. Médico: ¿Tienes mascotas en casa?  
+26. Paciente: No, no tengo mascotas.  
+27. Médico: ¿Cómo te afecta esto en tu vida diaria?  
+28. Paciente: Me cuesta hacer ejercicio y a veces me da miedo quedarme solo por la noche.  
+29. Médico: Entiendo. Ahora, durante mi revisión, escuché algunos silbidos al respirar. ¿Esto lo notas seguido?  
+30. Paciente: Sí, casi siempre cuando me siento mal.  
+31. Médico: ¿Has intentado algún medicamento o remedio para esto?  
+32. Paciente: No, no he tomado nada.  
+33. Médico: Voy a hacerte otra pregunta, ¿te falta mucho el aire cuando estás tranquilo o solo cuando haces esfuerzo?  
+34. Paciente: Sobre todo cuando camino rápido o subo escaleras, pero a veces incluso cuando estoy tranquilo.  
+35. Médico: Vamos a hablar un poco más. ¿Has notado que te sudan las manos o que te pongas muy nervioso cuando pasa esto?  
+36. Paciente: Sí, me pongo nervioso cuando pienso que no voy a poder respirar.  
+37. Médico: Lo entiendo. Durante este tiempo, ¿has tenido fiebre, dolor en el pecho o escalofríos?  
+38. Paciente: No, nada de eso.  
+39. Médico: Está claro que tu caso tiene ciertos puntos que debemos evaluar. Voy a mandar a hacer unas pruebas de función pulmonar para confirmar lo que sospechamos.  
+40. Paciente: Está bien, doctor, lo que sea necesario.  
+41. Médico: Gracias por tu disposición. También quiero hacer unos exámenes de alergia para identificar si algo más está contribuyendo a los síntomas.  
+42. Paciente: Suena bien, quiero saber qué está pasando.  
+43. Médico: En la auscultación veo que tienes silbidos, especialmente al exhalar. Esto sugiere una obstrucción en las vías aéreas.  
+44. Paciente: ¿Eso es grave?  
+45. Médico: No tiene por qué serlo si lo tratamos a tiempo, así podemos evitar complicaciones.  
+46. Paciente: Gracias, doctor, eso me alivia un poco.  
+47. Médico: Hemos revisado los resultados y confirman que tienes asma alérgica. Esto explica tus síntomas.  
+48. Paciente: Oh, entonces sí es asma. ¿Qué debo hacer?  
+49. Médico: Vamos a empezar con un tratamiento que incluye salbutamol como inhalador de rescate y budesonida/formoterol para un control diario.  
+50. Paciente: Muchas gracias, doctor. Me aseguraré de seguir todo al pie de la letra.  "

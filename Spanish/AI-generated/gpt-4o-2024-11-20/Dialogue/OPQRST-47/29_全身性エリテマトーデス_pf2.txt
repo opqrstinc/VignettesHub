@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes. ¿Cómo te encuentras hoy?  
+2. Paciente: Hola, doctora. No muy bien, sigo sintiéndome cansada y con algunas molestias.  
+3. Médico: Entiendo. ¿Puedes contarme qué ha estado pasando últimamente?  
+4. Paciente: Claro. Hace unas dos semanas comencé con fiebre de vez en cuando, además me duelen las manos y me salió una erupción en la cara.  
+5. Médico: ¿Qué tipo de fiebre has tenido? ¿Sabes más o menos cuánto sube la temperatura?  
+6. Paciente: No lo he medido siempre, pero cuando lo hice llegó hasta 38.5 grados.  
+7. Médico: ¿Cómo es el dolor en las manos? ¿Lo sientes todo el tiempo o solo en momentos específicos?  
+8. Paciente: Me duelen al moverlas, sobre todo en las mañanas. Es como si estuvieran rígidas.  
+9. Médico: ¿Y la erupción en tu cara? ¿Dónde apareció exactamente?  
+10. Paciente: Comenzó en las mejillas, como una mancha roja, y se parece a unas alas de mariposa. Después noté que también tenía en el cuello y en las manos.  
+11. Médico: ¿Esa erupción te pica o duele?  
+12. Paciente: No pica ni duele, pero me molesta cómo se ve.  
+13. Médico: ¿Has notado si se pone peor con el sol o cuando estás al aire libre?  
+14. Paciente: Sí, parece que se pone más roja cuando salgo al sol.  
+15. Médico: Entiendo. ¿Has tenido además otros síntomas como cansancio o falta de energía?  
+16. Paciente: Sí, doctora, me siento cansada todo el tiempo, como si no descansara bien.  
+17. Médico: ¿Qué hay de úlceras o heridas dentro de la boca? ¿Has notado algo fuera de lo normal?  
+18. Paciente: No, no he tenido nada en la boca.  
+19. Médico: ¿Has notado hinchazón o enrojecimiento en las articulaciones?  
+20. Paciente: Me duelen mucho, pero no creo que estén hinchadas o rojas.  
+21. Médico: ¿Tuviste alguna enfermedad o algo fuera de lo normal antes de que empezaras con estos síntomas?  
+22. Paciente: No, estaba bien antes de que todo esto empezara.  
+23. Médico: ¿Tienes antecedentes de enfermedades en la familia, como problemas autoinmunes?  
+24. Paciente: No que yo sepa, mi familia está sana.  
+25. Médico: ¿Qué hay de medicamentos? ¿Tomas algo habitualmente?  
+26. Paciente: No, no estoy tomando nada, ni siquiera vitaminas.  
+27. Médico: En cuanto al cansancio, ¿es algo que sientes solo durante el día o también durante la noche?  
+28. Paciente: Lo siento todo el día, incluso si duermo muchas horas.  
+29. Médico: ¿Has notado pérdida de peso o pérdida del apetito?  
+30. Paciente: Tal vez he perdido algo de peso, pero no he estado revisándolo. Mi apetito sigue igual.  
+31. Médico: ¿Qué tan frecuente es la fiebre? ¿Es todos los días?  
+32. Paciente: No, viene y va. No la tengo siempre.  
+33. Médico: Mencionaste que la erupción está en las mejillas, el cuello y las manos. ¿En qué otras partes del cuerpo has notado manchas o erupciones?  
+34. Paciente: No, solo en esas partes hasta ahora.  
+35. Médico: ¿Has tenido otros dolores, por ejemplo, en las piernas o los pies?  
+36. Paciente: No, esos no me han dolido, solo las manos.  
+37. Médico: ¿Cómo están tus actividades diarias? ¿Has podido seguir tu rutina normal?  
+38. Paciente: No, me cuesta mucho. Estoy cansada todo el tiempo y el dolor no ayuda.  
+39. Médico: ¿Tomas suficiente agua y comes adecuadamente?  
+40. Paciente: Sí, como bien y tomo agua, aunque siento que no mejora mi cansancio.  
+41. Médico: ¿Te sientes decaída emocionalmente por los síntomas?  
+42. Paciente: Algo, porque es frustrante no entender qué me está pasando.  
+43. Médico: Vamos a revisar los análisis y explorar un poco más. Tus pruebas indican algunos valores anormales, como inflamación y afectaciones en el sistema inmunológico.  
+44. Paciente: ¿Qué significa eso? ¿Es algo grave?  
+45. Médico: Parece que tu sistema inmunológico está alterado y atacando a tu propio cuerpo. Esto explica tus síntomas.  
+46. Paciente: ¿Y qué puede estar causando esto?  
+47. Médico: Según los resultados, creo que tienes una condición llamada lupus eritematoso sistémico.  
+48. Paciente: ¿Lupus? ¿Qué es eso?  
+49. Médico: Es una enfermedad autoinmune donde tu sistema inmunológico ataca tejidos sanos, causando inflamación y los síntomas que tienes.  
+50. Paciente: ¿Tiene tratamiento? ¿Voy a mejorar?"

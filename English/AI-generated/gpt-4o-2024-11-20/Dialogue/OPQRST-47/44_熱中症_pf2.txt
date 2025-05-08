@@ -1,0 +1,50 @@
+"1. 医師：Hello, I’m Dr. Smith. What brings you to the emergency department today?  
+2. 患者：Hi, doctor. I’ve been feeling really sick. I have a headache, feel very tired, and nauseous.  
+3. 医師：When did these symptoms start?  
+4. 患者：About five hours ago.  
+5. 医師：What were you doing before the symptoms started?  
+6. 患者：I was outside doing some physical activities in the sun for several hours.  
+7. 医師：Were you in a shaded area at all?  
+8. 患者：No, there was no shade. It was really hot and humid.  
+9. 医師：Did you drink water or any fluids during that time?  
+10. 患者：Not much. I only sipped a little water here and there.  
+11. 医師：Have you vomited since your symptoms started?  
+12. 患者：Yes, a few times.  
+13. 医師：Have you ever experienced something like this before?  
+14. 患者：No, this has never happened to me before.  
+15. 医師：Do you have any chronic medical conditions like diabetes, high blood pressure, or heart disease?  
+16. 患者：No, I’m generally healthy.  
+17. 医師：Have you been sick recently, like with a fever or cold?  
+18. 患者：No, I’ve been fine until today.  
+19. 医師：Were you taking any medications or supplements before this started?  
+20. 患者：Not at all.  
+21. 医師：Can you describe your headache? Is it a sharp or dull pain, and where does it hurt?  
+22. 患者：It’s more like a dull ache, all over my head.  
+23. 医師：Do you feel dizzy or lightheaded?  
+24. 患者：Yes, I feel a little dizzy when I stand up.  
+25. 医師：Have you noticed sweating more than usual or feeling flushed?  
+26. 患者：Yes, I was sweating a lot earlier, and my skin feels really warm.  
+27. 医師：Is your vision blurry or do you have any other unusual sensations?  
+28. 患者：No, my vision is fine.  
+29. 医師：How about muscle cramps or weakness?  
+30. 患者：No cramps, but I feel really weak and tired.  
+31. 医師：Do you feel short of breath?  
+32. 患者：Not really, but I’m breathing faster than usual.  
+33. 医師：What about any pain in your chest or irregular heartbeats?  
+34. 患者：No chest pain or anything like that.  
+35. 医師：Have you noticed if your urine has been darker or less frequent today?  
+36. 患者：Yes, it’s been darker and I haven’t urinated much.  
+37. 医師：Did you notice any rash or unusual spots on your skin?  
+38. 患者：No, just my skin feels very hot and flushed.  
+39. 医師：Do you recall exactly how long you were outdoors in the heat?  
+40. 患者：I think it was about five or six hours.  
+41. 医師：What kind of activities were you doing?  
+42. 患者：I was helping with yard work, like mowing the lawn and gardening.  
+43. 医師：How hot was it outside?  
+44. 患者：I’m not sure of the temperature, but it felt extremely hot and humid.  
+45. 医師：When did you notice the symptoms starting—during the activity or afterward?  
+46. 患者：It was toward the end of the activity and got worse after I stopped.  
+47. 医師：Do you remember feeling thirsty at all during that time?  
+48. 患者：Yes, but I didn’t take many breaks to drink water.  
+49. 医師：Based on your symptoms and what you’ve told me, it seems like you may be experiencing heat stroke.  
+50. 患者：Heat stroke? I’ve heard of that, but I didn’t think it could happen to me."

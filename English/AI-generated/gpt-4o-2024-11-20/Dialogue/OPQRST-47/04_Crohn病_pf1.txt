@@ -1,0 +1,51 @@
+"1. Physician: Hello, how can I help you today?  
+2. Patient: I've been having abdominal pain and diarrhea for a few months now.  
+3. Physician: Can you describe the pain? Is it sharp or crampy?  
+4. Patient: It feels crampy, and it comes and goes.  
+5. Physician: How long have you been experiencing this pain?  
+6. Patient: About three months.  
+7. Physician: How often are you having diarrhea?  
+8. Patient: Lately, it's been up to six times a day.  
+9. Physician: Is there any blood in your diarrhea?  
+10. Patient: No, I haven't noticed any blood.  
+11. Physician: Do you experience diarrhea at night?  
+12. Patient: Yes, sometimes I wake up needing to go to the bathroom.  
+13. Physician: Have you had any fevers or vomiting?  
+14. Patient: No, none of that.  
+15. Physician: Have you recently lost any weight?  
+16. Patient: Yes, I’ve lost about 5 kilograms in the past few months.  
+17. Physician: Have you been feeling more tired than usual?  
+18. Patient: Yes, I feel tired a lot lately.  
+19. Physician: Do you get any pain or discomfort after eating?  
+20. Patient: Yes, I usually feel worse after meals.  
+21. Physician: Have you been traveling recently?  
+22. Patient: No, I haven’t been anywhere lately.  
+23. Physician: Are you taking any medication, like NSAIDs or antibiotics?  
+24. Patient: No, I’m not taking any medication.  
+25. Physician: Do you have any history of gastrointestinal diseases?  
+26. Patient: No, I’ve never had any major health issues before.  
+27. Physician: How about your family? Any history of gastrointestinal diseases or cancers?  
+28. Patient: No, not that I know of.  
+29. Physician: Have you noticed any changes in your appetite?  
+30. Patient: My appetite has been okay, but I eat less because of the pain afterwards.  
+31. Physician: When you feel the abdominal pain, is it localized to a specific part of your abdomen?  
+32. Patient: It's mostly on the right side, in the lower part of my belly.  
+33. Physician: Do you notice any relief from the pain after having a bowel movement?  
+34. Patient: Sometimes, but not always.  
+35. Physician: Have you had any problems with constipation?  
+36. Patient: No, it's mostly just diarrhea.  
+37. Physician: Have you experienced any joint pain, skin rashes, or issues like mouth sores?  
+38. Patient: No, I haven’t had any of those.  
+39. Physician: Do you feel bloated or notice any changes in your abdomen, like swelling?  
+40. Patient: Yes, I feel bloated sometimes, and my stomach feels kind of full.  
+41. Physician: When was the last time you had a normal bowel movement?  
+42. Patient: It’s been quite a while—probably three months ago.  
+43. Physician: Do you have any nausea or feeling of wanting to vomit?  
+44. Patient: No, none of that.  
+45. Physician: Are you able to continue your daily activities despite the fatigue?  
+46. Patient: I try, but the fatigue makes it hard, and I often need to rest during the day.  
+47. Physician: Do you eat a regular diet?  
+48. Patient: Yes, but I’ve been avoiding certain foods lately because they seem to make the pain worse.  
+49. Physician: What types of food make the pain worse?  
+50. Patient: Mostly heavy or greasy meals, so I stick to lighter meals now.  
+51. Physician: Based on your symptoms and exam findings, I suspect this might be an inflammatory bowel disease like Crohn's disease. We need further tests to confirm this diagnosis."

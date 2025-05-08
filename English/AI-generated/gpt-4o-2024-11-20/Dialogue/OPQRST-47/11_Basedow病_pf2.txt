@@ -1,0 +1,55 @@
+"1. 医師：What brings you in today?  
+2. 患者：I've been losing a lot of weight unintentionally, about 7 kilograms in the past two months.  
+3. 医師：That's quite significant. Have you also experienced any changes in appetite?  
+4. 患者：Not really, my appetite is the same, maybe even a little more than usual.  
+5. 医師：Apart from the weight loss, have you noticed any other changes?  
+6. 患者：Yes, I've been feeling extremely tired and sweaty all the time.  
+7. 医師：Could you describe what you mean by ""sweaty""?  
+8. 患者：I sweat a lot, even when it's not hot, and I feel uncomfortable in warm environments.  
+9. 医師：Do you experience palpitations or an increased heart rate?  
+10. 患者：Yes, I feel like my heart is racing sometimes, especially when I'm sitting still.  
+11. 医師：How about your mood? Have you felt more anxious or restless?  
+12. 患者：Yes, very restless, and I sometimes feel irritable for no real reason.  
+13. 医師：Has this been affecting your daily life or work?  
+14. 患者：Yes, it's hard to concentrate, and my productivity at work has dropped.  
+15. 医師：Have you noticed any changes in your vision or eyes?  
+16. 患者：Actually, yes. My eyes feel puffy, and my coworkers said they look a bit bulgy.  
+17. 医師：Have you had any recent infections or illnesses?  
+18. 患者：No, none that I can think of.  
+19. 医師：And how about any significant stress or life changes recently?  
+20. 患者：Not really, everything's been normal.  
+21. 医師：Any fever, chills, or night sweats?  
+22. 患者：No fever or chills, but I wake up sweaty sometimes.  
+23. 医師：Do you have a history of any medical conditions?  
+24. 患者：I have type 2 diabetes, and I take metformin twice a day for it.  
+25. 医師：Any family history of medical issues?  
+26. 患者：Yes, my mom had thyroid problems, but I’m not sure about the details.  
+27. 医師：Do you smoke cigarettes or drink alcohol?  
+28. 患者：No smoking or drinking.  
+29. 医師：That’s good to hear. What about any recent changes in your medications?  
+30. 患者：No changes; I’ve just been taking metformin as usual.  
+31. 医師：Would it be okay if I examine your neck and take a closer look at your eyes?  
+32. 患者：Sure, go ahead.  
+33. 医師：Your thyroid feels slightly enlarged but not painful. Have you noticed any swelling there?  
+34. 患者：No, I didn’t notice anything myself.  
+35. 医師：Your eyes do appear a bit prominent. Do you have any discomfort or double vision?  
+36. 患者：No double vision, but sometimes my eyes feel dry or irritated.  
+37. 医師：Do you have any shakiness or tremors in your hands?  
+38. 患者：Now that you mention it, yes, my hands have been trembling a bit lately.  
+39. 医師：How about muscle strength? Do you feel weaker than usual?  
+40. 患者：Yes, especially when trying to lift heavy things or climb stairs.  
+41. 医師：I’ll also check your heart rate. It’s a bit high and irregular. Have you noticed this before?  
+42. 患者：Yes, sometimes I feel like my heart skips a beat or flutters.  
+43. 医師：Your skin feels very warm and moist. Is this something new for you?  
+44. 患者：Yes, I haven’t had this before.  
+45. 医師：We’ll need to run some blood tests and imaging to check your thyroid function.  
+46. 患者：Alright, anything to figure out what's going on.  
+47. 医師：Have you had any thyroid issues in the past, or is this the first time?  
+48. 患者：No, this is the first time anything like this has happened.  
+49. 医師：Based on what you’ve described and my exam, this could be related to your thyroid.  
+50. 患者：I see. What kind of problem could it be?  
+51. 医師：The symptoms and test results strongly suggest that you have Graves' disease, which is causing an overactive thyroid.  
+52. 患者：Graves' disease? What exactly is that?  
+53. 医師：It's a condition where your immune system causes your thyroid to produce too much hormone, leading to symptoms like weight loss, sweating, and palpitations.  
+54. 患者：That explains a lot. What can we do about it?  
+55. 医師：We’ll start treatment to lower your thyroid hormone levels and manage the other symptoms effectively."

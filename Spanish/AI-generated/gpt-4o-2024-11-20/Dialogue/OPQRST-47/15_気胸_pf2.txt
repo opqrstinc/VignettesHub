@@ -1,0 +1,51 @@
+"1. Médico: Buenas tardes, señora. ¿Qué la trae hoy a consulta?  
+2. Paciente: Buenas tardes, doctor. He tenido un dolor fuerte en el pecho del lado izquierdo y me cuesta respirar.  
+3. Médico: Entiendo, ¿cuándo comenzó ese dolor?  
+4. Paciente: Hoy en la mañana, estaba haciendo tareas en casa y de repente comenzó.  
+5. Médico: ¿Fue un comienzo súbito o comenzó despacio?  
+6. Paciente: Fue de golpe, doctor, y no ha mejorado desde entonces.  
+7. Médico: ¿Me puede describir el dolor? ¿Es como una punzada, opresivo o quemante?  
+8. Paciente: Es como una punzada, sobre todo cuando intento respirar profundo.  
+9. Médico: ¿El dolor se mueve hacia algún otro sitio, como la espalda o el hombro?  
+10. Paciente: No, solamente lo siento en el lado izquierdo del pecho.  
+11. Médico: ¿Ha sentido algo parecido antes?  
+12. Paciente: No, nunca me había pasado esto.  
+13. Médico: ¿Tiene tos o fiebre últimamente?  
+14. Paciente: No, nada de eso.  
+15. Médico: ¿Algún traumatismo o caída que haya ocurrido en los últimos días?  
+16. Paciente: No, no he tenido golpes ni caídas.  
+17. Médico: ¿Le cuesta respirar más ahora que cuando empezó el dolor?  
+18. Paciente: Sí, siento que estoy mucho más agitada.  
+19. Médico: ¿Ha tenido alguna vez episodios de asma desde hace poco?  
+20. Paciente: No, tengo asma, pero hace meses no he tenido crisis.  
+21. Médico: ¿Toma medicamentos regularmente para su asma?  
+22. Paciente: Sí, uso un inhalador, pero solo si lo necesito.  
+23. Médico: ¿Ha notado algo extraño, como hinchazón en las piernas o dolor en ellas?  
+24. Paciente: No, todo está normal con mis piernas.  
+25. Médico: ¿Qué tal cuando se recuesta, el dolor empeora o mejora?  
+26. Paciente: Empeora cuando me recuesto, doctor.  
+27. Médico: ¿Fuma usted o alguien en casa fuma?  
+28. Paciente: No, ni yo ni nadie en casa fuma.  
+29. Médico: ¿Tiene otros problemas médicos aparte del asma?  
+30. Paciente: No, solo el asma y eso es todo.  
+31. Médico: ¿Qué tal su actividad diaria antes del inicio de este problema?  
+32. Paciente: Normal, hago todo en casa, nada fuera de lo común.  
+33. Médico: Veo que respira rápido. ¿Siente que está sudando más de lo normal?  
+34. Paciente: Sí, estoy un poco sudada, pero no tengo fiebre.  
+35. Médico: Entendido. ¿Ha tomado algo para el dolor antes de venir?  
+36. Paciente: No, no he tomado nada porque no sé qué tomar.  
+37. Médico: ¿Ha viajado o ido a lugares a gran altitud últimamente?  
+38. Paciente: No, no he viajado ni salido de la ciudad.  
+39. Médico: ¿Cómo describiría su fatiga? ¿Es más por falta de aire que por cansancio general?  
+40. Paciente: Sí, es por la falta de aire, no puedo respirar bien.  
+41. Médico: ¿Cuántos pasos puede dar antes de que se sienta cansada?  
+42. Paciente: Unos pocos pasos, doctor, después necesito parar.  
+43. Médico: ¿El dolor va aumentando constantemente o se mantiene igual desde que empezó?  
+44. Paciente: Se mantiene igual, pero la respiración ha empeorado.  
+45. Médico: Bien, voy a realizar una exploración física. Voy a escuchar su pecho.  
+46. Paciente: Está bien, doctor.  
+47. Médico: Parece que no puedo escuchar el flujo de aire en el lado izquierdo. También percibo un sonido más hueco al golpear el tórax.  
+48. Paciente: ¿Eso es algo grave, doctor?  
+49. Médico: Vamos a realizar una radiografía para confirmar lo que sospecho. No se preocupe, pero puede ser un neumotórax.  
+50. Paciente: ¿Qué significa eso? ¿Qué tan serio es?  
+"

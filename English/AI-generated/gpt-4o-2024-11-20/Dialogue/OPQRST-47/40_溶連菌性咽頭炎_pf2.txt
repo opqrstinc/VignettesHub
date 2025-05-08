@@ -1,0 +1,50 @@
+"1. Physician: Hi there, I’m Dr. Smith. What brings you to the clinic today?  
+2. Patient: My throat really hurts, and I’ve had a fever for a few days.  
+3. Physician: I’m sorry to hear that. When did the throat pain and fever start?  
+4. Patient: About three days ago. The sore throat just came on suddenly.  
+5. Physician: How bad is the pain? Does it hurt more when you swallow?  
+6. Patient: It’s pretty bad. Swallowing makes it much worse.  
+7. Physician: Have you had any cough or runny nose along with this?  
+8. Patient: No, not really.  
+9. Physician: What about any nausea, stomach pain, or vomiting?  
+10. Patient: None of that.  
+11. Physician: Do you feel tired or weak?  
+12. Patient: Yes, a little.  
+13. Physician: Have you noticed any rashes or changes on your skin recently?  
+14. Patient: No, nothing like that.  
+15. Physician: Has anyone in your family or school been sick like this lately?  
+16. Patient’s Parent: No, we haven’t been around anyone sick.  
+17. Physician: Any recent travel?  
+18. Patient’s Parent: No, we’ve stayed in town.  
+19. Physician: Ok, let me ask a bit more about her medical history. Has she ever had issues like this before?  
+20. Patient’s Parent: No, this is the first time she’s had such a bad sore throat.  
+21. Physician: Does she have any medical conditions or take any medications?  
+22. Patient’s Parent: No, she’s normally very healthy.  
+23. Physician: Let’s talk about her fever. How high has it gotten, and how are you measuring it?  
+24. Patient’s Parent: Yesterday it was 39.0°C, measured with a digital thermometer.  
+25. Physician: I see. Has any medicine helped with the fever?  
+26. Patient’s Parent: We gave her acetaminophen, and it brought it down a little.  
+27. Physician: I’ll take a closer look. Let me examine her throat.  
+28. Physician: I see her tonsils are very red and swollen, with white patches on them.  
+29. Patient’s Parent: Is that normal for a sore throat?  
+30. Physician: This can happen in certain infections. I also notice some red spots on the roof of her mouth.  
+31. Physician: Her neck feels a bit swollen. It seems like her lymph nodes are enlarged. Is she complaining about neck pain?  
+32. Patient: Yes, especially when anyone touches it.  
+33. Physician: Does she have any difficulty breathing or any noisy breathing?  
+34. Patient: No, I’m breathing fine.  
+35. Physician: Have her eating or drinking habits changed with the sore throat?  
+36. Patient’s Parent: She’s refusing most food because it hurts to swallow, but she’s drinking some water.  
+37. Physician: We’ll make sure she stays hydrated. I’m going to do a test now with a swab in her throat.  
+38. Patient: Will it hurt?  
+39. Physician: It might feel uncomfortable for a second, but it won’t be painful.  
+40. Physician: The test came back positive for strep throat, which is caused by bacteria called Group A Streptococcus.  
+41. Patient’s Parent: What does that mean for her?  
+42. Physician: It’s an infection in the throat, and we’ll need to treat it with antibiotics.  
+43. Patient’s Parent: Is it serious?  
+44. Physician: If untreated, it can lead to complications, but with medication, she’ll recover well.  
+45. Patient’s Parent: What medication will she need?  
+46. Physician: I’ll prescribe amoxicillin, which she’ll take twice a day for 10 days.  
+47. Patient’s Parent: Are there any side effects?  
+48. Physician: Most kids tolerate it well, but she might have mild stomach upset. Let me also give you something for her fever and pain.  
+49. Patient’s Parent: Thank you, doctor. Will she get better quickly?  
+50. Physician: With the antibiotics and some rest, she should start feeling better in about 48 hours. Let’s get started on her treatment."

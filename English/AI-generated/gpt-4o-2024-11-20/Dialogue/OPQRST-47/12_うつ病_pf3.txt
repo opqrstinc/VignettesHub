@@ -1,0 +1,50 @@
+"1. 医師: Good morning, what brings you in today?  
+2. 患者: I've been feeling unwell for a while now. Mainly headaches and feeling really down.  
+3. 医師: I’m sorry to hear that. How long has this been going on?  
+4. 患者: About three months. It’s been getting worse.  
+5. 医師: Can you describe your headaches? Where do they hurt, and how severe are they?  
+6. 患者: It’s like a dull ache around my temples. It’s not sharp, but it’s constant.  
+7. 医師: Do you notice anything that makes it better or worse?  
+8. 患者: Sometimes resting helps a bit, but nothing really makes it go away completely.  
+9. 医師: Have you experienced nausea or other symptoms along with the headaches?  
+10. 患者: Yes, I’ve been feeling nauseous quite a lot, but I haven’t actually vomited.  
+11. 医師: Are there any specific triggers for your nausea?  
+12. 患者: Not really. It just comes and goes.  
+13. 医師: How about your appetite? Have you noticed any changes?  
+14. 患者: I haven’t felt much like eating, actually. I’ve lost some weight too.  
+15. 医師: Do you know how much weight you’ve lost?  
+16. 患者: About 5 kilograms in the last couple of months.  
+17. 医師: Have you noticed any issues with sleep?  
+18. 患者: Yes, I wake up really early every morning and can’t go back to sleep.  
+19. 医師: Do you have trouble falling asleep or staying asleep?  
+20. 患者: No, I fall asleep okay, but I wake up way too early every day.  
+21. 医師: Have you been feeling particularly stressed or upset recently?  
+22. 患者: Not really. Nothing major has happened in my life lately.  
+23. 医師: How has your mood been overall?  
+24. 患者: I’ve just been feeling really low, like I have no energy or motivation.  
+25. 医師: Has this affected your daily activities or relationships?  
+26. 患者: Yes, I struggle to do even simple tasks, and I’ve lost interest in things I used to enjoy.  
+27. 医師: Can you give some examples of these activities?  
+28. 患者: I used to enjoy gardening and watching football, but now I don’t feel like doing either.  
+29. 医師: Is there anything specific you’re worried about right now?  
+30. 患者: Not really, I just wish I could feel like myself again.  
+31. 医師: Have you had similar feelings or episodes like this in the past?  
+32. 患者: No, this is the first time I’ve felt this way.  
+33. 医師: Have you or anyone in your family ever been diagnosed with a mental health condition?  
+34. 患者: No, there’s no history of anything like that in my family.  
+35. 医師: Have you noticed any changes in your ability to concentrate or make decisions?  
+36. 患者: Definitely. It’s hard for me to focus on anything, even simple tasks.  
+37. 医師: What about physical energy? Do you feel more tired than usual?  
+38. 患者: Yes, I feel exhausted almost all the time, even after sleeping.  
+39. 医師: Have you noticed any changes in your social life?  
+40. 患者: I’ve been keeping to myself more and avoiding friends.  
+41. 医師: Do you drink alcohol or use any substances?  
+42. 患者: No, I’ve never been into that.  
+43. 医師: Have you ever felt like life is not worth living or had thoughts of harming yourself?  
+44. 患者: No, I haven’t thought about harming myself, but I do feel hopeless at times.  
+45. 医師: Thank you for sharing that. Have you tried anything to feel better, like hobbies or talking to someone?  
+46. 患者: I’ve tried forcing myself to do things I used to like, but it doesn’t help.  
+47. 医師: Are you on any medications or supplements currently?  
+48. 患者: Just medication for my cholesterol.  
+49. 医師: Alright, I appreciate you giving me such detailed answers. Based on everything you’ve shared and our examination, I believe you may be experiencing major depressive disorder.  
+50. 患者: Oh, I wasn’t expecting that. What happens next?"

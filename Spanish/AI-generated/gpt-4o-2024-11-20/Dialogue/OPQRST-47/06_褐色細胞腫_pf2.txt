@@ -1,0 +1,51 @@
+"1. Médico: Buenas tardes, señora. ¿Qué la trae hoy a consulta?  
+2. Paciente: Hola, doctor. He tenido muchos episodios de dolor de cabeza y sudo demasiado, especialmente en los últimos meses.  
+3. Médico: Entiendo. ¿Desde cuándo comenzó con estos síntomas?  
+4. Paciente: Pues, aproximadamente hace tres meses.  
+5. Médico: ¿Podría describirme cómo son estos episodios?  
+6. Paciente: Sí, suceden varias veces al día, duran entre 10 y 20 minutos cada vez, y siento que mi corazón late muy rápido.  
+7. Médico: Cuando se presentan estos episodios, ¿siente algún otro síntoma además del dolor de cabeza, sudoración y palpitaciones?  
+8. Paciente: Sí, siento mucha ansiedad en esos momentos, como si algo malo fuera a pasar.  
+9. Médico: Entendido. ¿Ha notado si hay algo en particular que desencadene estos episodios?  
+10. Paciente: No, ocurren de repente, sin razón aparente.  
+11. Médico: ¿Han aumentado en frecuencia o intensidad desde que comenzaron?  
+12. Paciente: Sí, últimamente se han vuelto más intensos, especialmente durante el último mes.  
+13. Médico: ¿Ha tenido fiebre, pérdida de peso reciente o dolores en el pecho?  
+14. Paciente: No, nada de eso.  
+15. Médico: ¿Qué tal su apetito? ¿Ha cambiado en algo?  
+16. Paciente: Mi apetito sigue normal.  
+17. Médico: ¿Alguna vez ha tenido mareos o pérdida del conocimiento durante estos episodios?  
+18. Paciente: No, pero a veces siento como si estuviera a punto de marearme.  
+19. Médico: ¿Ha notado algo extraño en la piel, como erupciones o cambios de color?  
+20. Paciente: No, nada raro en mi piel, pero sí sudo demasiado.  
+21. Médico: Hace poco revisaron su presión arterial. ¿Ha notado cifras elevadas?  
+22. Paciente: Sí, hace poco fui al centro de salud y me dijeron que estaba alta, pero no me dieron más detalles.  
+23. Médico: ¿Tiene antecedentes de algún problema médico, como hipertensión o diabetes?  
+24. Paciente: Bueno, tengo hipotiroidismo, pero lo manejo con medicación diaria.  
+25. Médico: ¿Qué medicamento toma y cómo lo toma?  
+26. Paciente: Tomo 50 microgramos de levotiroxina al día, y soy constante con ello.  
+27. Médico: Excelente. Además de esto, ¿toma algún otro medicamento o suplemento?  
+28. Paciente: No, solo eso.  
+29. Médico: ¿Hay antecedentes en su familia de presión alta, enfermedades cardíacas o algo similar?  
+30. Paciente: Mi madre tiene hipertensión, pero nada más que recuerde.  
+31. Médico: ¿Qué tal su rutina diaria? ¿Ha experimentado más estrés de lo habitual últimamente?  
+32. Paciente: No diría que estoy más estresada de lo normal, mi rutina no ha cambiado mucho.  
+33. Médico: ¿Cómo duerme por las noches? ¿Ha tenido insomnio u otros problemas para dormir?  
+34. Paciente: A veces me despierto sudando mucho y con el corazón acelerado, pero luego vuelvo a dormir.  
+35. Médico: ¿Qué tal su alimentación? ¿Es balanceada, consume mucha sal o alimentos procesados?  
+36. Paciente: Intento comer sano, pero no siempre lo logro, sobre todo porque me gusta comer fuera.  
+37. Médico: Entendido. Durante los episodios, ¿ha sentido alguna sensación de dolor o presión abdominal?  
+38. Paciente: No, no he sentido dolor ahí.  
+39. Médico: Muy bien. Vamos a medir nuevamente su presión arterial y su frecuencia cardíaca. ¿Está de acuerdo?  
+40. Paciente: Claro, doctor.  
+41. Médico: Su presión arterial actualmente está en 190/110 y su frecuencia cardíaca es de 110 lpm. Es elevada. ¿Le ha ocurrido antes?  
+42. Paciente: Sí, me lo mencionaron en el centro de salud, pero no sabía que estaba tan alta.  
+43. Médico: Además, veo que tiene sudoración en este momento. ¿Se siente bien ahora mismo?  
+44. Paciente: Un poco ansiosa, pero no tanto como en los episodios fuertes.  
+45. Médico: Comprendo. Aunque no observamos algo notable en su exploración cardíaca o pulmonar, evaluaremos mediante estudios adicionales para entender qué origina estos síntomas.  
+46. Paciente: Está bien, quiero saber qué me pasa.  
+47. Médico: Vamos a solicitar análisis de sangre y orina que evalúen algunas sustancias relacionadas con las glándulas suprarrenales. ¿Ha oído hablar de ellas?  
+48. Paciente: No mucho, solo sé que están en el abdomen, ¿verdad?  
+49. Médico: Correcto. Son responsables de producir hormonas que controlan varios procesos en el cuerpo. También será necesario realizar una tomografía para revisar más detalladamente.  
+50. Paciente: Entiendo. Haré todo lo que sea necesario.
+51. Médico: Según los resultados, parece que sus síntomas son causados por un feocromocitoma, un tipo de tumor en la glándula suprarrenal que produce demasiadas hormonas."

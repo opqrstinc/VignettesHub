@@ -1,0 +1,51 @@
+"1. Doctor: Good morning. What brings you in today?  
+2. Patient: I've been having pain and swelling in both of my hands for about six months now.  
+3. Doctor: I see. Can you tell me more about the pain? When does it bother you the most?  
+4. Patient: The pain is moderate but constant, and mornings are the worst. My hands feel stiff for a couple of hours when I wake up.  
+5. Doctor: Does the stiffness improve as the day goes on?  
+6. Patient: Yes, it usually gets a little better by midday, but the pain never seems to fully go away.  
+7. Doctor: Which parts of your hands are most affected by the pain and swelling?  
+8. Patient: The small joints in my fingers, especially these ones here in the middle and where the fingers meet the hand.  
+9. Doctor: So the MCP and PIP joints, is that right?  
+10. Patient: I think so. The knuckles and near them.  
+11. Doctor: Are both hands equally affected?  
+12. Patient: Yes, it’s the same on both sides.  
+13. Doctor: Have you noticed anything else, like redness or a feeling of warmth in your hands?  
+14. Patient: No redness, but they do feel tender and swollen all the time.  
+15. Doctor: Have you had any issues with other joints—like your shoulders, knees, or feet?  
+16. Patient: No, just my hands and maybe a little in my wrists, but nowhere else.  
+17. Doctor: Do you remember if this started suddenly, or did it come on gradually?  
+18. Patient: It started gradually and just kept getting worse over time.  
+19. Doctor: Have you ever had anything like this before?  
+20. Patient: No, this is the first time I’ve had such persistent joint problems.  
+21. Doctor: And how about your ability to do daily activities? Are there things you’re struggling with?  
+22. Patient: Yes, I can’t open jars anymore, and even typing is really difficult now.  
+23. Doctor: That sounds very challenging. Have you noticed any fever, fatigue, or unintentional weight loss?  
+24. Patient: No, none of that.  
+25. Doctor: Any history of injuries or trauma to your hands?  
+26. Patient: No, none at all.  
+27. Doctor: Do you have a family history of autoimmune diseases like rheumatoid arthritis or lupus?  
+28. Patient: No, there’s nothing like that in my family, as far as I know.  
+29. Doctor: Have you seen any rashes or unusual changes in your skin?  
+30. Patient: No rashes, my skin seems fine.  
+31. Doctor: Let’s talk a little more about your general health. Have you had any recent illnesses or infections?  
+32. Patient: No, I haven’t been sick in a while.  
+33. Doctor: How about your appetite or energy levels?  
+34. Patient: My appetite is normal, and I don’t feel overly tired.  
+35. Doctor: Have you tried anything to relieve the pain or swelling?  
+36. Patient: I tried over-the-counter painkillers, but they don’t seem to help much.  
+37. Doctor: I see. Do you have any allergies or sensitivities to medications?  
+38. Patient: No, I don’t think so.  
+39. Doctor: Are you on any medications right now?  
+40. Patient: Just vitamins, nothing else.  
+41. Doctor: Before I examine your hands, can you tell me if you’ve noticed any numbness or tingling?  
+42. Patient: No, not really. It’s just the pain and stiffness.  
+43. Doctor: When the pain first started, were there any activities or changes in your life that could have triggered it?  
+44. Patient: No, not that I can think of. It came on so gradually.  
+45. Doctor: Understood. During the day, apart from stiffness, do you notice the joints feeling unstable or weak?  
+46. Patient: They feel weak sometimes. Holding heavy things is hard.  
+47. Doctor: On a scale of 1 to 10, how would you rate the pain?  
+48. Patient: Most days, it’s about a 6 or 7 out of 10.  
+49. Doctor: Thank you for sharing all this. Based on what you’ve described, we’ll do some exams and tests to investigate further.  
+50. Patient: Thank you, doctor. I just really want to figure out what’s going on.  
+51. Doctor: After reviewing your lab results and radiographs, it appears that you have rheumatoid arthritis."

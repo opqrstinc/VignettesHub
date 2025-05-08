@@ -1,0 +1,51 @@
+"1. 医師: Good morning, how are you feeling today?  
+2. 患者: I’m alright, just been having trouble remembering things lately.  
+3. 医師: Can you tell me more about the things you’ve been forgetting?  
+4. 患者: Sometimes I can’t remember names, even of people I’ve known for years.  
+5. 医師: I see. Has this been going on for a long time?  
+6. 患者: It started more than two years ago, but it’s been getting worse.  
+7. 医師: Has anyone in your family noticed changes in your memory or behavior?  
+8. 患者家族: Yes, we’ve noticed she repeats the same questions and misplaces things a lot.  
+9. 医師: Thank you for sharing that. Have you had difficulty finding your way, even in familiar places?  
+10. 患者: Yes, I’ve gotten lost a few times in places I’ve known for years.  
+11. 医師: That sounds frustrating. Are there any specific daily tasks that feel harder than before?  
+12. 患者: Planning things, like meals or errands, has become much harder.  
+13. 医師: Have you noticed any changes in your mood or how you feel around people?  
+14. 患者: I feel more irritable and don’t enjoy socializing as much anymore.  
+15. 医師: Have there been any changes to your appetite or sleeping patterns?  
+16. 患者: I don’t think so, my eating and sleeping seem normal.  
+17. 医師: Have you experienced any trouble with speaking or finding the right words?  
+18. 患者: Sometimes, but not very often.  
+19. 医師: Do you get confused about the date or time of day frequently?  
+20. 患者: Yes, I lose track of days all the time now.  
+21. 医師: Have you had any falls or other physical issues?  
+22. 患者家族: She’s unsteady sometimes, but no major falls so far.  
+23. 医師: Thank you. Have you ever felt weak on one side of your body or had trouble moving?  
+24. 患者: No, nothing like that.  
+25. 医師: Any problems with your vision or hearing recently?  
+26. 患者: My eyesight isn’t as sharp as before, but nothing unusual.  
+27. 医師: How about headaches, dizziness, or any unusual sensations?  
+28. 患者: No, not really.  
+29. 医師: Do you have any significant medical conditions I should know about?  
+30. 患者: I have rheumatoid arthritis and take medications for it.  
+31. 医師: I see, and are you on any other medications?  
+32. 患者: Yes, for my heart condition, but I don’t remember the names.  
+33. 医師: That’s alright. Do you know if anyone in your family has had memory problems or similar symptoms?  
+34. 患者家族: No, we don’t have any history of dementia or similar conditions.  
+35. 医師: That’s helpful to know. Have you ever had a stroke or a head injury?  
+36. 患者: No, never.  
+37. 医師: Do you smoke or drink alcohol?  
+38. 患者: I don’t smoke, and I only have the occasional glass of wine.  
+39. 医師: Good to hear. Do you notice any improvement or worsening of symptoms at certain times of the day?  
+40. 患者: I feel more confused in the evenings.  
+41. 医師: Have you ever felt paranoid or seen things that others told you weren’t there?  
+42. 患者: No, nothing like that.  
+43. 医師: Does your mood feel lower than usual, or do you often feel sad without knowing why?  
+44. 患者: A little, but I think it’s because I get frustrated with myself.  
+45. 医師: Has there ever been a significant change in your walking or movement speed?  
+46. 患者家族: She walks slower, but her joints are stiff from her arthritis.  
+47. 医師: Understood. Have your taste or smell senses changed noticeably?  
+48. 患者: Not that I’ve noticed.  
+49. 医師: One last question before moving on: Do you ever have trouble following a conversation or instructions?  
+50. 患者: Yes, I sometimes lose track of what’s being discussed.  
+51. 医師: Based on what you’ve told me, your exams, and testing, it appears you may be facing a condition called Alzheimer’s disease."

@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, señor. ¿Qué lo trae hoy por consulta?  
+2. Paciente: Hola, doctor. He estado teniendo problemas con mi digestión, y últimamente noté sangre en mis heces.  
+3. Médico: Entiendo. ¿Desde cuándo ha notado la sangre en sus deposiciones?  
+4. Paciente: Desde hace unos tres meses, aunque no siempre ocurre, pero me preocupa mucho.  
+5. Médico: ¿De qué color es la sangre, roja brillante o más oscura?  
+6. Paciente: Roja brillante, al final de la evacuación.  
+7. Médico: ¿Ha notado cambios en la frecuencia de sus deposiciones o la consistencia de las mismas?  
+8. Paciente: Sí, a veces tengo diarrea, pero no todos los días. Es más como episodios que van y vienen.  
+9. Médico: ¿Cuántas veces al día suele evacuar cuando tiene diarrea?  
+10. Paciente: Cuando estoy mal, unas tres o cuatro veces al día.  
+11. Médico: ¿Ha tenido algún episodio de fiebre reciente?  
+12. Paciente: Sí, en los últimos meses he tenido fiebre, sobre todo por las tardes.  
+13. Médico: ¿Recuerda qué tan alta era su temperatura?  
+14. Paciente: Sí, alrededor de 38,5°C.  
+15. Médico: ¿Además de la fiebre, ha tenido algún dolor en el abdomen?  
+16. Paciente: Sí, bastante seguido siento dolor en la parte baja derecha de mi abdomen.  
+17. Médico: ¿Cómo describiría ese dolor? ¿Es constante o viene y va?  
+18. Paciente: Es más como un dolor punzante que va y viene, pero últimamente es más frecuente.  
+19. Médico: ¿Ha notado si algo empeora o alivia el dolor?  
+20. Paciente: Nada específico, pero cuando estoy en reposo a veces mejora.  
+21. Médico: ¿Ha perdido peso en este tiempo?  
+22. Paciente: No mucho, tal vez un kilo o dos, pero no es significativo.  
+23. Médico: ¿Cómo ha sido su apetito últimamente?  
+24. Paciente: Mi apetito está bien, pero me siento más fatigado de lo normal.  
+25. Médico: ¿Desde cuándo siente esta fatiga progresiva?  
+26. Paciente: Comenzó hace unos meses, al mismo tiempo que los otros síntomas.  
+27. Médico: ¿Tiene antecedentes de enfermedades digestivas en su familia?  
+28. Paciente: No, nadie en mi familia tiene problemas similares.  
+29. Médico: ¿Consume algún medicamento de manera regular o ha tomado antibióticos recientemente?  
+30. Paciente: No, no estoy tomando nada actualmente.  
+31. Médico: Además de lo que me ha comentado, ¿notó algún cambio en el color de las heces?  
+32. Paciente: Sí, a veces están más oscuras de lo habitual.  
+33. Médico: ¿Ha presentado náuseas o vómitos?  
+34. Paciente: No, esos síntomas no los he tenido.  
+35. Médico: ¿Trabaja o vive en un lugar con estrés elevado?  
+36. Paciente: Diría que mi trabajo es algo estresante, pero nada fuera de lo normal.  
+37. Médico: ¿Ha viajado recientemente o consumido alimentos que podrían estar contaminados?  
+38. Paciente: No, no he hecho viajes ni comido algo fuera de lo común.  
+39. Médico: ¿Ha notado cambios en su piel, como erupciones o enrojecimiento?  
+40. Paciente: No, mi piel se ve normal.  
+41. Médico: Le haré un examen físico, comenzando con su abdomen. ¿Está bien?  
+42. Paciente: Claro, doctor.  
+43. Médico: Al presionar su abdomen, noto sensibilidad en la parte baja derecha. ¿Esto causa dolor?  
+44. Paciente: Sí, ese es justo el punto que más me molesta.  
+45. Médico: Sus mucosas están normales, pero noto algo de palidez en sus ojos. ¿Se siente mareado o débil?  
+46. Paciente: Sí, a veces siento debilidad, como falta de energía.  
+47. Médico: En su caso, realizaremos análisis de sangre y un examen de sus heces. ¿Está de acuerdo?  
+48. Paciente: Por supuesto. Estoy dispuesto a hacer lo que sea necesario.  
+49. Médico: También sería útil realizar una colonoscopia para identificar posibles causas inflamatorias.  
+50. Paciente: Lo entiendo. Estoy preocupado, pero confío en que esto nos aclarará algo."

@@ -1,0 +1,149 @@
+"1.  
+Doctor: Hello, I’m Dr. Smith. What brings you in today?  
+Patient: Hi, I've been feeling unwell for about a week. I have a fever, I'm really tired, and my throat hurts a lot.  
+2.  
+Doctor: I see. When did these symptoms start?  
+Patient: About seven days ago. They started gradually.  
+3.  
+Doctor: Have you noticed if the fever is constant or does it come and go?  
+Patient: It’s intermittent, and I’ve had night sweats too.  
+4.  
+Doctor: How high has your fever been, if you’ve checked?  
+Patient: Around 101°F to 102°F.  
+5.  
+Doctor: You mentioned fatigue. Can you describe how severe it is?  
+Patient: It’s really bad. I feel completely drained, like I can’t even do simple things.  
+6.  
+Doctor: And what about the sore throat? Is it getting better or worse?  
+Patient: It’s getting worse. My throat feels really swollen, and it hurts to swallow.  
+7.  
+Doctor: Have you noticed any hoarseness or difficulty breathing?  
+Patient: Not really, just pain when I swallow.  
+8.  
+Doctor: Any other symptoms, like a headache or body aches?  
+Patient: I’ve had a mild headache, but no real body aches.  
+9.  
+Doctor: Have you experienced nausea, vomiting, or abdominal pain?  
+Patient: No, none of those.  
+10.  
+Doctor: Any changes in your appetite?  
+Patient: Yeah, I don’t feel like eating much these days.  
+11.  
+Doctor: Have you traveled recently or been around anyone who’s sick?  
+Patient: No, I haven’t traveled or been in contact with sick people.  
+12.  
+Doctor: Do you have any pets or have you been exposed to animals?  
+Patient: No, I don’t have pets or any recent animal exposure.  
+13.  
+Doctor: Have you had symptoms like this before?  
+Patient: No, this is the first time I’ve felt like this.  
+14.  
+Doctor: Do you have any medical conditions or take any medications?  
+Patient: No, I’m usually very healthy and don’t take any medication.  
+15.  
+Doctor: How about surgeries or hospitalizations in the past?  
+Patient: No, I’ve never had any surgeries or been hospitalized.  
+16.  
+Doctor: What about your family? Any illnesses that run in the family?  
+Patient: No, my family is pretty healthy as far as I know.  
+17.  
+Doctor: Have you noticed any swollen glands or lumps in your neck?  
+Patient: Yes, the glands in my neck feel really swollen and tender.  
+18.  
+Doctor: Are there any other areas of swelling, like under your arms or in your groin?  
+Patient: No, just my neck.  
+19.  
+Doctor: Have you had any recent injuries or infections, like a cold or sinus infection?  
+Patient: No, not that I can think of.  
+20.  
+Doctor: How has your overall energy been throughout this?  
+Patient: It’s terrible. I feel like I can barely get through the day.  
+21.  
+Doctor: Do you feel short of breath or have chest pain?  
+Patient: No, my breathing and chest feel okay.  
+22.  
+Doctor: Do you ever feel lightheaded or dizzy?  
+Patient: Not really, just really tired.  
+23.  
+Doctor: Have you experienced any rashes or skin changes?  
+Patient: No, my skin seems normal.  
+24.  
+Doctor: How about your urine? Any changes in color or frequency?  
+Patient: No changes there.  
+25.  
+Doctor: What do you do for work or school? Has this been affecting your daily routine?  
+Patient: I’m a college student, and I haven’t been able to go to classes or study much.  
+26.  
+Doctor: I understand. Does the fatigue get worse as the day goes on?  
+Patient: It’s bad all the time, but mornings are a little easier than evenings.  
+27.  
+Doctor: Have you had any weight changes in the past week?  
+Patient: Maybe a little, but probably because I’m not eating much.  
+28.  
+Doctor: You mentioned sore throat—have you noticed any white patches in your throat or tonsils?  
+Patient: I think so; they look a bit white and swollen.  
+29.  
+Doctor: Have you taken anything for the fever or throat pain?  
+Patient: Just over-the-counter pain relievers like ibuprofen.  
+30.  
+Doctor: Has it helped with your symptoms?  
+Patient: It brings the fever down a little, but the sore throat doesn’t improve much.  
+31.  
+Doctor: On a scale of 1 to 10, how would you rate your sore throat pain?  
+Patient: Probably a 7 or 8.  
+32.  
+Doctor: Have you been exposed to someone with strep throat recently?  
+Patient: Not that I know of.  
+33.  
+Doctor: Have you been tested for strep throat or other infections before?  
+Patient: No, this is the first time I’m seeking treatment.  
+34.  
+Doctor: Do you smoke or drink alcohol?  
+Patient: No, I don’t smoke, and I drink only occasionally.  
+35.  
+Doctor: Any history of mono in the past?  
+Patient: No, I’ve never had mono before.  
+36.  
+Doctor: Have you had swelling or tenderness in your abdomen?  
+Patient: No, my belly feels normal.  
+37.  
+Doctor: Do you feel like your symptoms are progressively getting worse?  
+Patient: Yes, they seem to be getting worse each day.  
+38.  
+Doctor: Let’s talk a bit about your social life. Have you been around crowds or at parties recently?  
+Patient: Well, I did go to a couple of small gatherings at my college, but nothing unusual.  
+39.  
+Doctor: Did you share drinks or utensils with anyone?  
+Patient: I might have shared a drink with a friend last weekend.  
+40.  
+Doctor: Have you had any issues with swollen or bleeding gums?  
+Patient: No, my gums seem fine.  
+41.  
+Doctor: How about headaches—are they constant or on and off?  
+Patient: They’re on and off and not too severe.  
+42.  
+Doctor: Any issues with your vision or eyes, like redness or itching?  
+Patient: No, my eyes seem fine.  
+43.  
+Doctor: Any sensitivity to light or sound recently?  
+Patient: No, nothing like that.  
+44.  
+Doctor: Do you feel like your throat is preventing you from drinking enough fluids?  
+Patient: It’s hard to drink, but I manage to sip water throughout the day.  
+45.  
+Doctor: Have you been able to sleep despite the symptoms?  
+Patient: Not well. The night sweats and sore throat keep waking me up.  
+46.  
+Doctor: Have you had a chance to check if your lymph nodes are getting bigger?  
+Patient: They definitely feel bigger than when I first noticed them.  
+47.  
+Doctor: In your opinion, what’s been the most difficult symptom so far?  
+Patient: The fatigue, for sure. It’s overwhelming.  
+48.  
+Doctor: Do you feel like your energy level is improving at all?  
+Patient: Not at all, it’s still the same.  
+49.  
+Doctor: Thank you for sharing all that. Based on your symptoms, I suspect infectious mononucleosis, caused by a virus called Epstein-Barr virus.  
+Patient: Oh, I’ve heard of mono. What do we do about it?  
+50.  
+Doctor: It’s self-limiting, so we’ll focus on supportive care—rest, hydration, and acetaminophen for fever or pain. Avoid contact sports for now."

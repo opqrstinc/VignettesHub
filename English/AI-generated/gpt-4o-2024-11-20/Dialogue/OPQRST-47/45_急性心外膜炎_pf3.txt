@@ -1,0 +1,102 @@
+"1.  
+Doctor: Can you describe the chest pain you’ve been experiencing?  
+2.  
+Patient: It’s a sharp, stabbing pain, mostly on the left side of my chest.  
+3.  
+Doctor: How long have you been having this pain?  
+4.  
+Patient: It started about three days ago.  
+5.  
+Doctor: Is the pain constant, or does it come and go?  
+6.  
+Patient: It’s not constant, but it feels worse when I take deep breaths.  
+7.  
+Doctor: Does anything make the pain better or worse?  
+8.  
+Patient: It gets better when I sit up and lean forward, but worse when I lie down or breathe deeply.  
+9.  
+Doctor: Does the pain radiate to any other part of your body?  
+10.  
+Patient: Yes, sometimes it radiates to my left shoulder.  
+11.  
+Doctor: Do you feel short of breath with the pain?  
+12.  
+Patient: Not really short of breath, but it’s uncomfortable to breathe deeply.  
+13.  
+Doctor: Have you had any fever or chills?  
+14.  
+Patient: Yes, I’ve had a fever since it started.  
+15.  
+Doctor: Have you noticed any other symptoms, like fatigue or weakness?  
+16.  
+Patient: Yes, I feel very tired and weak; I’ve had no energy at all.  
+17.  
+Doctor: Have you noticed any cough, runny nose, or recent cold symptoms?  
+18.  
+Patient: No, I haven’t had any cold or cough recently.  
+19.  
+Doctor: Any history of chest trauma or injury?  
+20.  
+Patient: No, nothing like that.  
+21.  
+Doctor: Have you ever experienced anything like this before?  
+22.  
+Patient: No, this is the first time I’ve had this kind of pain.  
+23.  
+Doctor: Do you have any history of heart conditions or other chronic illnesses?  
+24.  
+Patient: No, I’ve never had any serious health problems before.  
+25.  
+Doctor: Do you smoke or drink alcohol?  
+26.  
+Patient: No, I don’t smoke, and I rarely drink alcohol.  
+27.  
+Doctor: Have you experienced any recent weight loss?  
+28.  
+Patient: No, my weight has been stable.  
+29.  
+Doctor: Are you on any medications currently?  
+30.  
+Patient: No, I’m not taking any regular medications.  
+31.  
+Doctor: Does anyone in your family have a history of heart disease or similar symptoms?  
+32.  
+Patient: No, as far as I know, my family has been relatively healthy.  
+33.  
+Doctor: Have you traveled recently or been exposed to anyone with an illness?  
+34.  
+Patient: No, I’ve been at home and haven’t been around sick people.  
+35.  
+Doctor: Have you ever had any autoimmune diseases diagnosed?  
+36.  
+Patient: No, I’ve never been told anything like that.  
+37.  
+Doctor: How high has your fever been, do you know?  
+38.  
+Patient: Around 101 degrees Fahrenheit, I think.  
+39.  
+Doctor: Have you noticed swelling in your legs or any difficulty breathing at night?  
+40.  
+Patient: No, my legs are fine, and I sleep okay, aside from the pain when lying down.  
+41.  
+Doctor: When the pain started, were you doing any specific activity?  
+42.  
+Patient: No, it just started suddenly while I was at home.  
+43.  
+Doctor: Have you noticed any palpitations or rapid heartbeat?  
+44.  
+Patient: Yes, my heart feels like it’s racing at times.  
+45.  
+Doctor: Thank you for sharing all this. On examination, I heard a friction rub over your heart. This is a specific finding.  
+46.  
+Patient: What does that mean?  
+47.  
+Doctor: It suggests there’s irritation of the lining around your heart, which could be causing your symptoms.  
+48.  
+Patient: Is this serious?  
+49.  
+Doctor: Based on your history and findings, I suspect you have acute pericarditis, an inflammation of the sac around your heart.  
+50.  
+Patient: Oh, what causes that?  
+51.  
+Doctor: Often, it’s idiopathic or viral, but tests show no clear infection or autoimmune cause in your case. Treatment will aim to reduce inflammation and relieve pain."

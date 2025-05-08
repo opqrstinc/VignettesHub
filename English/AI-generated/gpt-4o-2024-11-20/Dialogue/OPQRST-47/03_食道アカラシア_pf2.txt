@@ -1,0 +1,51 @@
+"1. 医師: What brings you in today?  
+2. 患者: I've been having trouble swallowing food for the past year.  
+3. 医師: Could you describe the problem in more detail?  
+4. 患者: It feels like food gets stuck in my throat, especially solid food.  
+5. 医師: Has this difficulty swallowing become worse over time?  
+6. 患者: Yes, it's been progressively getting worse.  
+7. 医師: Do you ever experience any pain while swallowing?  
+8. 患者: No, there's no pain, just the feeling of food not going down.  
+9. 医師: Have you noticed any other related symptoms?  
+10. 患者: Sometimes, food comes back up undigested, and I occasionally vomit after eating.  
+11. 医師: Does this happen with every meal or just certain types of food?  
+12. 患者: Mostly with larger meals or solid foods, but it can happen with liquids too.  
+13. 医師: Have you lost any weight since this started?  
+14. 患者: Yes, about 7 kilograms over the last six months.  
+15. 医師: Is the weight loss intentional?  
+16. 患者: No, I'm losing weight because I'm not eating much; it's too uncomfortable.  
+17. 医師: Do you ever feel pain or burning in your chest, like heartburn?  
+18. 患者: No, not really, but sometimes I feel a pressure in my chest after eating.  
+19. 医師: Do you have difficulty swallowing both liquids and solids?  
+20. 患者: It started with solids, but now even liquids are sometimes hard to swallow.  
+21. 医師: Have you noticed any coughing or choking when you eat?  
+22. 患者: No, I haven’t had those problems.  
+23. 医師: Do you have any family history of similar issues with swallowing or digestion?  
+24. 患者: No, no one in my family has had this issue.  
+25. 医師: Have you had any other medical problems in the past?  
+26. 患者: I have allergic rhinitis, but that's all.  
+27. 医師: Are you on any regular medications for the rhinitis or anything else?  
+28. 患者: I use nasal sprays occasionally, but that’s it.  
+29. 医師: Do you smoke or drink alcohol?  
+30. 患者: No, I don’t do either.  
+31. 医師: Have you traveled anywhere recently or been exposed to anything unusual?  
+32. 患者: No, nothing unusual.  
+33. 医師: Do you have any other medical symptoms like shortness of breath, fatigue, or fever?  
+34. 患者: No, I feel fine otherwise.  
+35. 医師: Has this swallowing issue affected your daily life or work?  
+36. 患者: Yes, a lot—eating is really stressful now.  
+37. 医師: How are you managing meals currently?  
+38. 患者: I’ve switched to softer foods and try to eat slowly.  
+39. 医師: Has this helped at all?  
+40. 患者: A little, but I’m still having trouble even with soft foods now.  
+41. 医師: Have you had any tests or seen another doctor for this problem?  
+42. 患者: No, this is the first time I’m seeking help for it.  
+43. 医師: Does anything make your symptoms better or worse?  
+44. 患者: Eating small portions helps a bit, but nothing else really works.  
+45. 医師: I see you mentioned occasional vomiting—do you ever notice blood in it?  
+46. 患者: No, never.  
+47. 医師: Have you noticed any changes in your bowel movements?  
+48. 患者: No, everything there seems normal.  
+49. 医師: You mentioned a pressure-like discomfort in your chest—does it radiate to other areas?  
+50. 患者: No, it stays in my chest and happens only after eating.
+51. 医師: Based on your symptoms, we'll need to do some tests. A barium swallow and esophageal manometry might help identify the cause of your swallowing difficulties. A possible condition could be achalasia."

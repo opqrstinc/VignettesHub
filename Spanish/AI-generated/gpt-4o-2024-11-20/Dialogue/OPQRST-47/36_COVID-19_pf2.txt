@@ -1,0 +1,51 @@
+"1. Médico: Hola, buenas tardes. ¿Cómo te llamas?  
+2. Paciente: Hola, buenas tardes. Me llamo Carlos.  
+3. Médico: Mucho gusto, Carlos. ¿Qué te trae hoy a consulta?  
+4. Paciente: He tenido fiebre muy alta desde hace cinco días, y además, me cuesta respirar.  
+5. Médico: Entendido. ¿Qué tan alta ha sido la fiebre?  
+6. Paciente: Llegó a 39.2 grados y no baja mucho, aunque tome algo para la fiebre.  
+7. Médico: ¿La fiebre comenzó de repente o fue algo gradual?  
+8. Paciente: Fue de repente, un día empecé a sentirme caliente y al rato ya tenía fiebre alta.  
+9. Médico: Además de la fiebre y la dificultad para respirar, ¿has notado algo más extraño?  
+10. Paciente: Sí, como que no siento los sabores de la comida, ya no puedo saborear nada.  
+11. Médico: ¿Desde cuándo notaste la pérdida del gusto?  
+12. Paciente: Creo que al tercer día de estar con fiebre comencé a darme cuenta.  
+13. Médico: Entendido. ¿La dificultad para respirar es constante o solo cuando haces esfuerzo?  
+14. Paciente: Solo cuando camino o subo escaleras, ahí siento que me falta mucho el aire.  
+15. Médico: ¿Tienes alguna otra molestia, como tos, dolor en el pecho o dolor muscular?  
+16. Paciente: Solo un poco de tos a veces, pero no es tanto. Dolor en el pecho no he tenido.  
+17. Médico: ¿Has notado si te sientes muy cansado últimamente?  
+18. Paciente: Sí, estoy agotado casi todo el día.  
+19. Médico: ¿Has estado en contacto con alguien que esté enfermo recientemente, algún familiar o amigo?  
+20. Paciente: No que yo sepa. Ninguno en mi casa ha estado enfermo.  
+21. Médico: ¿Has viajado o asistido a alguna reunión o evento social antes de que te enfermaras?  
+22. Paciente: Sí, fui a una fiesta grande con muchos amigos hace como una semana.  
+23. Médico: ¿Había alguien en la fiesta que parecía estar enfermo?  
+24. Paciente: No lo recuerdo bien, pero no me pareció que nadie tuviera síntomas.  
+25. Médico: ¿Has tenido problemas similares en el pasado, como neumonías o infecciones respiratorias severas?  
+26. Paciente: No, nunca he tenido algo así.  
+27. Médico: ¿Tienes algún antecedente médico importante o tomas algún medicamento de forma regular?  
+28. Paciente: No, estoy completamente sano, o lo estaba antes de esto.  
+29. Médico: ¿Tienes alergia a algún medicamento, comida o sustancia?  
+30. Paciente: No, ninguna alergia.  
+31. Médico: ¿Alguien más en tu casa está enfermo o ha presentado síntomas como fiebre o tos?  
+32. Paciente: No, todos están bien. Nadie más tiene nada raro.  
+33. Médico: ¿Has bajado de peso o notado un cambio importante en cuánto comes desde que empezó todo?  
+34. Paciente: Sí, he perdido peso porque no he tenido ganas de comer estos días.  
+35. Médico: ¿Has notado algún cambio en tu piel, como ronchas, o inflamaciones en algún lugar del cuerpo?  
+36. Paciente: No, mi piel está normal.  
+37. Médico: Cuando tienes fiebre, ¿presentas escalofríos o sudoración excesiva?  
+38. Paciente: Sí, mucho escalofrío, y por ratos sudo bastante, especialmente en las noches.  
+39. Médico: Carlos, ¿has notado si sientes palpitaciones fuertes o mareos?  
+40. Paciente: Un poco de mareo cuando trato de levantarme rápido, pero no siempre.  
+41. Médico: ¿Cómo está tu sueño? ¿Has podido descansar bien estos días?  
+42. Paciente: No mucho, la fiebre y el malestar no me dejan dormir bien.  
+43. Médico: ¿Cómo te sientes emocionalmente? ¿Te preocupa algo en especial?  
+44. Paciente: Estoy preocupado por no poder respirar bien, pero trato de mantener la calma.  
+45. Médico: Muy bien, Carlos. Ahora quisiera realizarte algunas exploraciones físicas. Durante la respiración, ¿sientes dolor en el pecho o la espalda?  
+46. Paciente: No, no hay dolor, solo la dificultad para respirar.  
+47. Médico: Perfecto. Escucharé tus pulmones. ¿Has notado si te falta el aire incluso cuando estás en reposo?  
+48. Paciente: Sí, un poquito cuando estoy descansando, pero es peor cuando hago algo.  
+49. Médico: Con estos síntomas y tu contexto, necesito ordenar algunos estudios de sangre y una radiografía de tórax, además de una prueba para descartar COVID-19.  
+50. Paciente: Está bien, doctor, quiero saber qué me pasa.  
+"

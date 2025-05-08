@@ -1,0 +1,50 @@
+"1. Médica: Hola, ¿qué te trae por aquí hoy?  
+2. Paciente: Tengo un dolor en la parte superior del abdomen que no se me quita.  
+3. Médica: ¿Desde cuándo comenzó ese dolor?  
+4. Paciente: Hace unos tres meses. Ha ido aumentando con el tiempo.  
+5. Médica: ¿Cómo describirías ese dolor? ¿Es agudo, punzante, constante?  
+6. Paciente: Es como una molestia persistente, no muy fuerte pero incómoda.  
+7. Médica: ¿Ese dolor empeora con algo en particular, como comer o el estrés?  
+8. Paciente: Cuando como empeora, especialmente después de comidas pesadas.  
+9. Médica: ¿Tienes náuseas, vómitos o ardor en el estómago?  
+10. Paciente: No, náuseas no, pero sí he notado que ya no tengo tanto apetito.  
+11. Médica: ¿Has perdido peso en estos meses?  
+12. Paciente: No creo, tal vez solo un poco porque como menos.  
+13. Médica: ¿Tuviste algún problema digestivo en el pasado como gastritis o úlceras?  
+14. Paciente: No, nunca.  
+15. Médica: ¿Tomas algún medicamento regularmente?  
+16. Paciente: Solamente antihistamínicos cuando tengo alergias, no todos los días.  
+17. Médica: ¿Alguna vez te han diagnosticado con alguna alergia alimentaria o intolerancia?  
+18. Paciente: No, mis alergias son más respiratorias.  
+19. Médica: ¿Sueles sentir hinchazón o gases?  
+20. Paciente: A veces sí, pero no muy frecuentemente.  
+21. Médica: ¿Tu digestión funciona regularmente? ¿Has notado cambios recientes?  
+22. Paciente: Creo que va normal, no he tenido problemas de estreñimiento o diarrea.  
+23. Médica: ¿Has estado muy estresada últimamente o has tenido cambios en tu rutina?  
+24. Paciente: Sí, en el trabajo ha habido más presión, y eso me tiene muy nerviosa.  
+25. Médica: Eso podría estar influyendo. ¿Cómo son tus horarios y tus hábitos alimenticios?  
+26. Paciente: Desordenaos, como rápido y a veces me salto las comidas.  
+27. Médica: ¿Consumes alguna comida o bebida que creas que desencadena los síntomas?  
+28. Paciente: Tal vez comidas grasosas o bebidas gaseosas empeoran el dolor.  
+29. Médica: ¿Fumas o consumes alcohol con regularidad?  
+30. Paciente: No, ni fumo ni bebo.  
+31. Médica: ¿En tu familia hay historial de problemas digestivos como úlceras o cáncer de estómago?  
+32. Paciente: No, que yo sepa nadie en mi familia los ha tenido.  
+33. Médica: ¿Cómo afecta este dolor a tus actividades diarias?  
+34. Paciente: Me causa molestia pero trato de seguir con lo que tengo que hacer.  
+35. Médica: Entiendo. Revisemos tu abdomen para buscar posibles causas del dolor. ¿Puedo realizar una exploración?  
+36. Paciente: Claro, adelante.  
+37. Médica: Hay algo de sensibilidad en el epigastrio, pero no hay signos de inflamación.  
+38. Paciente: Eso suena a que no es algo grave, ¿verdad?  
+39. Médica: De momento no hay señales de alarma, pero realizaremos algunos estudios para estar seguros.  
+40. Paciente: De acuerdo, ¿qué estudios me harán?  
+41. Médica: Comenzaremos con análisis de sangre básicos, pruebas de función hepática y un test para Helicobacter pylori.  
+42. Paciente: Bien, estoy lista para hacer todo lo necesario.  
+43. Médica: También consideraremos una endoscopia para evaluar el estómago más a fondo.  
+44. Paciente: ¿Eso es doloroso?  
+45. Médica: No, se hace con sedación ligera para tu comodidad.  
+46. Paciente: Me tranquiliza saber eso.  
+47. Médica: Además, podríamos realizar una ecografía del abdomen por seguridad.  
+48. Paciente: Suena completo, gracias.  
+49. Médica: Después de realizar todos los estudios, podremos entender mejor lo que ocurre y tomar decisiones sobre tu tratamiento.  
+50. Paciente: Muy bien, confiaré en su criterio."

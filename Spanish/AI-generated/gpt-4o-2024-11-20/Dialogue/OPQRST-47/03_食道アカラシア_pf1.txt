@@ -1,0 +1,51 @@
+"1. Médico: ¿Qué lo trae por aquí hoy?  
+2. Paciente: Hace tiempo he tenido problemas para tragar, al principio eran sólidos, pero ahora también con líquidos.  
+3. Médico: ¿Cuánto tiempo lleva con esta dificultad para tragar?  
+4. Paciente: Empezó hace como un año, pero últimamente se ha puesto peor.  
+5. Médico: ¿Cómo describiría la sensación mientras traga? ¿Dolorosa o simplemente difícil?  
+6. Paciente: No es dolor, más bien siento como que se atora la comida y no baja bien.  
+7. Médico: ¿Nota esta sensación más con alimentos concretos o siempre que intenta comer?  
+8. Paciente: Primero fueron los alimentos sólidos, pero ahora hasta el agua me cuesta pasar.  
+9. Médico: ¿Ha notado algún síntoma adicional, como acidez o regurgitaciones?  
+10. Paciente: Sí, tengo mucha acidez después de comer, y a veces en las noches la comida regresa a mi boca.  
+11. Médico: Cuando esto sucede, ¿siente algún sabor ácido o desagradable en la boca?  
+12. Paciente: Sí, es un sabor ácido, especialmente si estoy acostado.  
+13. Médico: ¿Ha perdido peso de forma involuntaria últimamente?  
+14. Paciente: Bueno, no creo haber perdido peso, pero he empezado a comer menos para no sentirme tan incómodo.  
+15. Médico: ¿Ha modificado alguna otra cosa de sus hábitos alimenticios debido a esto?  
+16. Paciente: Sí, ahora como más despacio y en porciones más pequeñas.  
+17. Médico: ¿Tiene antecedentes de alguna enfermedad o toma medicamentos con regularidad?  
+18. Paciente: Tengo presión alta, tomo losartán de 50 mg al día.  
+19. Médico: Entendido. ¿Fuma o consume alcohol con frecuencia?  
+20. Paciente: No, nunca he fumado, y solo tomo alcohol en ocasiones especiales.  
+21. Médico: ¿Alguien más en su familia tiene problemas digestivos o relacionados con la deglución?  
+22. Paciente: No, nadie más en mi familia tiene este tipo de problemas.  
+23. Médico: En cuanto a los episodios nocturnos, ¿se despierta sintiéndose ahogado o con tos?  
+24. Paciente: Sí, a veces me despierto con la sensación de que algo sube y me incomoda.  
+25. Médico: ¿Ha intentado algún remedio por su cuenta para aliviar estos síntomas?  
+26. Paciente: Solo he tomado un antiácido, pero realmente no me ayudó mucho.  
+27. Médico: ¿Ha notado si estos síntomas son peores después de comer ciertos tipos de alimentos?  
+28. Paciente: Creo que los alimentos más pesados o grasosos lo empeoran un poco.  
+29. Médico: ¿Cómo afectan estos problemas su vida diaria o su trabajo?  
+30. Paciente: Me preocupa comer fuera de casa, y me siento cansado porque no estoy durmiendo bien por las noches.  
+31. Médico: Gracias por compartir toda esta información. Voy a hacerle unas preguntas más. ¿Ha tenido episodios de fiebre, sudoración nocturna o cualquier otro síntoma general?  
+32. Paciente: No, en general me siento bien aparte de las dificultades al tragar.  
+33. Médico: Durante la exploración, no encontré signos evidentes de algo más grave. Sin embargo, vamos a necesitar pruebas adicionales.  
+34. Paciente: Claro, lo que sea necesario.  
+35. Médico: Inicialmente, le haré una endoscopia para observar su esófago y descartar cualquier obstrucción o inflamación.  
+36. Paciente: Muy bien, ¿es un procedimiento complicado?  
+37. Médico: No se preocupe, es un procedimiento sencillo y rápido, aunque puede ser un poco incómodo.  
+38. Paciente: Entendido, doctor.  
+39. Médico: También puede ser necesario realizar una manometría esofágica para evaluar cómo funcionan los músculos de su esófago.  
+40. Paciente: Nunca había escuchado de eso, pero estoy dispuesto a hacerlo.  
+41. Médico: Gracias por su cooperación. Según lo que describe, es importante analizar si sus síntomas podrían deberse a un problema funcional o estructural.  
+42. Paciente: Sí, lo que quiero es poder comer tranquilo como antes.  
+43. Médico: ¿Tiene alguna pregunta o inquietud antes de que avancemos con las pruebas?  
+44. Paciente: No, solo espero que encontremos lo que está pasando.  
+45. Médico: Una vez tengamos los resultados, podremos identificar el problema y decidir el mejor tratamiento.  
+46. Paciente: Perfecto, gracias, doctor.  
+47. Médico: Bueno, tras las pruebas que realizamos, puedo confirmar que tiene una condición llamada acalasia esofágica, tipo II.  
+48. Paciente: ¿Qué significa eso?  
+49. Médico: Es un trastorno que afecta la capacidad de su esófago para mover alimentos hacia el estómago, debido a un problema en el músculo y el esfínter esofágico inferior.  
+50. Paciente: ¿Tiene tratamiento?  
+Fin de la conversación."

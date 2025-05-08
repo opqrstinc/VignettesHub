@@ -1,0 +1,51 @@
+"1. Médico: Buenos días, señora. ¿Qué la trae hoy a la consulta?  
+2. Paciente: Hola, doctor. Tengo un dolor fuerte en la parte baja de la espalda que se va hacia mi pierna izquierda, y llevo así como cuatro semanas.  
+3. Médico: Entiendo. ¿Puede describirme cómo comenzó el dolor?  
+4. Paciente: Comenzó poco a poco después de mover unas cajas pesadas en casa. Al principio era solo en la espalda, pero luego empezó a bajar por la pierna.  
+5. Médico: ¿Ese dolor está siempre presente o hay momentos en que mejora?  
+6. Paciente: Es constante, pero cuando me siento o me agacho es peor. Dormir también es difícil.  
+7. Médico: ¿Siente algo más en la pierna, además del dolor?  
+8. Paciente: Sí, siento como hormigueo en toda la pierna y hasta en el pie.  
+9. Médico: ¿Ha sentido pérdida de fuerza en la pierna o dificultad para caminar?  
+10. Paciente: Sí, a veces arrastro un poco la pierna izquierda porque no puedo moverla bien.  
+11. Médico: ¿Ha notado algún cambio en su capacidad para controlar las necesidades de ir al baño?  
+12. Paciente: No, todo está normal en ese sentido.  
+13. Médico: ¿Ha tenido fiebre, pérdida de peso o algún otro síntoma últimamente?  
+14. Paciente: No, nada de eso.  
+15. Médico: ¿Ha tenido problemas similares antes o algún trauma reciente en la espalda?  
+16. Paciente: No, nunca algo como esto, y no he tenido golpes ni accidentes.  
+17. Médico: ¿Algún historial de enfermedades en los huesos o en la columna?  
+18. Paciente: No, nada que recuerde.  
+19. Médico: ¿Está tomando algún medicamento o tiene alergias a alguno?  
+20. Paciente: Solo tomo un paracetamol cuando duele mucho, pero no ayuda mucho. No tengo alergias.  
+21. Médico: Vamos a revisar su espalda ahora. Por favor, dígame si siente dolor cuando toco.  
+22. Paciente: Auh, sí, duele mucho cuando toca ahí abajo en el centro.  
+23. Médico: Comprendo. ¿Este dolor se extiende hacia la pierna?  
+24. Paciente: Sí, lo siento más cuando levanto la pierna izquierda.  
+25. Médico: Muy bien. Voy a realizar un par de pruebas más. Por favor, levante esta pierna. Avísame si siente dolor en algún punto.  
+26. Paciente: Ahí, ahí, duele mucho cuando está un poco arriba.  
+27. Médico: Perfecto, eso es suficiente. Ahora revisaremos los reflejos en sus piernas.  
+28. Paciente: Está bien, doctor.  
+29. Médico: El reflejo de su tobillo izquierdo está algo disminuido. También noto menos fuerza en el dedo gordo de su pie izquierdo. ¿Se dio cuenta?  
+30. Paciente: Sí, a veces siento como si no pudiera moverlo correctamente.  
+31. Médico: Ahora voy a revisar su sensibilidad. Dígame si siente algo diferente en esta área de su pierna.  
+32. Paciente: Sí, esa parte se siente como dormida, medio rara.  
+33. Médico: Entiendo. Hasta ahora parece que el problema está en la raíz nerviosa de la columna, probablemente en la zona lumbar.  
+34. Paciente: ¿Eso es grave?  
+35. Médico: Es común en personas que hacen esfuerzos físicos. La causa podría ser una hernia de disco. Necesitamos confirmar con una resonancia magnética.  
+36. Paciente: ¿Y eso duele?  
+37. Médico: No, la resonancia es solo una imagen. También evaluaremos los nervios con un examen llamado EMG.  
+38. Paciente: De acuerdo, doctor. Quiero saber qué está pasando.  
+39. Médico: Perfecto. Por ahora recomendaré algo para aliviar el dolor y la inflamación.  
+40. Paciente: Gracias, porque ya no aguanto más este dolor.  
+41. Médico: Le recetaré dexketoprofeno y pregabalina para el dolor y las molestias nerviosas. También diazepam para el músculo.  
+42. Paciente: ¿Eso me ayudará a caminar mejor?  
+43. Médico: Aliviará los síntomas, pero también será esencial empezar fisioterapia después de unos días de reposo.  
+44. Paciente: Está bien. Tengo que mejorar rápido porque mi trabajo requiere mucha actividad.  
+45. Médico: Descanse unos días y evite levantar cosas pesadas. La postura es clave.  
+46. Paciente: Sí, lo tendré en cuenta. ¿Algo más que deba saber?  
+47. Médico: Por favor, regrese en unas semanas para que verifiquemos los avances con los exámenes y el tratamiento.  
+48. Paciente: Haré todo lo que me diga, doctor. Gracias por su ayuda.  
+49. Médico: Después de los resultados, confirmaremos la hernia discal en L4-L5 y adaptaremos cualquier tratamiento necesario.  
+50. Paciente: Está bien, doctor. Espero que esto se solucione pronto.  
+"

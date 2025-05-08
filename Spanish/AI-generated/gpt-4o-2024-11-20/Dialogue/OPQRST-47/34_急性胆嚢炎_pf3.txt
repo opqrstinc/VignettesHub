@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señora. ¿Qué la trae hoy a urgencias?  
+2. Paciente: Doctor, desde ayer tengo un dolor muy fuerte en la parte derecha del abdomen.  
+3. Médico: ¿Desde cuándo comenzó exactamente este dolor?  
+4. Paciente: Empezó ayer por la mañana, hace unas 24 horas.  
+5. Médico: ¿Dónde siente el dolor con mayor intensidad?  
+6. Paciente: En el lado derecho, justo debajo de las costillas.  
+7. Médico: ¿Es un dolor constante o intermitente?  
+8. Paciente: Es constante, no se va ni con los analgésicos que tomé en casa.  
+9. Médico: ¿El dolor se irradia hacia alguna otra parte del cuerpo?  
+10. Paciente: Sí, siento como que se va hacia la espalda, cerca del omóplato derecho.  
+11. Médico: ¿Tuvo náuseas o vómitos?  
+12. Paciente: Sí, mucha náusea, pero no he vomitado.  
+13. Médico: ¿Ha tenido fiebre?  
+14. Paciente: Sí, anoche me medí la temperatura y tenía 38,5 °C.  
+15. Médico: ¿Ha tenido episodios de ictericia, es decir, piel o ojos amarillos?  
+16. Paciente: No, doctor, mis ojos y piel están normales.  
+17. Médico: ¿Cómo han sido sus evacuaciones intestinales últimamente?  
+18. Paciente: No he notado nada raro, todo ha sido normal.  
+19. Médico: ¿Ha tenido resfriados, infecciones de la garganta o algún problema urinario reciente?  
+20. Paciente: No, nada por el estilo.  
+21. Médico: ¿Tiene antecedentes médicos importantes?  
+22. Paciente: Sí, hace años me dijeron que tengo piedras en la vesícula, pero nunca me habían molestado.  
+23. Médico: ¿Ha tenido problemas similares en el pasado?  
+24. Paciente: No, esta es la primera vez que tengo un dolor tan fuerte.  
+25. Médico: ¿Qué medicación tomó para el dolor?  
+26. Paciente: Solo paracetamol, pero no me ayudó mucho.  
+27. Médico: ¿Tiene alergia a algún medicamento?  
+28. Paciente: No, no que yo sepa.  
+29. Médico: ¿Puede describir el tipo de dolor? ¿Es como una presión, un ardor o algo más?  
+30. Paciente: Es como una opresión muy fuerte, a veces siento que me falta el aire.  
+31. Médico: En sus actividades diarias, ¿este dolor le ha incapacitado?  
+32. Paciente: Sí, no puedo moverme bien ni hacer lo básico en casa.  
+33. Médico: Vamos a hacer una exploración. Avíseme si siente dolor cuando presione aquí. *Presiona el hipocondrio derecho.*  
+34. Paciente: ¡Ah! Sí, duele mucho.  
+35. Médico: Muy bien, eso es suficiente por ahora. ¿Ese dolor aumenta cuando respiro hondo?  
+36. Paciente: Sí, cuando respiro profundo, empeora.  
+37. Médico: Gracias por decírmelo. Ahora, sobre su dieta habitual, ¿ha comido alimentos grasos recientemente?  
+38. Paciente: No, mi dieta ha sido bastante normal, sin excesos.  
+39. Médico: Perfecto. Por el momento necesitamos hacerle exámenes de sangre y una ecografía abdominal.  
+40. Paciente: Claro, lo que sea necesario, doctor.  
+41. Médico: Gracias por colaborar. ¿Siente algo más que deba mencionarme?  
+42. Paciente: Pues, solo ese dolor y la náusea, nada más.  
+43. Médico: Muy bien. Los análisis muestran que tiene un poco de inflamación y signos de infección.  
+44. Paciente: ¿Eso es grave?  
+45. Médico: Podría ser una inflamación de la vesícula biliar relacionada con sus piedras anteriores.  
+46. Paciente: ¿Tendré que operarme?  
+47. Médico: Es probable, dependiendo de cómo responda al tratamiento inicial.  
+48. Paciente: ¿Qué tratamiento me darán ahora?  
+49. Médico: Usaremos antibióticos intravenosos y medicación para el dolor, y la mantendremos en observación.  
+50. Paciente: Está bien, doctor. Espero que esto mejore pronto."

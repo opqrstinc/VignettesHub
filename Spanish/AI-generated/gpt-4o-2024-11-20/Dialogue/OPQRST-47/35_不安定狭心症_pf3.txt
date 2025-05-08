@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, señor. ¿Qué lo trae a consulta hoy?  
+2. Paciente: Buenas tardes, doctor. He estado teniendo dolores en el pecho que me preocupan.  
+3. Médico: Lo siento mucho. ¿Puede describirme cómo es ese dolor?  
+4. Paciente: Es como una presión fuerte en el centro del pecho, se siente muy incómodo.  
+5. Médico: ¿El dolor se queda en el pecho o se irradia a alguna otra parte del cuerpo?  
+6. Paciente: Sí, se va al brazo izquierdo y a veces siento que sube hacia la mandíbula.  
+7. Médico: ¿Cuándo comenzó a sentir estos dolores?  
+8. Paciente: Hace tres días empezó, estaba haciendo ejercicio y de repente me vino ese dolor.  
+9. Médico: ¿Por cuánto tiempo dura el dolor?  
+10. Paciente: Dura como 15 minutos, pero se quita solo cuando descanso.  
+11. Médico: ¿Los episodios han sido iguales al primero o han cambiado en intensidad o frecuencia?  
+12. Paciente: Han ido empeorando, ahora los siento más intensos y más seguidos.  
+13. Médico: ¿Ha notado otros síntomas durante estos episodios, como falta de aire o palpitaciones?  
+14. Paciente: Sí, me cuesta trabajo respirar y siento que el corazón late muy rápido.  
+15. Médico: ¿Tiene antecedentes de problemas cardíacos, presión alta o colesterol elevado?  
+16. Paciente: Sí, tengo el colesterol alto, pero no sabía que podría ser tan grave.  
+17. Médico: Ha tomado algo para este problema de colesterol previamente, ¿algún medicamento?  
+18. Paciente: No, nunca me dieron tratamiento, solo me dijeron que cuidara mi alimentación.  
+19. Médico: Además del dolor en el pecho, ¿ha tenido mareos, sudoración o náuseas?  
+20. Paciente: A veces sudo mucho, especialmente durante el dolor, pero no mareos ni náuseas.  
+21. Médico: ¿Ha tenido problemas similares en el pasado, aunque sean menos intensos?  
+22. Paciente: No, es la primera vez que me pasa algo así.  
+23. Médico: ¿Alguien en su familia tiene enfermedades del corazón o ha tenido infartos?  
+24. Paciente: Mi padre tuvo un infarto cuando tenía 60 años.  
+25. Médico: ¿Cómo se encuentra ahora mismo, tiene dolor o algún malestar?  
+26. Paciente: Ahora mismo no, estoy bien porque estoy sentado y tranquilo.  
+27. Médico: ¿Cuánto ejercicio suele hacer y qué tipo de actividad realiza?  
+28. Paciente: Camino de forma ligera durante unos 30 minutos al día.  
+29. Médico: ¿Consume tabaco, alcohol o alguna otra sustancia?  
+30. Paciente: No fumo, pero tomo una copa de vino los fines de semana.  
+31. Médico: Está bien. ¿Cómo es su alimentación, consume muchas grasas o comida procesada?  
+32. Paciente: Como bien, pero quizás como demasiados quesos y carnes grasas.  
+33. Médico: Voy a hacerle unas preguntas sobre su historial médico general. ¿Tiene diabetes o presión alta?  
+34. Paciente: No, mi azúcar siempre está normal, y mi presión también, según los médicos.  
+35. Médico: Perfecto. ¿Ha notado hinchazón en las piernas o dificultad para respirar mientras está acostado?  
+36. Paciente: No, no he sentido nada de eso.  
+37. Médico: ¿Alguna cirugía reciente o episodios de coagulación en la familia?  
+38. Paciente: No, nada de eso.  
+39. Médico: Le contaré lo que hemos encontrado en los exámenes: su presión y pulso están normales, y su corazón parece trabajar correctamente.  
+40. Paciente: Me alivia saber eso, pero el dolor sigue preocupándome.  
+41. Médico: Hicimos un electrocardiograma y mostró algunos cambios en las ondas que podrían corresponder a un problema en el riego sanguíneo del corazón.  
+42. Paciente: Eso suena serio, doctor. ¿Es muy peligroso?  
+43. Médico: Es importante, pero tenemos tiempo para actuar. Además, su sangre mostró un leve daño en el corazón, pero nada alarmante por el momento.  
+44. Paciente: Entonces, ¿qué cree que sea lo que me está pasando?  
+45. Médico: Por los síntomas y los exámenes, creemos que tiene una angina inestable. Es una condición en la que las arterias del corazón no llevan suficiente sangre al músculo cardíaco en ciertos momentos.  
+46. Paciente: ¿Eso significa que podría tener un infarto?  
+47. Médico: Es posible que sin tratamiento evolucionara a algo más grave, pero estamos aquí para prevenirlo.  
+48. Paciente: ¿Qué tengo que hacer ahora, doctor?  
+49. Médico: Vamos a empezar un tratamiento con medicamentos para aliviar sus síntomas, proteger su corazón y reducir el riesgo de complicaciones.  
+50. Paciente: Gracias, doctor. Haré todo lo que me diga para estar mejor."

@@ -1,0 +1,50 @@
+"1. Physician: What brings you in today?  
+2. Patient: I've been having a really bad headache since last night.  
+3. Physician: Can you describe the headache? Where exactly do you feel it?  
+4. Patient: It's throbbing and mostly on the right side of my head, around here.  
+5. Physician: How severe is the pain, on a scale from 1 to 10?  
+6. Patient: It's about an 8 out of 10.  
+7. Physician: When did the headache start?  
+8. Patient: About 12 hours ago.  
+9. Physician: Have you noticed anything that makes it worse or better?  
+10. Patient: Light and noise make it worse... I just want to stay in a dark, quiet room.  
+11. Physician: Do you feel nauseous or have you vomited?  
+12. Patient: I feel really nauseous, but I haven’t thrown up.  
+13. Physician: Did you notice any changes in your vision before the headache started?  
+14. Patient: Yes, I saw these weird wavy lines and bright spots on the side of my vision.  
+15. Physician: How long did those visual symptoms last?  
+16. Patient: About 20 minutes, then they went away.  
+17. Physician: Have you ever had similar headaches in the past?  
+18. Patient: Yeah, I get headaches like this a couple of times a month, but this one is worse than usual.  
+19. Physician: Do these headaches always start with visual symptoms like you described?  
+20. Patient: Yes, most of the time I see the wavy lines before the pain starts.  
+21. Physician: Have you tried anything to relieve the pain, like over-the-counter medications or rest?  
+22. Patient: I took some ibuprofen, but it didn’t help much.  
+23. Physician: Have you recently had a fever or any symptoms like a runny nose or cough?  
+24. Patient: No, nothing like that.  
+25. Physician: Any neck stiffness or unusual sensitivity in your neck movements?  
+26. Patient: No, my neck feels fine.  
+27. Physician: Do you recall any recent head injuries or trauma?  
+28. Patient: No, nothing like that has happened.  
+29. Physician: Are you currently taking any new medications or supplements?  
+30. Patient: No, just the usual stuff — nothing new.  
+31. Physician: Any changes in your diet, exercise, or sleep patterns recently?  
+32. Patient: No, not really. Everything's been the same.  
+33. Physician: Do you drink caffeine or use any alcohol or drugs?  
+34. Patient: I drink coffee sometimes but nothing too excessive, and I don't use drugs or alcohol.  
+35. Physician: Is there any family history of similar headaches or migraines?  
+36. Patient: Yeah, my mom also gets migraines.  
+37. Physician: Have you ever experienced any weakness, numbness, or difficulty speaking during these episodes?  
+38. Patient: No, nothing like that, just the headache and sometimes the visual stuff.  
+39. Physician: Do these headaches interfere with your daily activities or schoolwork?  
+40. Patient: Yeah, they can be pretty disabling, especially when they're bad like this one.  
+41. Physician: Aside from headaches, have you had any dizziness, ringing in your ears, or balance problems?  
+42. Patient: No, none of those.  
+43. Physician: Have you noticed any weight loss, fatigue, or other symptoms recently?  
+44. Patient: No, I feel fine otherwise.  
+45. Physician: Are there any triggers you’ve noticed, like certain foods, stress, or lack of sleep?  
+46. Patient: Stress might play a role, and skipping meals sometimes brings on a headache.  
+47. Physician: When you don't have the headaches, do you feel completely normal?  
+48. Patient: Yes, I feel fine when I don’t have them.  
+49. Physician: Thanks for sharing all of that. Based on your symptoms and history, it seems like you have migraines with aura. I'll explain more about this in a moment.  
+50. Patient: Oh, is that what this is? I was worried it might be something serious.  "

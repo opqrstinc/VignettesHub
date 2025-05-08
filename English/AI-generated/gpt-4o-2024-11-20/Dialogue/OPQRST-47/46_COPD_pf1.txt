@@ -1,0 +1,51 @@
+"1. Physician: What brings you in today?  
+2. Patient: I've been coughing a lot for years now, bringing up mucus, and lately, I’ve been getting more breathless, especially when I walk.  
+3. Physician: I see. How long have you been experiencing these symptoms?  
+4. Patient: It’s been about two years, but it’s gotten worse over time.  
+5. Physician: Can you describe your cough? Is it dry or does it bring up anything?  
+6. Patient: It’s usually a wet cough with a lot of mucus, particularly in the mornings.  
+7. Physician: Do you notice any wheezing or whistling sounds when you breathe?  
+8. Patient: Yes, sometimes I hear a whistling sound, especially when I feel short of breath.  
+9. Physician: Have you had any chest pain or tightness?  
+10. Patient: No, I haven’t had chest pain.  
+11. Physician: Have you ever coughed up blood?  
+12. Patient: No, I haven’t coughed up blood.  
+13. Physician: Have you had any fevers or chills?  
+14. Patient: No, none of that.  
+15. Physician: Do you feel breathless all the time, or is it worse during certain activities?  
+16. Patient: It’s worse when I try to walk up stairs or hurry somewhere.  
+17. Physician: Have you ever had any serious lung issues before?  
+18. Patient: About 15 years ago, I had a collapsed lung, but it got better on its own.  
+19. Physician: Do you smoke or have you smoked in the past?  
+20. Patient: Yes, I still smoke. I’ve been smoking for over 40 years.  
+21. Physician: How much do you typically smoke?  
+22. Patient: About a pack a day.  
+23. Physician: Have you worked in jobs where you were exposed to dust or chemical fumes?  
+24. Patient: Yes, I spent years working in construction around dust and sometimes chemicals.  
+25. Physician: Does anyone in your family have lung problems or asthma?  
+26. Patient: No, not that I know of.  
+27. Physician: Have you ever used inhalers or seen a doctor for breathing problems before?  
+28. Patient: No, this is actually the first time I’ve talked to a doctor about it.  
+29. Physician: Do you ever feel so short of breath that it wakes you up at night?  
+30. Patient: No, it doesn’t bother me much at night, mainly during activities.  
+31. Physician: Do you have any swelling in your legs or trouble lying flat while sleeping?  
+32. Patient: No, I haven’t noticed anything like that.  
+33. Physician: Have you unintentionally lost weight recently?  
+34. Patient: Yes, I feel like I’ve lost some weight over the past year without trying.  
+35. Physician: Do you feel like your breathing issues are improving, staying the same, or getting worse?  
+36. Patient: They’ve definitely been getting worse, more than before.  
+37. Physician: How often do you find yourself coughing during the day?  
+38. Patient: Probably several times a day, especially in the mornings.  
+39. Physician: Can you tell me about your energy level?  
+40. Patient: I feel tired all the time, and even doing small things gets me out of breath.  
+41. Physician: Have you had any recent infections, like colds or pneumonia?  
+42. Patient: No, nothing like that recently.  
+43. Physician: Do you notice if the weather or air quality affects your symptoms?  
+44. Patient: Yes, on cold days or when there’s a lot of smoke in the air, it feels harder to breathe.  
+45. Physician: Have you been vaccinated for the flu or pneumonia?  
+46. Patient: I got the flu shot last year, but I’m not sure about the pneumonia vaccine.  
+47. Physician: Have your symptoms kept you from doing things you used to enjoy?  
+48. Patient: Yes, I used to enjoy gardening, but I can’t keep up with it anymore.  
+49. Physician: Are you willing to quit smoking? It could significantly help your condition.  
+50. Patient: I’ve thought about it, but I don’t know where to start.  
+51. Physician: From everything we’ve discussed, it seems you may have chronic obstructive pulmonary disease, or COPD. We’ll confirm this with a few tests."

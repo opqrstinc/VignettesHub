@@ -1,0 +1,150 @@
+"1.  
+Physician: Hello, I’m Dr. Smith. What brings you in today?  
+Patient: Hi, I’ve been feeling really sick for the past few days.  
+2.  
+Physician: Can you tell me more about your symptoms?  
+Patient: I’ve had a fever for three days, I feel really tired, and it’s hard to breathe at times.  
+3.  
+Physician: What’s the highest temperature you’ve recorded with the fever?  
+Patient: It went up to around 39.2°C, I think it’s about 102.5°F.  
+4.  
+Physician: Is the fever constant, or does it come and go?  
+Patient: It comes and goes, but when it’s there, it feels really bad.  
+5.  
+Physician: Have you noticed any other symptoms?  
+Patient: Yeah, I suddenly lost my sense of taste two days ago, and I can't smell anything either.  
+6.  
+Physician: That sounds uncomfortable. Did anything specific trigger the symptoms, or was it abrupt?  
+Patient: It just started out of nowhere.  
+7.  
+Physician: How has your breathing been?  
+Patient: It’s been getting worse over the last day. I feel out of breath just doing small things.  
+8.  
+Physician: Do you have any chest pain when you breathe or at rest?  
+Patient: No, my chest doesn’t hurt at all.  
+9.  
+Physician: What about coughing? Any issues with that?  
+Patient: No, I haven’t had any cough at all.  
+10.  
+Physician: Have you had a sore throat or nasal congestion?  
+Patient: No sore throat, and my nose isn’t stuffy either.  
+11.  
+Physician: Have you had chills, muscle aches, or headaches?  
+Patient: I’ve had some chills and a bit of muscle soreness, but I wouldn’t say it’s too bad.  
+12.  
+Physician: Have you felt fatigued more than usual?  
+Patient: Definitely. Even getting up feels like running a marathon.  
+13.  
+Physician: I’m sorry to hear that. Do you have any underlying health conditions?  
+Patient: No, I’ve been pretty healthy overall.  
+14.  
+Physician: Do you have any history of asthma or other breathing problems?  
+Patient: No, I’ve never had any issues with my lungs before.  
+15.  
+Physician: Are you a smoker or have you been exposed to smoke recently?  
+Patient: No, I don’t smoke or hang out with people who do.  
+16.  
+Physician: Have you been around anyone sick recently?  
+Patient: Yes, about a week ago, I was around someone who later told me they were positive for COVID-19.  
+17.  
+Physician: I see. Have you traveled recently or been in crowded places?  
+Patient: No, I’ve just been staying home mostly except for school.  
+18.  
+Physician: Have you noticed any rashes or changes in your skin?  
+Patient: No, my skin looks normal, I think.  
+19.  
+Physician: Does it feel like your symptoms are getting worse or staying the same?  
+Patient: Definitely worse, especially the breathing trouble.  
+20.  
+Physician: That shortness of breath, does it happen at rest, or only with activity?  
+Patient: Mostly when I try to move around too much.  
+21.  
+Physician: What’s the worst thing you feel right now?  
+Patient: The breathing and how tired I feel.  
+22.  
+Physician: Are you able to eat or drink okay?  
+Patient: Yeah, although I can’t taste anything, which is weird.  
+23.  
+Physician: When did you first notice the loss of taste and smell?  
+Patient: It started on the second day after the fever began.  
+24.  
+Physician: Does anything help improve or worsen your symptoms?  
+Patient: Rest helps a little, but nothing really makes it go away.  
+25.  
+Physician: Do you live alone, or are you with family?  
+Patient: I live with my parents and my sister.  
+26.  
+Physician: Are any of them experiencing similar symptoms?  
+Patient: No, everyone else seems fine so far.  
+27.  
+Physician: Have you been able to monitor your oxygen levels, like with a pulse oximeter?  
+Patient: No, I haven’t checked it.  
+28.  
+Physician: Do you feel lightheaded or dizzy at any point?  
+Patient: No, not really.  
+29.  
+Physician: Do you have any allergies to medications or anything else?  
+Patient: No, I don’t have any allergies.  
+30.  
+Physician: Have you taken any medications for the fever or other symptoms?  
+Patient: I’ve taken acetaminophen, and it helped a little with the fever.  
+31.  
+Physician: Have you noticed any swelling, like in your legs or anywhere else?  
+Patient: No, I haven’t noticed anything like that.  
+32.  
+Physician: Out of everything, what concerns you the most about how you feel?  
+Patient: It’s the breathing, because I don’t know why it’s getting worse.  
+33.  
+Physician: Have you experienced anything like this before?  
+Patient: No, this is the first time I’ve felt this way.  
+34.  
+Physician: Were you vaccinated for COVID-19?  
+Patient: No, I haven’t gotten the vaccine yet.  
+35.  
+Physician: Do you have access to a thermometer to monitor your fever at home?  
+Patient: Yes, we have one at home.  
+36.  
+Physician: Any nausea, vomiting, or diarrhea since this started?  
+Patient: No, my stomach’s been fine.  
+37.  
+Physician: Have you been drinking enough liquids despite the fever?  
+Patient: I try, but I’m not drinking as much as usual.  
+38.  
+Physician: How does your breathing feel right now while sitting here?  
+Patient: It’s not great, but I can manage if I stay still.  
+39.  
+Physician: Have you had any chest tightness or heart racing sensations?  
+Patient: My heart feels like it’s beating fast sometimes.  
+40.  
+Physician: Do you feel like you’re breathing faster than normal?  
+Patient: Yes, especially when I move around.  
+41.  
+Physician: Have you experienced any pain when you take a deep breath?  
+Patient: No, deep breaths don’t hurt.  
+42.  
+Physician: Are you currently eating less because you can’t taste?  
+Patient: A little less, because it’s not very satisfying when I can’t taste food.  
+43.  
+Physician: Do your family members interact with others outside the home often?  
+Patient: My sister goes to work, but my parents mostly stay home.  
+44.  
+Physician: Have you ever needed oxygen before for a medical issue?  
+Patient: No, never.  
+45.  
+Physician: When you lay down, does your breathing feel worse?  
+Patient: No, laying down doesn’t seem to change it.  
+46.  
+Physician: Have you noticed any wheezing or noisy breathing?  
+Patient: Not at all, my breathing just feels heavy.  
+47.  
+Physician: Do you wear a mask when you go out?  
+Patient: Yes, I always wear one.  
+48.  
+Physician: Given your close contact with a COVID-19 patient, I’d like to run some tests, including a COVID swab.  
+Patient: Okay, that makes sense.  
+49.  
+Physician: We’ll also check your oxygen levels and do some imaging of your chest to rule out other issues.  
+Patient: Alright, I just hope this isn’t something serious.  
+50.  
+Physician: Based on your symptoms, close contact, and test results, you have a mild-to-moderate case of COVID-19 pneumonia.  
+Patient: Oh, I was afraid it might be something like that. What now?  "

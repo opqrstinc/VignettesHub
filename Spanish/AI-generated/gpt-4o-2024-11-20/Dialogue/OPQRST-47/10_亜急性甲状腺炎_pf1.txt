@@ -1,0 +1,50 @@
+"1. Médico: Hola, señor. Soy el doctor. ¿Qué lo trae por aquí hoy?  
+2. Paciente: Buenas, doctor. Llevo como diez días con un dolor en el cuello que no mejora, además he tenido algo de fiebre.  
+3. Médico: Entendido. ¿El dolor es constante o aparece y desaparece?  
+4. Paciente: Es constante, aunque hay momentos en que se siente más fuerte.  
+5. Médico: ¿Dónde exactamente siente el dolor? ¿Puede señalarme?  
+6. Paciente: Aquí enfrente, en la parte baja del cuello. A veces duele la mandíbula y el oído derecho.  
+7. Médico: Gracias. ¿Recuerda qué hacía o qué pasó cuando empezó este dolor?  
+8. Paciente: Nada especial. Simplemente, de un día para otro, empezó como una molestia leve.  
+9. Médico: Entiendo. ¿Ha notado algún cambio en su voz, como ronquera?  
+10. Paciente: No, mi voz sigue normal.  
+11. Médico: ¿Ha tenido dificultad para tragar o respirar?  
+12. Paciente: No, no he tenido problemas para comer ni respirar.  
+13. Médico: Muy bien. ¿Ha observado algún cambio en su peso recientemente?  
+14. Paciente: No, mi peso sigue igual.  
+15. Médico: ¿Algún problema con su apetito o sudores nocturnos?  
+16. Paciente: No, como siempre y no he sudado por las noches.  
+17. Médico: Perfecto. Ahora, ha mencionado fiebre. ¿Ha medido su temperatura?  
+18. Paciente: Sí, a veces sube un poco, como 37.8 o 38 grados.  
+19. Médico: ¿La fiebre aparece a una hora en particular del día o es más constante?  
+20. Paciente: No he notado que tenga horario, parece aleatoria.  
+21. Médico: ¿Ha sentido escalofríos o debilidad general?  
+22. Paciente: Debilidad, un poco, pero escalofríos no.  
+23. Médico: ¿Ha tomado algo para el dolor?  
+24. Paciente: Sí, mi médico me dio AINEs, pero no me han ayudado.  
+25. Médico: Entendido. ¿Algo más que haya notado en estos días?  
+26. Paciente: Ahora que lo pienso, a veces siento palpitaciones, como si el corazón latiera rápido.  
+27. Médico: Es importante. ¿Tiene antecedentes de enfermedad cardíaca o algo similar?  
+28. Paciente: No, pero tengo hipertensión y tomo enalapril.  
+29. Médico: Gracias por mencionarlo. ¿Sus familiares tienen alguna enfermedad tiroidea o algo relevante?  
+30. Paciente: No, nadie en mi familia tiene problemas de la tiroides.  
+31. Médico: Perfecto. ¿Algún cambio reciente en medicamentos, como nuevos fármacos?  
+32. Paciente: No, sigo tomando solo el enalapril.  
+33. Médico: ¿Está en contacto con alguien que haya estado enfermo recientemente?  
+34. Paciente: No, que yo sepa, nadie en casa está enfermo.  
+35. Médico: Muy bien. Voy a examinar su cuello. ¿Me avisa si siente dolor?  
+36. Paciente: Claro, adelante.  
+37. Médico: Al palpar su tiroides, noto que está aumentada de tamaño y muy sensible. ¿Es este el sitio donde le duele más?  
+38. Paciente: Sí, justo ahí.  
+39. Médico: No he encontrado ganglios inflamados alrededor del cuello. ¿Algo de esto le parece nuevo o preocupante?  
+40. Paciente: Es nuevo, nunca antes tuve algo así.  
+41. Médico: Correcto. Ahora, mencionaré algunos síntomas para confirmar. ¿Ha sentido temblores o debilidad muscular?  
+42. Paciente: Temblores, no. ¿Debilidad muscular? Quizá un poco en las piernas.  
+43. Médico: Gracias. ¿Cómo ha ido su ánimo recientemente?  
+44. Paciente: Normal, aunque esto me tiene preocupado.  
+45. Médico: Lo entiendo. Con base en lo que me cuenta y lo que veo, debemos hacer análisis y estudios.  
+46. Paciente: Muy bien, doctor. ¿Qué piensa que puede ser?  
+47. Médico: Podría estar relacionado con la tiroides, quizás una inflamación. Quiero confirmarlo con pruebas.  
+48. Paciente: ¿Algo grave?  
+49. Médico: No lo creo, pero quiero estar seguro. Los resultados muestran una tiroiditis subaguda, conocida como tiroiditis de Quervain.  
+50. Paciente: ¿Qué significa eso?  "

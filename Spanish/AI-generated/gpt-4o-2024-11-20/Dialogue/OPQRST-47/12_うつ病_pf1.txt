@@ -1,0 +1,51 @@
+"1. Médico: Hola, ¿qué le trae hoy a consulta?  
+2. Paciente: Buenos días, doctor. Últimamente me siento con mucha falta de motivación para trabajar y casi no puedo dormir.  
+3. Médico: Entiendo. ¿Desde hace cuánto tiempo siente así?  
+4. Paciente: Más o menos desde hace seis meses, creo. Ha ido empeorando poco a poco.  
+5. Médico: Además de la falta de motivación y el insomnio, ¿ha notado otros cambios en su estado de ánimo?  
+6. Paciente: Sí, siento tristeza casi todo el tiempo y ya no disfruto las cosas que antes me gustaban.  
+7. Médico: Eso suena difícil. ¿Hay algo en particular que haya desencadenado estos síntomas?  
+8. Paciente: No, realmente no puedo pensar en nada específico.  
+9. Médico: ¿Ha tenido dificultades para concentrarse o para realizar sus actividades diarias?  
+10. Paciente: Sí, me cuesta mucho concentrarme y siento que no tengo energía para nada.  
+11. Médico: ¿Ha sentido alguna vez que su vida no tiene sentido o ha tenido pensamientos relacionados con no querer vivir?  
+12. Paciente: No, doctor, nunca he pensado en hacerme daño, pero sí me siento inútil a veces.  
+13. Médico: ¿Cómo están las cosas en casa o en el trabajo? ¿Alguien más ha notado estos cambios?  
+14. Paciente: En casa, mi familia me dice que me ven desanimado, y en el trabajo he bajado mucho mi rendimiento.  
+15. Médico: ¿Suele tener apoyo de su familia o amigos en estos momentos complicados?  
+16. Paciente: Sí, mi familia me apoya, pero no saben mucho qué hacer.  
+17. Médico: ¿Alguna vez ha sentido síntomas similares en el pasado?  
+18. Paciente: No, esta es la primera vez que me siento así.  
+19. Médico: ¿Ha tenido algún problema médico recientemente?  
+20. Paciente: No, normalmente estoy sano.  
+21. Médico: ¿Consume alcohol, tabaco o alguna otra sustancia?  
+22. Paciente: No, no consumo nada de eso.  
+23. Médico: ¿Hay algún antecedente familiar de enfermedades mentales como depresión o ansiedad?  
+24. Paciente: No, que yo sepa, nadie en mi familia ha tenido nada así.  
+25. Médico: Entendido. ¿Su apetito o peso han cambiado en estos últimos meses?  
+26. Paciente: Sí, he perdido un poco de apetito y peso, pero no demasiado.  
+27. Médico: ¿Ha tenido alguna dificultad para tomar decisiones o realizar tareas cotidianas que antes resultaban fáciles?  
+28. Paciente: Sí, a veces me siento abrumado por cosas simples.  
+29. Médico: ¿Cuántas horas duerme aproximadamente cada noche?  
+30. Paciente: Creo que duermo unas tres o cuatro horas, pero no seguidas, me despierto mucho.  
+31. Médico: ¿Cuando intenta dormir, siente que su mente está muy activa o preocupada?  
+32. Paciente: Sí, siempre estoy pensando en todo lo que no puedo hacer bien.  
+33. Médico: ¿Ha tenido cambios en sus rutinas diarias o en sus relaciones sociales?  
+34. Paciente: Sí, casi no salgo ni hablo con mis amigos como antes.  
+35. Médico: Cuando intenta hacer algo que antes disfrutaba, ¿logra encontrar algo de placer?  
+36. Paciente: No, todo me parece aburrido o sin sentido.  
+37. Médico: ¿Qué tipo de actividades solía disfrutar antes?  
+38. Paciente: Me gustaba mucho jugar al fútbol y salir con mis amigos, pero ya no lo hago.  
+39. Médico: ¿Cuándo fue la última vez que se sintió completamente bien?  
+40. Paciente: Creo que fue hace como siete u ocho meses, antes de que empezara esto.  
+41. Médico: ¿Ha notado algún cambio físico, como dolores de cabeza o molestias en el cuerpo?  
+42. Paciente: A veces me duele la cabeza, pero no es algo muy constante.  
+43. Médico: ¿Por qué decidió buscar ayuda ahora?  
+44. Paciente: Porque esto me está afectando demasiado. No quiero seguir sintiéndome así por más tiempo.  
+45. Médico: Me alegra que haya decidido venir. Vamos a explorar más para entender lo que sucede.  
+46. Paciente: Gracias, doctor, espero poder mejorar.  
+47. Médico: Realizaremos algunas pruebas para descartar problemas médicos. ¿Está de acuerdo?  
+48. Paciente: Sí, claro, lo que sea necesario.  
+49. Médico: Según lo que hemos hablado y después de las pruebas que realizamos, creo que sus síntomas son consistentes con un trastorno depresivo mayor.  
+50. Paciente: ¿Eso se puede tratar?  
+(Médico comienza a explicar el diagnóstico y el tratamiento, finalizando la consulta).  "

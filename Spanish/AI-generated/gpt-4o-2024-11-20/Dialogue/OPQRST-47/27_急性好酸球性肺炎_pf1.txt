@@ -1,0 +1,50 @@
+"1. Médico: Hola, ¿cómo estás? Cuéntame qué te trae por aquí hoy.  
+2. Paciente: Hola, doctor. Me siento muy mal, tengo mucha dificultad para respirar, fiebre y una tos seca que no me deja.  
+3. Médico: Entiendo. ¿Desde cuándo comenzaste a sentirte así?  
+4. Paciente: Hace aproximadamente cuatro días empezó todo, pero desde entonces ha empeorado.  
+5. Médico: ¿La tos es constante o ocurre en ciertos momentos del día?  
+6. Paciente: Es constante, no importa si estoy en reposo o haciendo algo.  
+7. Médico: ¿Has notado algo más junto con la tos, como moco o sangre?  
+8. Paciente: No, es solo una tos seca, sin flemas ni sangre.  
+9. Médico: ¿Qué me dices de la fiebre? ¿Has medido tu temperatura?  
+10. Paciente: Sí, tuve fiebre alta ayer, como de 39 grados, y no lograba que bajara.  
+11. Médico: ¿La dificultad para respirar es peor al acostarte o en ciertas posiciones?  
+12. Paciente: No lo he notado, pero parece que empeora cuando intento caminar o moverme.  
+13. Médico: ¿Has tenido algún dolor en el pecho?  
+14. Paciente: No, nada de dolor, solo esta sensación de no poder respirar bien.  
+15. Médico: ¿Has notado silbidos al respirar o ruidos extraños?  
+16. Paciente: No, solamente siento que mis pulmones no están funcionando como deberían.  
+17. Médico: ¿Has tenido algo similar en el pasado o es la primera vez que te pasa?  
+18. Paciente: Nunca me había pasado, soy bastante sano, o al menos lo creía.  
+19. Médico: Entendido. ¿Has estado en contacto con alguien enfermo recientemente?  
+20. Paciente: No que yo sepa. No he estado cerca de nadie con gripe o parecido.  
+21. Médico: ¿Has viajado recientemente fuera de la ciudad o el país?  
+22. Paciente: No, no he salido de mi ciudad en meses.  
+23. Médico: ¿Tienes alergias conocidas, ya sea a medicamentos, alimentos o algo más?  
+24. Paciente: No, no tengo alergias que yo sepa. Nunca he tenido problemas con eso.  
+25. Médico: ¿Consumes tabaco, alcohol u otras drogas?  
+26. Paciente: No, no fumo ni tomo, y no uso drogas.  
+27. Médico: ¿Tienes alguna condición médica previa o tomas medicamentos regularmente?  
+28. Paciente: No, no tengo enfermedades ni tomo medicinas.  
+29. Médico: ¿En tu familia hay antecedentes de enfermedades pulmonares o alérgicas?  
+30. Paciente: No, nadie en mi familia ha tenido problemas con los pulmones ni nada parecido.  
+31. Médico: Cuéntame un poco más sobre tu rutina diaria. ¿Has estado expuesto a algo inusual últimamente, como químicos o polvos?  
+32. Paciente: No, mi rutina es bastante normal. Voy a la escuela, paso tiempo en casa, nada especial.  
+33. Médico: ¿Practicas algún deporte o actividad física regularmente?  
+34. Paciente: Hacía algo de deporte en la escuela, pero he tenido que parar por la dificultad para respirar.  
+35. Médico: ¿Has notado alguna erupción o cambio en tu piel últimamente?  
+36. Paciente: No, mi piel está normal, nada raro.  
+37. Médico: ¿Has tenido pérdida de peso, sudores nocturnos o cansancio extremo?  
+38. Paciente: No he bajado de peso, pero estoy muy cansado todo el tiempo desde que comenzó esto.  
+39. Médico: ¿Te despiertas por las noches debido a la tos o problemas para respirar?  
+40. Paciente: Sí, me despierto varias veces porque siento que no puedo respirar bien.  
+41. Médico: Ya veo. ¿Tienes mascota en casa o contacto frecuente con animales?  
+42. Paciente: Sí, tenemos un perro, pero no creo que me haya afectado antes.  
+43. Médico: Entendido. Vamos a revisar algunas cosas básicas de inmediato. ¿Cómo te sientes ahora mismo?  
+44. Paciente: La verdad, me siento bastante débil, y respirar no me resulta fácil.  
+45. Médico: Eso no suena bien. Ahora, respira profundamente mientras te escucho con el estetoscopio.  
+46. Paciente: Está bien, doctor, haré lo que me diga.  
+47. Médico: Veo que tienes ciertos sonidos en los pulmones que podrían indicar algo inflamatorio. Vamos a profundizar con algunos exámenes.  
+48. Paciente: Por favor, doctor, necesito saber qué está pasando.  
+49. Médico: A partir de tus síntomas y los hallazgos iniciales, podríamos estar frente a una neumonía eosinofílica.  
+50. Paciente: ¿Eso es grave? ¿Qué debo hacer?"

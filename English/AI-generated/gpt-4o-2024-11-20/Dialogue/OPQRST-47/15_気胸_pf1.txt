@@ -1,0 +1,50 @@
+"1. 医師：What brings you to the emergency department today?  
+2. 患者：I suddenly started feeling sharp pain on the left side of my chest about two hours ago.  
+3. 医師：How would you describe the pain? Is it constant or does it come and go?  
+4. 患者：The pain is sharp and constant. It gets worse when I take a deep breath or move around.  
+5. 医師：Does the pain radiate to your back, shoulder, or anywhere else?  
+6. 患者：No, it’s just on the left side of my chest.  
+7. 医師：Have you noticed any shortness of breath along with the chest pain?  
+8. 患者：Yes, I feel like I can’t get a full breath.  
+9. 医師：Did your symptoms start suddenly, or did it develop gradually over time?  
+10. 患者：It started all of a sudden, out of nowhere.  
+11. 医師：Have you had any fever, cough, or coughing up blood?  
+12. 患者：No, none of those.  
+13. 医師：Have you experienced any recent trauma or injury to your chest?  
+14. 患者：No, nothing like that.  
+15. 医師：Do you have any other medical conditions we should know about?  
+16. 患者：No, I’ve always been healthy.  
+17. 医師：Have you traveled recently or been on a long flight?  
+18. 患者：No, I haven’t traveled lately.  
+19. 医師：Do you smoke or use any recreational drugs?  
+20. 患者：No, I don’t smoke or use drugs.  
+21. 医師：Does anyone in your family have lung problems or conditions like this?  
+22. 患者：Not that I know of.  
+23. 医師：What were you doing when the pain started?  
+24. 患者：I was just sitting at home watching TV when it happened.  
+25. 医師：Have you ever had chest pain or breathing problems like this before?  
+26. 患者：No, this has never happened to me before.  
+27. 医師：Do you feel lightheaded or dizzy when breathing becomes difficult?  
+28. 患者：No, I don’t feel lightheaded, just short of breath.  
+29. 医師：Have you had any recent illnesses, like a cold or the flu?  
+30. 患者：No, I’ve been feeling fine until this started.  
+31. 医師：Do you feel any relief when sitting or lying in a certain position?  
+32. 患者：Not really, it just hurts all the time.  
+33. 医師：Can you point to exactly where the pain bothers you the most?  
+34. 患者：It’s right over here, on the left side of my chest.  
+35. 医師：Do you notice any swelling, redness, or tenderness on your chest?  
+36. 患者：No, I haven’t noticed anything like that.  
+37. 医師：Have you had any weight loss, night sweats, or unusual fatigue recently?  
+38. 患者：No, not at all. I’ve been feeling normal overall.  
+39. 医師：Do you have difficulty lying flat or sleeping because of the shortness of breath?  
+40. 患者：No, but I feel like breathing is harder than usual.  
+41. 医師：Do you feel any heart palpitations or an irregular heartbeat?  
+42. 患者：No, my heart feels fine, just the breathing bothers me.  
+43. 医師：Have you had any pain or swelling in your legs recently?  
+44. 患者：No, my legs feel fine.  
+45. 医師：Do you work or engage in activities that expose you to high altitudes or diving?  
+46. 患者：No, I don't.  
+47. 医師：On a scale of 1 to 10, how would you rate your pain?  
+48. 患者：I’d say it’s about an 8.  
+49. 医師：Alright, we’ll perform some tests and imaging to figure out what’s going on.  
+50. 患者：Thank you, I hope we can find out soon."

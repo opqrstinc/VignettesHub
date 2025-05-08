@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, ¿en qué puedo ayudarte hoy?  
+2. Paciente: Hola, doctor. Me preocupa que últimamente he tenido episodios raros de dificultad para respirar y dolor en el pecho.  
+3. Médico: ¿Podrías describirme un poco más esos episodios?  
+4. Paciente: Claro, comienzan de repente, siento que no puedo respirar bien, me duele el pecho y también el abdomen.  
+5. Médico: ¿Hace cuánto tiempo comenzaron estos síntomas?  
+6. Paciente: Hace más o menos seis meses.  
+7. Médico: ¿Con qué frecuencia suelen aparecer?  
+8. Paciente: A veces varias veces en la semana. No es todos los días, pero sí con frecuencia.  
+9. Médico: ¿Dirías que hay algo que desencadena estos episodios?  
+10. Paciente: Creo que suelen pasar cuando estoy estresada o preocupada por algo.  
+11. Médico: Durante los episodios, ¿has sentido mareo o palpitaciones?  
+12. Paciente: Sí, me siento mareada, sudo mucho y mi corazón late muy rápido.  
+13. Médico: ¿Has sentido algún tipo de miedo o angustia cuando suceden?  
+14. Paciente: Sí, doctor, mucho miedo. Pienso que me voy a morir o que algo malo va a pasar.  
+15. Médico: ¿Cuánto tiempo suelen durar estos episodios?  
+16. Paciente: Entre 10 y 30 minutos, pero se sienten como una eternidad.  
+17. Médico: ¿Qué pasa después de que terminan?  
+18. Paciente: Me siento muy cansada y angustiada durante el resto del día.  
+19. Médico: ¿Tuviste alguno de estos síntomas antes de estos últimos seis meses?  
+20. Paciente: No, esto es algo nuevo para mí.  
+21. Médico: ¿Tomas algún medicamento regularmente o has tenido algún problema de salud importante en el pasado?  
+22. Paciente: Hace unos años me diagnosticaron depresión y tomé medicamentos para eso por dos años, pero ya no tomo nada.  
+23. Médico: ¿Cómo te fue con el tratamiento en ese momento?  
+24. Paciente: Me ayudó mucho, pero luego me sentí mejor y dejé de tomar las pastillas.  
+25. Médico: Entiendo. ¿Has tenido problemas recientes de sueño o cambios en tu estado de ánimo?  
+26. Paciente: Sí, últimamente me cuesta dormir y me siento muy inquieta.  
+27. Médico: ¿Consumes alcohol, tabaco o alguna otra sustancia?  
+28. Paciente: No, no fumo ni tomo alcohol con frecuencia, y nunca he usado drogas.  
+29. Médico: ¿Alguien en tu familia ha tenido síntomas similares o problemas de ansiedad?  
+30. Paciente: Mi madre tuvo ansiedad, pero nunca le pasó algo tan fuerte como lo que siento yo.  
+31. Médico: Durante los episodios, ¿has experimentado náuseas, hormigueos o sensación de estar desconectada de la realidad?  
+32. Paciente: Sí, a veces siento una especie de hormigueo en las manos y como si todo fuera irreal.  
+33. Médico: ¿Has tenido algún desmayo u otros síntomas graves durante estos episodios?  
+34. Paciente: No, nunca he llegado a desmayarme.  
+35. Médico: Vamos a descartar cualquier causa física. ¿Te han hecho algún electrocardiograma alguna vez?  
+36. Paciente: Sí, me lo hicieron hace pocos meses, y todo salió bien.  
+37. Médico: Perfecto. ¿Te han hecho análisis de sangre recientemente?  
+38. Paciente: Sí, y según mi médico, todo estaba normal.  
+39. Médico: Voy a hacerte unas preguntas para entender mejor. ¿Ese dolor en el pecho empeora con el ejercicio o la respiración profunda?  
+40. Paciente: No, suele aparecer cuando estoy sentada o quieta.  
+41. Médico: ¿Has notado que algún alimento o bebida empeoren los síntomas?  
+42. Paciente: No, no tiene relación con lo que como o bebo.  
+43. Médico: ¿Sientes que los episodios son menos o más frecuentes con el tiempo?  
+44. Paciente: Parecen ser más frecuentes últimamente, pero no duran más tiempo.  
+45. Médico: Bien, según lo que me cuentas, parece que estos episodios podrían estar relacionados con un trastorno de ansiedad llamado trastorno de pánico.  
+46. Paciente: ¿Eso significa que no es algo físico?  
+47. Médico: Así es, hemos descartado causas físicas y las pruebas confirman que todo está bien con tu cuerpo. Es un problema relacionado con cómo tu mente y cuerpo reaccionan al estrés.  
+48. Paciente: ¿Y esto tiene tratamiento?  
+49. Médico: Claro que sí. Vamos a trabajar en un plan que incluya un medicamento para estabilizar los síntomas y terapia para manejar tu ansiedad.  
+50. Paciente: Muchas gracias, doctor."

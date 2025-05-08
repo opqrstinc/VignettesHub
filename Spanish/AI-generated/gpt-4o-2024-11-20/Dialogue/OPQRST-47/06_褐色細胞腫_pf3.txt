@@ -1,0 +1,50 @@
+"1. Médico: Hola, ¿qué lo trae hoy a la consulta?  
+2. Paciente: Hola, doctor. He estado teniendo episodios de palpitaciones muy rápidas, como si el corazón se me fuera a salir, y me cuesta respirar.  
+3. Médico: ¿Desde cuándo ha estado experimentando estos síntomas?  
+4. Paciente: Comenzaron hace unos dos meses más o menos.  
+5. Médico: ¿Con qué frecuencia le ocurren estos episodios?  
+6. Paciente: Aproximadamente dos o tres veces por semana.  
+7. Médico: ¿Puede describirme cómo empiezan y cuánto duran?  
+8. Paciente: Empiezan de repente y duran entre 10 y 20 minutos. Luego desaparecen solos.  
+9. Médico: ¿Siente algo más durante los episodios, aparte de las palpitaciones y dificultad para respirar?  
+10. Paciente: Sí, sudo mucho y también tengo como un dolor en el pecho, como una opresión.  
+11. Médico: ¿Ha notado que algo en particular desencadene estos episodios?  
+12. Paciente: No, no hay algo específico. Pueden pasar en cualquier momento, incluso cuando estoy tranquilo.  
+13. Médico: ¿Ha tenido dolores de cabeza o algún otro síntoma acompañante?  
+14. Paciente: Sí, a veces también me duele la cabeza durante las crisis y me siento muy ansioso.  
+15. Médico: ¿Ha tenido pérdida de peso, cambios en el apetito o algún otro síntoma nuevo?  
+16. Paciente: No, nada de eso.  
+17. Médico: ¿Tiene antecedentes médicos como hipertensión, problemas cardíacos o enfermedades endocrinas?  
+18. Paciente: No, nunca he tenido nada de eso.  
+19. Médico: ¿Hay antecedentes familiares de hipertensión o enfermedades relacionadas con las glándulas endocrinas?  
+20. Paciente: No, nadie en mi familia tiene nada parecido.  
+21. Médico: ¿Consume alguna medicación, sustancias recreativas o suplementos que puedan afectar su frecuencia cardíaca o presión arterial?  
+22. Paciente: No, no tomo nada, ni siquiera medicación regular.  
+23. Médico: ¿Cómo ha afectado esto su vida diaria?  
+24. Paciente: Ha sido difícil, doctor. Estoy constantemente preocupado de que me pase en el trabajo o mientras conduzco.  
+25. Médico: Comprendo. ¿Qué tal ha estado su presión arterial?  
+26. Paciente: A veces me la he medido en casa y está normal, pero no durante las crisis, porque no tengo tiempo de medirla cuando pasa.  
+27. Médico: Nosotros medimos ahora su presión arterial y frecuencia cardíaca. Durante el episodio, registramos 160/110 mmHg y 120 lpm, pero entre las crisis está normal. ¿Esto concuerda con lo que siente?  
+28. Paciente: Sí, definitivamente siento que las crisis son lo único que altera todo.  
+29. Médico: ¿Ha notado algún síntoma como temblor en las manos, pérdida de fuerza o visión borrosa?  
+30. Paciente: No, nada de eso.  
+31. Médico: Durante la auscultación cardíaca no detecté soplos ni arritmias. ¿Ha notado latidos irregulares en algún momento?  
+32. Paciente: No, los latidos solo son rápidos pero no los siento irregulares.  
+33. Médico: En el examen físico abdominal no hay masas palpables ni molestias. ¿Ha sentido algún dolor en esa área?  
+34. Paciente: No, no me duele nada en el abdomen.  
+35. Médico: Dado lo que me cuenta, vamos a realizar algunos análisis de sangre y orina para buscar posibles causas de sus síntomas. ¿Le parece bien?  
+36. Paciente: Claro, doctor. Haga lo que sea necesario.  
+37. Médico: También realizaremos una tomografía para observar sus glándulas suprarrenales y asegurarnos de que todo esté bien.  
+38. Paciente: Está bien, lo que sea que ayude a saber qué tengo.  
+39. Médico: Los análisis iniciales de sangre y orina están dentro de límites normales, pero las catecolaminas urinarias muestran niveles elevados. Esto sugiere que podríamos estar ante un problema en las glándulas suprarrenales.  
+40. Paciente: ¿Problema en las glándulas suprarrenales? ¿Eso es grave?  
+41. Médico: Podría estar relacionado con algo llamado feocromocitoma, pero necesitamos confirmarlo con más pruebas, como la tomografía computarizada que le mencioné.  
+42. Paciente: Ah, entiendo. Nunca había escuchado esa palabra antes.  
+43. Médico: Es una condición tratable, pero primero necesitamos estar seguros del diagnóstico.  
+44. Paciente: Ya veo, espero que podamos resolverlo pronto. Esto es muy incómodo.  
+45. Médico: En la tomografía se encontró una masa en la glándula suprarrenal derecha. Esto refuerza la sospecha de feocromocitoma.  
+46. Paciente: ¿Una masa? Pero, ¿es peligrosa?  
+47. Médico: Generalmente estas masas son benignas, pero causan síntomas importantes por los cambios en la presión arterial y el ritmo cardíaco.  
+48. Paciente: ¿Qué sigue ahora? ¿Se puede tratar?  
+49. Médico: Sí, comenzaremos con un tratamiento farmacológico para estabilizar los síntomas antes de considerar la cirugía.  
+50. Paciente: Me alegra que haya solución. Confío plenamente en lo que me indique, doctor.  "

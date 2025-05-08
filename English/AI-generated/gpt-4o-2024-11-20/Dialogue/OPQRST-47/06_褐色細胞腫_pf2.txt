@@ -1,0 +1,53 @@
+"1. 医師：Hello, I’m Dr. Smith. What brings you in today?  
+2. 患者：For the past three months, I’ve been having these terrible headaches and episodes of sweating.  
+3. 医師：I see. Can you describe the headaches? Are they constant or do they come and go?  
+4. 患者：They’re not constant. They come and go, and when they happen, they’re really severe.  
+5. 医師：How long do these headaches typically last?  
+6. 患者：Usually around 20 to 40 minutes.  
+7. 医師：Do you notice anything that triggers or worsens them?  
+8. 患者：Not really, they just seem to come out of nowhere.  
+9. 医師：Do you experience any other symptoms with these headaches?  
+10. 患者：Yes, sometimes my heart races, and I feel really anxious when it happens.  
+11. 医師：How often do these episodes occur?  
+12. 患者：It’s hard to say for sure, but maybe once or twice a week.  
+13. 医師：What about the sweating? Does it happen during these episodes?  
+14. 患者：Yes, I get drenched in sweat, especially during these episodes.  
+15. 医師：Do you feel better or worse after the episodes pass?  
+16. 患者：I feel better once they end, but it’s very disturbing when it’s happening.  
+17. 医師：Have you noticed any pattern, like particular times of day when they occur?  
+18. 患者：No, it seems random.  
+19. 医師：Have you had palpitations or heart racing outside of these episodes?  
+20. 患者：No, it’s only during those times.  
+21. 医師：Do you have chest pain, shortness of breath, or dizziness during these episodes?  
+22. 患者：No chest pain, but I do feel a bit lightheaded sometimes.  
+23. 医師：Has your blood pressure ever been measured during or after an episode?  
+24. 患者：Not during an episode, but my doctor once mentioned that my blood pressure was high during a routine visit.  
+25. 医師：Do you have any medical conditions, or are you on any medications?  
+26. 患者：I have hypothyroidism, and I take levothyroxine daily.  
+27. 医師：Are you managing your thyroid condition well?  
+28. 患者：Yes, my doctor checks it regularly, and my levels are fine.  
+29. 医師：Do you smoke, drink alcohol, or use recreational drugs?  
+30. 患者：No, I don’t smoke, drink, or use any drugs.  
+31. 医師：What about your family? Any history of similar symptoms or medical conditions?  
+32. 患者：No, there’s no family history of anything like this.  
+33. 医師：Have you had any recent infections, fevers, or weight changes?  
+34. 患者：No infections or fevers, and my weight has been stable.  
+35. 医師：Have you noticed any changes in your skin, like dark patches or any unusual marks?  
+36. 患者：No, my skin looks normal to me.  
+37. 医師：Do you feel anxious or stressed frequently outside of these episodes?  
+38. 患者：Not really, I only feel that way during the episodes.  
+39. 医師：When was your last routine physical exam or blood tests?  
+40. 患者：Maybe about six months ago, and everything was normal except for my blood pressure.  
+41. 医師：Do you monitor your blood pressure regularly?  
+42. 患者：No, I haven’t, but I know it’s been high before.  
+43. 医師：Have you ever experienced fainting or passing out?  
+44. 患者：No, I’ve never fainted.  
+45. 医師：Do you have any abdominal pain or discomfort?  
+46. 患者：No, none at all.  
+47. 医師：Has anyone else around you noticed anything unusual during these episodes?  
+48. 患者：Yes, my husband says I look pale and really sweaty when it happens.  
+49. 医師：Based on what you’ve told me, I’d like to run some blood and urine tests, and possibly imaging studies, to investigate the cause of your symptoms.  
+50. 患者：Okay, I trust you. I just want to figure out what’s causing this.  
+51. 医師：After reviewing your test results, you have something called pheochromocytoma, a rare tumor that causes these symptoms by releasing excessive hormones.  
+52. 患者：Oh, I’ve never heard of that. What does it mean?  
+53. 医師：It’s a tumor usually in the adrenal gland that we can treat, but it explains your headaches, sweating, and palpitations. Thank you for your cooperation."

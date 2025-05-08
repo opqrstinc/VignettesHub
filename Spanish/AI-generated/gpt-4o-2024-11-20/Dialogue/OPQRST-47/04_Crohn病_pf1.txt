@@ -1,0 +1,50 @@
+"1. Médico: Cuéntame, ¿qué te trae por aquí hoy?  
+2. Paciente: Doctor, llevo meses con dolor abdominal y diarrea casi todos los días.  
+3. Médico: ¿Cuánto tiempo lleva este problema?  
+4. Paciente: Aproximadamente cuatro meses.  
+5. Médico: ¿Cómo describirías el dolor? ¿Es constante, intermitente, agudo?  
+6. Paciente: Es intermitente, como un calambre. A veces se siente más en la parte baja del abdomen del lado derecho.  
+7. Médico: ¿Has notado algo que lo empeore o lo mejore?  
+8. Paciente: Empeora después de comer, pero no parece mejorar con nada.  
+9. Médico: ¿Qué tal las diarreas? ¿Con qué frecuencia ocurren?  
+10. Paciente: Son entre 5 y 7 veces al día, son líquidas y a veces veo sangre.  
+11. Médico: ¿Has tenido fiebre o vómitos?  
+12. Paciente: No, nada de eso. Solo la diarrea y el dolor.  
+13. Médico: ¿Has perdido peso recientemente?  
+14. Paciente: Sí, sin querer he bajado como 5 kilos en estos meses.  
+15. Médico: ¿Consumes algún medicamento o suplemento habitualmente?  
+16. Paciente: No, no tomo nada.  
+17. Médico: ¿Has notado algún cambio en el apetito o en tus hábitos alimenticios?  
+18. Paciente: Mi apetito está más o menos igual, pero a veces tengo miedo de comer por el dolor.  
+19. Médico: ¿En tu familia hay antecedentes de problemas digestivos, como colitis o enfermedad inflamatoria?  
+20. Paciente: No que yo sepa.  
+21. Médico: ¿Alguna vez tuviste problemas similares en el pasado?  
+22. Paciente: No, este es el primer episodio así.  
+23. Médico: ¿Y tu estado general cómo lo sientes? ¿Estás cansado, débil?  
+24. Paciente: Me siento más cansado de lo normal, especialmente últimamente.  
+25. Médico: ¿Has visto cambios en tu piel o algo fuera de lo común en tu cuerpo?  
+26. Paciente: No, nada extraño en la piel.  
+27. Médico: Cuando mencionas la sangre en las heces, ¿es mucha o solo rastros?  
+28. Paciente: Más bien son rastros, no es mucha sangre.  
+29. Médico: ¿Tienes o has tenido dolor en las articulaciones, irritación ocular o aftas en la boca?  
+30. Paciente: Ahora que lo dice, a veces me duelen las rodillas, pero pensé que era por hacer ejercicio.  
+31. Médico: ¿Haces ejercicio con regularidad?  
+32. Paciente: Solía correr, pero últimamente he parado porque me siento sin fuerza.  
+33. Médico: ¿Alguna vez has viajado a algún lugar con riesgo de infecciones gastrointestinales?  
+34. Paciente: No, mis últimos viajes fueron aquí mismo en el país.  
+35. Médico: Mencionabas dolor en el abdomen. ¿Te pasa también durante la noche o solo de día?  
+36. Paciente: Me despierta algunas veces en la noche.  
+37. Médico: ¿Tienes algún problema al orinar o cambios en la orina?  
+38. Paciente: No, todo está normal.  
+39. Médico: ¿Cuántos líquidos consumes al día, especialmente considerando la diarrea?  
+40. Paciente: Bebo bastante agua porque siento que la necesito, pero no sé cuánto exactamente.  
+41. Médico: ¿Has notado que los síntomas empeoren con algún alimento específico?  
+42. Paciente: No estoy seguro, pero creo que las comidas grasas lo empeoran un poco.  
+43. Médico: ¿Has tenido alguna consulta médica previa por este problema?  
+44. Paciente: No, esta es la primera vez.  
+45. Médico: ¿Qué alimentos o hábitos has cambiado desde que comenzaron los síntomas?  
+46. Paciente: He tratado de evitar alimentos pesados, pero no parece ayudar mucho.  
+47. Médico: ¿Hay algo más que creas importante mencionar sobre tu salud últimamente?  
+48. Paciente: No, creo que ya le he contado todo lo que me preocupa.  
+49. Médico: Muchas gracias por compartir todo esto. Los datos que me das, junto con la exploración y pruebas que haremos, nos ayudarán a encontrar lo que ocurre.  
+50. Paciente: Gracias, doctor, solo quiero saber qué está pasando para mejorar."

@@ -1,0 +1,51 @@
+"1. Médico: Buenos días, señor. ¿Qué lo trae hoy a la consulta?  
+2. Paciente: Buenos días, doctor. Tengo dolor y rigidez en las articulaciones desde hace varios meses.  
+3. Médico: ¿Podría describirme en qué partes del cuerpo siente el dolor?  
+4. Paciente: Principalmente en las manos, las muñecas y últimamente también en las rodillas y los tobillos.  
+5. Médico: ¿El dolor es de un lado del cuerpo o afecta ambos lados?  
+6. Paciente: Es en ambos lados, es como si fuera simétrico.  
+7. Médico: Entiendo. ¿Desde cuándo comenzó este dolor?  
+8. Paciente: Hace unos seis meses, pero ha empeorado con el tiempo.  
+9. Médico: ¿Ha notado alguna hinchazón en las articulaciones afectadas?  
+10. Paciente: Sí, están hinchadas, especialmente las manos y las muñecas.  
+11. Médico: ¿El dolor es constante o varía a lo largo del día?  
+12. Paciente: Empeora por la mañana. Me cuesta mucho moverme cuando me despierto.  
+13. Médico: ¿Cuánto tiempo dura esa rigidez matutina cada día?  
+14. Paciente: Aproximadamente una hora, a veces un poco más.  
+15. Médico: ¿Tiene dificultad para realizar tareas cotidianas como vestirse o escribir?  
+16. Paciente: Sí, esas cosas se han vuelto muy complicadas, sobre todo en las mañanas.  
+17. Médico: ¿Ha tenido fiebre, pérdida de peso o algún otro síntoma?  
+18. Paciente: No, nada de eso. Solo me siento muy cansado todo el tiempo.  
+19. Médico: ¿Ese cansancio ha aumentado recientemente?  
+20. Paciente: Sí, empezó poco a poco, pero ahora me siento agotado la mayor parte del día.  
+21. Médico: ¿Ha sufrido algún golpe o traumatismo en las articulaciones?  
+22. Paciente: No, ninguno.  
+23. Médico: ¿En su familia hay alguien con problemas reumáticos o enfermedades autoinmunes?  
+24. Paciente: No, no hay antecedentes en mi familia.  
+25. Médico: ¿Tiene otras enfermedades como diabetes, hipertensión o enfermedades del corazón?  
+26. Paciente: No, estoy sano aparte de esto.  
+27. Médico: ¿Qué ocurre si mueve las articulaciones afectadas?  
+28. Paciente: Me duele mucho, pero a veces también siento como que están tiesas.  
+29. Médico: ¿Alguna vez ha tenido dolor en la espalda baja o en el cuello?  
+30. Paciente: No, mi espalda y cuello están bien.  
+31. Médico: ¿Tiene algún tipo de enrojecimiento en la piel cerca de las áreas dolorosas?  
+32. Paciente: No, no he visto enrojecimiento. Solo hinchazón.  
+33. Médico: ¿Ha notado bultos o nódulos en los codos, las manos u otras áreas?  
+34. Paciente: No, no hay bultos.  
+35. Médico: Entendido. ¿Ha tomado medicamentos para el dolor?  
+36. Paciente: Solo ibuprofeno cuando el dolor es muy intenso, pero no ayuda mucho.  
+37. Médico: ¿Cómo describiría el dolor, como un ardor, una punzada o algo más?  
+38. Paciente: Es como un dolor constante y pesado, a veces punzante.  
+39. Médico: ¿Tuvo alguna infección reciente, digamos un resfriado o dolor de garganta?  
+40. Paciente: No, nada de eso antes de que empezaran los síntomas.  
+41. Médico: En el examen físico noto hinchazón en las manos, muñecas y rodillas. ¿Esto es lo que mencionaba?  
+42. Paciente: Sí, doctor, esas son las áreas que más me duelen.  
+43. Médico: Al tocar las articulaciones, ¿siente dolor intenso?  
+44. Paciente: Sí, demasiado, incluso con un toque leve.  
+45. Médico: Vamos a ordenar algunos análisis de sangre y radiografías para entender mejor qué está ocurriendo.  
+46. Paciente: Está bien, doctor. ¿Cree que sea algo serio?  
+47. Médico: Quiero verificar si hay signos de inflamación o cambios en las articulaciones. Eso nos dará pistas más claras.  
+48. Paciente: Entiendo. Espero que podamos encontrar algo de alivio pronto.  
+49. Médico: Los resultados sugieren que tiene una inflamación significativa en las articulaciones, con algunos marcadores que indican artritis reumatoide.  
+50. Paciente: ¿Artritis reumatoide? ¿Qué significa eso?  
+"

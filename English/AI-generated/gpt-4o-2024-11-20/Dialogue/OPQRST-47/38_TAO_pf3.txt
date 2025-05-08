@@ -1,0 +1,51 @@
+"1. 医師: What brings you in today?  
+2. 患者: I've been having pain and numbness in my legs and feet for about six months.  
+3. 医師: Can you describe the pain?  
+4. 患者: It's a burning pain, and it comes and goes. It mostly affects my calves and feet.  
+5. 医師: When does the pain usually occur?  
+6. 患者: It gets worse when I walk and feels better if I rest for a bit.  
+7. 医師: Has the pain gotten worse over time?  
+8. 患者: Yes, it definitely feels like it's getting worse.  
+9. 医師: Have you noticed any changes to the skin or color of your feet?  
+10. 患者: Yes, sometimes my toes look bluish.  
+11. 医師: Do you feel this affects your daily life?  
+12. 患者: Yes, it's getting harder to do normal things like walking or standing for long.  
+13. 医師: Have you noticed any swelling in your legs?  
+14. 患者: No, I haven’t had any swelling.  
+15. 医師: Any fevers, weight loss, or other symptoms?  
+16. 患者: No, nothing like that.  
+17. 医師: Have you had any medical problems in the past?  
+18. 患者: No, I’ve been pretty healthy before this.  
+19. 医師: Do you take any medications?  
+20. 患者: No, I don’t take any regular medications.  
+21. 医師: Do you smoke tobacco or use any substances?  
+22. 患者: I’ve been smoking cigarettes for about 25 years. I smoke about a pack a day.  
+23. 医師: Do you drink alcohol or use drugs?  
+24. 患者: No, I don’t. Just smoking.  
+25. 医師: On a typical day, how much activity can you manage before the pain starts?  
+26. 患者: I can walk for a few minutes, but then the pain forces me to stop.  
+27. 医師: Have you ever experienced similar pain in other parts of your body?  
+28. 患者: No, just my legs and feet.  
+29. 医師: Do you feel any numbness or tingling in your feet?  
+30. 患者: Yes, especially at night.  
+31. 医師: Have you noticed any wounds or sores on your feet?  
+32. 患者: No open sores, but the skin looks different, kind of shiny.  
+33. 医師: Let me confirm—are your symptoms worse in the cold?  
+34. 患者: Come to think of it, yes, they do seem worse in colder weather.  
+35. 医師: Do you recall experiencing any trauma or injuries to your feet or legs?  
+36. 患者: No injuries that I can remember.  
+37. 医師: Has anyone in your family had similar symptoms or conditions?  
+38. 患者: No, no one in my family has had this.  
+39. 医師: Can you feel pulses in your feet when you touch them?  
+40. 患者: Not really sure. I didn’t pay attention to that.  
+41. 医師: Do you notice if your feet are colder than usual?  
+42. 患者: Yes, they feel colder than I would expect.  
+43. 医師: Have you tried anything that helps with the symptoms?  
+44. 患者: Resting helps the most. Nothing else I've tried really works.  
+45. 医師: Have you had medical evaluations for this before?  
+46. 患者: No, this is my first time bringing it up to a doctor.  
+47. 医師: Are you concerned this could be something serious?  
+48. 患者: Yes, I’ve been worried, especially because it keeps getting worse.  
+49. 医師: Based on what you've described, I suspect we are dealing with a condition affecting the blood vessels in your legs.  
+50. 患者: What do you think could be causing this?  
+51. 医師: Your history, along with symptoms like pain with walking and the bluish toes, makes me suspect thromboangiitis obliterans, also called Buerger's disease."

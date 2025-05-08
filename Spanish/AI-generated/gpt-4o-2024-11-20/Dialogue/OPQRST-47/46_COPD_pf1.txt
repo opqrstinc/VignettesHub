@@ -1,0 +1,50 @@
+"1. Médico: Buen día, señor. ¿Qué lo trae por aquí hoy?  
+2. Paciente: Buenos días, doctor. Tengo una tos crónica desde hace años, con flema espesa, y últimamente me cuesta cada vez más respirar.  
+3. Médico: Entiendo. ¿Puede describirme un poco más acerca de esa tos? ¿Cuántos años lleva con ella?  
+4. Paciente: La verdad, ya son varios años, más o menos cinco o seis. Siempre es con flema, como una mucosidad espesa y blanca.  
+5. Médico: ¿Ha notado algún cambio reciente en su tos o en la cantidad o apariencia de la flema?  
+6. Paciente: Sí, en los últimos meses ha empeorado. He tenido más flema y algunas veces siento que me ahogo.  
+7. Médico: ¿Ha tenido fiebre o algún otro síntoma como dolor en el pecho?  
+8. Paciente: No, fiebre no, pero de vez en cuando siento un poco de presión en el pecho cuando trato de respirar profundamente.  
+9. Médico: ¿Ha tenido episodios en los que los síntomas hayan empeorado de forma significativa?  
+10. Paciente: Sí, especialmente cuando hace frío. Siento que respiro peor y la flema aumenta mucho.  
+11. Médico: ¿Qué pasa con la disnea? ¿Cuándo notó por primera vez que le costaba trabajo respirar?  
+12. Paciente: Creo que también hace años, pero ahora es peor. Subir escaleras o caminar un par de cuadras me deja muy cansado.  
+13. Médico: ¿Tiene antecedentes médicos o problemas respiratorios previos?  
+14. Paciente: Sí, hace años tuve un neumotórax. Me llevaron al hospital y me recuperé, pero desde entonces siento que los pulmones no son los mismos.  
+15. Médico: ¿Alguna otra enfermedad crónica o tratamientos que esté llevando?  
+16. Paciente: No que yo recuerde, y tampoco estoy tomando medicamentos regularmente.  
+17. Médico: ¿Ha sido fumador en algún momento de su vida?  
+18. Paciente: Sí, fumé durante unos 20 años, pero lo dejé hace como 15 años.  
+19. Médico: Entendido. ¿Alguien en su familia tiene problemas pulmonares?  
+20. Paciente: Mi padre tenía problemas con sus pulmones, pero nunca supe exactamente qué era.  
+21. Médico: ¿Ha tenido infecciones respiratorias frecuentes, como bronquitis u otros cuadros similares?  
+22. Paciente: Sí, sobre todo en invierno. Es común que me enferme y tardo semanas en mejorar.  
+23. Médico: ¿Qué tipo de trabajos ha realizado? ¿Ha estado expuesto a polvo, químicos u otros contaminantes?  
+24. Paciente: He trabajado mucho tiempo en la construcción, a veces usando productos como cemento y pinturas.  
+25. Médico: En el examen físico hay algunos hallazgos que sugieren problemas respiratorios. ¿Ha tenido problemas para dormir o se despierta en la noche por falta de aire?  
+26. Paciente: Sí, algunas noches tengo que levantarme porque siento que no respiro bien.  
+27. Médico: ¿Ha notado cambios en el color de sus labios o sus dedos cuando siente que le falta aire?  
+28. Paciente: Mi esposa dice que a veces mis labios se ven un poco morados, pero no sucede todo el tiempo.  
+29. Médico: ¿Utiliza algún inhalador o medicamento para aliviar estos síntomas?  
+30. Paciente: En el pasado me dieron un inhalador, pero ya no lo he usado hace mucho tiempo.  
+31. Médico: ¿Tiene dolor o sensación de peso en otras partes del cuerpo, como en las piernas o el abdomen?  
+32. Paciente: No, doctor, nada de eso.  
+33. Médico: ¿Cuántos pisos puede subir antes de sentirse extremadamente cansado?  
+34. Paciente: Hoy en día, apenas puedo subir un piso sin sentir que me falta mucho el aire.  
+35. Médico: ¿Ha tenido mareos o pérdida de la conciencia?  
+36. Paciente: No, nunca me ha pasado eso.  
+37. Médico: ¿Qué hace usted cuando los síntomas empeoran más de lo habitual?  
+38. Paciente: Trato de descansar, pero me cuesta mucho. Ya recurrí al médico un par de veces porque me asusté.  
+39. Médico: ¿Cómo afecta su vida diaria este problema?  
+40. Paciente: Me cuesta mucho hacer cosas simples, como caminar largo rato. Hasta ir al supermercado se hace difícil.  
+41. Médico: Entendido. Esto afecta bastante su calidad de vida, ¿verdad?  
+42. Paciente: Sí, doctor, cada día me siento más limitado.  
+43. Médico: Hemos hablado mucho de sus síntomas y antecedentes. Ahora vamos a hacerle algunas pruebas para evaluar su estado pulmonar.  
+44. Paciente: Está bien, lo que sea necesario.  
+45. Médico: La espirometría nos muestra que tiene una obstrucción moderada a grave en el flujo de aire. Esto confirma problemas pulmonares crónicos.  
+46. Paciente: ¿Y eso qué significa, doctor?  
+47. Médico: Según lo que hemos evaluado, parece que usted padece una enfermedad pulmonar obstructiva crónica, o EPOC.  
+48. Paciente: ¿EPOC? ¿Eso es muy grave?  
+49. Médico: Es una enfermedad que requiere manejo continuo, pero con tratamiento adecuado puede mejorar su calidad de vida.  
+50. Paciente: Gracias, doctor. ¿Qué necesito hacer para sentirme mejor?"

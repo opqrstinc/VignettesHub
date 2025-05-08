@@ -1,0 +1,51 @@
+"1. Médico: Hola, buenos días. ¿Cómo estás hoy?  
+2. Paciente: Hola, no me siento bien, tengo mucha fiebre.  
+3. Médico: Entendido. ¿Qué otros síntomas has notado?  
+4. Paciente: Me pica el cuerpo y tengo como ronchitas por todos lados.  
+5. Médico: ¿Cuándo comenzaron estos síntomas?  
+6. Paciente: Hace cuatro días, empezó con fiebre y después salieron las ronchitas.  
+7. Médico: ¿La fiebre ha sido constante o viene y va?  
+8. Paciente: Al principio era muy fuerte y no baja mucho con medicinas.  
+9. Médico: ¿Dónde empezó la erupción?  
+10. Paciente: Detrás de las orejas y después se fue bajando por todo el cuerpo.  
+11. Médico: ¿Te duele algo más o te sientes cansada?  
+12. Paciente: No, pero estoy un poco irritable y no puedo dormir bien.  
+13. Médico: ¿Has tenido mocos o tos?  
+14. Paciente: Sí, tengo la nariz tapada todo el tiempo pero no mucho tos.  
+15. Médico: Muy bien. ¿Alguien más en tu familia está enfermo?  
+16. Paciente: No, nadie en mi casa está enfermo.  
+17. Médico: ¿Recuerdas si has estado cerca de alguien con síntomas parecidos?  
+18. Paciente: No que yo sepa.  
+19. Médico: ¿Tienes todas tus vacunas al día?  
+20. Paciente: Creo que sí, mi mamá dice que no me falta ninguna.  
+21. Médico: ¿Tienes alguna alergia conocida?  
+22. Paciente: No, nada.  
+23. Médico: Perfecto. Mamá, ¿le han dado alguna medicina en casa?  
+24. Madre: Sí, le dimos paracetamol para la fiebre, pero no ha bajado mucho.  
+25. Médico: ¿Ha notado algo inusual en su comportamiento?  
+26. Madre: Está más irritable de lo normal, pero no ha tenido vómitos ni diarrea.  
+27. Médico: Entendido. ¿Ha tenido problemas para respirar?  
+28. Madre: No, respira bien, solo tiene la nariz congestionada.  
+29. Médico: Aparte de las ronchitas, ¿notó algo más en su piel o boca?  
+30. Madre: Sí, vi como unos puntitos blancos raros dentro de la boca.  
+31. Médico: Creo que sé lo que está pasando. Vamos a revisar su garganta y el resto del cuerpo.  
+32. Paciente: ¿Me va a doler?  
+33. Médico: No, solo voy a mirar. Relájate, por favor.  
+34. Médico: Veo un exantema extendido y esas manchas blancas que mencionó su madre.  
+35. Médico: ¿Ha tenido algún sangrado de nariz o encías?  
+36. Madre: No, no ha pasado nada de eso.  
+37. Médico: Revisemos los resultados de los análisis. Mamá, ¿me puede contar si ha viajado recientemente?  
+38. Madre: No, hemos estado en casa todo el tiempo.  
+39. Médico: Los análisis muestran algunos valores alterados, pero no graves.  
+40. Médico: La temperatura alta persistente, las manchas en la boca y la erupción son clave aquí.  
+41. Paciente: Entonces, ¿qué tengo?  
+42. Médico: Después de la evaluación, parece que tienes sarampión.  
+43. Madre: ¿Es grave?  
+44. Médico: No, en este caso no parece complicado. Lo manejaremos en casa con medidas de soporte.  
+45. Madre: ¿Qué debemos hacer?  
+46. Médico: Darle paracetamol para la fiebre y mantenerla bien hidratada.  
+47. Médico: Además, eviten el contacto con otras personas mientras sea contagiosa.  
+48. Madre: ¿Cuánto tiempo será contagiosa?  
+49. Médico: Hasta que desaparezca completamente la erupción, aproximadamente una semana más.  
+50. Paciente: ¿Voy a estar bien?  
+51. Médico: Sí, con estos cuidados te recuperarás sin problemas."

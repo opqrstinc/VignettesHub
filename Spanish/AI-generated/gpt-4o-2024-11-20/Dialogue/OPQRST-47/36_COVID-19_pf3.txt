@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señora. ¿Cómo se encuentra hoy?  
+2. Paciente: Buenos días, doctor. La verdad, sigo algo cansada, y todavía tengo dificultad para respirar.  
+3. Médico: Gracias por contármelo. Dígame, ¿desde cuándo empezó con estos síntomas?  
+4. Paciente: Hace como cinco días empecé con una tos seca, y poco a poco, me sentía más cansada.  
+5. Médico: Entiendo. ¿Esa tos ha sido constante o aparece en algún momento del día?  
+6. Paciente: Es constante, pero parece empeorar por la noche.  
+7. Médico: ¿Ha tenido fiebre o escalofríos en estos días?  
+8. Paciente: Sí, hace dos días tuve fiebre, llegué a 38 grados, y sentí bastante escalofríos.  
+9. Médico: ¿Ha notado algún dolor de pecho o pérdida de apetito?  
+10. Paciente: No, dolor en el pecho no, y sigo comiendo normal.  
+11. Médico: Está bien. ¿Ha tenido contacto con personas con síntomas similares o casos confirmados de COVID-19?  
+12. Paciente: No que yo sepa, pero en mi zona hay muchos casos de COVID.  
+13. Médico: Entendido. ¿Antes de estos síntomas, tuvo pérdida del gusto o del olfato?  
+14. Paciente: No, mis sentidos están normales.  
+15. Médico: ¿Ha notado sudoración nocturna o algún otro síntoma llamativo?  
+16. Paciente: No, solo la tos, la fatiga y la fiebre.  
+17. Médico: ¿Ha observado algún cambio en sus deposiciones o dolor abdominal?  
+18. Paciente: No, todo ha estado normal en ese aspecto.  
+19. Médico: ¿Cuánta dificultad tiene al respirar, especialmente al caminar o realizar actividades?  
+20. Paciente: Me canso casi inmediatamente cuando camino o subo escaleras.  
+21. Médico: ¿Ha tenido que usar más almohadas para dormir por esta dificultad?  
+22. Paciente: Sí, ahora necesito tres almohadas para estar cómoda.  
+23. Médico: Entiendo. ¿Está usando algún medicamento para controlar los síntomas?  
+24. Paciente: No, solo tomo algo para mi diabetes.  
+25. Médico: ¿Qué medicamentos toma regularmente para la diabetes?  
+26. Paciente: Metformina, dos veces al día.  
+27. Médico: Perfecto. ¿Tiene algún otro problema de salud además de la diabetes?  
+28. Paciente: No, solo eso.  
+29. Médico: ¿Ha notado hinchazón en las piernas o cualquier otra parte del cuerpo?  
+30. Paciente: No, mis piernas están normales.  
+31. Médico: Muy bien. ¿Ha tenido problemas para dormir debido a estos síntomas?  
+32. Paciente: Sí, a veces me siento demasiado ahogada para dormir tranquila.  
+33. Médico: ¿Tiene algún tipo de secreción con la tos o es seca todo el tiempo?  
+34. Paciente: Es seca, no he notado moco.  
+35. Médico: ¿Siente dolor en la garganta cuando tose o en otras ocasiones?  
+36. Paciente: Solo al principio, pero ya no.  
+37. Médico: ¿En su familia hay antecedentes de enfermedades respiratorias o cardíacas?  
+38. Paciente: No, en mi familia todos han estado sanos de eso.  
+39. Médico: ¿Cuántos metros puede caminar antes de sentirse falta de aire?  
+40. Paciente: No puedo caminar mucho, tal vez unos diez metros.  
+41. Médico: ¿La fatiga que menciona empeora al final del día?  
+42. Paciente: Sí, a medida que pasan las horas, me siento más débil.  
+43. Médico: Entendido. ¿Ha tenido mareos o desmayos últimamente?  
+44. Paciente: No, no he tenido ni mareos ni desmayos.  
+45. Médico: ¿Cómo ha estado su control de la diabetes en las últimas semanas?  
+46. Paciente: Bastante bien, mi azúcar no ha estado tan alta últimamente.  
+47. Médico: Eso es bueno. Ahora, examinaré brevemente sus pulmones. Por favor, respire profundo.  
+48. Paciente: Claro, doctor.  
+49. Médico: Escucho algunos ruidos en las bases pulmonares. Realizaremos algunos estudios para confirmar lo que está ocurriendo.  
+50. Paciente: Muy bien, doctor. ¿Cree que sea algo grave?"

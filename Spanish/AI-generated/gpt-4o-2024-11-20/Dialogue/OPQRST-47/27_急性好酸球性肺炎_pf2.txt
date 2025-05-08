@@ -1,0 +1,51 @@
+"1. Médico: Buenos días, ¿cómo se siente hoy?  
+2. Paciente: Buenos días, doctora. Me siento muy cansada y con dificultad para respirar desde hace dos días.  
+3. Médico: Entiendo. ¿Cuándo comenzó usted a notar estos síntomas?  
+4. Paciente: Comenzaron repentinamente, hace dos días. Estaba bien y de pronto sentí el pecho pesado y me costaba respirar.  
+5. Médico: ¿El dolor en el pecho es constante o va y viene?  
+6. Paciente: Es constante, como una presión fuerte.  
+7. Médico: ¿Este dolor aumenta cuando respira o al hacer esfuerzo físico?  
+8. Paciente: Sí, cuando respiro profundo, el dolor se vuelve peor.  
+9. Médico: ¿Ha tenido fiebre o algún otro síntoma, como escalofríos o sudoración nocturna?  
+10. Paciente: Sí, he tenido fiebre desde que comenzó todo esto. Me sentí muy caliente y cansada.  
+11. Médico: ¿Ha medido su temperatura en casa?  
+12. Paciente: No, pero sentía como si tuviera fiebre alta.  
+13. Médico: ¿Ha notado alguna tos, ya sea seca o con flema?  
+14. Paciente: No mucha, solo un poco, pero no tengo flema.  
+15. Médico: ¿Alguien en su familia o entorno cercano está enfermo o tiene síntomas similares?  
+16. Paciente: No, todos están bien en casa.  
+17. Médico: ¿Tiene usted alguna enfermedad crónica o toma medicamentos regularmente?  
+18. Paciente: No, no tengo ninguna enfermedad y no tomo nada.  
+19. Médico: ¿Es usted fumadora o ha estado expuesta a humo o productos químicos?  
+20. Paciente: No fumo y no trabajo en lugares con productos químicos.  
+21. Médico: ¿Suele practicar ejercicio o alguna actividad que le exija mucho esfuerzo?  
+22. Paciente: No mucho, solo camino un poco cada día.  
+23. Médico: ¿Recuerda haber estado en contacto con aves, animales o ambientes polvorientos recientemente?  
+24. Paciente: No que yo sepa.  
+25. Médico: ¿Ha viajado recientemente o cambiado de lugar de residencia?  
+26. Paciente: No, no he salido de la ciudad.  
+27. Médico: ¿Suele tener alergias, como al polen, polvo o algún alimento?  
+28. Paciente: No, nunca he tenido problemas de alergias.  
+29. Médico: En cuanto a su respiración, ¿nota que siempre le falta el aire o solo en ciertos momentos?  
+30. Paciente: Siempre siento que me falta el aire, incluso estando en reposo.  
+31. Médico: ¿Ha notado algún cambio en el color de sus labios o dedos, como si estuvieran azulados?  
+32. Paciente: No, no he notado eso.  
+33. Médico: ¿Ha tenido antecedentes de infecciones respiratorias recurrentes?  
+34. Paciente: No, pocas veces me enfermo.  
+35. Médico: ¿Hay alguien en su familia con enfermedades respiratorias o problemas pulmonares?  
+36. Paciente: No, nadie en mi familia tiene problemas de este tipo.  
+37. Médico: En las últimas semanas, ¿ha experimentado pérdida de peso o falta de apetito?  
+38. Paciente: He estado comiendo menos por el malestar, pero normalmente como bien.  
+39. Médico: ¿Ha sentido mareos o desmayos además de la falta de aire?  
+40. Paciente: Sí, a veces me siento mareada cuando me levanto rápido.  
+41. Médico: Ahora quiero saber más sobre su dolor en el pecho. ¿Corre hacia algún lado, como los brazos o la espalda?  
+42. Paciente: No, solo está en el centro del pecho.  
+43. Médico: ¿Ha tenido palpitaciones fuertes o sensación de que su corazón late muy rápido?  
+44. Paciente: Sí, he sentido mi corazón muy rápido, incluso sin moverme mucho.  
+45. Médico: ¿La fiebre le provoca mucho sudor?  
+46. Paciente: No, no sudo mucho.  
+47. Médico: A pesar de tener fiebre, ¿se ha sentido muy fría o con escalofríos?  
+48. Paciente: Sí, una vez tuve escalofríos fuertes.  
+49. Médico: Los hallazgos iniciales sugieren una inflamación en los pulmones. Debemos realizar más pruebas para confirmar nuestro diagnóstico.  
+50. Paciente: Está bien, doctora, confío en lo que considere necesario.  
+"

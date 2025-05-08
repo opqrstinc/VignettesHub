@@ -1,0 +1,50 @@
+"1. Médico: Hola, buenos días. ¿Cuál es el motivo de tu consulta hoy?  
+2. Paciente: Buenos días, doctor. Me siento muy cansada últimamente, siempre estoy fatigada y a veces tengo mareos.  
+3. Médico: Entiendo. ¿Desde cuándo has estado experimentando estos síntomas?  
+4. Paciente: Creo que empezó hace unos seis meses, pero ha ido empeorando poco a poco.  
+5. Médico: ¿Hay algún momento del día en el que los síntomas sean peores?  
+6. Paciente: No sé si hay un momento específico, pero en general estoy cansada todo el tiempo.  
+7. Médico: ¿Has notado algo más que te preocupe, además del cansancio y los mareos?  
+8. Paciente: Sí, mis uñas han estado raras últimamente, como si se hundieran hacia adentro.  
+9. Médico: Ya veo. Eso es importante. ¿Has tenido algún otro cambio en tu salud, como pérdida de peso, fiebre o problemas para dormir?  
+10. Paciente: No, solo lo que le mencioné.  
+11. Médico: ¿Tus menstruaciones son regulares?  
+12. Paciente: Sí, pero son bastante abundantes desde que era adolescente.  
+13. Médico: ¿Alguna vez has buscado tratamiento para eso?  
+14. Paciente: No, nunca pensé que fuera necesario, solo lo he manejado así.  
+15. Médico: ¿Te ocurre durante todos los ciclos menstruales o solo algunos?  
+16. Paciente: Todos los meses son abundantes.  
+17. Médico: Bien, gracias por compartir. ¿Tienes antecedentes de enfermedades importantes o tomas algún medicamento regularmente?  
+18. Paciente: No, no tengo ninguna enfermedad ni tomo medicamentos.  
+19. Médico: ¿Alguien más en tu familia ha tenido problemas similares?  
+20. Paciente: No, que yo sepa, nadie más tiene estos problemas.  
+21. Médico: ¿Cómo está tu alimentación? ¿Dirías que es variada y balanceada?  
+22. Paciente: Creo que es normal, pero quizá no como muchas verduras o carne roja.  
+23. Médico: Entendido. ¿Fumas, consumes alcohol o alguna otra sustancia?  
+24. Paciente: No, no fumo ni bebo.  
+25. Médico: En los episodios de mareo, ¿te sientes a punto de desmayarte o el cuarto te da vueltas?  
+26. Paciente: Es más como si estuviera a punto de desmayarme, pero no llego a caer.  
+27. Médico: Cuando te levantas rápido, ¿empeoran los mareos?  
+28. Paciente: A veces, sí.  
+29. Médico: ¿Has tenido dificultades para respirar o palpitaciones?  
+30. Paciente: Algunas veces siento que mi corazón late rápido, pero no dura mucho.  
+31. Médico: ¿Notas algún cambio en tu piel, como palidez o resequedad?  
+32. Paciente: Ahora que lo menciona, sí, he notado que mi piel está más pálida de lo normal.  
+33. Médico: Muy bien. Voy a realizar un examen físico para revisar algunos aspectos.  
+34. Paciente: Claro.  
+35. Médico: Observé que tus uñas tienen una forma cóncava, lo que llamamos coiloniquia, además, tu piel y mucosas están pálidas.  
+36. Paciente: Eso explica lo que noté en mis uñas.  
+37. Médico: Encontré también un leve soplo en tu corazón, pero parece funcional. No hay otras anomalías evidentes.  
+38. Paciente: ¿Eso es algo grave?  
+39. Médico: No necesariamente, pero necesitamos confirmar con análisis. Vamos a hacer una serie de pruebas de sangre.  
+40. Paciente: Está bien, lo que sea necesario.  
+41. Médico: Revisaremos tu hemoglobina, tus niveles de hierro y otros indicadores. ¿Te parece bien?  
+42. Paciente: Sí, entiendo.  
+43. Médico: ¿Has notado sangre en tus heces o algún síntoma gastrointestinal?  
+44. Paciente: No, nunca he visto sangre ni he tenido problemas digestivos.  
+45. Médico: Perfecto. Es importante descartar otras causas de pérdida de hierro.  
+46. Paciente: Claro, eso suena lógico.  
+47. Médico: Muy bien, mientras esperamos los resultados, evitaré especular, pero parece que tus síntomas podrían estar relacionados con anemia.  
+48. Paciente: Eso tiene sentido. ¿Es grave?  
+49. Médico: Si se confirma, es tratable con suplementos y algunos hábitos. En cuanto tengamos los resultados, te lo explicaré.  
+50. Paciente: De acuerdo, muchísimas gracias por su atención, doctor."

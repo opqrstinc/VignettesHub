@@ -1,0 +1,50 @@
+"1. Physician: Hello, I’m Dr. Smith. What brings you in today?  
+2. Patient: Hi, I’ve been having this really bad headache for the past two days.  
+3. Physician: I’m sorry to hear that. Can you tell me more about the headache? Where is the pain located?  
+4. Patient: It’s on the left side of my head, and it’s really throbbing and severe.  
+5. Physician: Has the headache been constant, or does it come and go?  
+6. Patient: It’s been pretty constant over the last two days.  
+7. Physician: Does anything make it worse?  
+8. Patient: Physical activity, like walking, makes it so much worse.  
+9. Physician: Have you noticed any other symptoms alongside the headache?  
+10. Patient: Yes, I feel very nauseous and even threw up once. The light and noise are unbearable too.  
+11. Physician: That does sound uncomfortable. Have you had similar headaches before?  
+12. Patient: Yes, I get headaches like this two or three times a month over the past two years.  
+13. Physician: That’s quite frequent. Do you remember anything that might have triggered them?  
+14. Patient: Not really, but I do spend a lot of time studying and on my computer.  
+15. Physician: Has stress or lack of sleep ever seemed to bring on these headaches?  
+16. Patient: Stress, maybe, but my sleep patterns are usually fine.  
+17. Physician: Have you noticed anything you eat or drink that might bring them on?  
+18. Patient: I’ve wondered if caffeine could be involved, but I’m not sure.  
+19. Physician: Have you experienced any warning signs before these headaches, like seeing flashes of light or having numbness in your limbs?  
+20. Patient: No, nothing like that.  
+21. Physician: Okay, do you recall having a fever or recent illness before these headaches started?  
+22. Patient: No, I haven’t been sick recently.  
+23. Physician: Have you had any head injuries or trauma recently?  
+24. Patient: No, not at all.  
+25. Physician: How about medications — have you started or stopped any medications recently?  
+26. Patient: I just use ibuprofen or acetaminophen sometimes, but they don’t help much.  
+27. Physician: I see. When you take over-the-counter painkillers, do they provide any relief?  
+28. Patient: Not really, they don’t do much for this kind of headache.  
+29. Physician: Have these headaches affected your daily life significantly?  
+30. Patient: Yes, they make it really hard to study and get my work done.  
+31. Physician: That’s tough. Do you remember the first time you experienced these headaches?  
+32. Patient: I think it started a couple of years ago, but I just lived with it.  
+33. Physician: Do you have any medical conditions or family history of headaches or migraines?  
+34. Patient: No medical conditions for me, but my mom has migraines.  
+35. Physician: Family history can sometimes be a factor with migraines. How about your general health otherwise?  
+36. Patient: I’m healthy otherwise, no big issues.  
+37. Physician: Have you ever sought treatment for these headaches before?  
+38. Patient: No, this is the first time.  
+39. Physician: Okay. I’m going to ask some questions to rule out a few other causes. Have you had any weakness or numbness in your body?  
+40. Patient: No, I’ve never had that.  
+41. Physician: Any trouble with speech or vision beyond sensitivity to light?  
+42. Patient: No, my vision and speech are fine.  
+43. Physician: How about dizziness or balance problems?  
+44. Patient: No dizziness, but I do feel tired when I get these headaches.  
+45. Physician: That’s understandable with the symptoms you’ve described. Have you felt like fevers or chills accompanied these headaches?  
+46. Patient: No, none of that.  
+47. Physician: You mentioned nausea earlier—does it seem to happen every time you have these headaches?  
+48. Patient: Yeah, it’s there every time, along with vomiting sometimes.  
+49. Physician: Thank you for sharing all of this. Based on what you’ve told me and the absence of red flags in your symptoms or history, these headaches are consistent with migraines.  
+50. Patient: Oh, migraines? That makes sense. So, what can I do to make them better?"

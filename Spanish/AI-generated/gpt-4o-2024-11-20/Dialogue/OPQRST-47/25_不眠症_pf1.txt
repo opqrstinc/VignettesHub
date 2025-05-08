@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, ¿en qué puedo ayudarte hoy?  
+2. Paciente: Hola, doctor. Tengo muchos problemas para dormir en los últimos meses.  
+3. Médico: Entiendo. ¿Podrías explicarme un poco más sobre lo que sucede?  
+4. Paciente: Claro, me cuesta mucho quedarme dormido. Y cuando lo logro, me despierto varias veces durante la noche.  
+5. Médico: ¿Te sientes descansado cuando despiertas por la mañana?  
+6. Paciente: No, siempre estoy cansado y siento que no dormí nada.  
+7. Médico: ¿Cuánto tiempo hace que tienes este problema?  
+8. Paciente: Aproximadamente tres meses, tal vez un poco más.  
+9. Médico: ¿El problema empezó de repente o fue progresivo?  
+10. Paciente: Fue poco a poco. Al principio era solo dormir mal una o dos noches por semana, pero ahora es casi todas las noches.  
+11. Médico: ¿Has notado algún cambio reciente en tu vida, como estrés o algo fuera de lo normal?  
+12. Paciente: No, no puedo pensar en nada importante que haya cambiado. Mi vida ha sido bastante normal.  
+13. Médico: ¿Qué tal tu trabajo y tus relaciones personales?  
+14. Paciente: En el trabajo me he sentido muy cansado y desconcentrado. No rindo como antes, pero en casa todo está bien.  
+15. Médico: ¿Tienes dificultad para concentrarte durante el día o en otras actividades?  
+16. Paciente: Sí, mucho. Me cuesta enfocarme en lo que hago.  
+17. Médico: ¿Has tenido algún cambio en tu apetito o peso recientemente?  
+18. Paciente: No, eso no ha cambiado.  
+19. Médico: ¿Consumes alcohol, café u otras bebidas con cafeína regularmente?  
+20. Paciente: Café sí, pero solo en las mañanas. No tomo alcohol ni otras sustancias.  
+21. Médico: ¿Y qué tal tu rutina diaria antes de ir a dormir?  
+22. Paciente: Normalmente ceno, veo algo de televisión y luego me acuesto.  
+23. Médico: ¿Utilizas dispositivos como el móvil o la computadora antes de acostarte?  
+24. Paciente: Sí, suelo revisar el móvil justo antes de intentar dormir.  
+25. Médico: ¿Has probado algo para mejorar tu sueño, como cambiar rutinas o tomar algún medicamento?  
+26. Paciente: Intenté acostarme más temprano, pero sigo sin poder dormir bien.  
+27. Médico: ¿Puedes decirme si alguna vez has sentido ansiedad o tristeza significativa en estos meses?  
+28. Paciente: No, no me siento triste ni ansioso, solo muy frustrado por no poder dormir bien.  
+29. Médico: ¿Tienes antecedentes familiares de problemas para dormir o trastornos psiquiátricos?  
+30. Paciente: Que yo sepa, no.  
+31. Médico: ¿Te ha pasado antes algo similar, en algún otro momento de tu vida?  
+32. Paciente: Tal vez alguna vez cuando tenía mucho estrés en el trabajo, pero nunca fue tan grave ni duró tanto como ahora.  
+33. Médico: ¿Experimentas ronquidos o alguien te ha dicho que dejas de respirar mientras duermes?  
+34. Paciente: No, mi esposa nunca ha mencionado algo así.  
+35. Médico: ¿Has notado movimientos incontrolados en las piernas o alguna incomodidad al estar acostado?  
+36. Paciente: No, nada de eso.  
+37. Médico: ¿Te sientes cansado todo el día o hay momentos en los que te sientes mejor?  
+38. Paciente: Principalmente en la mañana me siento muy cansado, pero en la tarde es un poco mejor.  
+39. Médico: ¿Cuánto tiempo pasas en la cama intentando dormir cada noche?  
+40. Paciente: Más o menos unas 7 a 8 horas, pero duermo mucho menos tiempo.  
+41. Médico: ¿Cómo calificarías la calidad de tu sueño en general, del 1 al 10?  
+42. Paciente: Tal vez un 3 o 4.  
+43. Médico: Según lo que me cuentas, parece que tu día a día está bastante afectado por este problema, ¿correcto?  
+44. Paciente: Sí, eso es lo peor, no puedo rendir bien en el trabajo y siempre me siento agotado.  
+45. Médico: Realizaremos algunas pruebas para asegurarnos de que no hay otros problemas que causen esto, como problemas médicos o hormonales, ¿de acuerdo?  
+46. Paciente: Muy bien, doctor. Lo que sea necesario.  
+47. Médico: Primero, descartaré cualquier enfermedad tiroidea o hormonal, y luego evaluaremos tu actividad cerebral durante el sueño con una prueba específica llamada polisomnografía.  
+48. Paciente: ¿Eso duele o es complicado?  
+49. Médico: No, es solo un monitoreo mientras duermes. Es muy seguro y sencillo.  
+50. Paciente: Perfecto, doctor. Espero que encuentren algo que ayude a solucionarlo."

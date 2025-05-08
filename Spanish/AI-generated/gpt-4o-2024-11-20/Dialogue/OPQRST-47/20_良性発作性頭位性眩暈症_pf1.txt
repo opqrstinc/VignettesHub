@@ -1,0 +1,50 @@
+"1. Médico: Hola, señor, buenos días. ¿Qué lo trae por aquí hoy?  
+2. Paciente: Doctor, llevo unos días sintiendo mucho mareo, especialmente cuando muevo la cabeza.  
+3. Médico: Entiendo. ¿Es un mareo constante o se presenta en episodios?  
+4. Paciente: Son como ataques. Me pasa por unos segundos cuando giro la cabeza o me inclino hacia atrás.  
+5. Médico: ¿Recuerda cuándo comenzaron estos síntomas?  
+6. Paciente: Sí, todo empezó hace unos días, de forma repentina.  
+7. Médico: ¿Hay algún momento del día en que el mareo sea más intenso?  
+8. Paciente: Sí, especialmente en las mañanas, al levantarme de la cama.  
+9. Médico: ¿Ha notado algún dolor de cabeza junto con estos episodios?  
+10. Paciente: No, no he tenido dolor de cabeza.  
+11. Médico: ¿Y pérdida de audición o zumbidos en los oídos?  
+12. Paciente: No, ninguno de esos problemas.  
+13. Médico: ¿Siente debilidad en alguna parte del cuerpo?  
+14. Paciente: No, mis fuerzas están normales.  
+15. Médico: ¿Ha tenido alguna infección reciente, como una gripe o del oído?  
+16. Paciente: No, no recuerdo haber estado enfermo últimamente.  
+17. Médico: ¿Algún golpe en la cabeza antes de que comenzaran los síntomas?  
+18. Paciente: No, no he tenido ningún tipo de accidente.  
+19. Médico: ¿Tiene alguna enfermedad crónica o toma medicamentos regularmente?  
+20. Paciente: Sí, tengo hipertensión y diabetes, pero están bien controladas con medicinas.  
+21. Médico: Perfecto. ¿Qué medicamentos está tomando actualmente?  
+22. Paciente: Tomo enalapril y metformina todos los días.  
+23. Médico: Muy bien. Al experimentar estos episodios de mareo, ¿ha sentido que las cosas giran a su alrededor?  
+24. Paciente: Sí, exactamente, siento que todo da vueltas.  
+25. Médico: ¿Hay alguna posición específica que provoca estos mareos?  
+26. Paciente: Sí, como le dije antes, cuando inclino la cabeza hacia atrás o la giro hacia un lado.  
+27. Médico: ¿Estos episodios desaparecen por sí solos o tiene que hacer algo para que pasen?  
+28. Paciente: Desaparecen solos, pero me dejan algo desorientado por unos minutos.  
+29. Médico: ¿Cómo ha afectado esto sus actividades diarias?  
+30. Paciente: Me ha limitado mucho. Trato de moverme despacio todo el tiempo.  
+31. Médico: Entendido. Ahora voy a realizar unas maniobras para observar mejor este problema. ¿Está bien para usted?  
+32. Paciente: Sí, doctor, hagamos lo que sea necesario.  
+33. Médico: Durante esta maniobra, es posible que sienta el mismo mareo. Déjeme saber si algo se siente diferente.  
+34. Paciente: De acuerdo.  
+35. Médico: Vamos a realizar la maniobra de Dix-Hallpike. (Procede a realizar la maniobra) ¿Cómo se siente ahora?  
+36. Paciente: Uf, sí, ahora lo siento mucho, todo se mueve rápido.  
+37. Médico: He observado un movimiento ocular anormal, llamado nistagmo. Es útil para entender su problema.  
+38. Paciente: ¿Y qué significa eso?  
+39. Médico: Parece indicar un problema en el oído interno, específicamente en el canal semicircular derecho.  
+40. Paciente: ¿Es grave?  
+41. Médico: No se preocupe, no es grave. Es una condición llamada vértigo posicional paroxístico benigno o VPPB.  
+42. Paciente: ¿Y qué lo causa?  
+43. Médico: Es causado por pequeñas partículas en el oído interno que interfieren con su equilibrio.  
+44. Paciente: ¿Tiene tratamiento?  
+45. Médico: Sí, vamos a realizar unas maniobras de reposicionamiento para aliviar los síntomas.  
+46. Paciente: Perfecto, doctor, confío en usted.  
+47. Médico: También le recetaremos betahistina para mejorar el vértigo residual y le daré ejercicios para hacer en casa.  
+48. Paciente: Muy bien, gracias.  
+49. Médico: Recuerde evitar movimientos bruscos de la cabeza durante los próximos días.  
+50. Paciente: Lo haré, doctor. Muchas gracias por la ayuda."

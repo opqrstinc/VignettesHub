@@ -1,0 +1,149 @@
+"1.  
+Doctor: Can you tell me what brings you in today?  
+Patient: I've been having severe pain on the right side of my face for the past three months.  
+2.  
+Doctor: Can you describe the pain?  
+Patient: It's sharp, like an electric shock, and it's very intense.  
+3.  
+Doctor: Where exactly do you feel the pain?  
+Patient: It's mostly around my cheek and jaw on the right side.  
+4.  
+Doctor: How long does each episode of pain last?  
+Patient: Just a few seconds to a couple of minutes, but it happens multiple times a day.  
+5.  
+Doctor: Is there anything specific that seems to trigger the pain?  
+Patient: Yes, chewing, talking, or even lightly touching that side of my face can trigger it.  
+6.  
+Doctor: Have you noticed any swelling, redness, or a rash in the area?  
+Patient: No, nothing like that.  
+7.  
+Doctor: Did this start after any trauma to your face or any specific event?  
+Patient: No, it just started suddenly.  
+8.  
+Doctor: Do you have any other symptoms, like fever or weakness in any part of your face?  
+Patient: No, I feel fine otherwise, just this pain.  
+9.  
+Doctor: Have you ever experienced anything like this before?  
+Patient: No, this is the first time.  
+10.  
+Doctor: Do you have any chronic illnesses or take any long-term medications?  
+Patient: No, I'm generally healthy and don't take any medications regularly.  
+11.  
+Doctor: Have you had any surgeries in the past?  
+Patient: No surgeries, never needed one.  
+12.  
+Doctor: Does the pain come even when you aren't eating or talking?  
+Patient: Sometimes, but it's much worse with chewing or speaking.  
+13.  
+Doctor: Have you noticed the pain spreading to other parts of your face or head?  
+Patient: No, it stays on the right cheek and jaw area.  
+14.  
+Doctor: Has the pain pattern changed over the past three months?  
+Patient: No, it's been pretty consistent.  
+15.  
+Doctor: On a scale of 1 to 10, how severe would you say this pain is?  
+Patient: It's a 10 when it happens. It stops me in my tracks.  
+16.  
+Doctor: Did you try taking any over-the-counter pain relievers?  
+Patient: Yes, I tried ibuprofen, but it doesn't help at all.  
+17.  
+Doctor: Do you have any numbness or tingling in the face?  
+Patient: No, none of that, just the sharp pain.  
+18.  
+Doctor: How about headaches or dizziness?  
+Patient: No, I haven't had any of those.  
+19.  
+Doctor: Does your vision or hearing seem affected in any way?  
+Patient: Everything seems normal with my vision and hearing.  
+20.  
+Doctor: Do you feel stress or anxiety linked to the onset of pain?  
+Patient: I do feel stressed because of the pain, but I don't think that’s triggering it.  
+21.  
+Doctor: Has this pain affected your daily life or work?  
+Patient: Absolutely, it's hard to eat or have conversations without worrying about the pain.  
+22.  
+Doctor: Is there any history of similar facial pain in your family?  
+Patient: Not that I know of, no.  
+23.  
+Doctor: Do you notice the pain more at certain times of the day?  
+Patient: No, it can happen any time, day or night.  
+24.  
+Doctor: Have you seen any other doctors for this issue?  
+Patient: No, you're the first doctor I've come to.  
+25.  
+Doctor: Do you remember having any dental issues recently?  
+Patient: No, I saw my dentist a few months ago, and everything was fine.  
+26.  
+Doctor: Have you traveled or been to any places where you might have gotten an infection?  
+Patient: No, I haven’t traveled recently.  
+27.  
+Doctor: Do you feel like the pain gets worse when you’re cold or hot?  
+Patient: Not really, weather doesn’t seem to affect it.  
+28.  
+Doctor: Any specific foods or drinks that make it worse?  
+Patient: Not particularly, but chewing anything is a problem.  
+29.  
+Doctor: Can you tell me about your daily routine and how this pain has impacted it?  
+Patient: I’ve had to eat soft foods and avoid talking much, which is difficult since I work in sales.  
+30.  
+Doctor: When the pain starts, do you notice anything else happening in your body?  
+Patient: No, it’s just the sharp pain on the right side.  
+31.  
+Doctor: Have you had any changes in weight or appetite recently?  
+Patient: I’ve lost a little weight because it’s hard to eat, but my appetite is normal.  
+32.  
+Doctor: Are you able to sleep through the night, or does the pain wake you up?  
+Patient: It usually doesn’t wake me up unless I move wrong in my sleep.  
+33.  
+Doctor: Have you tried avoiding certain activities to reduce the pain?  
+Patient: Yes, I try to avoid talking too much or eating harder foods.  
+34.  
+Doctor: Were there any stressful events or changes in your life before this started?  
+Patient: Not really, life’s been pretty steady.  
+35.  
+Doctor: Do you ever feel pain radiate into your eye or forehead?  
+Patient: No, it stays concentrated in my cheek and jaw.  
+36.  
+Doctor: Any numbness or weakness on either side of your body?  
+Patient: No, nothing like that.  
+37.  
+Doctor: If you touch the left side of your face, does it feel any different?  
+Patient: No, the left side feels completely normal.  
+38.  
+Doctor: Did you ever have shingles or any rashes on your face in the past?  
+Patient: No, I’ve never had shingles or rashes.  
+39.  
+Doctor: Do you feel the pain gets better or worse after physical activity?  
+Patient: It doesn’t seem related to exercise or anything like that.  
+40.  
+Doctor: Do you drink alcohol or consume caffeine regularly?  
+Patient: I drink coffee every morning but rarely drink alcohol.  
+41.  
+Doctor: Does caffeine or coffee make the pain better or worse?  
+Patient: I haven’t noticed any difference with coffee.  
+42.  
+Doctor: Have you had any issues with your sinuses, like congestion or infection?  
+Patient: No, I’ve never had sinus problems.  
+43.  
+Doctor: Were you exposed to cold winds or fans before the pain started?  
+Patient: No, I can’t think of anything like that.  
+44.  
+Doctor: Does the pain feel constant, or is it always intermittent?  
+Patient: It’s always intermittent, comes and goes suddenly.  
+45.  
+Doctor: Any discomfort when you move your jaw or open your mouth wide?  
+Patient: No, jaw movement is fine; it just triggers the pain sometimes.  
+46.  
+Doctor: Did you notice any drooping or changes in your smile?  
+Patient: No, my face looks and feels normal otherwise.  
+47.  
+Doctor: How long do you wait between episodes before contacting someone for help?  
+Patient: I waited a few weeks, thinking it’d go away, but it hasn’t.  
+48.  
+Doctor: Have you had any recent vaccines?  
+Patient: Yes, just my flu shot a few months ago.  
+49.  
+Doctor: Have you sought alternative treatments like massages or herbal remedies?  
+Patient: No, I haven’t tried anything like that.  
+50.  
+Doctor: Based on everything you’ve shared and the examination, I believe you have a condition called trigeminal neuralgia."

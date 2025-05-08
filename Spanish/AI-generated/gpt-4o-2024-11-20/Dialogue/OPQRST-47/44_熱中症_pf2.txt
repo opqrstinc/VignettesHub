@@ -1,0 +1,50 @@
+"1. Médico: Hola, buenos días. ¿Cómo te llamas y qué te trae hoy por aquí?  
+2. Paciente: Hola, buenos días. Me llamo María. He venido porque tengo un dolor de cabeza muy fuerte y me siento muy débil.  
+3. Médico: Entendido, María. ¿Desde cuándo comenzaste a sentirte mal?  
+4. Paciente: Todo empezó hace como cuatro horas, después de haber estado bastante tiempo bajo el sol.  
+5. Médico: ¿Cuánto tiempo estuviste expuesta al sol?  
+6. Paciente: Fueron varias horas. Estaba afuera todo el día en un parque, y hacía mucho calor, como más de 35 grados.  
+7. Médico: ¿Usaste algo para protegerte del sol, como sombrero o protector solar?  
+8. Paciente: Solo llevaba una gorra, pero no usé protector solar ni me hidraté mucho.  
+9. Médico: Además de la cefalea y la debilidad, ¿has tenido otros síntomas?  
+10. Paciente: Sí, náuseas, y poco antes de venir aquí me sentí mareada, como si todo estuviera dando vueltas.  
+11. Médico: ¿Has vomitado?  
+12. Paciente: No, pero sentí que podría hacerlo en cualquier momento.  
+13. Médico: ¿Presentas fiebre o escalofríos?  
+14. Paciente: Creo que tengo fiebre porque me siento muy caliente, pero no he tenido escalofríos.  
+15. Médico: ¿Cómo sientes tu piel, húmeda o seca?  
+16. Paciente: Seca y muy caliente.  
+17. Médico: María, ¿tienes dificultad al caminar o mantenerte de pie?  
+18. Paciente: Sí, me cuesta mucho estar de pie porque me siento muy débil y mareada.  
+19. Médico: ¿Has tenido problemas para respirar o algún dolor en el pecho?  
+20. Paciente: No, respirar no ha sido un problema.  
+21. Médico: ¿Te has sentido confundida o has tenido dificultad para concentrarte?  
+22. Paciente: Un poco, como si mi mente estuviera un poco lenta.  
+23. Médico: ¿Hay antecedentes médicos o de enfermedades en tu familia que debamos saber?  
+24. Paciente: No, no tengo antecedentes importantes ni en mi familia tampoco.  
+25. Médico: ¿Tienes algún diagnóstico médico previo o tomas algún medicamento?  
+26. Paciente: No, estoy sana y no tomo medicamentos regularmente.  
+27. Médico: ¿Has tenido episodios similares antes?  
+28. Paciente: No, es la primera vez que me pasa algo así.  
+29. Médico: ¿Cómo han sido tus hábitos de hidratación hoy?  
+30. Paciente: Bebí muy poco, tal vez uno o dos vasos de agua en todo el día.  
+31. Médico: Ya veo. ¿Qué comiste antes de exponerte al sol?  
+32. Paciente: Comí algo ligero por la mañana, un café con unas tostadas.  
+33. Médico: María, ¿sientes dolor en los músculos?  
+34. Paciente: Sí, me duelen un poco las piernas.  
+35. Médico: ¿Algún cambio en el color de tu orina o dificultad para orinar?  
+36. Paciente: Ahora que lo mencionas, creo que mi orina era más oscura de lo normal la última vez que fui al baño.  
+37. Médico: Entendido. ¿Has tenido episodios de desmayos o pérdida de conocimiento?  
+38. Paciente: No, solo mucho mareo.  
+39. Médico: ¿Tienes alergias conocidas a medicamentos u otros productos?  
+40. Paciente: No, ninguna alergia conocida.  
+41. Médico: ¿Tienes algún dolor abdominal o síntomas gastrointestinales?  
+42. Paciente: No, aparte de las náuseas, no he tenido dolor de estómago.  
+43. Médico: De acuerdo. ¿A qué te dedicas, María?  
+44. Paciente: Soy profesora, pero estaba de día libre y salí al parque para relajarme.  
+45. Médico: Muy bien, ¿estabas haciendo actividad física en el parque?  
+46. Paciente: No, solo caminaba y estaba sentada en el césped con amigos.  
+47. Médico: ¿Ellos mencionaron haberte visto comportarte diferente o confundida?  
+48. Paciente: Me dijeron que parecía más cansada y lenta de lo normal.  
+49. Médico: María, por los síntomas que me describes, todo apunta a que estás pasando por un golpe de calor.  
+50. Paciente: ¿Un golpe de calor? ¿Es grave?"

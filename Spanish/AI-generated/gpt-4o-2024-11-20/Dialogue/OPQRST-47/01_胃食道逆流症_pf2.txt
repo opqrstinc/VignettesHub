@@ -1,0 +1,56 @@
+"1. Médico: Buenas tardes, señora. ¿Qué la trae por aquí el día de hoy?  
+2. Paciente: Buenas tardes, doctor. Desde hace unos meses tengo un dolor en el pecho, como una quemazón, especialmente después de comer.  
+3. Médico: Entendido. ¿Hace cuánto comenzó este dolor y es constante o intermitente?  
+4. Paciente: Comenzó hace unos tres meses. No es todo el tiempo, pero lo siento casi siempre después de las comidas o por la noche.  
+5. Médico: ¿El dolor ocurre más después de comidas grandes o ricas en ciertos alimentos?  
+6. Paciente: Sí, después de comidas muy pesadas me pasa más, y también si como alimentos grasosos.  
+7. Médico: ¿Ha notado alguna otra molestia, como una sensación extraña en la garganta?  
+8. Paciente: Sí, siento como si algo subiera de mi estómago y me deja una sensación ácida en la garganta.  
+9. Médico: ¿Ha tenido episodios de vómitos o dificultad para tragar alimentos?  
+10. Paciente: No, nunca he vomitado y tampoco tengo problemas para tragar.  
+11. Médico: ¿Eructa frecuentemente o siente que los alimentos regresan a su boca?  
+12. Paciente: Sí, hago muchos eructos y, a veces, siento como si una comida subiera otra vez. Es bastante incómodo.  
+13. Médico: ¿Ha notado pérdida de peso reciente o sangrado en algún momento?  
+14. Paciente: No, mi peso está normal y no he tenido ningún tipo de sangrado.  
+15. Médico: ¿El dolor aumenta cuando se acuesta o en las noches?  
+16. Paciente: Sí, exactamente. Por las noches es peor, especialmente si me acuesto después de comer.  
+17. Médico: ¿Tiene antecedentes médicos que debamos tomar en cuenta?  
+18. Paciente: Tengo síndrome del intestino irritable, pero no he tenido problemas recientes con eso.  
+19. Médico: ¿Está tomando algún medicamento en este momento para otro motivo?  
+20. Paciente: No, no uso ningún medicamento de forma regular.  
+21. Médico: ¿Ha intentado algo para aliviar este dolor, como medicamentos o cambiar de posición?  
+22. Paciente: A veces tomo un antiácido y me ayuda un poco, pero no del todo.  
+23. Médico: ¿Cómo describiría el dolor, es un dolor punzante, opresivo o de otro tipo?  
+24. Paciente: Es como una sensación de quemazón en el pecho.  
+25. Médico: ¿Tiene otros síntomas asociados, como tos o ronquera?  
+26. Paciente: A veces se me irrita la garganta, pero no tengo tos.  
+27. Médico: ¿Tiene antecedentes de alergias o algún tipo de reacción alimentaria?  
+28. Paciente: No, doctor, no tengo alergias conocidas.  
+29. Médico: ¿La molestia se relaciona con el consumo de algún alimento o bebida específica?  
+30. Paciente: Bueno, he notado que pasa más cuando como cosas fritas o bebo café.  
+31. Médico: Perfecto. Por lo que me comenta, parece relacionado con el reflujo ácido. Vamos a hacer unas preguntas más.  
+32. Paciente: Claro, doctor, pregunte lo que necesite.  
+33. Médico: En ocasiones, ¿siente el dolor irradiarse hacia el brazo o siente dificultad para respirar?  
+34. Paciente: No, no llega a los brazos ni tengo problemas para respirar.  
+35. Médico: ¿Cómo afectan sus síntomas a su vida diaria, como comer o dormir?  
+36. Paciente: La verdad, evito comer mucho porque me incomoda después, y he tenido que dormir con más almohadas.  
+37. Médico: Entiendo. ¿Qué tal su apetito en general, ha cambiado últimamente?  
+38. Paciente: Mi apetito está bien, pero a veces evito comer porque no quiero sentir esa quemazón.  
+39. Médico: Una última pregunta, ¿siente que los síntomas empeoran cuando está estresada?  
+40. Paciente: Sí, creo que el estrés los hace un poco peores.  
+41. Médico: Gracias por su paciencia. Revisaré sus antecedentes en la historia clínica. Hasta ahora, parece ser algo relacionado con ácido gástrico.  
+42. Paciente: Gracias a usted, doctor. Espero resolver esto pronto porque es muy molesto.  
+43. Médico: Haré una exploración rápida, y luego hablaremos sobre lo que deberíamos hacer.  
+44. Paciente: Muy bien, doctor, lo que usted diga.  
+45. Médico: La exploración física está dentro de los parámetros normales. Su abdomen está suave y sin dolor a la palpación.  
+46. Paciente: ¿Eso es bueno, verdad?  
+47. Médico: Sí, eso es positivo. Vamos a programar una gastroscopia para confirmar el diagnóstico y descartar otras condiciones.  
+48. Paciente: ¿Una gastroscopia? ¿Será muy incómoda?  
+49. Médico: Es un procedimiento sencillo que nos permitirá observar directamente su esófago y estómago.  
+50. Paciente: De acuerdo, doctor. Quiero saber qué es exactamente lo que tengo.  
+51. Médico: Según los resultados preliminares y una prueba de pH, parece que tiene enfermedad por reflujo gastroesofágico o ERGE.  
+52. Paciente: ¿Eso es grave?  
+53. Médico: No es grave en su caso, pero requiere tratamiento con omeprazol junto a algunas medidas en su dieta y estilo de vida.  
+54. Paciente: Perfecto, lo seguiré al pie de la letra. ¿Algo más que deba saber?  
+55. Médico: No por ahora. Vamos a comenzar y observar la mejoría. Gracias por su colaboración.  
+56. Paciente: Muchas gracias, doctor. Confío en que mejore pronto."

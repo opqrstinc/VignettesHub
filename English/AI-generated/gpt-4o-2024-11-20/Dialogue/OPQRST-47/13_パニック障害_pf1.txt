@@ -1,0 +1,50 @@
+"1. 医師：Hello, can you tell me what brings you in today?  
+2. 患者：I’ve been experiencing episodes of dizziness and sweating that started about four months ago.  
+3. 医師：Can you describe what happens during these episodes?  
+4. 患者：Sure, they just come on suddenly. I feel dizzy, start sweating a lot, and my heart races.  
+5. 医師：Do you notice any specific triggers for these episodes?  
+6. 患者：No, that’s the thing—they seem to happen out of nowhere.  
+7. 医師：How often do these episodes occur?  
+8. 患者：Maybe two or three times a week.  
+9. 医師：How long do the episodes usually last?  
+10. 患者：Around 10 to 20 minutes, but it feels much longer when it’s happening.  
+11. 医師：Do you feel anything else besides dizziness and sweating during these episodes?  
+12. 患者：Yes, I feel like I can’t breathe, and there’s this chest tightness.  
+13. 医師：Have you ever felt like your life was in danger during one of these episodes?  
+14. 患者：Yes, I get this overwhelming sense of doom like something terrible is about to happen.  
+15. 医師：Have the symptoms affected your daily life in any way?  
+16. 患者：Definitely. I’ve missed a lot of school and stopped hanging out with my friends.  
+17. 医師：Do the episodes ever occur in specific places or situations?  
+18. 患者：No, they’re completely random. I could be at home or outside; it doesn’t matter.  
+19. 医師：Do you drink alcohol, smoke, or use any recreational drugs?  
+20. 患者：No, I don’t use any substances like that.  
+21. 医師：Have you had any significant stress or changes in your life recently?  
+22. 患者：Not really. My life has been pretty normal, except for these episodes.  
+23. 医師：Do you have any medical conditions or take any medications regularly?  
+24. 患者：No, I’ve always been healthy and I don’t take any medicines.  
+25. 医師：Is there a family history of medical conditions like heart problems or anxiety?  
+26. 患者：No, my family doesn’t have any major health issues.  
+27. 医師：How would you describe your mood generally?  
+28. 患者：I’ve been pretty anxious, especially about when the next episode will happen.  
+29. 医師：Do you have trouble sleeping or concentrating?  
+30. 患者：Sometimes, yes. I keep worrying, and it’s hard to focus on anything.  
+31. 医師：Do you have any physical symptoms outside these episodes, like weight changes?  
+32. 患者：No, I haven’t noticed anything like that.  
+33. 医師：During the episodes, do you ever feel like you’re losing control or disconnected?  
+34. 患者：Yes, it’s like I’m not even in my body sometimes.  
+35. 医師：Have you tried anything to stop or reduce the episodes?  
+36. 患者：I’ve tried deep breathing, but it doesn’t really help much.  
+37. 医師：Do the episodes ever wake you up from sleep, or do they only happen when you’re awake?  
+38. 患者：They only happen when I’m awake.  
+39. 医師：Have you had any chest pains or fainting spells outside these episodes?  
+40. 患者：No, just during the episodes.  
+41. 医師：We’ll run some tests to make sure there’s no underlying physical condition. Are you okay with that?  
+42. 患者：Yes, absolutely. I just want this to stop.  
+43. 医師：Physical exams and tests show everything is normal. Your heart, thyroid, and general health seem fine.  
+44. 患者：That’s a relief, but it’s still frustrating because I don’t know what’s wrong.  
+45. 医師：Your symptoms and test results suggest you might have something called panic disorder.  
+46. 患者：Panic disorder? What does that mean?  
+47. 医師：It’s a condition where people experience frequent, unexpected panic attacks, like the episodes you described.  
+48. 患者：Is it serious?  
+49. 医師：It’s not life-threatening, but it can disrupt daily life. The good news is it’s treatable.  
+50. 患者：Thank you. I’m ready to do what’s needed to get better.  "

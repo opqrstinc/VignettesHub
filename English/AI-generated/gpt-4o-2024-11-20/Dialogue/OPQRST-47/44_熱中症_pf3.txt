@@ -1,0 +1,149 @@
+"1.  
+Doctor: What brings you to the emergency department today?  
+Patient: I’ve been feeling really dizzy and had a bad headache. My muscles are cramping too.  
+2.  
+Doctor: When did these symptoms start?  
+Patient: About two hours ago.  
+3.  
+Doctor: Were you doing anything specific when this started?  
+Patient: I was working outside in the sun. It was really hot out there.  
+4.  
+Doctor: How hot would you say it was outside today?  
+Patient: I think it was close to the midday heat, probably over 90 degrees.  
+5.  
+Doctor: Were you drinking enough fluids while you were working?  
+Patient: Not really. I didn’t take many breaks to drink water.  
+6.  
+Doctor: Did you notice yourself sweating a lot?  
+Patient: Yes, a lot at first, but then later my skin felt dry even though I was still in the heat.  
+7.  
+Doctor: Have you had these symptoms before in a similar situation?  
+Patient: No, this has never happened to me before.  
+8.  
+Doctor: Have you felt chest pain, palpitations, or any trouble breathing?  
+Patient: No, none of that.  
+9.  
+Doctor: Have you been feeling nauseous or vomiting?  
+Patient: No, just dizzy and really uncomfortable.  
+10.  
+Doctor: Did you feel lightheaded or notice any problems walking?  
+Patient: Yes, I was stumbling a bit, like I couldn’t keep my balance.  
+11.  
+Doctor: How is your mental clarity right now? Do you feel like your thoughts are clear?  
+Patient: Honestly, I feel a little confused. I had trouble figuring out where I was earlier.  
+12.  
+Doctor: Has anyone in your family ever experienced heat-related illnesses?  
+Patient: Not that I know of.  
+13.  
+Doctor: Have you been on any medications recently?  
+Patient: No, I’m not on any medications.  
+14.  
+Doctor: Do you have any medical conditions like diabetes or kidney problems?  
+Patient: No, nothing like that. I’m generally healthy.  
+15.  
+Doctor: How long were you in the heat before these symptoms started?  
+Patient: I was out there for hours, maybe four or five.  
+16.  
+Doctor: Were you working hard physically, or was it light activity?  
+Patient: It was pretty heavy; I was moving things and walking around all day.  
+17.  
+Doctor: Did you eat anything before going outside?  
+Patient: Just a light breakfast. I didn’t feel like eating much.  
+18.  
+Doctor: Have you felt excessively tired or weak today?  
+Patient: Yes, I feel completely exhausted, like I can’t move much.  
+19.  
+Doctor: Have you noticed any dark-colored urine?  
+Patient: I don’t think so, but I haven’t been to the bathroom much.  
+20.  
+Doctor: How are you feeling now compared to earlier?  
+Patient: A lot worse. My head hurts more, and I feel so dizzy.  
+21.  
+Doctor: Can I check your skin? Do you feel it’s warmer than usual?  
+Patient: Sure, but yeah, I think I feel really hot.  
+22.  
+Doctor: Is the headache still sharp, or is it dull now?  
+Patient: It’s more of a dull ache, but it’s constant.  
+23.  
+Doctor: Are the muscle cramps localized or all over?  
+Patient: Mostly my legs and arms, but everywhere feels kind of achy.  
+24.  
+Doctor: Have you taken anything for the headache or cramps?  
+Patient: No, I haven’t taken anything yet.  
+25.  
+Doctor: How about your appetite? Have you felt like eating since this started?  
+Patient: No, I don’t feel like eating at all.  
+26.  
+Doctor: Do you remember if you felt cold and shivered at any point?  
+Patient: No, I’ve just felt really hot the whole time.  
+27.  
+Doctor: Do you feel faint or like you might pass out?  
+Patient: A little, but it’s not as bad since I sat down.  
+28.  
+Doctor: Do you typically tolerate heat well, or do you struggle with high temperatures?  
+Patient: I’m usually okay, but today was way too much.  
+29.  
+Doctor: Are you able to focus on what I’m saying right now?  
+Patient: It’s a bit hard to concentrate on everything.  
+30.  
+Doctor: Are you able to move your limbs normally, or do they feel heavy?  
+Patient: They feel pretty heavy, especially my legs.  
+31.  
+Doctor: Have you felt cold sweats or clamminess?  
+Patient: No, my skin just feels dry now.  
+32.  
+Doctor: Did you notice any unusual heartbeats or rhythms?  
+Patient: No, I didn’t notice anything like that.  
+33.  
+Doctor: Have you experienced shortness of breath while lying down?  
+Patient: No, not that I’ve noticed.  
+34.  
+Doctor: Have you felt any pins-and-needles sensations or numbness?  
+Patient: No, none of that.  
+35.  
+Doctor: How is your vision? Any blurring or flashing lights?  
+Patient: My vision feels a bit blurry right now.  
+36.  
+Doctor: Did you feel better at any point after coming indoors?  
+Patient: Not really, I still feel terrible.  
+37.  
+Doctor: Have you had any chills or fever-like symptoms?  
+Patient: I just feel hot, no chills.  
+38.  
+Doctor: Did you notice if anyone else you were working with felt sick?  
+Patient: I didn’t notice anyone else having issues, just me.  
+39.  
+Doctor: Has your skin felt itchy or irritated?  
+Patient: No, just hot and dry.  
+40.  
+Doctor: Have you been able to drink any water since coming inside?  
+Patient: A little, but not much.  
+41.  
+Doctor: Did you notice the cramps getting worse with time?  
+Patient: Yes, they’ve been getting worse.  
+42.  
+Doctor: Has lying down helped with the dizziness?  
+Patient: Yes, a little, but it hasn’t gone away.  
+43.  
+Doctor: Before today, have you been exposed to extreme heat recently?  
+Patient: Not really, just today.  
+44.  
+Doctor: Did you feel well when you woke up this morning?  
+Patient: Yes, I felt fine when I got up.  
+45.  
+Doctor: Have you had any headaches like this before?  
+Patient: No, not like this.  
+46.  
+Doctor: Do you feel alert, or does everything feel kind of foggy?  
+Patient: Pretty foggy, to be honest.  
+47.  
+Doctor: How often do you stay hydrated during hot days?  
+Patient: I probably don’t drink enough water most days.  
+48.  
+Doctor: Have you ever collapsed while working outdoors in the past?  
+Patient: No, this is the first time.  
+49.  
+Doctor: I’ve gathered enough information to help you. Do you have any other concerns?  
+Patient: No, just these symptoms.  
+50.  
+Doctor: Based on your symptoms and findings, you are showing clear signs of heatstroke."

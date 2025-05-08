@@ -1,0 +1,50 @@
+"1. Physician: What brings you in today?  
+2. Patient: I've been dealing with constant pain all over my body for over six months now.  
+3. Physician: Can you describe the pain? Is it sharp, dull, or something else?  
+4. Patient: It's a deep, aching pain that just never seems to go away.  
+5. Physician: Is the pain in specific areas or more general?  
+6. Patient: It's all over, but it feels worse in certain places like my shoulders, neck, and elbows.  
+7. Physician: When did your symptoms first start?  
+8. Patient: About six months ago, I noticed some mild aches here and there, but over time it became constant and much worse.  
+9. Physician: Have you noticed anything that makes the pain better or worse?  
+10. Patient: Stress and physical activity make it worse. Rest doesn’t really help much.  
+11. Physician: How is your energy level?  
+12. Patient: I’m always exhausted, no matter how much I rest.  
+13. Physician: Do you feel refreshed after sleeping?  
+14. Patient: Not at all. I wake up just as tired as when I went to bed.  
+15. Physician: Have you had any issues with concentration or memory?  
+16. Patient: Yes, I find it really hard to focus, and I forget things more often than I used to.  
+17. Physician: Has this affected your daily activities or work?  
+18. Patient: Absolutely. It’s hard to work or even do simple chores.  
+19. Physician: Do you have any history of similar symptoms in the past?  
+20. Patient: No, this is the first time I’ve experienced anything like this.  
+21. Physician: Have you been feeling anxious or depressed?  
+22. Patient: I’ve struggled with anxiety for years, but it's gotten worse since this pain started.  
+23. Physician: Any history of trauma, either physical or emotional?  
+24. Patient: Nothing physical, but life’s been pretty stressful lately.  
+25. Physician: How is your appetite and weight?  
+26. Patient: My appetite is okay, and my weight hasn’t changed much.  
+27. Physician: Have you had any fever, swelling, or redness in your joints?  
+28. Patient: No, nothing like that.  
+29. Physician: Have you noticed any weakness in your muscles?  
+30. Patient: No, the muscles seem fine, just really sore all the time.  
+31. Physician: Do you have numbness or tingling sensations anywhere?  
+32. Patient: No, I haven’t had that.  
+33. Physician: Any issues with your bowel or bladder function?  
+34. Patient: No, everything seems normal in that regard.  
+35. Physician: Have you seen any other doctors or tried treatments before coming here?  
+36. Patient: I saw a general doctor who ran some blood tests, but nothing showed up.  
+37. Physician: What about over-the-counter pain medication? Has it helped at all?  
+38. Patient: Not really. I’ve tried ibuprofen and acetaminophen, but the relief is minimal.  
+39. Physician: Has anyone in your family experienced similar symptoms?  
+40. Patient: Not that I know of.  
+41. Physician: Do you exercise regularly?  
+42. Patient: Not as much anymore. It’s hard when the pain and fatigue are so bad.  
+43. Physician: How about your sleep habits? Do you sleep in a quiet and dark room?  
+44. Patient: Yes, I try to maintain a good environment for sleep, but it doesn't improve anything.  
+45. Physician: Have you noticed any change in your heart rate or breathing during sleep?  
+46. Patient: No, not that I’m aware of.  
+47. Physician: Have you had any imaging or specialized tests done so far?  
+48. Patient: Just some X-rays, and they didn’t find anything abnormal.  
+49. Physician: Based on what you’ve told me, I think this might be fibromyalgia. Does that term sound familiar to you?  
+50. Patient: I’ve heard of it, but I don't know much about it. What does it mean?  "

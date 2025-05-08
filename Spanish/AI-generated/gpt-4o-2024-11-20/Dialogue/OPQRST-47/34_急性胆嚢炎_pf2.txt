@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señor. ¿Qué lo trae hoy a consulta?  
+2. Paciente: Buenos días, doctor. Desde hace dos días tengo un dolor muy fuerte en el lado derecho del abdomen.  
+3. Médico: Entiendo. ¿El dolor empezó de repente o fue aumentando con el tiempo?  
+4. Paciente: Empezó de repente, así de golpe, y no se me ha quitado desde entonces.  
+5. Médico: ¿Puede describir cómo es el dolor? ¿Es punzante, quemante, o más bien constante?  
+6. Paciente: Es constante, como un dolor fuerte y opresivo.  
+7. Médico: ¿El dolor se queda en un solo lugar o se irradia hacia otra parte del cuerpo?  
+8. Paciente: Se siente aquí, pero a veces lo noto en el hombro derecho también.  
+9. Médico: ¿Ha tenido episodios de náuseas o vómitos?  
+10. Paciente: Sí, doctor. He estado vomitando varias veces desde que empezó el dolor.  
+11. Médico: ¿Y qué tal el apetito? ¿Ha podido comer algo?  
+12. Paciente: No, la verdad es que no he podido comer, me siento muy mal del estómago.  
+13. Médico: ¿Ha tenido fiebre o escalofríos?  
+14. Paciente: Sí, he tenido fiebre alta y muchos escalofríos.  
+15. Médico: ¿Ha notado que su piel o los ojos estén más amarillos de lo normal?  
+16. Paciente: Pues sí, mi esposa me dijo que mis ojos y la piel se han puesto amarillos.  
+17. Médico: Es importante lo que menciona. ¿Le ha pasado algo parecido en el pasado?  
+18. Paciente: No, nunca he tenido un problema así antes.  
+19. Médico: ¿Algún antecedente médico, enfermedad o cirugía previa?  
+20. Paciente: No, doctor. Nunca he estado enfermo ni me han operado.  
+21. Médico: ¿Toma algún medicamento de manera habitual?  
+22. Paciente: No, nunca he necesitado tomar medicamentos.  
+23. Médico: ¿Tiene alguna alergia conocida?  
+24. Paciente: No, que yo sepa no tengo ninguna alergia.  
+25. Médico: Comprendo. ¿Por casualidad ha notado cambios en sus heces o en su orina?  
+26. Paciente: Ahora que lo menciona, la orina está más oscura, como té, y las heces más claras.  
+27. Médico: Es un detalle importante, gracias por mencionarlo. ¿Ha viajado recientemente o comido algo diferente?  
+28. Paciente: No he viajado, y creo que no he comido nada fuera de lo común.  
+29. Médico: ¿Qué estaba haciendo cuando comenzó el dolor? ¿Había hecho algún esfuerzo físico?  
+30. Paciente: No, estaba viendo televisión cuando empezó el dolor.  
+31. Médico: Muy bien. Voy a realizar una exploración física. Por favor, acuéstese en la camilla.  
+32. Paciente: Está bien, doctor.  
+33. Médico: ¿Esto le duele cuando presiono aquí en el lado derecho del abdomen?  
+34. Paciente: ¡Sí, mucho!  
+35. Médico: ¿Y aquí al soltar la presión?  
+36. Paciente: No tanto, es más cuando presiona.  
+37. Médico: Vamos a hacer una prueba llamada signo de Murphy. Dígame si le duele al respirar profundo mientras presiono.  
+38. Paciente: ¡Ay, sí, me duele mucho al respirar!  
+39. Médico: Gracias por decírmelo. Ahora, mirando su piel y ojos, confirmo que tiene ictericia.  
+40. Paciente: ¿Eso tiene algo que ver con el dolor abdominal?  
+41. Médico: Sí, podría estar relacionado. Vamos a continuar con algunos análisis de sangre y una ecografía para confirmar el diagnóstico.  
+42. Paciente: Está bien, doctor.  
+43. Médico: Los análisis muestran inflamación y obstrucción. La ecografía muestra piedras en la vesícula y una está bloqueada.  
+44. Paciente: ¿Eso es grave, doctor?  
+45. Médico: Puede ser grave si no se trata a tiempo, pero vamos a manejar esto adecuadamente.  
+46. Paciente: ¿Qué sigue ahora?  
+47. Médico: Vamos a iniciar tratamiento con líquidos por vía intravenosa, analgésicos y antibióticos. Debo mantenerlo bajo observación.  
+48. Paciente: Entonces, ¿seguro que eso mejorará mi estado?  
+49. Médico: También es posible que necesitemos intervenir con una cirugía si no mejora rápidamente. Parece una colecistitis aguda por las piedras en la vesícula.  
+50. Paciente: Gracias, doctor. Haré lo que sea necesario."

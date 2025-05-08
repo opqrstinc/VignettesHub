@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, señora. ¿Qué la trae hoy al hospital?  
+2. Paciente: Buenas tardes, doctor. Tengo un dolor fuerte en la parte derecha de mi abdomen, arriba.  
+3. Médico: Lo siento mucho. ¿Cuándo empezó ese dolor?  
+4. Paciente: Hace como un día y medio. Al principio era leve, pero ha ido empeorando.  
+5. Médico: ¿Es un dolor continuo o viene y va?  
+6. Paciente: Es continuo, pero a veces siento que se pone más fuerte.  
+7. Médico: ¿El dolor comenzó después de alguna comida en particular?  
+8. Paciente: Sí, me di cuenta que empezó después de comer una comida con mucha grasa.  
+9. Médico: ¿Ha tenido náuseas o vómitos?  
+10. Paciente: Sí, he tenido náuseas, pero no he vomitado.  
+11. Médico: ¿Ha notado fiebre?  
+12. Paciente: Sí, he tenido fiebre desde ayer en la noche.  
+13. Médico: ¿Sabe si ha tenido ictericia, es decir, si su piel o los ojos se han puesto amarillos?  
+14. Paciente: No, al menos no que yo haya notado.  
+15. Médico: ¿Qué tal sus hábitos intestinales? ¿Ha sufrido diarrea o estreñimiento recientemente?  
+16. Paciente: No, todo parece normal en ese aspecto.  
+17. Médico: ¿Ha tenido algún dolor en la espalda o al lado derecho cercano al hombro?  
+18. Paciente: Sí, a veces siento que duele un poco cerca del hombro derecho.  
+19. Médico: ¿Tiene antecedentes de problemas en la vesícula o algo similar?  
+20. Paciente: Sí, hace años me dijeron que tenía piedras en la vesícula, pero nunca me operaron.  
+21. Médico: ¿Algún otro problema médico previo importante? Diabetes, hipertensión, algo así.  
+22. Paciente: No, nada más grave que yo recuerde.  
+23. Médico: ¿Toma algún medicamento de forma regular?  
+24. Paciente: No, no estoy tomando nada ahorita.  
+25. Médico: ¿Cuánta fiebre ha tenido? ¿Se ha medido la temperatura en casa?  
+26. Paciente: No la medí, pero sé que era alta porque siento mucho calor y la cabeza caliente.  
+27. Médico: ¿Algún cambio en el color de la orina o en las heces?  
+28. Paciente: No que yo haya notado, mi orina y mis heces se ven normales.  
+29. Médico: Cuando toco su abdomen, ¿el dolor empeora al presionar o al soltar?  
+30. Paciente: Al presionar duele mucho, pero parece que al soltar duele más.  
+31. Médico: Muy bien, voy a examinar su abdomen ahora. Avíseme si algo le duele demasiado.  
+32. Paciente: Está bien, doctor.  
+33. Médico: Cuando presiono aquí, ¿le duele mucho?  
+34. Paciente: ¡Sí! Ahí duele bastante.  
+35. Médico: Eso parece ser en el cuadrante superior derecho. Dígame, ¿ese dolor le quita el aliento al presionar?  
+36. Paciente: Sí, siento como si no pudiera respirar por el dolor.  
+37. Médico: Gracias por su paciencia. Esto confirma mi sospecha. ¿Ha tenido este tipo de dolor antes?  
+38. Paciente: Nunca así de fuerte. He tenido molestias leves, pero no esto.  
+39. Médico: ¿Fuma o consume alcohol?  
+40. Paciente: No, ni fumo ni tomo.  
+41. Médico: Entendido. ¿Alguien más en su familia ha tenido problemas de vesícula?  
+42. Paciente: Sí, mi hermana se operó por piedras en la vesícula hace unos años.  
+43. Médico: Muy bien. Basado en lo que me cuenta y su examen físico, estoy preocupado por una inflamación aguda de la vesícula biliar.  
+44. Paciente: ¿Inflamación? ¿Qué significa eso, doctor?  
+45. Médico: Es posible que una de las piedras en su vesícula biliar haya causado una infección o bloqueo. Necesitamos hacerle más pruebas para confirmarlo.  
+46. Paciente: ¿Qué tipo de pruebas necesitan hacerme?  
+47. Médico: Vamos a hacer análisis de sangre y una ecografía abdominal. Esto nos dirá más sobre lo que está pasando.  
+48. Paciente: Entendido, lo que sea necesario.  
+49. Médico: Según los resultados preliminares de sus análisis y la ecografía, puedo confirmar que tiene una colecistitis aguda.  
+50. Paciente: ¿Colecistitis? ¿Es algo serio, doctor?  "

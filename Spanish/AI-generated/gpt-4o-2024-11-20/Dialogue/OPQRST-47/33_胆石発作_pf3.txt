@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, señora. ¿Qué la trae hoy a consulta?  
+2. Paciente: Buenas tardes, doctor. Tengo un dolor muy fuerte en la parte superior derecha del abdomen.  
+3. Médico: ¿Cuándo comenzó este dolor?  
+4. Paciente: Empezó hace cinco horas, justo después de comer.  
+5. Médico: ¿Qué comió antes del inicio del dolor?  
+6. Paciente: Comí un plato bastante cargado de grasas, como carne frita y papas.  
+7. Médico: ¿Cómo describiría el dolor? ¿Es intenso, moderado, constante o intermitente?  
+8. Paciente: Es muy intenso y constante, doctor.  
+9. Médico: ¿Ese dolor se irradia hacia algún lugar?  
+10. Paciente: Sí, a veces lo siento en el hombro o la espalda derecha.  
+11. Médico: ¿Ha tenido náuseas o vómitos?  
+12. Paciente: Sí, he vomitado varias veces, y las náuseas no desaparecen.  
+13. Médico: ¿Ha notado algo inusual en los vómitos?  
+14. Paciente: Sí, son como bilis, de color verde amarillento.  
+15. Médico: ¿Ha tenido fiebre o escalofríos?  
+16. Paciente: No, eso no.  
+17. Médico: ¿Este tipo de dolor lo ha sentido antes?  
+18. Paciente: Sí, hace dos años me pasó algo similar y dijeron que tenía inflamación en la vesícula.  
+19. Médico: ¿Cómo trataron ese episodio?  
+20. Paciente: Me dieron medicamentos y mejoré, no me operaron.  
+21. Médico: ¿Tiene usted algún otro problema de salud o toma medicamentos regularmente?  
+22. Paciente: No, no tengo otras enfermedades ni tomo medicinas.  
+23. Médico: ¿Es usted alérgica a algún medicamento?  
+24. Paciente: No, que yo sepa.  
+25. Médico: Está bien. Dígame, ¿ha notado cambios en el color de su piel o en los ojos?  
+26. Paciente: No, mi piel se ve normal.  
+27. Médico: ¿Han cambiado el color de sus heces o su orina en los últimos días?  
+28. Paciente: No, todo parece normal en eso.  
+29. Médico: Muy bien. ¿Cómo está el dolor ahora? ¿Ha disminuido o sigue igual de intenso?  
+30. Paciente: Sigue igual de fuerte, no mejora.  
+31. Médico: Entendido. Voy a hacerle un examen físico. Voy a presionar un poco en su abdomen. Dígame si siente dolor.  
+32. Paciente: ¡Ay, sí, ahí duele mucho, justo en la parte derecha!  
+33. Médico: Lo siento. ¿Siente que le falta el aire o que se le acelera el corazón?  
+34. Paciente: No, respirar me parece normal.  
+35. Médico: Bien. Esto parece estar relacionado nuevamente con su vesícula. ¿Recuerda si le hicieron algún ultrasonido en su episodio anterior?  
+36. Paciente: Sí, me hicieron, y dijeron que tenía piedras en la vesícula.  
+37. Médico: Gracias por esta información. ¿Le afecta este dolor en sus actividades diarias?  
+38. Paciente: Sí, ahora no puedo hacer nada, es demasiado molesto y no puedo moverme bien.  
+39. Médico: Entiendo. ¿Ha intentado tomar algo para el dolor antes de venir aquí?  
+40. Paciente: No, no tomé nada. Vine directo al hospital porque estaba preocupada.  
+41. Médico: Bien hecho. Ahora, aparte del dolor, ¿se siente cansada o débil?  
+42. Paciente: Sí, estoy muy cansada, tal vez por no poder comer ni dormir bien por el dolor.  
+43. Médico: Eso tiene sentido. Ahora, con su permiso, voy a organizar algunos exámenes y una ecografía para confirmar lo que sospechamos.  
+44. Paciente: Claro, doctor, lo que sea necesario.  
+45. Médico: ¿Le ha pasado esto más seguido en los últimos años o esporádicamente?  
+46. Paciente: Solo me pasó aquella vez hace dos años y ahora.  
+47. Médico: Perfecto. Ya con los resultados de los exámenes y la ecografía, podemos ver mejor qué está ocurriendo. Espere un momento.  
+48. Paciente: Está bien, doctor.  
+49. Médico: Después de revisar todo, puedo decir que tiene otro episodio de dolor por las piedras en su vesícula, pero no hay inflamación como antes. Se llama cólico biliar.  
+50. Paciente: ¿Eso es peligroso, doctor?"

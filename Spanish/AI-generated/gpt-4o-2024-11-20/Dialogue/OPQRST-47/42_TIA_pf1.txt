@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, señor. ¿Qué lo trae por aquí hoy?  
+2. Paciente: Hola, doctor. Esta mañana tuve un episodio raro, no podía mover bien mi lado derecho, veía borroso del ojo izquierdo y no podía hablar claramente.  
+3. Médico: Entiendo. ¿Cómo empezó todo y cuánto tiempo duró?  
+4. Paciente: Pues, empezó de repente mientras caminaba. Habrá durado menos de 20 minutos y luego desapareció como si nada.  
+5. Médico: ¿Este tipo de síntomas le han pasado antes?  
+6. Paciente: No, jamás he tenido algo así. Fue muy extraño y me asusté bastante.  
+7. Médico: ¿Sintió algún dolor de cabeza, náuseas o mareo durante el episodio?  
+8. Paciente: No, nada de eso. Solo los síntomas que mencioné.  
+9. Médico: Entendido. ¿Padece alguna enfermedad crónica o está tomando algún medicamento?  
+10. Paciente: Soy hipertenso desde hace 10 años y tomo enalapril, 10 miligramos al día.  
+11. Médico: Muy bien. ¿Cómo ha estado su presión arterial últimamente?  
+12. Paciente: Normalmente está controlada, aunque no me la mido tan seguido.  
+13. Médico: Perfecto. ¿Fuma o consume alcohol con frecuencia?  
+14. Paciente: No, no fumo y solo tomo una copa de vino de vez en cuando.  
+15. Médico: Y en cuanto a antecedentes familiares, ¿hay alguien en su familia que haya tenido problemas cardiovasculares o accidentes cerebrovasculares?  
+16. Paciente: Sí, mi padre tuvo un infarto cuando tenía 60 años.  
+17. Médico: Muy bien. Durante el evento, ¿sintió el corazón latir muy rápido o irregularmente?  
+18. Paciente: No, al menos no lo noté.  
+19. Médico: ¿Ha tenido algún problema para caminar o mover su cuerpo después del episodio?  
+20. Paciente: No, todo volvió a la normalidad después. Puedo moverme bien ahora.  
+21. Médico: ¿Qué tal su visión y su habla ahora? ¿Nota alguna dificultad?  
+22. Paciente: No, doctor. Veo y hablo perfectamente.  
+23. Médico: Bien. Cuando ocurrieron los síntomas, ¿estaba haciendo algo físico exigente?  
+24. Paciente: No, solo estaba caminando tranquilamente en la mañana.  
+25. Médico: ¿Desde entonces ha tenido algún dolor en el pecho o dificultad para respirar?  
+26. Paciente: No, nada de eso.  
+27. Médico: ¿Tiene colesterol alto o diabetes?  
+28. Paciente: Creo que una vez me dijeron que tenía el colesterol alto, pero no estoy seguro.  
+29. Médico: Le realizaré exámenes para corroborar eso. ¿Cómo es su dieta normalmente?  
+30. Paciente: Intento comer saludable, pero no siempre lo logro.  
+31. Médico: Entendido. ¿Hace ejercicio con regularidad?  
+32. Paciente: No mucho, camino un poco, pero no hago deporte.  
+33. Médico: ¿Suele sentir estrés o ansiedad frecuentemente?  
+34. Paciente: A veces me siento estresado, pero nada fuera de lo común.  
+35. Médico: Muy bien. Voy a revisarle. ¿Puede recostarse para tomar su presión arterial?  
+36. Paciente: Claro, aquí estoy listo.  
+37. Médico: Su presión está a 150/95 mmHg, un poco alta. ¿Tenía medición alta recientemente?  
+38. Paciente: No lo sé, no me la he chequeado en semanas.  
+39. Médico: También revisaremos su corazón y flujo sanguíneo en el cuello, ¿le han realizado estudios previos del corazón?  
+40. Paciente: Sí, una vez me hicieron un electro cuando fui al médico hace años.  
+41. Médico: Revisaremos igualmente, por si acaso. Ahora, en el episodio, ¿recuerda haber sentido debilidad en todo el cuerpo o solo en un lado?  
+42. Paciente: Fue solo en el lado derecho, no podía mover bien la pierna ni el brazo.  
+43. Médico: ¿Y lo de la visión, fue completa o parcial en el ojo izquierdo?  
+44. Paciente: Era más como visión borrosa parcial, no veía bien en un lado.  
+45. Médico: Interesante. Esto apunta a algo vascular. Le pediré análisis y una resonancia magnética cerebral, ¿está de acuerdo?  
+46. Paciente: Claro, doctor. Solo quiero saber qué pasó.  
+47. Médico: También haremos un ecocardiograma para ver cómo está su corazón. ¿Está bien con eso?  
+48. Paciente: Sí, doctor, lo que usted diga.  
+49. Médico: Según lo que cuenta y los exámenes que hemos hecho, parece que tuvo un ataque isquémico transitorio, conocido como AIT.  
+50. Paciente: ¿Eso es grave, doctor?"

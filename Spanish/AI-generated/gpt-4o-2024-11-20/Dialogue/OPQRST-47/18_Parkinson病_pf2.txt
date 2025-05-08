@@ -1,0 +1,51 @@
+"1. Médico: Buenos días, señora. ¿Qué la trae hoy a consulta?  
+2. Paciente: Buenos días, doctor. Llevo un tiempo teniendo problemas para moverme, sobre todo las piernas.  
+3. Médico: Entiendo. ¿Cuánto tiempo hace que empezó con estos problemas?  
+4. Paciente: Creo que hace como dos años, pero al principio no le di mucha importancia.  
+5. Médico: ¿Y cómo describiría esos problemas? ¿Ha notado que empeoran en algún momento particular del día?  
+6. Paciente: Al principio eran de vez en cuando, sobre todo por las mañanas, pero luego empezaron a ser constantes.  
+7. Médico: Además de la dificultad para moverse, ¿ha notado algo más, como rigidez o dolor muscular?  
+8. Paciente: Sí, siento que mis piernas están como rígidas, como si estuvieran tensas todo el tiempo.  
+9. Médico: ¿Y esto afecta sus actividades diarias? Por ejemplo, caminar, levantarse de una silla.  
+10. Paciente: Sí, mucho. Me cuesta trabajo caminar o incluso levantarme sin ayuda.  
+11. Médico: ¿Ha notado si alguna parte de su cuerpo está más afectada que otra?  
+12. Paciente: Sí, creo que siento más dura la parte derecha del cuerpo, sobre todo la pierna y también el brazo.  
+13. Médico: ¿Ha tenido temblores o movimientos involuntarios en algún momento?  
+14. Paciente: No al principio, pero hace poco comencé a notar un leve temblor en mi mano derecha.  
+15. Médico: ¿Ese temblor aparece siempre o solo en determinadas circunstancias?  
+16. Paciente: Lo noto más cuando estoy tranquila, sin mover la mano.  
+17. Médico: Además de esto, ¿ha tenido problemas para caminar, como pasos más cortos o dificultad para empezar a caminar?  
+18. Paciente: Sí, a veces siento que me cuesta iniciar el movimiento, y mis pasos son más pequeños.  
+19. Médico: Muy bien. Ahora, ¿tiene algún problema crónico o toma algún medicamento regularmente?  
+20. Paciente: Sí, tengo diabetes tipo 2, tomo metformina dos veces al día.  
+21. Médico: ¿Algún otro problema médico o cirugía previa?  
+22. Paciente: No, nada más aparte de la diabetes.  
+23. Médico: ¿Alguien en su familia ha tenido problemas neurológicos similares o temblores?  
+24. Paciente: No, que yo sepa, nadie en mi familia ha tenido algo parecido.  
+25. Médico: Perfecto. Cambiando un poco de tema, ¿cómo ha estado de ánimo últimamente?  
+26. Paciente: Me siento un poco desanimada porque no puedo hacer muchas cosas como antes.  
+27. Médico: ¿Ha tenido problemas para dormir o descansar bien por las noches?  
+28. Paciente: Sí, a veces me cuesta conciliar el sueño, me levanto cansada.  
+29. Médico: ¿Y cómo ha estado su apetito? ¿Ha notado algún cambio en su peso?  
+30. Paciente: Mi apetito está normal, pero siento que me he mantenido en el mismo peso.  
+31. Médico: Muy bien. Ahora voy a preguntarle algo más específico. ¿Ha tenido pérdida de fuerza en alguna parte del cuerpo?  
+32. Paciente: No, mi fuerza en general está bien.  
+33. Médico: ¿Dolor en las articulaciones o en los músculos, además de la rigidez?  
+34. Paciente: No, no siento dolor, solo la tensión en los músculos.  
+35. Médico: ¿Sus reflejos o capacidad para sentir han cambiado en algún momento?  
+36. Paciente: No, todo eso está igual que siempre.  
+37. Médico: ¿Cuánto tiempo suele tardar en levantarse de la cama o de una silla al día común?  
+38. Paciente: Cada vez más, a veces siento que necesito unos minutos para salir del lugar.  
+39. Médico: ¿Ha notado que al caminar mueva menos uno de los brazos?  
+40. Paciente: Sí, noto que el brazo derecho casi no lo muevo como el otro al caminar.  
+41. Médico: ¿Ha tenido mareos, vértigo o caídas?  
+42. Paciente: No, nada de eso.  
+43. Médico: ¿Alguna vez tuvo entumecimiento o sensación de hormigueo?  
+44. Paciente: No, ninguna sensación de ese tipo.  
+45. Médico: Bien, por ahora no parece haber problemas de sensibilidad. Dígame, ¿hace cuánto notó ese temblor por primera vez?  
+46. Paciente: Diría que hace unos meses, pero no lo he visto tan grave.  
+47. Médico: Por último, ¿el temblor o los problemas de movilidad cambian con el estrés o el cansancio?  
+48. Paciente: Sí, siento que empeora cuando estoy estresada o cansada.  
+49. Médico: Perfecto. Con base en todo lo platicado, sus síntomas sugieren una condición neurológica específica. Realizaremos algunos estudios para confirmarlo y descartar otras posibilidades.  
+50. Paciente: Claro, doctor. Estoy dispuesta a hacer lo necesario.  
+51. Médico: Gracias por su paciencia. Los estudios indican que lo que usted presenta es una enfermedad llamada Parkinson."

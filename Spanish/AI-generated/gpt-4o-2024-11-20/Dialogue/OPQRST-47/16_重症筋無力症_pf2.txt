@@ -1,0 +1,50 @@
+"1. Médico: Buenos días, ¿cómo se siente hoy?  
+2. Paciente: Buenos días, doctor. Me siento bastante cansada, creo que algo no está bien.  
+3. Médico: Lo siento por escuchar eso. ¿Puede explicarme un poco más sobre lo que ha estado sintiendo?  
+4. Paciente: Hace dos semanas comencé a sentirme muy fatigada, especialmente después de hacer esfuerzo.  
+5. Médico: Entendido, ¿esa fatiga afecta normalmente sus brazos o piernas?  
+6. Paciente: Sí, noto que mis brazos y piernas están muy débiles, especialmente cuando quiero levantar algo o caminar un rato.  
+7. Médico: ¿Ha notado que la debilidad empeora a alguna hora del día?  
+8. Paciente: Sí, es peor en las tardes o al final del día.  
+9. Médico: ¿Ha tenido dificultad para realizar actividades diarias como masticar o tragar?  
+10. Paciente: Sí, al principio me costaba masticar carne o alimentos duros, y ahora hasta los líquidos son un problema.  
+11. Médico: ¿Ha tenido dificultades para hablar o cambios en su tono de voz?  
+12. Paciente: A veces, cuando hablo mucho, mi voz se debilita o suena como si estuviera cansada.  
+13. Médico: Entendido. ¿Qué me dice de los ojos? ¿Ha tenido problemas para enfocar o notado que los párpados caen?  
+14. Paciente: Sí, mis párpados se caen, sobre todo al final del día, y a veces veo doble.  
+15. Médico: ¿Esa visión doble ocurre todo el tiempo o solo en ocasiones?  
+16. Paciente: Solo en la tarde o cuando me siento más cansada.  
+17. Médico: Vamos a hablar un poco de su historia médica. ¿Tiene alguna enfermedad crónica o toma algún medicamento de forma regular?  
+18. Paciente: Sí, tengo diabetes desde hace cuatro años. Tomo metformina dos veces al día.  
+19. Médico: Bien. ¿Cuál fue el último control que se hizo para la diabetes?  
+20. Paciente: Hace unos meses, y mi médico dijo que estoy bien controlada.  
+21. Médico: Perfecto. ¿Tiene antecedentes familiares de enfermedades similares o problemas musculares?  
+22. Paciente: No, nadie en mi familia ha tenido algo como esto.  
+23. Médico: ¿En algún momento ha tenido fiebre, infecciones recientes o cambios en su peso?  
+24. Paciente: No, nada de eso.  
+25. Médico: ¿Cuándo fue la última vez que se sintió completamente bien?  
+26. Paciente: Creo que hace unas dos semanas, antes de que empezaran estos síntomas.  
+27. Médico: ¿Ha probado algún tratamiento o medicación por su cuenta para estos síntomas?  
+28. Paciente: No, solo seguí tomando mi medicina para la diabetes, pero no me ha ayudado con esto.  
+29. Médico: ¿Actualmente puede quedarse de pie o caminar sin sentir que se cae?  
+30. Paciente: Sí puedo caminar, pero me canso rápido, y me siento débil si intento hacer algo más exigente.  
+31. Médico: Gracias por toda esta información, es importante. Ahora le voy a examinar para entender mejor lo que pasa. ¿Es usted sensible al calor o se siente peor con temperaturas altas?  
+32. Paciente: Ahora que lo menciona, creo que sí. El calor parece empeorar mi debilidad.  
+33. Médico: Entiendo. ¿Qué tal duerme? ¿Ha tenido problemas para descansar por las noches?  
+34. Paciente: Duermo bien, aunque me despierto cansada.  
+35. Médico: Noté que sus párpados están un poco caídos. ¿Esto apareció desde el principio?  
+36. Paciente: Sí, se notó casi inmediatamente después de sentirme débil.  
+37. Médico: ¿Y sus manos o pies hormiguean o duelen?  
+38. Paciente: No, no he sentido hormigueos ni dolores.  
+39. Médico: Perfecto. Ahora voy a mover sus brazos y piernas para evaluar su fuerza. Avíseme si se siente incómoda.  
+40. Paciente: Está bien, entiendo.  
+41. Médico: Veo que hay debilidad en los brazos y piernas, especialmente en los músculos más grandes. ¿Esto también lo siente en la mañana?  
+42. Paciente: No tanto, por la mañana estoy un poco mejor, pero empeora durante el día.  
+43. Médico: Vamos a realizar más preguntas específicas. ¿Consume alcohol o fuma?  
+44. Paciente: Nada de alcohol ni tabaco.  
+45. Médico: Gracias por compartir eso. Ahora me gustaría pedir unos análisis y hacer pruebas adicionales para confirmar lo que sospecho.  
+46. Paciente: Por supuesto, doctor, lo que sea necesario para saber qué me pasa.  
+47. Médico: Basándome en su examen y los síntomas, sospechamos una condición que afecta la comunicación entre los nervios y los músculos.  
+48. Paciente: ¿De verdad? ¿Eso explica todo lo que he sentido?  
+49. Médico: Sí, sospechamos de una enfermedad llamada miastenia gravis, que causa debilidad muscular que empeora con la actividad.  
+50. Paciente: ¡Gracias, doctor! ¿Y eso puede tratarse?  "

@@ -1,0 +1,50 @@
+"1. Physician: Good morning. What brings you in today?  
+2. Patient: I've had a cough that just won't go away for the past three months, and sometimes I cough up blood.  
+3. Physician: I see. Could you describe your cough? Is it dry or do you bring up phlegm?  
+4. Patient: It usually comes with some phlegm, and like I said, there's sometimes blood in it.  
+5. Physician: How much blood are we talking about? Just streaks, or more than that?  
+6. Patient: Mostly streaks, not a lot.  
+7. Physician: Have you noticed anything else, like chest pain or shortness of breath?  
+8. Patient: No, nothing like that.  
+9. Physician: How about fever or night sweats?  
+10. Patient: No, I haven't had any fever or night sweats.  
+11. Physician: Have you experienced any changes in your weight lately?  
+12. Patient: Yes, I've lost about 10 kilograms in the past two months without trying.  
+13. Physician: That’s quite a bit of weight loss. Have you been feeling more tired than usual?  
+14. Patient: Yes, I’ve been really fatigued lately.  
+15. Physician: Do you have any history of smoking?  
+16. Patient: No, I’ve never smoked.  
+17. Physician: What about any exposure to chemicals or toxins, like in your workplace?  
+18. Patient: No, I’ve always worked in an office.  
+19. Physician: Have you ever been diagnosed with any lung problems before?  
+20. Patient: No, nothing like that. This is the first time I’ve had any lung issues.  
+21. Physician: Does anyone in your family have a history of lung cancer or other cancers?  
+22. Patient: No, not that I know of.  
+23. Physician: Have you ever traveled recently or had any infections, like a bad cold or pneumonia?  
+24. Patient: No, I haven’t traveled, and I haven’t been sick.  
+25. Physician: How about medications? Are you currently taking anything?  
+26. Patient: No, I’m not on any medication.  
+27. Physician: I’d like to do a quick physical exam. Have you noticed any lumps or swelling in your neck?  
+28. Patient: No, I haven’t felt anything like that.  
+29. Physician: Let me listen to your lungs. Breathe in deeply for me, please.  
+30. Patient: Okay.  
+31. Physician: I’m noticing some diminished breath sounds in your right upper lung area. Have you noticed any issues in that area, like pain?  
+32. Patient: No, no pain at all.  
+33. Physician: Your oxygen levels are good, which is reassuring. I’d like to investigate this further. Have you ever had a chest X-ray or a scan done before?  
+34. Patient: No, this will be the first time.  
+35. Physician: I’ll order a chest X-ray to get a better idea of what might be causing the cough and blood in your sputum.  
+36. Patient: That sounds good.  
+37. Physician: The X-ray shows a concerning spot in your right upper lung. We’ll need to do a CT scan for more details.  
+38. Patient: Oh, okay… Is it serious?  
+39. Physician: It’s hard to say at this point. The CT will give us more information.  
+40. Patient: I understand.  
+41. Physician: The CT scan shows a mass in your upper lung and some enlarged lymph nodes. I’d like to perform a bronchoscopy to examine it closely and take a tissue sample.  
+42. Patient: A bronchoscopy? What is that?  
+43. Physician: It’s a procedure where we use a small camera to look into your lungs and collect a biopsy. It’s minimally invasive.  
+44. Patient: Alright, if it will help figure out what’s going on, I’ll do it.  
+45. Physician: The biopsy results show changes seen in lung cancer, specifically adenocarcinoma. We’ve also done further testing to look at the genetic makeup of the cancer.  
+46. Patient: Oh… lung cancer?  
+47. Physician: Yes, but the good news is that it appears to be in a stage we can manage with multiple treatments.  
+48. Patient: That’s a relief to hear. What happens next?  
+49. Physician: We’ve identified a specific genetic mutation, which helps us choose targeted medications. You’ll also need surgery and chemotherapy to address the cancer.  
+50. Patient: Thank you for explaining everything. I’m ready to follow your recommendations.  "

@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, señor. ¿Qué lo trae hoy a consulta?  
+2. Paciente: Buenas tardes, doctor. Vine porque hace unos días tuve un episodio extraño; de repente me sentí débil de un lado del cuerpo y perdí la vista del ojo derecho por unos minutos.  
+3. Médico: Entendido. ¿Puede decirme cuánto tiempo duraron esos síntomas?  
+4. Paciente: Creo que duraron como 15 minutos y luego todo volvió a la normalidad.  
+5. Médico: ¿Durante el episodio, tuvo dolor de cabeza, problemas para hablar o alguna sensación de adormecimiento en el cuerpo?  
+6. Paciente: No, doctor. No tuve nada de eso, solo esa sensación rara.  
+7. Médico: ¿Estaba realizando alguna actividad en especial cuando pasó esto?  
+8. Paciente: No, estaba sentado tranquilo, no me estaba esforzando ni nada por el estilo.  
+9. Médico: ¿Ha tenido episodios similares en el pasado?  
+10. Paciente: No, esta fue la primera vez.  
+11. Médico: Luego de que los síntomas desaparecieron, ¿se ha sentido normal o ha notado algo diferente?  
+12. Paciente: Después de eso, solo sentí un poco de inestabilidad, como que me faltaba equilibrio, pero nada grave.  
+13. Médico: ¿Tiene otros problemas de salud o toma algún medicamento regularmente?  
+14. Paciente: Sí, tengo diabetes tipo 2 y tomo metformina.  
+15. Médico: ¿Sabe si tiene algún problema con el control de su azúcar?  
+16. Paciente: Sé que a veces está alta, pero no estoy seguro de los últimos resultados.  
+17. Médico: ¿Tiene antecedentes de hipertensión o colesterol alto?  
+18. Paciente: No me habían dicho que tenía la presión alta, pero no sé sobre el colesterol.  
+19. Médico: Durante el episodio, ¿notó algún ruido raro en los oídos o sintió mareo?  
+20. Paciente: No, nada de eso.  
+21. Médico: ¿Algún familiar estaba con usted en ese momento que pudiera haber notado algo más?  
+22. Paciente: No, estaba solo en casa.  
+23. Médico: Entiendo. ¿Cómo es su dieta diaria y qué tan seguido realiza actividad física?  
+24. Paciente: La verdad no soy muy estricto con mi dieta y mi actividad física es poca.  
+25. Médico: ¿En su familia hay antecedentes de enfermedades cardiovasculares, accidentes cerebrovasculares o diabetes?  
+26. Paciente: Mi padre tuvo diabetes y también problemas del corazón, creo.  
+27. Médico: En los últimos días, ¿ha notado algún cambio en su visión o algún otro síntoma?  
+28. Paciente: No, todo ha estado normal desde ese día.  
+29. Médico: ¿Fuma o consume alcohol?  
+30. Paciente: No, dejé de fumar hace 15 años y solo tomo alcohol en ocasiones especiales.  
+31. Médico: Muy bien. Su tensión arterial actual es un poco elevada. ¿Alguna vez le han dicho que tiene hipertensión?  
+32. Paciente: No, nunca me lo habían mencionado.  
+33. Médico: Vamos a realizarle un examen físico completo. ¿Está bien?  
+34. Paciente: Claro, doctor.  
+35. Médico: En la exploración, por ahora no veo indicios de un déficit neurológico. Vamos a complementar con algunos exámenes más.  
+36. Paciente: Está bien, lo que sea necesario.  
+37. Médico: Le voy a preguntar algo más, ¿ha estado bajo mucho estrés o ha tenido algún cambio importante en su vida recientemente?  
+38. Paciente: No, la verdad todo ha estado tranquilo.  
+39. Médico: Perfecto. En este momento, lo que me describe puede estar relacionado con una condición llamada accidente isquémico transitorio. Quiero explicarle más a detalle.  
+40. Paciente: ¿Es algo peligroso, doctor?  
+41. Médico: Puede ser un aviso de un problema en las arterias que llevan sangre al cerebro. Afortunadamente, sus síntomas ya se resolvieron.  
+42. Paciente: Entonces, ¿qué sigue?  
+43. Médico: Vamos a iniciar tratamiento preventivo para reducir el riesgo de un evento similar o más grave en el futuro.  
+44. Paciente: ¿Y qué tipo de tratamiento sería?  
+45. Médico: Incluye medicinas como aspirina a dosis bajas y una estatina para el colesterol. Además, sería importante ajustar el manejo de su diabetes y cuidar su presión arterial.  
+46. Paciente: Entiendo. ¿Hay algo más que yo pueda hacer?  
+47. Médico: Sí, cambiar algunos hábitos como mejorar su dieta, hacer ejercicio y controlar mejor su nivel de azúcar.  
+48. Paciente: Lo haré, doctor. Esto realmente me asustó.  
+49. Médico: Es normal sentirse así, pero lo importante es que ahora tomaremos medidas para cuidarlo.  
+50. Paciente: Muchas gracias, doctor. Realmente agradezco su ayuda."

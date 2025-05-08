@@ -1,0 +1,52 @@
+"1. Médico: ¿Qué la trae hoy aquí?  
+2. Paciente: Tengo dolor en las manos y pies, y están como hinchados.  
+3. Médico: ¿Desde cuándo ha estado sintiendo estos síntomas?  
+4. Paciente: Hace unas seis semanas que empezó todo.  
+5. Médico: ¿Cómo describiría el dolor? ¿Es constante o aparece en ciertos momentos?  
+6. Paciente: Aparece más cuando me muevo, pero algo mejora si descanso.  
+7. Médico: ¿Siente rigidez en las articulaciones?  
+8. Paciente: Sí, sobre todo en las mañanas.  
+9. Médico: ¿Cuánto tiempo dura esa rigidez cuando se despierta?  
+10. Paciente: Más o menos unos 30 o 40 minutos.  
+11. Médico: ¿Es la primera vez que tiene este tipo de síntomas?  
+12. Paciente: Sí, nunca me había pasado antes.  
+13. Médico: ¿Tiene inflamación visible en las manos o pies, además del dolor?  
+14. Paciente: Sí, las articulaciones se ven hinchadas.  
+15. Médico: ¿El dolor es en ambas manos y pies o solo en uno de los lados?  
+16. Paciente: Es en ambos lados, como si fuera en espejo.  
+17. Médico: ¿Nota alguna limitación al mover las manos o los pies?  
+18. Paciente: Sí, me cuesta moverlas como antes.  
+19. Médico: ¿Ha tenido algún otro síntoma, como fiebre o pérdida de peso?  
+20. Paciente: No, solo el dolor y la rigidez.  
+21. Médico: ¿Hay antecedente de enfermedades similares en su familia?  
+22. Paciente: No, nadie en mi familia ha tenido algo así.  
+23. Médico: ¿Alguna vez le han dicho que tiene una enfermedad autoinmunitaria?  
+24. Paciente: No, nunca.  
+25. Médico: ¿A qué se dedica?  
+26. Paciente: Soy secretaria, paso mucho tiempo escribiendo en el ordenador.  
+27. Médico: ¿El dolor afecta su trabajo o actividades diarias?  
+28. Paciente: Sí, me cuesta mucho escribir o agarrar cosas pequeñas.  
+29. Médico: ¿Ha tomado algún medicamento para aliviar el dolor?  
+30. Paciente: Solo paracetamol, pero no ayuda mucho.  
+31. Médico: ¿Tiene antecedentes de problemas gástricos o algún tipo de alergia a medicamentos?  
+32. Paciente: No, nunca he tenido problemas de eso.  
+33. Médico: ¿Nota si sus articulaciones están más calientes de lo normal?  
+34. Paciente: Sí, a veces se sienten como con calor y enrojecidas.  
+35. Médico: ¿Ha tenido alguna erupción en la piel u otro tipo de cambios?  
+36. Paciente: No, mi piel está igual que siempre.  
+37. Médico: En la exploración veo inflamación en las pequeñas articulaciones de manos y pies. ¿Le duele cuando hago presión?  
+38. Paciente: Sí, mucho.  
+39. Médico: ¿Tiene dificultad para caminar o ponerse de pie debido al dolor en los pies?  
+40. Paciente: Sí, a veces me cuesta mucho caminar por el dolor.  
+41. Médico: Voy a ordenar unos análisis de sangre para confirmar algunas sospechas. ¿Le parece?  
+42. Paciente: Claro, doctor, lo que sea necesario.  
+43. Médico: También tomaremos radiografías de manos y pies para evaluar el daño en sus articulaciones.  
+44. Paciente: Muy bien, ¿cuándo puedo hacerlo?  
+45. Médico: Haré los trámites para que lo realice en estos días. Mientras tanto, ¿hay algo más que quiera comentarme?  
+46. Paciente: No, doctor, creo que es todo.  
+47. Médico: He recibido sus análisis. Hay signos de inflamación y resultado positivo en los marcadores para una condición autoinmune llamada artritis reumatoide.  
+48. Paciente: ¿Eso qué significa, doctor?  
+49. Médico: Es un tipo de enfermedad que afecta las articulaciones, causando inflamación y, si no se trata, puede llevar a daño estructural.  
+50. Paciente: ¿Tiene tratamiento?  
+51. Médico: Sí, iniciaré un tratamiento con metotrexato y un antiinflamatorio temporal. Esto ayudará a controlar la inflamación y el dolor.  
+52. Paciente: Muchas gracias, doctor. Haré todo lo que me diga."

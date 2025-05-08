@@ -1,0 +1,50 @@
+"1. Médica: ¿Qué la trae por aquí el día de hoy?  
+2. Paciente: He estado teniendo mucha sequedad en los ojos y en la boca, además de dolores en las articulaciones.  
+3. Médica: ¿Desde cuándo ha notado estos síntomas?  
+4. Paciente: La sequedad en los ojos comenzó hace más de un año, pero ha empeorado con el tiempo. La sequedad en la boca empezó después, y el dolor articular es reciente, como hace un mes.  
+5. Médica: ¿Puede describir cómo se siente esa sequedad en los ojos?  
+6. Paciente: Es como si tuviera arena en los ojos todo el tiempo. Me molestan mucho, y ya no puedo usar mis lentes de contacto.  
+7. Médica: ¿Ha tenido que cerrar los ojos por las molestias?  
+8. Paciente: Sí, varias veces, sobre todo por las tardes. Es muy incómodo.  
+9. Médica: Entendido. ¿Y qué hay de la sequedad bucal, cómo la afecta?  
+10. Paciente: Me cuesta mucho masticar alimentos secos, como galletas, y tengo que beber agua todo el tiempo.  
+11. Médica: ¿Siente algún otro síntoma en la boca, como cambios en el sabor o ardor?  
+12. Paciente: A veces siento que mi boca está pegajosa, pero no hay dolor ni cambio en el sabor.  
+13. Médica: ¿Dónde siente el dolor en las articulaciones?  
+14. Paciente: En las manos y las rodillas, en ambos lados.  
+15. Médica: ¿El dolor aparece todo el tiempo o en ciertos momentos?  
+16. Paciente: Es peor por las mañanas, con rigidez que dura como media hora antes de que pueda moverme bien.  
+17. Médica: Entendido. ¿Le han salido hematomas o ha notado hinchazón en las articulaciones?  
+18. Paciente: No, solo es dolor al moverlas o al tocarlas.  
+19. Médica: ¿Tiene alguna enfermedad crónica o antecedentes familiares de enfermedades reumatológicas?  
+20. Paciente: No, que yo recuerde.  
+21. Médica: ¿Se siente cansada o ha notado caída de cabello?  
+22. Paciente: Sí, últimamente he estado más cansada de lo normal.  
+23. Médica: ¿Cómo han estado sus ojos en cuanto a enrojecimiento o sensibilidad a la luz?  
+24. Paciente: A veces se ponen muy rojos y me cuesta trabajo salir con mucha luz.  
+25. Médica: ¿Tiene problemas para tragar alimentos o beber líquidos?  
+26. Paciente: No, solo esa incomodidad de sequedad.  
+27. Médica: ¿Ha tenido fiebre, pérdida de peso o sudoraciones nocturnas recientemente?  
+28. Paciente: No, ninguna de esas cosas.  
+29. Médica: ¿Está tomando algún medicamento actualmente?  
+30. Paciente: No, solo vitaminas que me recomendaron.  
+31. Médica: ¿Cómo es su actividad diaria? ¿Ha notado alguna limitación?  
+32. Paciente: Sí, por el dolor en las manos me cuesta más hacer cosas simples, como abrir botellas.  
+33. Médica: ¿Nota cambios en su piel, como enrojecimiento, manchas o mayor sensibilidad?  
+34. Paciente: No, mi piel parece estar normal.  
+35. Médica: ¿Ha visitado recientemente a un oftalmólogo o dentista por estos síntomas?  
+36. Paciente: No, todo comenzó más suave y no le di importancia hasta ahora.  
+37. Médica: Entendido. Voy a hacer un examen físico ahora. ¿Está bien?  
+38. Paciente: Sí, claro.  
+39. Médica: Percibo sequedad en la boca y enrojecimiento ocular. También noto que las glándulas debajo de la mandíbula están algo endurecidas y más grandes.  
+40. Paciente: ¿Es algo grave?  
+41. Médica: Vamos a hacer algunos análisis y pruebas específicas para entender mejor lo que está ocurriendo.  
+42. Paciente: De acuerdo, hágalo.  
+43. Médica: Sus análisis mostraron un resultado positivo para ciertos anticuerpos y una baja producción de saliva. Esto es consistente con una enfermedad llamada síndrome de Sjögren.  
+44. Paciente: ¿Y eso qué significa?  
+45. Médica: Es una enfermedad autoinmune que afecta las glándulas que producen lágrimas y saliva, lo que provoca sequedad, y también puede causar dolor articular.  
+46. Paciente: ¿Tiene tratamiento?  
+47. Médica: Sí, podemos manejar los síntomas. Usaremos lágrimas artificiales y pilocarpina para mejorar la sequedad. Para el dolor articular, hidroxicloroquina y una dosis baja de prednisona.  
+48. Paciente: ¿Eso aliviará todo?  
+49. Médica: Con el tratamiento adecuado, sus síntomas deberían mejorar significativamente. Le voy a proporcionar más detalles para que se sienta segura.  
+50. Paciente: Gracias, doctora. Haremos lo que sea necesario."

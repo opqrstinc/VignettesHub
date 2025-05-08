@@ -1,0 +1,51 @@
+"1. Physician: Good morning. What brings you in today?  
+2. Patient: I've been having terrible headaches on the right side of my head.  
+3. Physician: Can you describe the pain? Where exactly is it located?  
+4. Patient: It's around my right eye, sharp and stabbing. It gets so bad I can't do anything.  
+5. Physician: When did these headaches start?  
+6. Patient: About two weeks ago.  
+7. Physician: How long does each headache last?  
+8. Patient: Usually about an hour or a bit longer, maybe 90 minutes.  
+9. Physician: How often do these headaches occur?  
+10. Patient: It happens up to three times a day, mostly at night.  
+11. Physician: Do you notice anything else during the headaches? Any issues with your eye or nose?  
+12. Patient: Yes, my eye waters a lot, and my nose gets stuffed on the same side.  
+13. Physician: Do you experience nausea or vomiting with these headaches?  
+14. Patient: No, none of that.  
+15. Physician: How about sensitivity to light or sound?  
+16. Patient: No, I don’t feel those things.  
+17. Physician: Have you ever had headaches like this before?  
+18. Patient: No, never. This is the first time.  
+19. Physician: Do you have any history of migraines or other headaches?  
+20. Patient: No, I’ve never had migraines or anything like this.  
+21. Physician: Have you noticed anything that triggers your headaches?  
+22. Patient: Hmm, not really. They just sort of come out of nowhere, especially at night.  
+23. Physician: Have you had any recent injuries or infections?  
+24. Patient: No, nothing like that.  
+25. Physician: How about family history? Do migraines or similar conditions run in your family?  
+26. Patient: No, no one in my family has these kinds of headaches.  
+27. Physician: When the headaches happen, do you feel any weakness or numbness?  
+28. Patient: No, I don’t feel weak or numb, just a lot of pain and discomfort.  
+29. Physician: Has the pain ever spread to other areas, like the back of your head or your neck?  
+30. Patient: No, it stays around my right eye.  
+31. Physician: How have these headaches been affecting your daily life?  
+32. Patient: They’re awful. I can’t sleep properly, and I’m struggling at work because of the lack of rest.  
+33. Physician: Have you tried anything to relieve the pain?  
+34. Patient: I tried some over-the-counter painkillers, but they don’t help at all.  
+35. Physician: Do you use alcohol or caffeine?  
+36. Patient: I drink coffee daily, but I haven’t noticed a connection to the headaches.  
+37. Physician: How about alcohol?  
+38. Patient: Yes, sometimes, but I’ve avoided it recently because I thought it might be a trigger.  
+39. Physician: That’s good to know. During the headaches, do you feel agitated or restless?  
+40. Patient: Yes, definitely. I can’t sit still when it happens.  
+41. Physician: Do you have any medical conditions or take any regular medications?  
+42. Patient: No, I'm healthy otherwise and don’t take any medications.  
+43. Physician: What about your sleep lately? Have you had changes in your sleep pattern?  
+44. Patient: I’ve been sleeping poorly because of the headaches waking me up.  
+45. Physician: Have you noticed any changes in your vision when the headache starts?  
+46. Patient: No changes in vision, just the pain and the watering in my right eye.  
+47. Physician: Did the pain start gradually or all of a sudden?  
+48. Patient: It started all of a sudden and just got worse.  
+49. Physician: When you don’t have a headache, do you feel completely normal?  
+50. Patient: Yes, I feel fine in between episodes.  
+(Continued dialogue between physician and patient leading to the diagnosis of cluster headache and subsequent treatment plan...)"

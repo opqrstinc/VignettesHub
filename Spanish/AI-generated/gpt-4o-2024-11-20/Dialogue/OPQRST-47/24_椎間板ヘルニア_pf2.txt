@@ -1,0 +1,50 @@
+"1. Médico: Buenas tardes, ¿en qué puedo ayudarle hoy?  
+2. Paciente: Buenas tardes, doctor. Tengo un dolor en la parte baja de la espalda que se irradia hacia la pierna izquierda.  
+3. Médico: Entiendo, ¿desde hace cuánto tiempo comenzó este dolor?  
+4. Paciente: Desde hace unos dos meses, pero últimamente ha empeorado bastante.  
+5. Médico: ¿El dolor comenzó de manera repentina o fue progresivo?  
+6. Paciente: Fue progresivo, al principio solo molestaba un poco, pero ahora es más constante y fuerte.  
+7. Médico: ¿Tiene algún momento del día en que el dolor sea peor?  
+8. Paciente: Sí, siento que empeora más al final del día o cuando estoy mucho tiempo de pie.  
+9. Médico: ¿El dolor se irradia siempre hacia la pierna izquierda o a veces cambia de lado?  
+10. Paciente: Siempre es del lado izquierdo.  
+11. Médico: ¿Siente algún hormigueo o adormecimiento en la pierna?  
+12. Paciente: Sí, a veces siento como un hormigueo y me cuesta mover el pie izquierdo.  
+13. Médico: ¿Tiene dificultad para caminar o realizar sus actividades diarias?  
+14. Paciente: Sí, ya no puedo caminar mucho tiempo, me detengo porque el dolor es muy intenso.  
+15. Médico: ¿Ha tenido dolores similares en el pasado?  
+16. Paciente: Sí, alguna vez me dolía la espalda, pero creo que era por cargar cosas pesadas en el trabajo.  
+17. Médico: ¿El dolor desaparecía con descanso en ese entonces?  
+18. Paciente: Sí, descansaba y se me pasaba, no era nada grave.  
+19. Médico: ¿Ha probado algún medicamento o tratamiento para este dolor actual?  
+20. Paciente: Solo he tomado ibuprofeno a veces, pero ya no me ayuda tanto.  
+21. Médico: ¿El dolor aumenta cuando tose, estornuda o hace algún esfuerzo?  
+22. Paciente: Sí, especialmente al estornudar, siento que el dolor empeora en la pierna.  
+23. Médico: ¿Ha tenido fiebre o pérdida de peso reciente?  
+24. Paciente: No, nada de eso.  
+25. Médico: ¿La sensación de adormecimiento es constante o viene y va?  
+26. Paciente: Va y viene, pero últimamente lo noto más seguido.  
+27. Médico: ¿Algún cambio en el control de los esfínteres, como dificultad para orinar o incontinencia?  
+28. Paciente: No, en eso no he tenido problema.  
+29. Médico: Entendido. Ahora voy a realizar una revisión física, ¿está bien?  
+30. Paciente: Claro, doctor.  
+31. Médico: Voy a levantar su pierna izquierda, avíseme si siente dolor o incomodidad.  
+32. Paciente: Sí, duele bastante cuando la sube.  
+33. Médico: Esto ocurre antes de los 45 grados, ¿correcto?  
+34. Paciente: Sí, así es.  
+35. Médico: Ahora, ¿puede intentar mover el pie hacia arriba, como si estuviera dando una orden con el pie?  
+36. Paciente: No puedo hacerlo bien con el pie izquierdo, me cuesta mucho.  
+37. Médico: Entendido. Voy a revisar sus reflejos en los tobillos ahora, relaje sus piernas.  
+38. Paciente: De acuerdo.  
+39. Médico: Noto una disminución en el reflejo del tendón de Aquiles en la pierna izquierda.  
+40. Paciente: Eso significa algo malo, doctor?  
+41. Médico: Es una información importante para entender su caso, tranquilo. ¿Ha notado si el dolor le impide dormir?  
+42. Paciente: Sí, a veces por la noche no puedo encontrar una posición cómoda.  
+43. Médico: ¿Qué tal al sentarse o al estar acostado, el dolor mejora?  
+44. Paciente: Estar acostado mejora un poco, pero no del todo.  
+45. Médico: ¿Ha tenido alguna lesión reciente en la espalda o las piernas?  
+46. Paciente: No, nada en particular.  
+47. Médico: Muy bien, con los datos que me ha dado y los hallazgos en el examen, pienso que podríamos estar ante un problema relacionado con un disco intervertebral, probablemente una hernia.  
+48. Paciente: ¿Una hernia? ¿Eso es grave, doctor?  
+49. Médico: Es tratable. Sospecho una hernia discal en la columna lumbar, y realizaremos una resonancia magnética para confirmarlo y diseñar un tratamiento adecuado.  
+50. Paciente: Gracias, doctor. ¿Qué puedo hacer mientras tanto?"
