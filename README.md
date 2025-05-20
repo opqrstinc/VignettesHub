@@ -22,21 +22,15 @@ VignettesHubは、**株式会社OPQRST**が開発した、AIを用いて模擬�
 VignetteHub
 
 |-　日本語：言語ごとに分けています
-
 　|-　AI-generated：AIが修正したままのテキスト
-  
 　　|-　gpt-4o-2024-08-06：モデル毎に分けています
-    
 　　　|-　Vignette：診断名から生成したVignette（症例集）です
-   
 　　　|-　Dialogue：Vignetteから生成したDialogue（医師と患者の対話）です
-
 　　|-　gpt-4o-mini-2024-07-18
-    
 　|-　MD-modified：医師が修正したテキスト
-
-|-　英語
-
+|-　English
+|-　Spanish
+|-　中国語（北京語）
 ⋮
 
 ## 使用モデル
